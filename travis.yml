@@ -1,0 +1,39 @@
+language: python
+
+matrix:
+  include:
+    - os: linux
+      sudo: required
+      python: 2.7
+    - os: linux
+      sudo: required
+      python: 3.6
+
+compiler:
+  - gcc
+
+before_install:
+  - sudo apt-get update;
+
+install:
+  - pip install .
+  - pip install sphinx sphinx_rtd_theme breathe;
+  - sudo apt-get install doxygen;
+
+script:
+  - if [ "$TRAVIS_BRANCH" == "master" ];
+    then travis_wait 70 py.test -v -m master;
+    else travis_wait 30 py.test -v -m basic;
+    fi
+
+after_success:
+  - if [ "$TRAVIS_BRANCH" == "master" ];
+    if [ "$PYTHON" == "3.5" ] && [ "$OS" == "linux" ];
+    then sh bin/update-documentation.sh;
+    fi;
+    fi
+
+env:
+  global:
+   # GH_TOKEN e-lo/forecastcarddata public_repo token
+  - secure:
