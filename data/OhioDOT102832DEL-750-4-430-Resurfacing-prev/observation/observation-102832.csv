@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+102832-5551-1,102832-5551,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+102832-5551-1,102832-5551,Design Year,unknown,unknown,,00:00,24:00,volume,620
+102832-5552-1,102832-5552,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+102832-5552-1,102832-5552,Design Year,unknown,unknown,,00:00,24:00,volume,620
+102832-5553-1,102832-5553,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+102832-5553-1,102832-5553,Design Year,unknown,unknown,,00:00,24:00,volume,620

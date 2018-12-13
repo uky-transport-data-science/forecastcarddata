@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+22653-1232-1,22653-1232,Opening Year,unknown,unknown,,00:00,24:00,volume,51920
+22653-1232-1,22653-1232,Design Year,unknown,unknown,,00:00,24:00,volume,51920
+22653-1233-1,22653-1233,Opening Year,unknown,unknown,,00:00,24:00,volume,44490
+22653-1233-1,22653-1233,Design Year,unknown,unknown,,00:00,24:00,volume,44490
+22653-1254-1,22653-1254,Opening Year,unknown,unknown,,00:00,24:00,volume,3420
+22653-1254-1,22653-1254,Design Year,unknown,unknown,,00:00,24:00,volume,3420
+22653-1255-1,22653-1255,Opening Year,unknown,unknown,,00:00,24:00,volume,10630
+22653-1255-1,22653-1255,Design Year,unknown,unknown,,00:00,24:00,volume,10630

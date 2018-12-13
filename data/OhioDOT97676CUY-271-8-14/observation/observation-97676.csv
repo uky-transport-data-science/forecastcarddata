@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97676-4085-1,97676-4085,Opening Year,unknown,unknown,,00:00,24:00,volume,159701
+97676-4085-1,97676-4085,Design Year,unknown,unknown,,00:00,24:00,volume,159701
+97676-4086-1,97676-4086,Opening Year,unknown,unknown,,00:00,24:00,volume,129954
+97676-4086-1,97676-4086,Design Year,unknown,unknown,,00:00,24:00,volume,129954

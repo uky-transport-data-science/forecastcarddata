@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82774-2033-1,82774-2033,Opening Year,unknown,unknown,,00:00,24:00,volume,3970
+82774-2033-1,82774-2033,Design Year,unknown,unknown,,00:00,24:00,volume,3850
+82774-2034-1,82774-2034,Opening Year,unknown,unknown,,00:00,24:00,volume,1835
+82774-2034-1,82774-2034,Design Year,unknown,unknown,,00:00,24:00,volume,1780
+82774-2071-1,82774-2071,Opening Year,unknown,unknown,,00:00,24:00,volume,1920
+82774-2071-1,82774-2071,Design Year,unknown,unknown,,00:00,24:00,volume,1920

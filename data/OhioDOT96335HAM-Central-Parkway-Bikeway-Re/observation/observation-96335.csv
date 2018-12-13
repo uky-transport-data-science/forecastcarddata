@@ -1,0 +1,23 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96335-2555-1,96335-2555,Opening Year,unknown,unknown,,00:00,24:00,volume,12230
+96335-2555-1,96335-2555,Design Year,unknown,unknown,,00:00,24:00,volume,12230
+96335-2561-1,96335-2561,Opening Year,unknown,unknown,,00:00,24:00,volume,5380
+96335-2561-1,96335-2561,Design Year,unknown,unknown,,00:00,24:00,volume,5380
+96335-2562-1,96335-2562,Opening Year,unknown,unknown,,00:00,24:00,volume,5840
+96335-2562-1,96335-2562,Design Year,unknown,unknown,,00:00,24:00,volume,5840
+96335-2563-1,96335-2563,Opening Year,unknown,unknown,,00:00,24:00,volume,4460
+96335-2563-1,96335-2563,Design Year,unknown,unknown,,00:00,24:00,volume,4460
+96335-2564-1,96335-2564,Opening Year,unknown,unknown,,00:00,24:00,volume,8100
+96335-2564-1,96335-2564,Design Year,unknown,unknown,,00:00,24:00,volume,8100
+96335-2565-1,96335-2565,Opening Year,unknown,unknown,,00:00,24:00,volume,4560
+96335-2565-1,96335-2565,Design Year,unknown,unknown,,00:00,24:00,volume,4560
+96335-2566-1,96335-2566,Opening Year,unknown,unknown,,00:00,24:00,volume,1630
+96335-2566-1,96335-2566,Design Year,unknown,unknown,,00:00,24:00,volume,1630
+96335-2567-1,96335-2567,Opening Year,unknown,unknown,,00:00,24:00,volume,10560
+96335-2567-1,96335-2567,Design Year,unknown,unknown,,00:00,24:00,volume,10560
+96335-2568-1,96335-2568,Opening Year,unknown,unknown,,00:00,24:00,volume,11150
+96335-2568-1,96335-2568,Design Year,unknown,unknown,,00:00,24:00,volume,11150
+96335-2569-1,96335-2569,Opening Year,unknown,unknown,,00:00,24:00,volume,13660
+96335-2569-1,96335-2569,Design Year,unknown,unknown,,00:00,24:00,volume,13660
+96335-2570-1,96335-2570,Opening Year,unknown,unknown,,00:00,24:00,volume,15220
+96335-2570-1,96335-2570,Design Year,unknown,unknown,,00:00,24:00,volume,15220

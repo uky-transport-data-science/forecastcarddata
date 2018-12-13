@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96344-3301-1,96344-3301,Opening Year,unknown,unknown,,00:00,24:00,volume,6411
+96344-3301-1,96344-3301,Design Year,unknown,unknown,,00:00,24:00,volume,6411
+96344-3336-1,96344-3336,Opening Year,unknown,unknown,,00:00,24:00,volume,17540
+96344-3336-1,96344-3336,Design Year,unknown,unknown,,00:00,24:00,volume,17540
+96344-3337-1,96344-3337,Opening Year,unknown,unknown,,00:00,24:00,volume,17540
+96344-3337-1,96344-3337,Design Year,unknown,unknown,,00:00,24:00,volume,17540
+96344-3338-1,96344-3338,Opening Year,unknown,unknown,,00:00,24:00,volume,17540
+96344-3338-1,96344-3338,Design Year,unknown,unknown,,00:00,24:00,volume,17540
+96344-3339-1,96344-3339,Opening Year,unknown,unknown,,00:00,24:00,volume,10986
+96344-3339-1,96344-3339,Design Year,unknown,unknown,,00:00,24:00,volume,10986

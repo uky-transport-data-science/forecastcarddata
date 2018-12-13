@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+22484-189-1,22484-189,Opening Year,unknown,unknown,,00:00,24:00,volume,52440
+22484-189-1,22484-189,Design Year,unknown,unknown,,00:00,24:00,volume,53450
+22484-190-1,22484-190,Opening Year,unknown,unknown,,00:00,24:00,volume,34280
+22484-190-1,22484-190,Design Year,unknown,unknown,,00:00,24:00,volume,35730

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99087-3711-1,99087-3711,Opening Year,unknown,unknown,,00:00,24:00,volume,39511
+99087-3711-1,99087-3711,Design Year,unknown,unknown,,00:00,24:00,volume,39511
+99087-3729-1,99087-3729,Opening Year,unknown,unknown,,00:00,24:00,volume,29327
+99087-3729-1,99087-3729,Design Year,unknown,unknown,,00:00,24:00,volume,29327

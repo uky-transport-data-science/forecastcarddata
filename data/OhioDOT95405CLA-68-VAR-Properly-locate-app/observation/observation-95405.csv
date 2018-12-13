@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+95405-4330-1,95405-4330,Opening Year,unknown,unknown,,00:00,24:00,volume,9906
+95405-4330-1,95405-4330,Design Year,unknown,unknown,,00:00,24:00,volume,9906
+95405-4332-1,95405-4332,Opening Year,unknown,unknown,,00:00,24:00,volume,18048
+95405-4332-1,95405-4332,Design Year,unknown,unknown,,00:00,24:00,volume,18048

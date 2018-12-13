@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96010-5729-1,96010-5729,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+96010-5729-1,96010-5729,Design Year,unknown,unknown,,00:00,24:00,volume,620
+96010-5733-1,96010-5733,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+96010-5733-1,96010-5733,Design Year,unknown,unknown,,00:00,24:00,volume,620

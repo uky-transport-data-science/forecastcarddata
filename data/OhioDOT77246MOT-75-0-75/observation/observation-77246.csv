@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77246-3038-1,77246-3038,Opening Year,unknown,unknown,,00:00,24:00,volume,118465
+77246-3038-1,77246-3038,Design Year,unknown,unknown,,00:00,24:00,volume,93730

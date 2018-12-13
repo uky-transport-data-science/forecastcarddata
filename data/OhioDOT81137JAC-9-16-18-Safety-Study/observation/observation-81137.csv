@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81137-610-1,81137-610,Opening Year,unknown,unknown,,00:00,24:00,volume,14030
+81137-610-1,81137-610,Design Year,unknown,unknown,,00:00,24:00,volume,13570
+81137-614-1,81137-614,Opening Year,unknown,unknown,,00:00,24:00,volume,10180
+81137-614-1,81137-614,Design Year,unknown,unknown,,00:00,24:00,volume,9430
+81137-615-1,81137-615,Opening Year,unknown,unknown,,00:00,24:00,volume,5010
+81137-615-1,81137-615,Design Year,unknown,unknown,,00:00,24:00,volume,4580

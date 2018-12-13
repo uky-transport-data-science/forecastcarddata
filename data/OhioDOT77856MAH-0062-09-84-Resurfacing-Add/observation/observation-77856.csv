@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77856-1395-1,77856-1395,Opening Year,unknown,unknown,,00:00,24:00,volume,10080
+77856-1395-1,77856-1395,Design Year,unknown,unknown,,00:00,24:00,volume,10080
+77856-1396-1,77856-1396,Opening Year,unknown,unknown,,00:00,24:00,volume,8020
+77856-1396-1,77856-1396,Design Year,unknown,unknown,,00:00,24:00,volume,8020
+77856-1397-1,77856-1397,Opening Year,unknown,unknown,,00:00,24:00,volume,9240
+77856-1397-1,77856-1397,Design Year,unknown,unknown,,00:00,24:00,volume,9240

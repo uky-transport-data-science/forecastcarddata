@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+21927-1137-1,21927-1137,Opening Year,unknown,unknown,,00:00,24:00,volume,9710
+21927-1137-1,21927-1137,Design Year,unknown,unknown,,00:00,24:00,volume,9710
+21927-1158-1,21927-1158,Opening Year,unknown,unknown,,00:00,24:00,volume,12860
+21927-1158-1,21927-1158,Design Year,unknown,unknown,,00:00,24:00,volume,12860
+21927-1159-1,21927-1159,Opening Year,unknown,unknown,,00:00,24:00,volume,29070
+21927-1159-1,21927-1159,Design Year,unknown,unknown,,00:00,24:00,volume,29070
+21927-1168-1,21927-1168,Opening Year,unknown,unknown,,00:00,24:00,volume,16580
+21927-1168-1,21927-1168,Design Year,unknown,unknown,,00:00,24:00,volume,16580
+21927-1169-1,21927-1169,Opening Year,unknown,unknown,,00:00,24:00,volume,10900
+21927-1169-1,21927-1169,Design Year,unknown,unknown,,00:00,24:00,volume,10900
+21927-1170-1,21927-1170,Opening Year,unknown,unknown,,00:00,24:00,volume,10900
+21927-1170-1,21927-1170,Design Year,unknown,unknown,,00:00,24:00,volume,10900

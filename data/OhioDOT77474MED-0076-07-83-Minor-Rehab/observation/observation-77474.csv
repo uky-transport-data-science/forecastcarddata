@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77474-2203-1,77474-2203,Opening Year,unknown,unknown,,00:00,24:00,volume,35920
+77474-2203-1,77474-2203,Design Year,unknown,unknown,,00:00,24:00,volume,37920
+77474-2220-1,77474-2220,Opening Year,unknown,unknown,,00:00,24:00,volume,41440
+77474-2220-1,77474-2220,Design Year,unknown,unknown,,00:00,24:00,volume,44060
+77474-2221-1,77474-2221,Opening Year,unknown,unknown,,00:00,24:00,volume,47020
+77474-2221-1,77474-2221,Design Year,unknown,unknown,,00:00,24:00,volume,48950

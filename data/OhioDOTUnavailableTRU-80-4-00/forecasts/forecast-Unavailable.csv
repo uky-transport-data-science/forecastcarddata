@@ -1,0 +1,7 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f1,1,Unavailable-5932,Opening Year,00:00,24:00,volume,39330
+f3,1,Unavailable-5932,Design Year,00:00,24:00,volume,46030
+f1,1,Unavailable-5933,Opening Year,00:00,24:00,volume,36850
+f3,1,Unavailable-5933,Design Year,00:00,24:00,volume,43550
+f1,1,Unavailable-5958,Opening Year,00:00,24:00,volume,28880
+f3,1,Unavailable-5958,Design Year,00:00,24:00,volume,33910

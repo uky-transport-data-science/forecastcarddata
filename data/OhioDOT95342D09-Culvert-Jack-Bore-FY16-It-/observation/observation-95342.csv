@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+95342-3033-1,95342-3033,Opening Year,unknown,unknown,,00:00,24:00,volume,2620
+95342-3033-1,95342-3033,Design Year,unknown,unknown,,00:00,24:00,volume,2620
+95342-3035-1,95342-3035,Opening Year,unknown,unknown,,00:00,24:00,volume,480
+95342-3035-1,95342-3035,Design Year,unknown,unknown,,00:00,24:00,volume,480

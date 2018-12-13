@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78269-1209-1,78269-1209,Opening Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1209-1,78269-1209,Design Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1210-1,78269-1210,Opening Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1210-1,78269-1210,Design Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1211-1,78269-1211,Opening Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1211-1,78269-1211,Design Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1212-1,78269-1212,Opening Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1212-1,78269-1212,Design Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1213-1,78269-1213,Opening Year,unknown,unknown,,00:00,24:00,volume,19410
+78269-1213-1,78269-1213,Design Year,unknown,unknown,,00:00,24:00,volume,19410

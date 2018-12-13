@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75745-1813-1,75745-1813,Opening Year,unknown,unknown,,00:00,24:00,volume,35490
+75745-1813-1,75745-1813,Design Year,unknown,unknown,,00:00,24:00,volume,37090
+75745-1814-1,75745-1814,Opening Year,unknown,unknown,,00:00,24:00,volume,35970
+75745-1814-1,75745-1814,Design Year,unknown,unknown,,00:00,24:00,volume,37540
+75745-1815-1,75745-1815,Opening Year,unknown,unknown,,00:00,24:00,volume,6920
+75745-1815-1,75745-1815,Design Year,unknown,unknown,,00:00,24:00,volume,12980
+75745-1817-1,75745-1817,Opening Year,unknown,unknown,,00:00,24:00,volume,660
+75745-1817-1,75745-1817,Design Year,unknown,unknown,,00:00,24:00,volume,850
+75745-1818-1,75745-1818,Opening Year,unknown,unknown,,00:00,24:00,volume,1840
+75745-1818-1,75745-1818,Design Year,unknown,unknown,,00:00,24:00,volume,2300

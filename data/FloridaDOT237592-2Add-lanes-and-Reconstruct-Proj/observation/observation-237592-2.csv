@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+237592-2-1.0-1,237592-2-1.0,Opening Year,unknown,unknown,,00:00,24:00,volume,26500
+237592-2-1.0-1,237592-2-1.0,Mid-design Year,unknown,unknown,,00:00,24:00,volume,26500
+237592-2-1.0-1,237592-2-1.0,Design Year,unknown,unknown,,00:00,24:00,volume,26500
+237592-2-2.0-1,237592-2-2.0,Opening Year,unknown,unknown,,00:00,24:00,volume,27000
+237592-2-2.0-1,237592-2-2.0,Mid-design Year,unknown,unknown,,00:00,24:00,volume,27000
+237592-2-2.0-1,237592-2-2.0,Design Year,unknown,unknown,,00:00,24:00,volume,27000
+237592-2-3.0-1,237592-2-3.0,Opening Year,unknown,unknown,,00:00,24:00,volume,27500
+237592-2-3.0-1,237592-2-3.0,Mid-design Year,unknown,unknown,,00:00,24:00,volume,27500
+237592-2-3.0-1,237592-2-3.0,Design Year,unknown,unknown,,00:00,24:00,volume,27500

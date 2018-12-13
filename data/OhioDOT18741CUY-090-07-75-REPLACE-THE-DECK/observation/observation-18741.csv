@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+18741-2681-1,18741-2681,Opening Year,unknown,unknown,,00:00,24:00,volume,106617
+18741-2681-1,18741-2681,Design Year,unknown,unknown,,00:00,24:00,volume,98010
+18741-2682-1,18741-2682,Opening Year,unknown,unknown,,00:00,24:00,volume,6660
+18741-2682-1,18741-2682,Design Year,unknown,unknown,,00:00,24:00,volume,6750
+18741-2714-1,18741-2714,Opening Year,unknown,unknown,,00:00,24:00,volume,6660
+18741-2714-1,18741-2714,Design Year,unknown,unknown,,00:00,24:00,volume,6750

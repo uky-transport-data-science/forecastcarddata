@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87451-3975-1,87451-3975,Opening Year,unknown,unknown,,00:00,24:00,volume,19593
+87451-3975-1,87451-3975,Design Year,unknown,unknown,,00:00,24:00,volume,19593
+87451-3976-1,87451-3976,Opening Year,unknown,unknown,,00:00,24:00,volume,19593
+87451-3976-1,87451-3976,Design Year,unknown,unknown,,00:00,24:00,volume,19593
+87451-3977-1,87451-3977,Opening Year,unknown,unknown,,00:00,24:00,volume,19593
+87451-3977-1,87451-3977,Design Year,unknown,unknown,,00:00,24:00,volume,19593
+87451-3978-1,87451-3978,Opening Year,unknown,unknown,,00:00,24:00,volume,19593
+87451-3978-1,87451-3978,Design Year,unknown,unknown,,00:00,24:00,volume,19593

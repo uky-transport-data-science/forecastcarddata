@@ -1,0 +1,25 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80810-397-1,80810-397,Opening Year,unknown,unknown,,00:00,24:00,volume,39690
+80810-397-1,80810-397,Design Year,unknown,unknown,,00:00,24:00,volume,45720
+80810-398-1,80810-398,Opening Year,unknown,unknown,,00:00,24:00,volume,39690
+80810-398-1,80810-398,Design Year,unknown,unknown,,00:00,24:00,volume,45720
+80810-399-1,80810-399,Opening Year,unknown,unknown,,00:00,24:00,volume,39690
+80810-399-1,80810-399,Design Year,unknown,unknown,,00:00,24:00,volume,45720
+80810-400-1,80810-400,Opening Year,unknown,unknown,,00:00,24:00,volume,54820
+80810-400-1,80810-400,Design Year,unknown,unknown,,00:00,24:00,volume,57240
+80810-401-1,80810-401,Opening Year,unknown,unknown,,00:00,24:00,volume,42960
+80810-401-1,80810-401,Design Year,unknown,unknown,,00:00,24:00,volume,47200
+80810-402-1,80810-402,Opening Year,unknown,unknown,,00:00,24:00,volume,11310
+80810-402-1,80810-402,Design Year,unknown,unknown,,00:00,24:00,volume,10650
+80810-403-1,80810-403,Opening Year,unknown,unknown,,00:00,24:00,volume,11310
+80810-403-1,80810-403,Design Year,unknown,unknown,,00:00,24:00,volume,10650
+80810-404-1,80810-404,Opening Year,unknown,unknown,,00:00,24:00,volume,18020
+80810-404-1,80810-404,Design Year,unknown,unknown,,00:00,24:00,volume,18080
+80810-405-1,80810-405,Opening Year,unknown,unknown,,00:00,24:00,volume,18020
+80810-405-1,80810-405,Design Year,unknown,unknown,,00:00,24:00,volume,18080
+80810-406-1,80810-406,Opening Year,unknown,unknown,,00:00,24:00,volume,18020
+80810-406-1,80810-406,Design Year,unknown,unknown,,00:00,24:00,volume,18080
+80810-407-1,80810-407,Opening Year,unknown,unknown,,00:00,24:00,volume,18020
+80810-407-1,80810-407,Design Year,unknown,unknown,,00:00,24:00,volume,18080
+80810-408-1,80810-408,Opening Year,unknown,unknown,,00:00,24:00,volume,22790
+80810-408-1,80810-408,Design Year,unknown,unknown,,00:00,24:00,volume,37090

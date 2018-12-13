@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83456-1971-1,83456-1971,Opening Year,unknown,unknown,,00:00,24:00,volume,26650
+83456-1971-1,83456-1971,Design Year,unknown,unknown,,00:00,24:00,volume,27500
+83456-1972-1,83456-1972,Opening Year,unknown,unknown,,00:00,24:00,volume,26650
+83456-1972-1,83456-1972,Design Year,unknown,unknown,,00:00,24:00,volume,27500
+83456-1973-1,83456-1973,Opening Year,unknown,unknown,,00:00,24:00,volume,26650
+83456-1973-1,83456-1973,Design Year,unknown,unknown,,00:00,24:00,volume,27500
+83456-1974-1,83456-1974,Opening Year,unknown,unknown,,00:00,24:00,volume,26650
+83456-1974-1,83456-1974,Design Year,unknown,unknown,,00:00,24:00,volume,27500
+83456-1975-1,83456-1975,Opening Year,unknown,unknown,,00:00,24:00,volume,10369
+83456-1975-1,83456-1975,Design Year,unknown,unknown,,00:00,24:00,volume,10700
+83456-1976-1,83456-1976,Opening Year,unknown,unknown,,00:00,24:00,volume,30550
+83456-1976-1,83456-1976,Design Year,unknown,unknown,,00:00,24:00,volume,30550
+83456-1977-1,83456-1977,Opening Year,unknown,unknown,,00:00,24:00,volume,9790
+83456-1977-1,83456-1977,Design Year,unknown,unknown,,00:00,24:00,volume,9790

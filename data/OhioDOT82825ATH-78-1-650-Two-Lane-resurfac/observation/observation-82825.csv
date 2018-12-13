@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82825-3401-1,82825-3401,Opening Year,unknown,unknown,,00:00,24:00,volume,3070
+82825-3401-1,82825-3401,Design Year,unknown,unknown,,00:00,24:00,volume,3070
+82825-3425-1,82825-3425,Opening Year,unknown,unknown,,00:00,24:00,volume,3070
+82825-3425-1,82825-3425,Design Year,unknown,unknown,,00:00,24:00,volume,3070
+82825-3484-1,82825-3484,Opening Year,unknown,unknown,,00:00,24:00,volume,2410
+82825-3484-1,82825-3484,Design Year,unknown,unknown,,00:00,24:00,volume,2410

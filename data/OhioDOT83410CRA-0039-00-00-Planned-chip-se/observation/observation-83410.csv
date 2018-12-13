@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83410-1735-1,83410-1735,Opening Year,unknown,unknown,,00:00,24:00,volume,500
+83410-1735-1,83410-1735,Design Year,unknown,unknown,,00:00,24:00,volume,500
+83410-1736-1,83410-1736,Opening Year,unknown,unknown,,00:00,24:00,volume,730
+83410-1736-1,83410-1736,Design Year,unknown,unknown,,00:00,24:00,volume,730
+83410-1737-1,83410-1737,Opening Year,unknown,unknown,,00:00,24:00,volume,850
+83410-1737-1,83410-1737,Design Year,unknown,unknown,,00:00,24:00,volume,850

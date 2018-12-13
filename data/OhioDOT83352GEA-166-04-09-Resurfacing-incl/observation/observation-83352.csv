@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83352-2021-1,83352-2021,Opening Year,unknown,unknown,,00:00,24:00,volume,2240
+83352-2021-1,83352-2021,Design Year,unknown,unknown,,00:00,24:00,volume,2440
+83352-2022-1,83352-2022,Opening Year,unknown,unknown,,00:00,24:00,volume,2264
+83352-2022-1,83352-2022,Design Year,unknown,unknown,,00:00,24:00,volume,2330
+83352-2023-1,83352-2023,Opening Year,unknown,unknown,,00:00,24:00,volume,1750
+83352-2023-1,83352-2023,Design Year,unknown,unknown,,00:00,24:00,volume,1800

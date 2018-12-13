@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81243-1318-1,81243-1318,Opening Year,unknown,unknown,,00:00,24:00,volume,7090
+81243-1318-1,81243-1318,Design Year,unknown,unknown,,00:00,24:00,volume,7090
+81243-1319-1,81243-1319,Opening Year,unknown,unknown,,00:00,24:00,volume,7090
+81243-1319-1,81243-1319,Design Year,unknown,unknown,,00:00,24:00,volume,7090
+81243-1351-1,81243-1351,Opening Year,unknown,unknown,,00:00,24:00,volume,11640
+81243-1351-1,81243-1351,Design Year,unknown,unknown,,00:00,24:00,volume,11640
+81243-1352-1,81243-1352,Opening Year,unknown,unknown,,00:00,24:00,volume,5630
+81243-1352-1,81243-1352,Design Year,unknown,unknown,,00:00,24:00,volume,5630

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75297-513-1,75297-513,Opening Year,unknown,unknown,,00:00,24:00,volume,39020
+75297-513-1,75297-513,Design Year,unknown,unknown,,00:00,24:00,volume,39020
+75297-514-1,75297-514,Opening Year,unknown,unknown,,00:00,24:00,volume,27540
+75297-514-1,75297-514,Design Year,unknown,unknown,,00:00,24:00,volume,27540

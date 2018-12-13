@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96593-4118-1,96593-4118,Opening Year,unknown,unknown,,00:00,24:00,volume,28256
+96593-4118-1,96593-4118,Design Year,unknown,unknown,,00:00,24:00,volume,28256
+96593-4148-1,96593-4148,Opening Year,unknown,unknown,,00:00,24:00,volume,12263
+96593-4148-1,96593-4148,Design Year,unknown,unknown,,00:00,24:00,volume,12263
+96593-4149-1,96593-4149,Opening Year,unknown,unknown,,00:00,24:00,volume,30060
+96593-4149-1,96593-4149,Design Year,unknown,unknown,,00:00,24:00,volume,30060

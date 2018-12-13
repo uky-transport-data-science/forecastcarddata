@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82975-4718-1,82975-4718,Opening Year,unknown,unknown,,00:00,24:00,volume,91193
+82975-4718-1,82975-4718,Design Year,unknown,unknown,,00:00,24:00,volume,91193
+82975-4719-1,82975-4719,Opening Year,unknown,unknown,,00:00,24:00,volume,58790
+82975-4719-1,82975-4719,Design Year,unknown,unknown,,00:00,24:00,volume,58790
+82975-4720-1,82975-4720,Opening Year,unknown,unknown,,00:00,24:00,volume,30733
+82975-4720-1,82975-4720,Design Year,unknown,unknown,,00:00,24:00,volume,30733
+82975-4721-1,82975-4721,Opening Year,unknown,unknown,,00:00,24:00,volume,98076
+82975-4721-1,82975-4721,Design Year,unknown,unknown,,00:00,24:00,volume,98076
+82975-4722-1,82975-4722,Opening Year,unknown,unknown,,00:00,24:00,volume,98076
+82975-4722-1,82975-4722,Design Year,unknown,unknown,,00:00,24:00,volume,98076
+82975-4723-1,82975-4723,Opening Year,unknown,unknown,,00:00,24:00,volume,125546
+82975-4723-1,82975-4723,Design Year,unknown,unknown,,00:00,24:00,volume,125546
+82975-4724-1,82975-4724,Opening Year,unknown,unknown,,00:00,24:00,volume,115258
+82975-4724-1,82975-4724,Design Year,unknown,unknown,,00:00,24:00,volume,115258
+82975-4725-1,82975-4725,Opening Year,unknown,unknown,,00:00,24:00,volume,132212
+82975-4725-1,82975-4725,Design Year,unknown,unknown,,00:00,24:00,volume,132212
+82975-4726-1,82975-4726,Opening Year,unknown,unknown,,00:00,24:00,volume,115268
+82975-4726-1,82975-4726,Design Year,unknown,unknown,,00:00,24:00,volume,115268
+82975-4727-1,82975-4727,Opening Year,unknown,unknown,,00:00,24:00,volume,139021
+82975-4727-1,82975-4727,Design Year,unknown,unknown,,00:00,24:00,volume,139021

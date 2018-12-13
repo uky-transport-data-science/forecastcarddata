@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82092-1046-1,82092-1046,Opening Year,unknown,unknown,,00:00,24:00,volume,11340
+82092-1046-1,82092-1046,Design Year,unknown,unknown,,00:00,24:00,volume,11340
+82092-1047-1,82092-1047,Opening Year,unknown,unknown,,00:00,24:00,volume,11340
+82092-1047-1,82092-1047,Design Year,unknown,unknown,,00:00,24:00,volume,11340
+82092-1048-1,82092-1048,Opening Year,unknown,unknown,,00:00,24:00,volume,11340
+82092-1048-1,82092-1048,Design Year,unknown,unknown,,00:00,24:00,volume,11340
+82092-1049-1,82092-1049,Opening Year,unknown,unknown,,00:00,24:00,volume,11340
+82092-1049-1,82092-1049,Design Year,unknown,unknown,,00:00,24:00,volume,11340

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88721-3014-1,88721-3014,Opening Year,unknown,unknown,,00:00,24:00,volume,15140
+88721-3014-1,88721-3014,Design Year,unknown,unknown,,00:00,24:00,volume,15140
+88721-3015-1,88721-3015,Opening Year,unknown,unknown,,00:00,24:00,volume,19080
+88721-3015-1,88721-3015,Design Year,unknown,unknown,,00:00,24:00,volume,19080
+88721-3016-1,88721-3016,Opening Year,unknown,unknown,,00:00,24:00,volume,14670
+88721-3016-1,88721-3016,Design Year,unknown,unknown,,00:00,24:00,volume,14670

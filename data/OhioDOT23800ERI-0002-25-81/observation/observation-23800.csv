@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23800-1075-1,23800-1075,Opening Year,unknown,unknown,,00:00,24:00,volume,22200
+23800-1075-1,23800-1075,Design Year,unknown,unknown,,00:00,24:00,volume,22200
+23800-1093-1,23800-1093,Opening Year,unknown,unknown,,00:00,24:00,volume,28490
+23800-1093-1,23800-1093,Design Year,unknown,unknown,,00:00,24:00,volume,28490

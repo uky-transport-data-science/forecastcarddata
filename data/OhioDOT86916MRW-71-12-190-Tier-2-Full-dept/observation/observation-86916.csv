@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+86916-1995-1,86916-1995,Opening Year,unknown,unknown,,00:00,24:00,volume,47120
+86916-1995-1,86916-1995,Design Year,unknown,unknown,,00:00,24:00,volume,44490
+86916-1996-1,86916-1996,Opening Year,unknown,unknown,,00:00,24:00,volume,44110
+86916-1996-1,86916-1996,Design Year,unknown,unknown,,00:00,24:00,volume,41900
+86916-2031-1,86916-2031,Opening Year,unknown,unknown,,00:00,24:00,volume,6380
+86916-2031-1,86916-2031,Design Year,unknown,unknown,,00:00,24:00,volume,8600
+86916-2032-1,86916-2032,Opening Year,unknown,unknown,,00:00,24:00,volume,2530
+86916-2032-1,86916-2032,Design Year,unknown,unknown,,00:00,24:00,volume,2260

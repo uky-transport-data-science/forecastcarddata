@@ -1,0 +1,11 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f1,1,23734-864,Opening Year,00:00,24:00,volume,10730
+f3,1,23734-864,Design Year,00:00,24:00,volume,11670
+f1,1,23734-865,Opening Year,00:00,24:00,volume,10180
+f3,1,23734-865,Design Year,00:00,24:00,volume,11220
+f1,1,23734-866,Opening Year,00:00,24:00,volume,14220
+f3,1,23734-866,Design Year,00:00,24:00,volume,16050
+f1,1,23734-867,Opening Year,00:00,24:00,volume,11170
+f3,1,23734-867,Design Year,00:00,24:00,volume,12540
+f1,1,23734-868,Opening Year,00:00,24:00,volume,18640
+f3,1,23734-868,Design Year,00:00,24:00,volume,20390

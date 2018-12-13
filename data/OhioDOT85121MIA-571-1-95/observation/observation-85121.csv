@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85121-1545-1,85121-1545,Opening Year,unknown,unknown,,00:00,24:00,volume,12590
+85121-1545-1,85121-1545,Design Year,unknown,unknown,,00:00,24:00,volume,12590
+85121-1546-1,85121-1546,Opening Year,unknown,unknown,,00:00,24:00,volume,12590
+85121-1546-1,85121-1546,Design Year,unknown,unknown,,00:00,24:00,volume,12590
+85121-1547-1,85121-1547,Opening Year,unknown,unknown,,00:00,24:00,volume,22800
+85121-1547-1,85121-1547,Design Year,unknown,unknown,,00:00,24:00,volume,22800
+85121-1548-1,85121-1548,Opening Year,unknown,unknown,,00:00,24:00,volume,22800
+85121-1548-1,85121-1548,Design Year,unknown,unknown,,00:00,24:00,volume,22800
+85121-1549-1,85121-1549,Opening Year,unknown,unknown,,00:00,24:00,volume,14060
+85121-1549-1,85121-1549,Design Year,unknown,unknown,,00:00,24:00,volume,14060

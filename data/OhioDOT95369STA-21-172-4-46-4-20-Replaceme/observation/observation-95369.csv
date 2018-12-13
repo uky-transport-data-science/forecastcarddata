@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+95369-5542-1,95369-5542,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+95369-5542-1,95369-5542,Design Year,unknown,unknown,,00:00,24:00,volume,620
+95369-5590-1,95369-5590,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+95369-5590-1,95369-5590,Design Year,unknown,unknown,,00:00,24:00,volume,620
+95369-5656-1,95369-5656,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+95369-5656-1,95369-5656,Design Year,unknown,unknown,,00:00,24:00,volume,620

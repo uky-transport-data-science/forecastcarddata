@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+86733-1964-1,86733-1964,Opening Year,unknown,unknown,,00:00,24:00,volume,19160
+86733-1964-1,86733-1964,Design Year,unknown,unknown,,00:00,24:00,volume,22630
+86733-1965-1,86733-1965,Opening Year,unknown,unknown,,00:00,24:00,volume,22400
+86733-1965-1,86733-1965,Design Year,unknown,unknown,,00:00,24:00,volume,20100
+86733-1966-1,86733-1966,Opening Year,unknown,unknown,,00:00,24:00,volume,14440
+86733-1966-1,86733-1966,Design Year,unknown,unknown,,00:00,24:00,volume,14220

@@ -1,0 +1,23 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78295-1456-1,78295-1456,Opening Year,unknown,unknown,,00:00,24:00,volume,83260
+78295-1456-1,78295-1456,Design Year,unknown,unknown,,00:00,24:00,volume,83260
+78295-1457-1,78295-1457,Opening Year,unknown,unknown,,00:00,24:00,volume,91640
+78295-1457-1,78295-1457,Design Year,unknown,unknown,,00:00,24:00,volume,91640
+78295-1458-1,78295-1458,Opening Year,unknown,unknown,,00:00,24:00,volume,92640
+78295-1458-1,78295-1458,Design Year,unknown,unknown,,00:00,24:00,volume,92640
+78295-1496-1,78295-1496,Opening Year,unknown,unknown,,00:00,24:00,volume,33860
+78295-1496-1,78295-1496,Design Year,unknown,unknown,,00:00,24:00,volume,33860
+78295-1497-1,78295-1497,Opening Year,unknown,unknown,,00:00,24:00,volume,33860
+78295-1497-1,78295-1497,Design Year,unknown,unknown,,00:00,24:00,volume,33860
+78295-1498-1,78295-1498,Opening Year,unknown,unknown,,00:00,24:00,volume,33860
+78295-1498-1,78295-1498,Design Year,unknown,unknown,,00:00,24:00,volume,33860
+78295-1499-1,78295-1499,Opening Year,unknown,unknown,,00:00,24:00,volume,33850
+78295-1499-1,78295-1499,Design Year,unknown,unknown,,00:00,24:00,volume,33850
+78295-1500-1,78295-1500,Opening Year,unknown,unknown,,00:00,24:00,volume,33850
+78295-1500-1,78295-1500,Design Year,unknown,unknown,,00:00,24:00,volume,33850
+78295-1501-1,78295-1501,Opening Year,unknown,unknown,,00:00,24:00,volume,26910
+78295-1501-1,78295-1501,Design Year,unknown,unknown,,00:00,24:00,volume,26910
+78295-1502-1,78295-1502,Opening Year,unknown,unknown,,00:00,24:00,volume,37560
+78295-1502-1,78295-1502,Design Year,unknown,unknown,,00:00,24:00,volume,37560
+78295-1503-1,78295-1503,Opening Year,unknown,unknown,,00:00,24:00,volume,23740
+78295-1503-1,78295-1503,Design Year,unknown,unknown,,00:00,24:00,volume,23740

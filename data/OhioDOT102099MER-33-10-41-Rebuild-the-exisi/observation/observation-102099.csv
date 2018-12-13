@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+102099-5143-1,102099-5143,Opening Year,unknown,unknown,,00:00,24:00,volume,6433
+102099-5143-1,102099-5143,Design Year,unknown,unknown,,00:00,24:00,volume,6433
+102099-5151-1,102099-5151,Opening Year,unknown,unknown,,00:00,24:00,volume,3599
+102099-5151-1,102099-5151,Design Year,unknown,unknown,,00:00,24:00,volume,3599
+102099-5199-1,102099-5199,Opening Year,unknown,unknown,,00:00,24:00,volume,6392
+102099-5199-1,102099-5199,Design Year,unknown,unknown,,00:00,24:00,volume,6392
+102099-5206-1,102099-5206,Opening Year,unknown,unknown,,00:00,24:00,volume,3665
+102099-5206-1,102099-5206,Design Year,unknown,unknown,,00:00,24:00,volume,3665

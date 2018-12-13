@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+24771-116-1,24771-116,Opening Year,unknown,unknown,,00:00,24:00,volume,16000
+24771-116-1,24771-116,Design Year,unknown,unknown,,00:00,24:00,volume,16060
+24771-117-1,24771-117,Opening Year,unknown,unknown,,00:00,24:00,volume,16000
+24771-117-1,24771-117,Design Year,unknown,unknown,,00:00,24:00,volume,16060

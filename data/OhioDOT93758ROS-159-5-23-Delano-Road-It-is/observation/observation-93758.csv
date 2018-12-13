@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93758-4391-1,93758-4391,Opening Year,unknown,unknown,,00:00,24:00,volume,9349
+93758-4391-1,93758-4391,Design Year,unknown,unknown,,00:00,24:00,volume,9349

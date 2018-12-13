@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99787-4882-1,99787-4882,Opening Year,unknown,unknown,,00:00,24:00,volume,15816
+99787-4882-1,99787-4882,Design Year,unknown,unknown,,00:00,24:00,volume,15816
+99787-4938-1,99787-4938,Opening Year,unknown,unknown,,00:00,24:00,volume,9381
+99787-4938-1,99787-4938,Design Year,unknown,unknown,,00:00,24:00,volume,9381

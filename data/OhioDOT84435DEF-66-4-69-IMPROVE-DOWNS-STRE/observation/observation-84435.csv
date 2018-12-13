@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84435-1398-1,84435-1398,Opening Year,unknown,unknown,,00:00,24:00,volume,10220
+84435-1398-1,84435-1398,Design Year,unknown,unknown,,00:00,24:00,volume,10220
+84435-1399-1,84435-1399,Opening Year,unknown,unknown,,00:00,24:00,volume,7750
+84435-1399-1,84435-1399,Design Year,unknown,unknown,,00:00,24:00,volume,7750

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96987-3539-1,96987-3539,Opening Year,unknown,unknown,,00:00,24:00,volume,32652
+96987-3539-1,96987-3539,Design Year,unknown,unknown,,00:00,24:00,volume,32652
+96987-3540-1,96987-3540,Opening Year,unknown,unknown,,00:00,24:00,volume,29202
+96987-3540-1,96987-3540,Design Year,unknown,unknown,,00:00,24:00,volume,29202
+96987-4543-1,96987-4543,Opening Year,unknown,unknown,,00:00,24:00,volume,94067
+96987-4543-1,96987-4543,Design Year,unknown,unknown,,00:00,24:00,volume,94067

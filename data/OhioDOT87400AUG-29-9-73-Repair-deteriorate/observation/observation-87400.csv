@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87400-3611-1,87400-3611,Opening Year,unknown,unknown,,00:00,24:00,volume,1899
+87400-3611-1,87400-3611,Design Year,unknown,unknown,,00:00,24:00,volume,1899
+87400-3630-1,87400-3630,Opening Year,unknown,unknown,,00:00,24:00,volume,3151
+87400-3630-1,87400-3630,Design Year,unknown,unknown,,00:00,24:00,volume,3151
+87400-3638-1,87400-3638,Opening Year,unknown,unknown,,00:00,24:00,volume,1473
+87400-3638-1,87400-3638,Design Year,unknown,unknown,,00:00,24:00,volume,1473

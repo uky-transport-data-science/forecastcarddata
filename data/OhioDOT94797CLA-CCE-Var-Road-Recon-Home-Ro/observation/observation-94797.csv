@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+94797-4877-1,94797-4877,Opening Year,unknown,unknown,,00:00,24:00,volume,10544
+94797-4877-1,94797-4877,Design Year,unknown,unknown,,00:00,24:00,volume,10544
+94797-4878-1,94797-4878,Opening Year,unknown,unknown,,00:00,24:00,volume,10544
+94797-4878-1,94797-4878,Design Year,unknown,unknown,,00:00,24:00,volume,10544

@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88421-2729-1,88421-2729,Opening Year,unknown,unknown,,00:00,24:00,volume,10980
+88421-2729-1,88421-2729,Design Year,unknown,unknown,,00:00,24:00,volume,13970
+88421-2730-1,88421-2730,Opening Year,unknown,unknown,,00:00,24:00,volume,21150
+88421-2730-1,88421-2730,Design Year,unknown,unknown,,00:00,24:00,volume,25030
+88421-2731-1,88421-2731,Opening Year,unknown,unknown,,00:00,24:00,volume,26730
+88421-2731-1,88421-2731,Design Year,unknown,unknown,,00:00,24:00,volume,30410
+88421-2732-1,88421-2732,Opening Year,unknown,unknown,,00:00,24:00,volume,10980
+88421-2732-1,88421-2732,Design Year,unknown,unknown,,00:00,24:00,volume,13970
+88421-2733-1,88421-2733,Opening Year,unknown,unknown,,00:00,24:00,volume,21150
+88421-2733-1,88421-2733,Design Year,unknown,unknown,,00:00,24:00,volume,25030
+88421-2734-1,88421-2734,Opening Year,unknown,unknown,,00:00,24:00,volume,26730
+88421-2734-1,88421-2734,Design Year,unknown,unknown,,00:00,24:00,volume,30410

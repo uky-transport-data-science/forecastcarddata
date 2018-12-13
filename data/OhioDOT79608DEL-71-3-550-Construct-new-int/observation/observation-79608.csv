@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79608-6039-1,79608-6039,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6039-1,79608-6039,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6055-1,79608-6055,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6055-1,79608-6055,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6056-1,79608-6056,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6056-1,79608-6056,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6057-1,79608-6057,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6057-1,79608-6057,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6058-1,79608-6058,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6058-1,79608-6058,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6070-1,79608-6070,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6070-1,79608-6070,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6071-1,79608-6071,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6071-1,79608-6071,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6072-1,79608-6072,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6072-1,79608-6072,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6073-1,79608-6073,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6073-1,79608-6073,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6091-1,79608-6091,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+79608-6091-1,79608-6091,Design Year,unknown,unknown,,00:00,24:00,volume,4180

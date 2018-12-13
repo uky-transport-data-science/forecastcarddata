@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25203-1304-1,25203-1304,Opening Year,unknown,unknown,,00:00,24:00,volume,47810
+25203-1304-1,25203-1304,Design Year,unknown,unknown,,00:00,24:00,volume,47810
+25203-1305-1,25203-1305,Opening Year,unknown,unknown,,00:00,24:00,volume,47220
+25203-1305-1,25203-1305,Design Year,unknown,unknown,,00:00,24:00,volume,47220

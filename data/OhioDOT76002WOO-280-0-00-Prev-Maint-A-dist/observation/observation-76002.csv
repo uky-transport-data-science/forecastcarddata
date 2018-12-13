@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76002-1758-1,76002-1758,Opening Year,unknown,unknown,,00:00,24:00,volume,19340
+76002-1758-1,76002-1758,Design Year,unknown,unknown,,00:00,24:00,volume,19340
+76002-1759-1,76002-1759,Opening Year,unknown,unknown,,00:00,24:00,volume,19170
+76002-1759-1,76002-1759,Design Year,unknown,unknown,,00:00,24:00,volume,19170
+76002-1760-1,76002-1760,Opening Year,unknown,unknown,,00:00,24:00,volume,19170
+76002-1760-1,76002-1760,Design Year,unknown,unknown,,00:00,24:00,volume,19170

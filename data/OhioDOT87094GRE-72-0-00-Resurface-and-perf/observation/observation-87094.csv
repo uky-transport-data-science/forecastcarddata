@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87094-3648-1,87094-3648,Opening Year,unknown,unknown,,00:00,24:00,volume,1613
+87094-3648-1,87094-3648,Design Year,unknown,unknown,,00:00,24:00,volume,1613
+87094-3649-1,87094-3649,Opening Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3649-1,87094-3649,Design Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3650-1,87094-3650,Opening Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3650-1,87094-3650,Design Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3651-1,87094-3651,Opening Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3651-1,87094-3651,Design Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3652-1,87094-3652,Opening Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3652-1,87094-3652,Design Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3653-1,87094-3653,Opening Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3653-1,87094-3653,Design Year,unknown,unknown,,00:00,24:00,volume,1870
+87094-3654-1,87094-3654,Opening Year,unknown,unknown,,00:00,24:00,volume,2698
+87094-3654-1,87094-3654,Design Year,unknown,unknown,,00:00,24:00,volume,2698
+87094-3655-1,87094-3655,Opening Year,unknown,unknown,,00:00,24:00,volume,4311
+87094-3655-1,87094-3655,Design Year,unknown,unknown,,00:00,24:00,volume,4311
+87094-3656-1,87094-3656,Opening Year,unknown,unknown,,00:00,24:00,volume,2665
+87094-3656-1,87094-3656,Design Year,unknown,unknown,,00:00,24:00,volume,2665
+87094-3657-1,87094-3657,Opening Year,unknown,unknown,,00:00,24:00,volume,2665
+87094-3657-1,87094-3657,Design Year,unknown,unknown,,00:00,24:00,volume,2665

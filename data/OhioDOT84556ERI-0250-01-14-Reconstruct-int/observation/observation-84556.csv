@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84556-2644-1,84556-2644,Opening Year,unknown,unknown,,00:00,24:00,volume,6250
+84556-2644-1,84556-2644,Design Year,unknown,unknown,,00:00,24:00,volume,7740
+84556-2645-1,84556-2645,Opening Year,unknown,unknown,,00:00,24:00,volume,18930
+84556-2645-1,84556-2645,Design Year,unknown,unknown,,00:00,24:00,volume,22420

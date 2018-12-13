@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81488-3530-1,81488-3530,Opening Year,unknown,unknown,,00:00,24:00,volume,32626
+81488-3530-1,81488-3530,Design Year,unknown,unknown,,00:00,24:00,volume,32626
+81488-3581-1,81488-3581,Opening Year,unknown,unknown,,00:00,24:00,volume,27226
+81488-3581-1,81488-3581,Design Year,unknown,unknown,,00:00,24:00,volume,27226
+81488-3582-1,81488-3582,Opening Year,unknown,unknown,,00:00,24:00,volume,20655
+81488-3582-1,81488-3582,Design Year,unknown,unknown,,00:00,24:00,volume,20655

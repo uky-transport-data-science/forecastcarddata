@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76667-1944-1,76667-1944,Opening Year,unknown,unknown,,00:00,24:00,volume,43740
+76667-1944-1,76667-1944,Design Year,unknown,unknown,,00:00,24:00,volume,42120
+76667-1945-1,76667-1945,Opening Year,unknown,unknown,,00:00,24:00,volume,51240
+76667-1945-1,76667-1945,Design Year,unknown,unknown,,00:00,24:00,volume,48540
+76667-1946-1,76667-1946,Opening Year,unknown,unknown,,00:00,24:00,volume,62160
+76667-1946-1,76667-1946,Design Year,unknown,unknown,,00:00,24:00,volume,59180
+76667-1947-1,76667-1947,Opening Year,unknown,unknown,,00:00,24:00,volume,70850
+76667-1947-1,76667-1947,Design Year,unknown,unknown,,00:00,24:00,volume,67390
+76667-1958-1,76667-1958,Opening Year,unknown,unknown,,00:00,24:00,volume,26590
+76667-1958-1,76667-1958,Design Year,unknown,unknown,,00:00,24:00,volume,26290
+76667-1959-1,76667-1959,Opening Year,unknown,unknown,,00:00,24:00,volume,26590
+76667-1959-1,76667-1959,Design Year,unknown,unknown,,00:00,24:00,volume,26290
+76667-1960-1,76667-1960,Opening Year,unknown,unknown,,00:00,24:00,volume,24960
+76667-1960-1,76667-1960,Design Year,unknown,unknown,,00:00,24:00,volume,24300
+76667-1961-1,76667-1961,Opening Year,unknown,unknown,,00:00,24:00,volume,24960
+76667-1961-1,76667-1961,Design Year,unknown,unknown,,00:00,24:00,volume,24300
+76667-1962-1,76667-1962,Opening Year,unknown,unknown,,00:00,24:00,volume,24960
+76667-1962-1,76667-1962,Design Year,unknown,unknown,,00:00,24:00,volume,24300
+76667-1963-1,76667-1963,Opening Year,unknown,unknown,,00:00,24:00,volume,14720
+76667-1963-1,76667-1963,Design Year,unknown,unknown,,00:00,24:00,volume,18650

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87382-4253-1,87382-4253,Opening Year,unknown,unknown,,00:00,24:00,volume,950
+87382-4253-1,87382-4253,Design Year,unknown,unknown,,00:00,24:00,volume,950
+87382-4279-1,87382-4279,Opening Year,unknown,unknown,,00:00,24:00,volume,414
+87382-4279-1,87382-4279,Design Year,unknown,unknown,,00:00,24:00,volume,414

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83064-5306-1,83064-5306,Opening Year,unknown,unknown,,00:00,24:00,volume,11578
+83064-5306-1,83064-5306,Design Year,unknown,unknown,,00:00,24:00,volume,11578
+83064-5307-1,83064-5307,Opening Year,unknown,unknown,,00:00,24:00,volume,12554
+83064-5307-1,83064-5307,Design Year,unknown,unknown,,00:00,24:00,volume,12554

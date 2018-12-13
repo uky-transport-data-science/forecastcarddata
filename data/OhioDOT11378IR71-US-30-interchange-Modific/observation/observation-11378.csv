@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+11378-2-1,11378-2,Opening Year,unknown,unknown,,00:00,24:00,volume,42310
+11378-2-1,11378-2,Design Year,unknown,unknown,,00:00,24:00,volume,39760
+11378-3-1,11378-3,Opening Year,unknown,unknown,,00:00,24:00,volume,15780
+11378-3-1,11378-3,Design Year,unknown,unknown,,00:00,24:00,volume,15630
+11378-4-1,11378-4,Opening Year,unknown,unknown,,00:00,24:00,volume,42450
+11378-4-1,11378-4,Design Year,unknown,unknown,,00:00,24:00,volume,39290
+11378-5-1,11378-5,Opening Year,unknown,unknown,,00:00,24:00,volume,16530
+11378-5-1,11378-5,Design Year,unknown,unknown,,00:00,24:00,volume,18210

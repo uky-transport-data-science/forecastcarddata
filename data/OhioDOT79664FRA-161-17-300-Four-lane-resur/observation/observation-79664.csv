@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79664-3716-1,79664-3716,Opening Year,unknown,unknown,,00:00,24:00,volume,59775
+79664-3716-1,79664-3716,Design Year,unknown,unknown,,00:00,24:00,volume,59775
+79664-3717-1,79664-3717,Opening Year,unknown,unknown,,00:00,24:00,volume,53471
+79664-3717-1,79664-3717,Design Year,unknown,unknown,,00:00,24:00,volume,53471
+79664-3718-1,79664-3718,Opening Year,unknown,unknown,,00:00,24:00,volume,41631
+79664-3718-1,79664-3718,Design Year,unknown,unknown,,00:00,24:00,volume,41631
+79664-3719-1,79664-3719,Opening Year,unknown,unknown,,00:00,24:00,volume,37888
+79664-3719-1,79664-3719,Design Year,unknown,unknown,,00:00,24:00,volume,37888

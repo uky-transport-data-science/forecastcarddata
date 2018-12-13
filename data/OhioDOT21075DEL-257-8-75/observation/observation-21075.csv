@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+21075-380-1,21075-380,Opening Year,unknown,unknown,,00:00,24:00,volume,3060
+21075-380-1,21075-380,Design Year,unknown,unknown,,00:00,24:00,volume,3060

@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+94668-3220-1,94668-3220,Opening Year,unknown,unknown,,00:00,24:00,volume,7260
+94668-3220-1,94668-3220,Design Year,unknown,unknown,,00:00,24:00,volume,7260
+94668-3271-1,94668-3271,Opening Year,unknown,unknown,,00:00,24:00,volume,7260
+94668-3271-1,94668-3271,Design Year,unknown,unknown,,00:00,24:00,volume,7260
+94668-3359-1,94668-3359,Opening Year,unknown,unknown,,00:00,24:00,volume,17137
+94668-3359-1,94668-3359,Design Year,unknown,unknown,,00:00,24:00,volume,17137
+94668-3400-1,94668-3400,Opening Year,unknown,unknown,,00:00,24:00,volume,20593
+94668-3400-1,94668-3400,Design Year,unknown,unknown,,00:00,24:00,volume,20593

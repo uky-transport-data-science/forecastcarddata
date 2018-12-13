@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88837-5145-1,88837-5145,Opening Year,unknown,unknown,,00:00,24:00,volume,11115
+88837-5145-1,88837-5145,Design Year,unknown,unknown,,00:00,24:00,volume,11115
+88837-5146-1,88837-5146,Opening Year,unknown,unknown,,00:00,24:00,volume,11738
+88837-5146-1,88837-5146,Design Year,unknown,unknown,,00:00,24:00,volume,11738
+88837-5147-1,88837-5147,Opening Year,unknown,unknown,,00:00,24:00,volume,12128
+88837-5147-1,88837-5147,Design Year,unknown,unknown,,00:00,24:00,volume,12128

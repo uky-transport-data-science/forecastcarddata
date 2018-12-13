@@ -1,0 +1,17 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80681-5901-1,80681-5901,Opening Year,unknown,unknown,,00:00,24:00,volume,103030
+80681-5901-1,80681-5901,Design Year,unknown,unknown,,00:00,24:00,volume,16010
+80681-5902-1,80681-5902,Opening Year,unknown,unknown,,00:00,24:00,volume,16010
+80681-5902-1,80681-5902,Design Year,unknown,unknown,,00:00,24:00,volume,16010
+80681-5903-1,80681-5903,Opening Year,unknown,unknown,,00:00,24:00,volume,16010
+80681-5903-1,80681-5903,Design Year,unknown,unknown,,00:00,24:00,volume,16010
+80681-5904-1,80681-5904,Opening Year,unknown,unknown,,00:00,24:00,volume,16010
+80681-5904-1,80681-5904,Design Year,unknown,unknown,,00:00,24:00,volume,14590
+80681-5905-1,80681-5905,Opening Year,unknown,unknown,,00:00,24:00,volume,14590
+80681-5905-1,80681-5905,Design Year,unknown,unknown,,00:00,24:00,volume,14590
+80681-5906-1,80681-5906,Opening Year,unknown,unknown,,00:00,24:00,volume,14590
+80681-5906-1,80681-5906,Design Year,unknown,unknown,,00:00,24:00,volume,14590
+80681-5907-1,80681-5907,Opening Year,unknown,unknown,,00:00,24:00,volume,14590
+80681-5907-1,80681-5907,Design Year,unknown,unknown,,00:00,24:00,volume,10160
+80681-5908-1,80681-5908,Opening Year,unknown,unknown,,00:00,24:00,volume,10160
+80681-5908-1,80681-5908,Design Year,unknown,unknown,,00:00,24:00,volume,4180

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23569-42-1,23569-42,Opening Year,unknown,unknown,,00:00,24:00,volume,8430
+23569-42-1,23569-42,Design Year,unknown,unknown,,00:00,24:00,volume,6200
+23569-43-1,23569-43,Opening Year,unknown,unknown,,00:00,24:00,volume,10790
+23569-43-1,23569-43,Design Year,unknown,unknown,,00:00,24:00,volume,6510
+23569-63-1,23569-63,Opening Year,unknown,unknown,,00:00,24:00,volume,4860
+23569-63-1,23569-63,Design Year,unknown,unknown,,00:00,24:00,volume,3810

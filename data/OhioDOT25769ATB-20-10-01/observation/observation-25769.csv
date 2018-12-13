@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25769-443-1,25769-443,Opening Year,unknown,unknown,,00:00,24:00,volume,6370
+25769-443-1,25769-443,Design Year,unknown,unknown,,00:00,24:00,volume,6040
+25769-444-1,25769-444,Opening Year,unknown,unknown,,00:00,24:00,volume,11810
+25769-444-1,25769-444,Design Year,unknown,unknown,,00:00,24:00,volume,11900
+25769-445-1,25769-445,Opening Year,unknown,unknown,,00:00,24:00,volume,13240
+25769-445-1,25769-445,Design Year,unknown,unknown,,00:00,24:00,volume,11850

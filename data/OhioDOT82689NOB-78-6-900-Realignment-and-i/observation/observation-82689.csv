@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82689-1321-1,82689-1321,Opening Year,unknown,unknown,,00:00,24:00,volume,2530
+82689-1321-1,82689-1321,Design Year,unknown,unknown,,00:00,24:00,volume,2530
+82689-1322-1,82689-1322,Opening Year,unknown,unknown,,00:00,24:00,volume,10540
+82689-1322-1,82689-1322,Design Year,unknown,unknown,,00:00,24:00,volume,10540
+82689-1323-1,82689-1323,Opening Year,unknown,unknown,,00:00,24:00,volume,7320
+82689-1323-1,82689-1323,Design Year,unknown,unknown,,00:00,24:00,volume,7320
+82689-1324-1,82689-1324,Opening Year,unknown,unknown,,00:00,24:00,volume,5440
+82689-1324-1,82689-1324,Design Year,unknown,unknown,,00:00,24:00,volume,5440
+82689-1336-1,82689-1336,Opening Year,unknown,unknown,,00:00,24:00,volume,2340
+82689-1336-1,82689-1336,Design Year,unknown,unknown,,00:00,24:00,volume,2340
+82689-1337-1,82689-1337,Opening Year,unknown,unknown,,00:00,24:00,volume,3880
+82689-1337-1,82689-1337,Design Year,unknown,unknown,,00:00,24:00,volume,3880

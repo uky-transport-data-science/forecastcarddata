@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23815-959-1,23815-959,Opening Year,unknown,unknown,,00:00,24:00,volume,19680
+23815-959-1,23815-959,Design Year,unknown,unknown,,00:00,24:00,volume,19680
+23815-960-1,23815-960,Opening Year,unknown,unknown,,00:00,24:00,volume,31940
+23815-960-1,23815-960,Design Year,unknown,unknown,,00:00,24:00,volume,31940
+23815-961-1,23815-961,Opening Year,unknown,unknown,,00:00,24:00,volume,34380
+23815-961-1,23815-961,Design Year,unknown,unknown,,00:00,24:00,volume,34380
+23815-962-1,23815-962,Opening Year,unknown,unknown,,00:00,24:00,volume,37010
+23815-962-1,23815-962,Design Year,unknown,unknown,,00:00,24:00,volume,37010
+23815-963-1,23815-963,Opening Year,unknown,unknown,,00:00,24:00,volume,35720
+23815-963-1,23815-963,Design Year,unknown,unknown,,00:00,24:00,volume,35720
+23815-964-1,23815-964,Opening Year,unknown,unknown,,00:00,24:00,volume,33020
+23815-964-1,23815-964,Design Year,unknown,unknown,,00:00,24:00,volume,33020
+23815-965-1,23815-965,Opening Year,unknown,unknown,,00:00,24:00,volume,30720
+23815-965-1,23815-965,Design Year,unknown,unknown,,00:00,24:00,volume,30720

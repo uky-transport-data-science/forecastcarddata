@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+18630-480-1,18630-480,Opening Year,unknown,unknown,,00:00,24:00,volume,8200
+18630-480-1,18630-480,Design Year,unknown,unknown,,00:00,24:00,volume,8200
+18630-481-1,18630-481,Opening Year,unknown,unknown,,00:00,24:00,volume,10080
+18630-481-1,18630-481,Design Year,unknown,unknown,,00:00,24:00,volume,10080

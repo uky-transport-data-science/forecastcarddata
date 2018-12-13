@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+18624-754-1,18624-754,Opening Year,unknown,unknown,,00:00,24:00,volume,1060
+18624-754-1,18624-754,Design Year,unknown,unknown,,00:00,24:00,volume,940
+18624-755-1,18624-755,Opening Year,unknown,unknown,,00:00,24:00,volume,860
+18624-755-1,18624-755,Design Year,unknown,unknown,,00:00,24:00,volume,810

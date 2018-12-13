@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23730-780-1,23730-780,Opening Year,unknown,unknown,,00:00,24:00,volume,71720
+23730-780-1,23730-780,Design Year,unknown,unknown,,00:00,24:00,volume,64800
+23730-781-1,23730-781,Opening Year,unknown,unknown,,00:00,24:00,volume,85080
+23730-781-1,23730-781,Design Year,unknown,unknown,,00:00,24:00,volume,76020
+23730-782-1,23730-782,Opening Year,unknown,unknown,,00:00,24:00,volume,67900
+23730-782-1,23730-782,Design Year,unknown,unknown,,00:00,24:00,volume,59280
+23730-783-1,23730-783,Opening Year,unknown,unknown,,00:00,24:00,volume,63510
+23730-783-1,23730-783,Design Year,unknown,unknown,,00:00,24:00,volume,54240

@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83537-1942-1,83537-1942,Opening Year,unknown,unknown,,00:00,24:00,volume,90155
+83537-1942-1,83537-1942,Design Year,unknown,unknown,,00:00,24:00,volume,83920
+83537-1943-1,83537-1943,Opening Year,unknown,unknown,,00:00,24:00,volume,86653
+83537-1943-1,83537-1943,Design Year,unknown,unknown,,00:00,24:00,volume,78330
+83537-1978-1,83537-1978,Opening Year,unknown,unknown,,00:00,24:00,volume,24280
+83537-1978-1,83537-1978,Design Year,unknown,unknown,,00:00,24:00,volume,24280
+83537-1979-1,83537-1979,Opening Year,unknown,unknown,,00:00,24:00,volume,47330
+83537-1979-1,83537-1979,Design Year,unknown,unknown,,00:00,24:00,volume,47330

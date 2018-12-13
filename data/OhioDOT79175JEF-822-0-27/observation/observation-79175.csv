@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79175-1271-1,79175-1271,Opening Year,unknown,unknown,,00:00,24:00,volume,35520
+79175-1271-1,79175-1271,Design Year,unknown,unknown,,00:00,24:00,volume,35520
+79175-1272-1,79175-1272,Opening Year,unknown,unknown,,00:00,24:00,volume,29750
+79175-1272-1,79175-1272,Design Year,unknown,unknown,,00:00,24:00,volume,29750
+79175-1273-1,79175-1273,Opening Year,unknown,unknown,,00:00,24:00,volume,21990
+79175-1273-1,79175-1273,Design Year,unknown,unknown,,00:00,24:00,volume,21990

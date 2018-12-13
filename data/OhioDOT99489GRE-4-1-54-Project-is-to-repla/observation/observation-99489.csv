@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99489-5464-1,99489-5464,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+99489-5464-1,99489-5464,Design Year,unknown,unknown,,00:00,24:00,volume,620
+99489-5465-1,99489-5465,Opening Year,unknown,unknown,,00:00,24:00,volume,620
+99489-5465-1,99489-5465,Design Year,unknown,unknown,,00:00,24:00,volume,620

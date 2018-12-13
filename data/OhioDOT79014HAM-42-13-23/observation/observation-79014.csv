@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79014-912-1,79014-912,Opening Year,unknown,unknown,,00:00,24:00,volume,16020
+79014-912-1,79014-912,Design Year,unknown,unknown,,00:00,24:00,volume,16020
+79014-913-1,79014-913,Opening Year,unknown,unknown,,00:00,24:00,volume,16910
+79014-913-1,79014-913,Design Year,unknown,unknown,,00:00,24:00,volume,16910

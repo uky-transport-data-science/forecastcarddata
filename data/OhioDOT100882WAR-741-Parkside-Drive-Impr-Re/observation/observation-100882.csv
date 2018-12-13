@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+100882-6086-1,100882-6086,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+100882-6086-1,100882-6086,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+100882-6087-1,100882-6087,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+100882-6087-1,100882-6087,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+100882-6088-1,100882-6088,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+100882-6088-1,100882-6088,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+100882-6089-1,100882-6089,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+100882-6089-1,100882-6089,Design Year,unknown,unknown,,00:00,24:00,volume,4180

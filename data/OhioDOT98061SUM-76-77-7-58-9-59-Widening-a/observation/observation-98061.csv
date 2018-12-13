@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+98061-3485-1,98061-3485,Opening Year,unknown,unknown,,00:00,24:00,volume,22748
+98061-3485-1,98061-3485,Design Year,unknown,unknown,,00:00,24:00,volume,22748
+98061-3486-1,98061-3486,Opening Year,unknown,unknown,,00:00,24:00,volume,112197
+98061-3486-1,98061-3486,Design Year,unknown,unknown,,00:00,24:00,volume,112197

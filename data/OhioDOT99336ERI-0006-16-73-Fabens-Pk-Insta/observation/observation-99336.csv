@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99336-4580-1,99336-4580,Opening Year,unknown,unknown,,00:00,24:00,volume,7722
+99336-4580-1,99336-4580,Design Year,unknown,unknown,,00:00,24:00,volume,7722
+99336-4581-1,99336-4581,Opening Year,unknown,unknown,,00:00,24:00,volume,7722
+99336-4581-1,99336-4581,Design Year,unknown,unknown,,00:00,24:00,volume,7722
+99336-4582-1,99336-4582,Opening Year,unknown,unknown,,00:00,24:00,volume,7722
+99336-4582-1,99336-4582,Design Year,unknown,unknown,,00:00,24:00,volume,7722

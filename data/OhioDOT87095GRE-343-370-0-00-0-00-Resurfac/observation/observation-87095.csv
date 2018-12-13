@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87095-3658-1,87095-3658,Opening Year,unknown,unknown,,00:00,24:00,volume,2409
+87095-3658-1,87095-3658,Design Year,unknown,unknown,,00:00,24:00,volume,2409
+87095-3659-1,87095-3659,Opening Year,unknown,unknown,,00:00,24:00,volume,1761
+87095-3659-1,87095-3659,Design Year,unknown,unknown,,00:00,24:00,volume,1761
+87095-3660-1,87095-3660,Opening Year,unknown,unknown,,00:00,24:00,volume,1761
+87095-3660-1,87095-3660,Design Year,unknown,unknown,,00:00,24:00,volume,1761
+87095-3675-1,87095-3675,Opening Year,unknown,unknown,,00:00,24:00,volume,434
+87095-3675-1,87095-3675,Design Year,unknown,unknown,,00:00,24:00,volume,434

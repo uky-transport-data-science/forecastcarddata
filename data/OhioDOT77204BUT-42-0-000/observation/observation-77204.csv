@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77204-651-1,77204-651,Opening Year,unknown,unknown,,00:00,24:00,volume,20290
+77204-651-1,77204-651,Design Year,unknown,unknown,,00:00,24:00,volume,20290
+77204-652-1,77204-652,Opening Year,unknown,unknown,,00:00,24:00,volume,15700
+77204-652-1,77204-652,Design Year,unknown,unknown,,00:00,24:00,volume,15700

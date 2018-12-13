@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77055-719-1,77055-719,Opening Year,unknown,unknown,,00:00,24:00,volume,2900
+77055-719-1,77055-719,Design Year,unknown,unknown,,00:00,24:00,volume,2900
+77055-720-1,77055-720,Opening Year,unknown,unknown,,00:00,24:00,volume,2910
+77055-720-1,77055-720,Design Year,unknown,unknown,,00:00,24:00,volume,2910
+77055-727-1,77055-727,Opening Year,unknown,unknown,,00:00,24:00,volume,3440
+77055-727-1,77055-727,Design Year,unknown,unknown,,00:00,24:00,volume,3440
+77055-728-1,77055-728,Opening Year,unknown,unknown,,00:00,24:00,volume,4660
+77055-728-1,77055-728,Design Year,unknown,unknown,,00:00,24:00,volume,4660
+77055-729-1,77055-729,Opening Year,unknown,unknown,,00:00,24:00,volume,3440
+77055-729-1,77055-729,Design Year,unknown,unknown,,00:00,24:00,volume,3440
+77055-730-1,77055-730,Opening Year,unknown,unknown,,00:00,24:00,volume,3440
+77055-730-1,77055-730,Design Year,unknown,unknown,,00:00,24:00,volume,3440

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85296-2703-1,85296-2703,Opening Year,unknown,unknown,,00:00,24:00,volume,13100
+85296-2703-1,85296-2703,Design Year,unknown,unknown,,00:00,24:00,volume,10500
+85296-2704-1,85296-2704,Opening Year,unknown,unknown,,00:00,24:00,volume,13100
+85296-2704-1,85296-2704,Design Year,unknown,unknown,,00:00,24:00,volume,10500
+85296-2705-1,85296-2705,Opening Year,unknown,unknown,,00:00,24:00,volume,13100
+85296-2705-1,85296-2705,Design Year,unknown,unknown,,00:00,24:00,volume,10500

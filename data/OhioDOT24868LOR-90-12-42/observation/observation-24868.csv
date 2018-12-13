@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+24868-317-1,24868-317,Opening Year,unknown,unknown,,00:00,24:00,volume,12800
+24868-317-1,24868-317,Design Year,unknown,unknown,,00:00,24:00,volume,14120
+24868-432-1,24868-432,Opening Year,unknown,unknown,,00:00,24:00,volume,59970
+24868-432-1,24868-432,Design Year,unknown,unknown,,00:00,24:00,volume,59970

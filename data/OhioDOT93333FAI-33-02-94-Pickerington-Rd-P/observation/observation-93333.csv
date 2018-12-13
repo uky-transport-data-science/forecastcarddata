@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93333-6074-1,93333-6074,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+93333-6074-1,93333-6074,Design Year,unknown,unknown,,00:00,24:00,volume,4180
+93333-6075-1,93333-6075,Opening Year,unknown,unknown,,00:00,24:00,volume,4180
+93333-6075-1,93333-6075,Design Year,unknown,unknown,,00:00,24:00,volume,4180

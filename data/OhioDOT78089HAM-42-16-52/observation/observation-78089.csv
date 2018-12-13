@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78089-653-1,78089-653,Opening Year,unknown,unknown,,00:00,24:00,volume,19820
+78089-653-1,78089-653,Design Year,unknown,unknown,,00:00,24:00,volume,19820
+78089-654-1,78089-654,Opening Year,unknown,unknown,,00:00,24:00,volume,20290
+78089-654-1,78089-654,Design Year,unknown,unknown,,00:00,24:00,volume,20290

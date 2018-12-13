@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+21798-661-1,21798-661,Opening Year,unknown,unknown,,00:00,24:00,volume,22200
+21798-661-1,21798-661,Design Year,unknown,unknown,,00:00,24:00,volume,22200
+21798-672-1,21798-672,Opening Year,unknown,unknown,,00:00,24:00,volume,23600
+21798-672-1,21798-672,Design Year,unknown,unknown,,00:00,24:00,volume,23600
+21798-673-1,21798-673,Opening Year,unknown,unknown,,00:00,24:00,volume,28180
+21798-673-1,21798-673,Design Year,unknown,unknown,,00:00,24:00,volume,28180

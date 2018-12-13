@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+X-2673-1,X-2673,Opening Year,unknown,unknown,,00:00,24:00,volume,980
+X-2673-1,X-2673,Design Year,unknown,unknown,,00:00,24:00,volume,1480

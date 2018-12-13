@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+Unavailable-4817-1,Unavailable-4817,Opening Year,unknown,unknown,,00:00,24:00,volume,118119
+Unavailable-4817-1,Unavailable-4817,Design Year,unknown,unknown,,00:00,24:00,volume,118119
+Unavailable-4818-1,Unavailable-4818,Opening Year,unknown,unknown,,00:00,24:00,volume,137050
+Unavailable-4818-1,Unavailable-4818,Design Year,unknown,unknown,,00:00,24:00,volume,137050

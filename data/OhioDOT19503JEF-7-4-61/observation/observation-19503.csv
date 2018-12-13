@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+19503-170-1,19503-170,Opening Year,unknown,unknown,,00:00,24:00,volume,14880
+19503-170-1,19503-170,Design Year,unknown,unknown,,00:00,24:00,volume,17210
+19503-199-1,19503-199,Opening Year,unknown,unknown,,00:00,24:00,volume,14210
+19503-199-1,19503-199,Design Year,unknown,unknown,,00:00,24:00,volume,14230

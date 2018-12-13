@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83883-2504-1,83883-2504,Opening Year,unknown,unknown,,00:00,24:00,volume,157070
+83883-2504-1,83883-2504,Design Year,unknown,unknown,,00:00,24:00,volume,157070
+83883-2508-1,83883-2508,Opening Year,unknown,unknown,,00:00,24:00,volume,145111
+83883-2508-1,83883-2508,Design Year,unknown,unknown,,00:00,24:00,volume,145111
+83883-2509-1,83883-2509,Opening Year,unknown,unknown,,00:00,24:00,volume,139399
+83883-2509-1,83883-2509,Design Year,unknown,unknown,,00:00,24:00,volume,139399
+83883-2510-1,83883-2510,Opening Year,unknown,unknown,,00:00,24:00,volume,137397
+83883-2510-1,83883-2510,Design Year,unknown,unknown,,00:00,24:00,volume,137397
+83883-2535-1,83883-2535,Opening Year,unknown,unknown,,00:00,24:00,volume,4833
+83883-2535-1,83883-2535,Design Year,unknown,unknown,,00:00,24:00,volume,4833

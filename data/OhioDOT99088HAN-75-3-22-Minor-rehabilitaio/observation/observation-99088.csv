@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99088-4104-1,99088-4104,Opening Year,unknown,unknown,,00:00,24:00,volume,31055
+99088-4104-1,99088-4104,Design Year,unknown,unknown,,00:00,24:00,volume,31055
+99088-4105-1,99088-4105,Opening Year,unknown,unknown,,00:00,24:00,volume,31055
+99088-4105-1,99088-4105,Design Year,unknown,unknown,,00:00,24:00,volume,31055

@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+86293-3237-1,86293-3237,Opening Year,unknown,unknown,,00:00,24:00,volume,432
+86293-3237-1,86293-3237,Design Year,unknown,unknown,,00:00,24:00,volume,432

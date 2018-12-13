@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82976-2472-1,82976-2472,Opening Year,unknown,unknown,,00:00,24:00,volume,42015
+82976-2472-1,82976-2472,Design Year,unknown,unknown,,00:00,24:00,volume,59640
+82976-2487-1,82976-2487,Opening Year,unknown,unknown,,00:00,24:00,volume,23246
+82976-2487-1,82976-2487,Design Year,unknown,unknown,,00:00,24:00,volume,73640
+82976-2488-1,82976-2488,Opening Year,unknown,unknown,,00:00,24:00,volume,59880
+82976-2488-1,82976-2488,Design Year,unknown,unknown,,00:00,24:00,volume,69400
+82976-2489-1,82976-2489,Opening Year,unknown,unknown,,00:00,24:00,volume,76610
+82976-2489-1,82976-2489,Design Year,unknown,unknown,,00:00,24:00,volume,77060

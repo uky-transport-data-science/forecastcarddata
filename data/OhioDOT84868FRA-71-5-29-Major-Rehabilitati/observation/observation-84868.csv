@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84868-3249-1,84868-3249,Opening Year,unknown,unknown,,00:00,24:00,volume,50349
+84868-3249-1,84868-3249,Design Year,unknown,unknown,,00:00,24:00,volume,50349
+84868-3250-1,84868-3250,Opening Year,unknown,unknown,,00:00,24:00,volume,63763
+84868-3250-1,84868-3250,Design Year,unknown,unknown,,00:00,24:00,volume,63763
+84868-3251-1,84868-3251,Opening Year,unknown,unknown,,00:00,24:00,volume,96248
+84868-3251-1,84868-3251,Design Year,unknown,unknown,,00:00,24:00,volume,96248
