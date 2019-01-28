@@ -1,9 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-3794,", , WAR12328.71",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , WAR12328.71"
-Unavailable-3794,", , WAR12328.71",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , WAR12328.71"
-Unavailable-3807,", , WAR12327.43",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12327.43"
-Unavailable-3807,", , WAR12327.43",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12327.43"
-Unavailable-3808,", , WAR12328.31",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12328.31"
-Unavailable-3808,", , WAR12328.31",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12328.31"
-Unavailable-4465,", , WAR12327.12",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12327.12"
-Unavailable-4465,", , WAR12327.12",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12327.12"
+Unavailable-3794,  WAR12328.71,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WAR12328.71
+Unavailable-3807,  WAR12327.43,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12327.43
+Unavailable-3808,  WAR12328.31,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12328.31

@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83011-2262-1,83011-2262,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,49570
+83011-2262-1,83011-2262,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,41410
+83011-2263-1,83011-2263,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,65880
+83011-2263-1,83011-2263,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,64620
+83011-2264-1,83011-2264,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,74170
+83011-2264-1,83011-2264,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,72930
+83011-2265-1,83011-2265,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,74170
+83011-2265-1,83011-2265,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,54850
+83011-2266-1,83011-2266,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,55720
+83011-2266-1,83011-2266,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,38810
+83011-2267-1,83011-2267,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,23246
+83011-2267-1,83011-2267,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,73640

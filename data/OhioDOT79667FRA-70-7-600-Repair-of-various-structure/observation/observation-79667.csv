@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79667-5529-1,79667-5529,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+79667-5529-1,79667-5529,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+79667-5530-1,79667-5530,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+79667-5530-1,79667-5530,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+79667-5531-1,79667-5531,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+79667-5531-1,79667-5531,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+79667-5532-1,79667-5532,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+79667-5532-1,79667-5532,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620

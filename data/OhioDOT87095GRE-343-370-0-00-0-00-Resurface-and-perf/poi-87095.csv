@@ -1,0 +1,5 @@
+poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
+87095-3658,  GRE3430.505,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GRE3430.505
+87095-3659,  GRE3432.05,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GRE3432.05
+87095-3660,  GRE3433.195,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GRE3433.195
+87095-3675,  GRE3700.605,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  GRE3700.605

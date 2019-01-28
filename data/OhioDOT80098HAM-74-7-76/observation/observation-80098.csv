@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-80098-1182-1,80098-1182,Opening Year,unknown,unknown,,00:00,24:00,volume,10590
-80098-1182-1,80098-1182,Design Year,unknown,unknown,,00:00,24:00,volume,10590
-80098-1191-1,80098-1191,Opening Year,unknown,unknown,,00:00,24:00,volume,64620
-80098-1191-1,80098-1191,Design Year,unknown,unknown,,00:00,24:00,volume,64620
-80098-1192-1,80098-1192,Opening Year,unknown,unknown,,00:00,24:00,volume,72930
-80098-1192-1,80098-1192,Design Year,unknown,unknown,,00:00,24:00,volume,72930
-80098-1226-1,80098-1226,Opening Year,unknown,unknown,,00:00,24:00,volume,12050
-80098-1226-1,80098-1226,Design Year,unknown,unknown,,00:00,24:00,volume,12050
+80098-1182-1,80098-1182,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,10590
+80098-1182-1,80098-1182,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,10590
+80098-1191-1,80098-1191,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,64620
+80098-1191-1,80098-1191,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,64620
+80098-1192-1,80098-1192,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,72930
+80098-1192-1,80098-1192,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,72930
+80098-1226-1,80098-1226,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,12050
+80098-1226-1,80098-1226,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,12050

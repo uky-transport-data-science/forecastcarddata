@@ -1,11 +1,11 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-25584-250-1,25584-250,Opening Year,unknown,unknown,,00:00,24:00,volume,47530
-25584-250-1,25584-250,Design Year,unknown,unknown,,00:00,24:00,volume,48430
-25584-251-1,25584-251,Opening Year,unknown,unknown,,00:00,24:00,volume,62460
-25584-251-1,25584-251,Design Year,unknown,unknown,,00:00,24:00,volume,62680
-25584-252-1,25584-252,Opening Year,unknown,unknown,,00:00,24:00,volume,87830
-25584-252-1,25584-252,Design Year,unknown,unknown,,00:00,24:00,volume,92130
-25584-253-1,25584-253,Opening Year,unknown,unknown,,00:00,24:00,volume,83970
-25584-253-1,25584-253,Design Year,unknown,unknown,,00:00,24:00,volume,86960
-25584-254-1,25584-254,Opening Year,unknown,unknown,,00:00,24:00,volume,103550
-25584-254-1,25584-254,Design Year,unknown,unknown,,00:00,24:00,volume,102590
+25584-250-1,25584-250,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,47530
+25584-250-1,25584-250,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,48430
+25584-251-1,25584-251,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,62460
+25584-251-1,25584-251,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,62680
+25584-252-1,25584-252,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,87830
+25584-252-1,25584-252,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,92130
+25584-253-1,25584-253,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,83970
+25584-253-1,25584-253,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,86960
+25584-254-1,25584-254,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,103550
+25584-254-1,25584-254,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,102590

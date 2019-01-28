@@ -1,11 +1,11 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-3205-1,Unavailable-3205,Opening Year,unknown,unknown,,00:00,24:00,volume,10523
-Unavailable-3205-1,Unavailable-3205,Design Year,unknown,unknown,,00:00,24:00,volume,13610
-Unavailable-3206-1,Unavailable-3206,Opening Year,unknown,unknown,,00:00,24:00,volume,10523
-Unavailable-3206-1,Unavailable-3206,Design Year,unknown,unknown,,00:00,24:00,volume,13610
-Unavailable-3207-1,Unavailable-3207,Opening Year,unknown,unknown,,00:00,24:00,volume,10523
-Unavailable-3207-1,Unavailable-3207,Design Year,unknown,unknown,,00:00,24:00,volume,13610
-Unavailable-3208-1,Unavailable-3208,Opening Year,unknown,unknown,,00:00,24:00,volume,10523
-Unavailable-3208-1,Unavailable-3208,Design Year,unknown,unknown,,00:00,24:00,volume,13610
-Unavailable-3209-1,Unavailable-3209,Opening Year,unknown,unknown,,00:00,24:00,volume,10523
-Unavailable-3209-1,Unavailable-3209,Design Year,unknown,unknown,,00:00,24:00,volume,13610
+Unavailable-3205-1,Unavailable-3205,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,10523
+Unavailable-3205-1,Unavailable-3205,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13610
+Unavailable-3206-1,Unavailable-3206,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,10523
+Unavailable-3206-1,Unavailable-3206,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13610
+Unavailable-3207-1,Unavailable-3207,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,10523
+Unavailable-3207-1,Unavailable-3207,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13610
+Unavailable-3208-1,Unavailable-3208,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,10523
+Unavailable-3208-1,Unavailable-3208,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13610
+Unavailable-3209-1,Unavailable-3209,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,10523
+Unavailable-3209-1,Unavailable-3209,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13610

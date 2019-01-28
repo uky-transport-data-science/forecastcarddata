@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3324-6634-1,3324-6634,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,30700
+3324-6635-1,3324-6635,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,35200
+3324-6636-1,3324-6636,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,36300

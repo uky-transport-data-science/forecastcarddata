@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93455-4746-1,93455-4746,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,21325
+93455-4746-1,93455-4746,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,21325
+93455-4783-1,93455-4783,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7168
+93455-4783-1,93455-4783,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7168
+93455-4784-1,93455-4784,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,6598
+93455-4784-1,93455-4784,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,6598

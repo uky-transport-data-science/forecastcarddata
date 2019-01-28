@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78041-2284-1,78041-2284,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,15610
+78041-2284-1,78041-2284,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,17860
+78041-2285-1,78041-2285,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,9630
+78041-2285-1,78041-2285,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,8450
+78041-2286-1,78041-2286,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,13440
+78041-2286-1,78041-2286,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,16250
+78041-2287-1,78041-2287,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,13930
+78041-2287-1,78041-2287,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,18460

@@ -1,0 +1,5 @@
+poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
+91330-4901,  MAR5290.7,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAR5290.7
+91330-4966,  MAR5293.13,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAR5293.13
+91330-4967,  MAR5296.6,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAR5296.6
+91330-4968,  MAR5299.09,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAR5299.09

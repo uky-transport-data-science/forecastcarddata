@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99798-5678-1,99798-5678,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5678-1,99798-5678,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5684-1,99798-5684,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5684-1,99798-5684,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5696-1,99798-5696,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5696-1,99798-5696,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5697-1,99798-5697,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5697-1,99798-5697,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5715-1,99798-5715,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+99798-5715-1,99798-5715,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620

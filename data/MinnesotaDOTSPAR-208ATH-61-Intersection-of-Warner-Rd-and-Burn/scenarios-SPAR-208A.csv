@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,"MinnesotaDOT-SPAR-208ATH 61, Intersection of Warner Rd and Burns Ave",s1,1979.0,Design Year,Unavailable,trendline,1979.0,state DOT

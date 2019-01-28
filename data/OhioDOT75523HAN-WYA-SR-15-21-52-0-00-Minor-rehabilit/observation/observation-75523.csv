@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75523-2292-1,75523-2292,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,17370
+75523-2292-1,75523-2292,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,16140
+75523-2293-1,75523-2293,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,17060
+75523-2293-1,75523-2293,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,15920
+75523-2294-1,75523-2294,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,15920
+75523-2294-1,75523-2294,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13770

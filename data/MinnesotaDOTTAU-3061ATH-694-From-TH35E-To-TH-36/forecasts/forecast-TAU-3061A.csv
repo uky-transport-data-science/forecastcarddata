@@ -1,0 +1,11 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,TAU 3061A-7866,Design Year,00:00:00,24:00,volume,21100
+f3,1,TAU 3061A-7867,Design Year,00:00:00,24:00,volume,21100
+f3,1,TAU 3061A-7868,Design Year,00:00:00,24:00,volume,13800
+f3,1,TAU 3061A-7869,Design Year,00:00:00,24:00,volume,13800
+f3,1,TAU 3061A-7870,Design Year,00:00:00,24:00,volume,16000
+f3,1,TAU 3061A-7871,Design Year,00:00:00,24:00,volume,16000
+f3,1,TAU 3061A-7872,Design Year,00:00:00,24:00,volume,16000
+f3,1,TAU 3061A-7873,Design Year,00:00:00,24:00,volume,16000
+f3,1,TAU 3061A-7874,Design Year,00:00:00,24:00,volume,16700
+f3,1,TAU 3061A-7875,Design Year,00:00:00,24:00,volume,16700

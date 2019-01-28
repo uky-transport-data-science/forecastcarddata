@@ -1,0 +1,17 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+102841-5606-1,102841-5606,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5606-1,102841-5606,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5621-1,102841-5621,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5621-1,102841-5621,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5622-1,102841-5622,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5622-1,102841-5622,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5623-1,102841-5623,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5623-1,102841-5623,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5624-1,102841-5624,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5624-1,102841-5624,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5625-1,102841-5625,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5625-1,102841-5625,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5626-1,102841-5626,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5626-1,102841-5626,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5627-1,102841-5627,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+102841-5627-1,102841-5627,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620

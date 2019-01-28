@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M308-7694-1,TA-M308-7694,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,17500
+TA-M308-7695-1,TA-M308-7695,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,17500
+TA-M308-7696-1,TA-M308-7696,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,17500
+TA-M308-7697-1,TA-M308-7697,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,17500
+TA-M308-7698-1,TA-M308-7698,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,17500
+TA-M308-7699-1,TA-M308-7699,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,17500
+TA-M308-7700-1,TA-M308-7700,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,17500
+TA-M308-7701-1,TA-M308-7701,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,17500
+TA-M308-7702-1,TA-M308-7702,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,15000
+TA-M308-7703-1,TA-M308-7703,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,15000
+TA-M308-7704-1,TA-M308-7704,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,15000
+TA-M308-7705-1,TA-M308-7705,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,15000
+TA-M308-7706-1,TA-M308-7706,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,14000
+TA-M308-7707-1,TA-M308-7707,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,14000

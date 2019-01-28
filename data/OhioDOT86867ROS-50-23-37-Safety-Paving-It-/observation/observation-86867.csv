@@ -1,3 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-86867-2851-1,86867-2851,Opening Year,unknown,unknown,,00:00,24:00,volume,18680
-86867-2851-1,86867-2851,Design Year,unknown,unknown,,00:00,24:00,volume,17780

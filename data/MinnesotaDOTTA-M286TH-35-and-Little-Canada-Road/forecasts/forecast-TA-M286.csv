@@ -1,0 +1,21 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,TA-M286-7234,Design Year,00:00:00,24:00,volume,3600
+f3,1,TA-M286-7235,Design Year,00:00:00,24:00,volume,3600
+f3,1,TA-M286-7236,Design Year,00:00:00,24:00,volume,6000
+f3,1,TA-M286-7237,Design Year,00:00:00,24:00,volume,6000
+f3,1,TA-M286-7238,Design Year,00:00:00,24:00,volume,10000
+f3,1,TA-M286-7239,Design Year,00:00:00,24:00,volume,10000
+f3,1,TA-M286-7240,Design Year,00:00:00,24:00,volume,11000
+f3,1,TA-M286-7241,Design Year,00:00:00,24:00,volume,11000
+f3,1,TA-M286-7242,Design Year,00:00:00,24:00,volume,4500
+f3,1,TA-M286-7243,Design Year,00:00:00,24:00,volume,4500
+f3,1,TA-M286-7244,Design Year,00:00:00,24:00,volume,8500
+f3,1,TA-M286-7245,Design Year,00:00:00,24:00,volume,8500
+f3,1,TA-M286-7246,Design Year,00:00:00,24:00,volume,5500
+f3,1,TA-M286-7247,Design Year,00:00:00,24:00,volume,5500
+f3,1,TA-M286-7248,Design Year,00:00:00,24:00,volume,41000
+f3,1,TA-M286-7249,Design Year,00:00:00,24:00,volume,41000
+f3,1,TA-M286-7250,Design Year,00:00:00,24:00,volume,37500
+f3,1,TA-M286-7251,Design Year,00:00:00,24:00,volume,37500
+f3,1,TA-M286-7252,Design Year,00:00:00,24:00,volume,44500
+f3,1,TA-M286-7253,Design Year,00:00:00,24:00,volume,44500

@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-,OhioDOT-23029-JEF-43-2.80,s1,2003.0,,Unavailable,unknown,2003.0,state DOT
+1,OhioDOT-23029JEF-43-2.80,s1,2003.0,Opening Year,Unavailable,unknown,2003.0,state DOT

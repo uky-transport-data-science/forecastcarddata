@@ -1,0 +1,8 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,TAS 3066A-14-7894,Design Year,00:00:00,24:00,volume,49400
+f3,1,TAS 3066A-14-7895,Design Year,00:00:00,24:00,volume,40400
+f3,1,TAS 3066A-14-7896,Design Year,00:00:00,24:00,volume,51100
+f3,1,TAS 3066A-14-7897,Design Year,00:00:00,24:00,volume,55900
+f3,1,TAS 3066A-14-7898,Design Year,00:00:00,24:00,volume,57600
+f3,1,TAS 3066A-14-7899,Design Year,00:00:00,24:00,volume,39900
+f3,1,TAS 3066A-14-7900,Design Year,00:00:00,24:00,volume,41600

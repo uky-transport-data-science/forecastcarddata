@@ -1,0 +1,5 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,SPAR-246-7168,Design Year,00:00:00,24:00,volume,16000
+f3,1,SPAR-246-7169,Design Year,00:00:00,24:00,volume,16000
+f3,1,SPAR-246-7170,Design Year,00:00:00,24:00,volume,19000
+f3,1,SPAR-246-7171,Design Year,00:00:00,24:00,volume,19000

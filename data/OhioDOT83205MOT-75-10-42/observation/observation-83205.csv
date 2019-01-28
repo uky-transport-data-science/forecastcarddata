@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-83205-873-1,83205-873,Opening Year,unknown,unknown,,00:00,24:00,volume,113330
-83205-873-1,83205-873,Design Year,unknown,unknown,,00:00,24:00,volume,113330
-83205-874-1,83205-874,Opening Year,unknown,unknown,,00:00,24:00,volume,112560
-83205-874-1,83205-874,Design Year,unknown,unknown,,00:00,24:00,volume,112560
-83205-875-1,83205-875,Opening Year,unknown,unknown,,00:00,24:00,volume,122680
-83205-875-1,83205-875,Design Year,unknown,unknown,,00:00,24:00,volume,122680
-83205-876-1,83205-876,Opening Year,unknown,unknown,,00:00,24:00,volume,119660
-83205-876-1,83205-876,Design Year,unknown,unknown,,00:00,24:00,volume,119660
+83205-873-1,83205-873,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,113330
+83205-873-1,83205-873,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,113330
+83205-874-1,83205-874,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,112560
+83205-874-1,83205-874,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,112560
+83205-875-1,83205-875,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,122680
+83205-875-1,83205-875,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,122680
+83205-876-1,83205-876,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,119660
+83205-876-1,83205-876,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,119660

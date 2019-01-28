@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101575-4815-1,101575-4815,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,118071
+101575-4815-1,101575-4815,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,118071
+101575-4844-1,101575-4844,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,24218
+101575-4844-1,101575-4844,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,24218
+101575-4845-1,101575-4845,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47920
+101575-4845-1,101575-4845,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47920
+101575-4865-1,101575-4865,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47320
+101575-4865-1,101575-4865,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47320

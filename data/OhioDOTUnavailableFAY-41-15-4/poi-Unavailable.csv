@@ -1,5 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-5800,", , FAY4115.57",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , FAY4115.57"
-Unavailable-5800,", , FAY4115.57",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , FAY4115.57"
-Unavailable-5802,", , FAY4115.4",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , FAY4115.4"
-Unavailable-5802,", , FAY4115.4",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , FAY4115.4"
+Unavailable-5800,  FAY4115.57,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  FAY4115.57
+Unavailable-5802,  FAY4115.4,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  FAY4115.4

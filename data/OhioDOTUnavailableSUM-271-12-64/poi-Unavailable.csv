@@ -1,33 +1,17 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-2541,", , SUM0027114.500",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0027114.500"
-Unavailable-2541,", , SUM0027114.500",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0027114.500"
-Unavailable-2542,", , SUM0027112.310",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0027112.310"
-Unavailable-2542,", , SUM0027112.310",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0027112.310"
-Unavailable-2543,", , SUM0027111.390",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0027111.390"
-Unavailable-2543,", , SUM0027111.390",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0027111.390"
-Unavailable-2548,", , SUM000824.150",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM000824.150"
-Unavailable-2548,", , SUM000824.150",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM000824.150"
-Unavailable-2549,", , SUM0000817.820",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM0000817.820"
-Unavailable-2549,", , SUM0000817.820",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM0000817.820"
-Unavailable-2550,", , SUM0000817.680",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM0000817.680"
-Unavailable-2550,", , SUM0000817.680",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM0000817.680"
-Unavailable-2576,", , SUM00480.290",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM00480.290"
-Unavailable-2576,", , SUM00480.290",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM00480.290"
-Unavailable-2577,", , SUM000823.430",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000823.430"
-Unavailable-2577,", , SUM000823.430",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000823.430"
-Unavailable-2578,", , SUM000823.560",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000823.560"
-Unavailable-2578,", , SUM000823.560",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000823.560"
-Unavailable-2579,", , SUM0000818.740",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM0000818.740"
-Unavailable-2579,", , SUM0000818.740",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM0000818.740"
-Unavailable-2580,", , SUM0000818.610",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM0000818.610"
-Unavailable-2580,", , SUM0000818.610",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM0000818.610"
-Unavailable-2581,", , SUM000823.920",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000823.920"
-Unavailable-2581,", , SUM000823.920",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000823.920"
-Unavailable-2582,", , SUM000823.960",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000823.960"
-Unavailable-2582,", , SUM000823.960",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000823.960"
-Unavailable-2583,", , SUM000824.030",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000824.030"
-Unavailable-2583,", , SUM000824.030",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000824.030"
-Unavailable-2584,", , SUM000824.080",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000824.080"
-Unavailable-2584,", , SUM000824.080",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM000824.080"
-Unavailable-2585,", , SUM0000817.500",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM0000817.500"
-Unavailable-2585,", , SUM0000817.500",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM0000817.500"
+Unavailable-2541,  SUM0027114.500,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM0027114.500
+Unavailable-2542,  SUM0027112.310,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM0027112.310
+Unavailable-2543,  SUM0027111.390,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM0027111.390
+Unavailable-2548,  SUM000824.150,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM000824.150
+Unavailable-2549,  SUM0000817.820,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM0000817.820
+Unavailable-2550,  SUM0000817.680,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM0000817.680
+Unavailable-2576,  SUM00480.290,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM00480.290
+Unavailable-2577,  SUM000823.430,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM000823.430
+Unavailable-2578,  SUM000823.560,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM000823.560
+Unavailable-2579,  SUM0000818.740,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM0000818.740
+Unavailable-2580,  SUM0000818.610,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM0000818.610
+Unavailable-2581,  SUM000823.920,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM000823.920
+Unavailable-2582,  SUM000823.960,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM000823.960
+Unavailable-2583,  SUM000824.030,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM000824.030
+Unavailable-2584,  SUM000824.080,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM000824.080
+Unavailable-2585,  SUM0000817.500,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM0000817.500

@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-77451-2432-1,77451-2432,Opening Year,unknown,unknown,,00:00,24:00,volume,42015
-77451-2432-1,77451-2432,Design Year,unknown,unknown,,00:00,24:00,volume,42015
-77451-2469-1,77451-2469,Opening Year,unknown,unknown,,00:00,24:00,volume,40322
-77451-2469-1,77451-2469,Design Year,unknown,unknown,,00:00,24:00,volume,40322
-77451-2470-1,77451-2470,Opening Year,unknown,unknown,,00:00,24:00,volume,40322
-77451-2470-1,77451-2470,Design Year,unknown,unknown,,00:00,24:00,volume,40322
-77451-2471-1,77451-2471,Opening Year,unknown,unknown,,00:00,24:00,volume,42015
-77451-2471-1,77451-2471,Design Year,unknown,unknown,,00:00,24:00,volume,42015

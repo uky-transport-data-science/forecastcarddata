@@ -1,11 +1,11 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-23734-864-1,23734-864,Opening Year,unknown,unknown,,00:00,24:00,volume,9630
-23734-864-1,23734-864,Design Year,unknown,unknown,,00:00,24:00,volume,9630
-23734-865-1,23734-865,Opening Year,unknown,unknown,,00:00,24:00,volume,9620
-23734-865-1,23734-865,Design Year,unknown,unknown,,00:00,24:00,volume,9620
-23734-866-1,23734-866,Opening Year,unknown,unknown,,00:00,24:00,volume,12540
-23734-866-1,23734-866,Design Year,unknown,unknown,,00:00,24:00,volume,12540
-23734-867-1,23734-867,Opening Year,unknown,unknown,,00:00,24:00,volume,9840
-23734-867-1,23734-867,Design Year,unknown,unknown,,00:00,24:00,volume,9840
-23734-868-1,23734-868,Opening Year,unknown,unknown,,00:00,24:00,volume,16530
-23734-868-1,23734-868,Design Year,unknown,unknown,,00:00,24:00,volume,16530
+23734-864-1,23734-864,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,9630
+23734-864-1,23734-864,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,9630
+23734-865-1,23734-865,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,9620
+23734-865-1,23734-865,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,9620
+23734-866-1,23734-866,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,12540
+23734-866-1,23734-866,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,12540
+23734-867-1,23734-867,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,9840
+23734-867-1,23734-867,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,9840
+23734-868-1,23734-868,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,16530
+23734-868-1,23734-868,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,16530

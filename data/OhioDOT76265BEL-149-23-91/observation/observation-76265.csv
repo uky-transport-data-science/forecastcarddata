@@ -1,3 +1,3 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-76265-178-1,76265-178,Opening Year,unknown,unknown,,00:00,24:00,volume,7160
-76265-178-1,76265-178,Design Year,unknown,unknown,,00:00,24:00,volume,6840
+76265-178-1,76265-178,Opening Year,unknown,unknown,2005,00:00:00,24:00:00,volume,7160
+76265-178-1,76265-178,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6840

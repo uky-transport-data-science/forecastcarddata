@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,FloridaDOT-UnavailableSR 818/Griffin Rd. from (MP 6.176) to (MP 6.276),s1,2012.0,Opening Year,Unavailable,travel-model,2012.0,state DOT

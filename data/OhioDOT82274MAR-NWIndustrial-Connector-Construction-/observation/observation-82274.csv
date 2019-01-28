@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82274-877-1,82274-877,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,10590
+82274-877-1,82274-877,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,10590
+82274-878-1,82274-878,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6800
+82274-878-1,82274-878,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6800
+82274-879-1,82274-879,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,21340
+82274-879-1,82274-879,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,21340
+82274-880-1,82274-880,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,18490
+82274-880-1,82274-880,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,18490

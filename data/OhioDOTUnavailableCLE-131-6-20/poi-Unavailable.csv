@@ -1,9 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-2447,", , CLE1316.2",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE1316.2"
-Unavailable-2447,", , CLE1316.2",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE1316.2"
-Unavailable-2465,", , CLE13216.55",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLE13216.55"
-Unavailable-2465,", , CLE13216.55",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLE13216.55"
-Unavailable-2466,", , CLE13220.61",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLE13220.61"
-Unavailable-2466,", , CLE13220.61",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLE13220.61"
-Unavailable-2536,", , CLE1313.78",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE1313.78"
-Unavailable-2536,", , CLE1313.78",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE1313.78"
+Unavailable-2447,  CLE1316.2,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE1316.2
+Unavailable-2465,  CLE13216.55,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE13216.55
+Unavailable-2466,  CLE13220.61,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE13220.61
+Unavailable-2536,  CLE1313.78,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE1313.78

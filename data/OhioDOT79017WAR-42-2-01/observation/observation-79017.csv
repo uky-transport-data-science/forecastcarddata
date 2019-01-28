@@ -1,5 +1,5 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-79017-1130-1,79017-1130,Opening Year,unknown,unknown,,00:00,24:00,volume,10710
-79017-1130-1,79017-1130,Design Year,unknown,unknown,,00:00,24:00,volume,10710
-79017-1131-1,79017-1131,Opening Year,unknown,unknown,,00:00,24:00,volume,12230
-79017-1131-1,79017-1131,Design Year,unknown,unknown,,00:00,24:00,volume,12230
+79017-1130-1,79017-1130,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,10710
+79017-1130-1,79017-1130,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,10710
+79017-1131-1,79017-1131,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,12230
+79017-1131-1,79017-1131,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,12230

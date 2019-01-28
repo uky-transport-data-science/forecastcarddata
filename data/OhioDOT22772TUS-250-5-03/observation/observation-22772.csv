@@ -1,11 +1,11 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-22772-289-1,22772-289,Opening Year,unknown,unknown,,00:00,24:00,volume,41370
-22772-289-1,22772-289,Design Year,unknown,unknown,,00:00,24:00,volume,34550
-22772-290-1,22772-290,Opening Year,unknown,unknown,,00:00,24:00,volume,35140
-22772-290-1,22772-290,Design Year,unknown,unknown,,00:00,24:00,volume,28650
-22772-292-1,22772-292,Opening Year,unknown,unknown,,00:00,24:00,volume,14470
-22772-292-1,22772-292,Design Year,unknown,unknown,,00:00,24:00,volume,12990
-22772-293-1,22772-293,Opening Year,unknown,unknown,,00:00,24:00,volume,14470
-22772-293-1,22772-293,Design Year,unknown,unknown,,00:00,24:00,volume,12990
-22772-294-1,22772-294,Opening Year,unknown,unknown,,00:00,24:00,volume,14470
-22772-294-1,22772-294,Design Year,unknown,unknown,,00:00,24:00,volume,12990
+22772-289-1,22772-289,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,41370
+22772-289-1,22772-289,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,34550
+22772-290-1,22772-290,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,35140
+22772-290-1,22772-290,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,28650
+22772-292-1,22772-292,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,14470
+22772-292-1,22772-292,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,12990
+22772-293-1,22772-293,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,14470
+22772-293-1,22772-293,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,12990
+22772-294-1,22772-294,Opening Year,unknown,unknown,2006,00:00:00,24:00:00,volume,14470
+22772-294-1,22772-294,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,12990

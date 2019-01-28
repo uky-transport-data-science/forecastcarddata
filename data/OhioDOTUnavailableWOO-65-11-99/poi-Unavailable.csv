@@ -1,5 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-2794,", , WOO6512",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WOO6512"
-Unavailable-2794,", , WOO6512",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WOO6512"
-Unavailable-2928,", , WOO6412.000",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , WOO6412.000"
-Unavailable-2928,", , WOO6412.000",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , WOO6412.000"
+Unavailable-2794,  WOO6512,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WOO6512
+Unavailable-2928,  WOO6412.000,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WOO6412.000

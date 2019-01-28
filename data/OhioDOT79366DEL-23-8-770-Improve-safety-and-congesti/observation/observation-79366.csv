@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79366-3360-1,79366-3360,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,28849
+79366-3360-1,79366-3360,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,28849
+79366-3361-1,79366-3361,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,28849
+79366-3361-1,79366-3361,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,28849
+79366-3362-1,79366-3362,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,28849
+79366-3362-1,79366-3362,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,28849
+79366-3423-1,79366-3423,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,31994
+79366-3423-1,79366-3423,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,31994
+79366-3424-1,79366-3424,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,28849
+79366-3424-1,79366-3424,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,28849

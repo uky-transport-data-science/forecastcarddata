@@ -1,5 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-97185-4196-1,97185-4196,Opening Year,unknown,unknown,,00:00,24:00,volume,7428
-97185-4196-1,97185-4196,Design Year,unknown,unknown,,00:00,24:00,volume,7428
-97185-4742-1,97185-4742,Opening Year,unknown,unknown,,00:00,24:00,volume,30066
-97185-4742-1,97185-4742,Design Year,unknown,unknown,,00:00,24:00,volume,30066

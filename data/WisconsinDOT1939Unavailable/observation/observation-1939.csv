@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+1939-6450-1,1939-6450,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,31700
+1939-6451-1,1939-6451,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,32200
+1939-6452-1,1939-6452,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,31400
+1939-6453-1,1939-6453,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,35100

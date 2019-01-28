@@ -1,0 +1,5 @@
+poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
+93184-3219,  SCI34817.42,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SCI34817.42
+93184-3231,  SCI34812.14,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SCI34812.14
+93184-3232,  SCI1046.37,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SCI1046.37
+93184-3233,  SCI10412.13,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SCI10412.13

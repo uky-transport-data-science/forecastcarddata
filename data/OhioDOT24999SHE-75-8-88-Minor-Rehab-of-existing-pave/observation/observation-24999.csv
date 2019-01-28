@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+24999-2880-1,24999-2880,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,38940
+24999-2880-1,24999-2880,Design Year,unknown,unknown,2013,00:00:00,24:00:00,volume,38940
+24999-2881-1,24999-2881,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,34350
+24999-2881-1,24999-2881,Design Year,unknown,unknown,2013,00:00:00,24:00:00,volume,34350
+24999-2882-1,24999-2882,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,34550
+24999-2882-1,24999-2882,Design Year,unknown,unknown,2013,00:00:00,24:00:00,volume,34550
+24999-2932-1,24999-2932,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,34310
+24999-2932-1,24999-2932,Design Year,unknown,unknown,2013,00:00:00,24:00:00,volume,34310

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79432-1870-1,79432-1870,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,7010
+79432-1870-1,79432-1870,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,6720
+79432-1894-1,79432-1894,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,13090
+79432-1894-1,79432-1894,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,13650
+79432-1895-1,79432-1895,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,7010
+79432-1895-1,79432-1895,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,6720

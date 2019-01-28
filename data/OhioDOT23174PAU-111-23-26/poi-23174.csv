@@ -1,9 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-23174-66,", , PAU11121.96",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PAU11121.96"
-23174-66,", , PAU11121.96",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PAU11121.96"
-23174-67,", , PAU11123.4",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PAU11123.4"
-23174-67,", , PAU11123.4",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PAU11123.4"
-23174-68,", , PAU63723.26",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PAU63723.26"
-23174-68,", , PAU63723.26",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PAU63723.26"
-23174-69,", , PAU63723.26",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PAU63723.26"
-23174-69,", , PAU63723.26",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PAU63723.26"
+23174-66,  PAU11121.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PAU11121.96
+23174-67,  PAU11123.4,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PAU11123.4
+23174-68,  PAU63723.26,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PAU63723.26
+23174-69,  PAU63723.26,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PAU63723.26

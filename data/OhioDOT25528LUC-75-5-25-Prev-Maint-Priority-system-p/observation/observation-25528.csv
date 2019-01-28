@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25528-1118-1,25528-1118,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,90150
+25528-1118-1,25528-1118,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,90150
+25528-1119-1,25528-1119,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,77990
+25528-1119-1,25528-1119,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,77990
+25528-1120-1,25528-1120,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,76290
+25528-1120-1,25528-1120,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,76290
+25528-1121-1,25528-1121,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,64800
+25528-1121-1,25528-1121,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,64800

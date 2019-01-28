@@ -1,5 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-86921-2671,", , DEL5219.93",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , DEL5219.93"
-86921-2671,", , DEL5219.93",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , DEL5219.93"
-86921-2672,", , MRW611.39",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MRW611.39"
-86921-2672,", , MRW611.39",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MRW611.39"
+86921-2671,  DEL5219.93,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  DEL5219.93
+86921-2672,  MRW611.39,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MRW611.39

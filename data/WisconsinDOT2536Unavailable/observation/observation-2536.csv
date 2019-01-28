@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2536-6267-1,2536-6267,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,13700
+2536-6268-1,2536-6268,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,13900
+2536-6269-1,2536-6269,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,6000
+2536-6270-1,2536-6270,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,7600
+2536-6278-1,2536-6278,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,13500

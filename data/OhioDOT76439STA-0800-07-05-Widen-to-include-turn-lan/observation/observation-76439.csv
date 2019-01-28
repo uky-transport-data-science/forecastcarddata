@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76439-2735-1,76439-2735,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,12843
+76439-2735-1,76439-2735,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,15270
+76439-2739-1,76439-2739,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7973
+76439-2739-1,76439-2739,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,13290
+76439-2740-1,76439-2740,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7973
+76439-2740-1,76439-2740,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,13290
+76439-2741-1,76439-2741,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7973
+76439-2741-1,76439-2741,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,13290

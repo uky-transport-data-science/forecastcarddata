@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85894-2633-1,85894-2633,Opening Year,unknown,unknown,2014,00:00:00,24:00:00,volume,3310
+85894-2633-1,85894-2633,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,3260
+85894-2634-1,85894-2634,Opening Year,unknown,unknown,2014,00:00:00,24:00:00,volume,3310
+85894-2634-1,85894-2634,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,3260

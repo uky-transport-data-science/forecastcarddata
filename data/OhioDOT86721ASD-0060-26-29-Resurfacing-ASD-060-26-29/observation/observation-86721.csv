@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+86721-2354-1,86721-2354,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,1330
+86721-2354-1,86721-2354,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,1180
+86721-2355-1,86721-2355,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,1980
+86721-2355-1,86721-2355,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,1820

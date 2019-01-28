@@ -1,0 +1,5 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,SPARS 73-8537,Design Year,00:00:00,24:00,volume,20600
+f3,1,SPARS 73-8538,Design Year,00:00:00,24:00,volume,20600
+f3,1,SPARS 73-8539,Design Year,00:00:00,24:00,volume,19100
+f3,1,SPARS 73-8540,Design Year,00:00:00,24:00,volume,19100

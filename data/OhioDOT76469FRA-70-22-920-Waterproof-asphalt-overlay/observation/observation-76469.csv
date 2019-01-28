@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76469-3937-1,76469-3937,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,107266
+76469-3937-1,76469-3937,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,115920
+76469-3938-1,76469-3938,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,114281
+76469-3938-1,76469-3938,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,116330
+76469-3939-1,76469-3939,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,114281
+76469-3939-1,76469-3939,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,105060
+76469-3940-1,76469-3940,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,107446
+76469-3940-1,76469-3940,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,103420

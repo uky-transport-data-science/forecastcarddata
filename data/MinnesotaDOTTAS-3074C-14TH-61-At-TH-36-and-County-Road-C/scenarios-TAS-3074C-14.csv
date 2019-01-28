@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,MinnesotaDOT-TAS 3074C-14TH 61 At TH 36 and County Road C,s1,1968.0,Design Year,Unavailable,trendline,1968.0,state DOT

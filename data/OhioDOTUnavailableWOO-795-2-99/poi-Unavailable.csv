@@ -1,7 +1,2 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-2527,", , WOO7952.99",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO7952.99"
-Unavailable-2527,", , WOO7952.99",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO7952.99"
-Unavailable-2871,", , WOO7952.26",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , WOO7952.26"
-Unavailable-2871,", , WOO7952.26",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , WOO7952.26"
-Unavailable-4385,", , WOO7954.08",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO7954.08"
-Unavailable-4385,", , WOO7954.08",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO7954.08"
+Unavailable-2527,  WOO7952.99,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WOO7952.99

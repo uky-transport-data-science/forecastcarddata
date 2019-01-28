@@ -1,0 +1,4 @@
+poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
+237592-2-1.0,M.P. 21.351-M.P. 22.135,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Florida,FloridaDOT,M.P. 21.351-M.P. 22.135
+237592-2-2.0,M.P. 22.135-M.P. 23.009,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Florida,FloridaDOT,M.P. 22.135-M.P. 23.009
+237592-2-3.0,M.P. 23.009-M.P. 25.193,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Florida,FloridaDOT,M.P. 23.009-M.P. 25.193

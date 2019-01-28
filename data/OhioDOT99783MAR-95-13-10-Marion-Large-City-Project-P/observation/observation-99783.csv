@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99783-5168-1,99783-5168,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5421
+99783-5168-1,99783-5168,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5421
+99783-5169-1,99783-5169,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5922
+99783-5169-1,99783-5169,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5922

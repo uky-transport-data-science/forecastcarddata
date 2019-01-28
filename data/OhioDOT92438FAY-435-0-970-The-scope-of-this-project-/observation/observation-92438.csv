@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+92438-3994-1,92438-3994,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,1397
+92438-3994-1,92438-3994,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,1397
+92438-4062-1,92438-4062,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,4209
+92438-4062-1,92438-4062,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,4209

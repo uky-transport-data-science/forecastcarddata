@@ -1,17 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-81281-566,", , FRA7119.09",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7119.09"
-81281-566,", , FRA7119.09",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7119.09"
-81281-567,", , FRA7119.61",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7119.61"
-81281-567,", , FRA7119.61",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7119.61"
-81281-568,", , FRA7120.08",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7120.08"
-81281-568,", , FRA7120.08",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7120.08"
-81281-569,", , FRA7121.26",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7121.26"
-81281-569,", , FRA7121.26",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7121.26"
-81281-570,", , FRA7121.91",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7121.91"
-81281-570,", , FRA7121.91",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7121.91"
-81281-571,", , FRA7122.39",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7122.39"
-81281-571,", , FRA7122.39",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7122.39"
-81281-572,", , FRA7123.46",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7123.46"
-81281-572,", , FRA7123.46",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7123.46"
-81281-573,", , FRA7124.51",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7124.51"
-81281-573,", , FRA7124.51",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7124.51"
+81281-566,  FRA7119.09,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA7119.09
+81281-567,  FRA7119.61,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA7119.61
+81281-568,  FRA7120.08,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA7120.08
+81281-569,  FRA7121.26,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA7121.26
+81281-570,  FRA7121.91,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA7121.91
+81281-571,  FRA7122.39,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA7122.39
+81281-572,  FRA7123.46,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA7123.46
+81281-573,  FRA7124.51,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA7124.51

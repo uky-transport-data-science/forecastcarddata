@@ -1,13 +1,13 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-21052-662-1,21052-662,Opening Year,unknown,unknown,,00:00,24:00,volume,8790
-21052-662-1,21052-662,Design Year,unknown,unknown,,00:00,24:00,volume,8650
-21052-663-1,21052-663,Opening Year,unknown,unknown,,00:00,24:00,volume,8790
-21052-663-1,21052-663,Design Year,unknown,unknown,,00:00,24:00,volume,8650
-21052-664-1,21052-664,Opening Year,unknown,unknown,,00:00,24:00,volume,8790
-21052-664-1,21052-664,Design Year,unknown,unknown,,00:00,24:00,volume,8650
-21052-665-1,21052-665,Opening Year,unknown,unknown,,00:00,24:00,volume,8790
-21052-665-1,21052-665,Design Year,unknown,unknown,,00:00,24:00,volume,8650
-21052-666-1,21052-666,Opening Year,unknown,unknown,,00:00,24:00,volume,8790
-21052-666-1,21052-666,Design Year,unknown,unknown,,00:00,24:00,volume,8650
-21052-667-1,21052-667,Opening Year,unknown,unknown,,00:00,24:00,volume,8790
-21052-667-1,21052-667,Design Year,unknown,unknown,,00:00,24:00,volume,8650
+21052-662-1,21052-662,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,8790
+21052-662-1,21052-662,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8650
+21052-663-1,21052-663,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,8790
+21052-663-1,21052-663,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8650
+21052-664-1,21052-664,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,8790
+21052-664-1,21052-664,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8650
+21052-665-1,21052-665,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,8790
+21052-665-1,21052-665,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8650
+21052-666-1,21052-666,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,8790
+21052-666-1,21052-666,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8650
+21052-667-1,21052-667,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,8790
+21052-667-1,21052-667,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8650

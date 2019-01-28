@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77244-608-1,77244-608,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,35540
+77244-608-1,77244-608,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,40400
+77244-609-1,77244-609,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,28170
+77244-609-1,77244-609,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,33950

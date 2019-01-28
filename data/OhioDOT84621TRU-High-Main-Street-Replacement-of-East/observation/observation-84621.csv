@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84621-3193-1,84621-3193,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,12529
+84621-3193-1,84621-3193,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,13490
+84621-3194-1,84621-3194,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5704
+84621-3194-1,84621-3194,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,5090

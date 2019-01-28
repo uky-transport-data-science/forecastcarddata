@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84629-2641-1,84629-2641,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,64950
+84629-2641-1,84629-2641,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,60620
+84629-2642-1,84629-2642,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,68410
+84629-2642-1,84629-2642,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,63560

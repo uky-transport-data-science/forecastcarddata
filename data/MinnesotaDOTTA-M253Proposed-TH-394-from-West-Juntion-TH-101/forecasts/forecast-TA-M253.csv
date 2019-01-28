@@ -1,0 +1,14 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,TA-M253-7520,Design Year,00:00:00,24:00,volume,14000
+f3,1,TA-M253-7521,Design Year,00:00:00,24:00,volume,14000
+f3,1,TA-M253-7522,Design Year,00:00:00,24:00,volume,9750
+f3,1,TA-M253-7523,Design Year,00:00:00,24:00,volume,9750
+f3,1,TA-M253-7524,Design Year,00:00:00,24:00,volume,4290
+f3,1,TA-M253-7525,Design Year,00:00:00,24:00,volume,6675
+f3,1,TA-M253-7526,Design Year,00:00:00,24:00,volume,3240
+f3,1,TA-M253-7527,Design Year,00:00:00,24:00,volume,1050
+f3,1,TA-M253-7528,Design Year,00:00:00,24:00,volume,2385
+f3,1,TA-M253-7529,Design Year,00:00:00,24:00,volume,4060
+f3,1,TA-M253-7530,Design Year,00:00:00,24:00,volume,2775
+f3,1,TA-M253-7531,Design Year,00:00:00,24:00,volume,2025
+f3,1,TA-M253-7532,Design Year,00:00:00,24:00,volume,2025

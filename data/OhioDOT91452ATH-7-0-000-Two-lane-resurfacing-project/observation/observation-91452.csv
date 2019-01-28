@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91452-3381-1,91452-3381,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5152
+91452-3381-1,91452-3381,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5152
+91452-3461-1,91452-3461,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,4864
+91452-3461-1,91452-3461,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,4864
+91452-4036-1,91452-4036,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5152
+91452-4036-1,91452-4036,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5152

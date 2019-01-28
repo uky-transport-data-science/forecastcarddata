@@ -1,5 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-881-1,Unavailable-881,Opening Year,unknown,unknown,,00:00,24:00,volume,15580
-Unavailable-881-1,Unavailable-881,Design Year,unknown,unknown,,00:00,24:00,volume,16950
-Unavailable-882-1,Unavailable-882,Opening Year,unknown,unknown,,00:00,24:00,volume,15580
-Unavailable-882-1,Unavailable-882,Design Year,unknown,unknown,,00:00,24:00,volume,16950

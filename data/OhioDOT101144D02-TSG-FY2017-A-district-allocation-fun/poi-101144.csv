@@ -1,0 +1,6 @@
+poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
+101144-5209,  WOO2519.23,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WOO2519.23
+101144-5210,  WOO2519.39,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WOO2519.39
+101144-5211,  LUC200.37,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LUC200.37
+101144-5212,  LUC200.61,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LUC200.61
+101144-5295,  LUC6412.21,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  LUC6412.21

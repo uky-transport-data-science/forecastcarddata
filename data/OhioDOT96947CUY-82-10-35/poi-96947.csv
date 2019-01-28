@@ -1,27 +1,14 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-96947-4136,", , CUY8210.02",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.02"
-96947-4136,", , CUY8210.02",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.02"
-96947-4137,", , CUY8210.23",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.23"
-96947-4137,", , CUY8210.23",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.23"
-96947-4138,", , CUY8210.54",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.54"
-96947-4138,", , CUY8210.54",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.54"
-96947-4139,", , CUY8210.79",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.79"
-96947-4139,", , CUY8210.79",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.79"
-96947-4140,", , CUY8210.98",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.98"
-96947-4140,", , CUY8210.98",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8210.98"
-96947-4141,", , CUY8211.1",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.1"
-96947-4141,", , CUY8211.1",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.1"
-96947-4142,", , CUY8211.41",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.41"
-96947-4142,", , CUY8211.41",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.41"
-96947-4143,", , CUY8211.53",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.53"
-96947-4143,", , CUY8211.53",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.53"
-96947-4144,", , CUY8211.67",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.67"
-96947-4144,", , CUY8211.67",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.67"
-96947-4145,", , CUY8211.79",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.79"
-96947-4145,", , CUY8211.79",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.79"
-96947-4146,", , CUY8211.86",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.86"
-96947-4146,", , CUY8211.86",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY8211.86"
-96947-4182,", , CUY1762.46",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY1762.46"
-96947-4182,", , CUY1762.46",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY1762.46"
-96947-4183,", , CUY1762.62",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY1762.62"
-96947-4183,", , CUY1762.62",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY1762.62"
+96947-4136,  CUY8210.02,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8210.02
+96947-4137,  CUY8210.23,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8210.23
+96947-4138,  CUY8210.54,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8210.54
+96947-4139,  CUY8210.79,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8210.79
+96947-4140,  CUY8210.98,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8210.98
+96947-4141,  CUY8211.1,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8211.1
+96947-4142,  CUY8211.41,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8211.41
+96947-4143,  CUY8211.53,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8211.53
+96947-4144,  CUY8211.67,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8211.67
+96947-4145,  CUY8211.79,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8211.79
+96947-4146,  CUY8211.86,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY8211.86
+96947-4182,  CUY1762.46,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY1762.46
+96947-4183,  CUY1762.62,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY1762.62

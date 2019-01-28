@@ -1,5 +1,5 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-85147-3477-1,85147-3477,Opening Year,unknown,unknown,,00:00,24:00,volume,65011
-85147-3477-1,85147-3477,Design Year,unknown,unknown,,00:00,24:00,volume,65011
-85147-3481-1,85147-3481,Opening Year,unknown,unknown,,00:00,24:00,volume,26864
-85147-3481-1,85147-3481,Design Year,unknown,unknown,,00:00,24:00,volume,26864
+85147-3477-1,85147-3477,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,65011
+85147-3477-1,85147-3477,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,65011
+85147-3481-1,85147-3481,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,26864
+85147-3481-1,85147-3481,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,26864

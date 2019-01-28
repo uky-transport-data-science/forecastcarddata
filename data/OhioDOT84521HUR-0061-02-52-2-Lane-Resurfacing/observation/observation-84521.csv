@@ -1,0 +1,19 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84521-2357-1,84521-2357,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,1840
+84521-2357-1,84521-2357,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,1460
+84521-2358-1,84521-2358,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,3380
+84521-2358-1,84521-2358,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,2850
+84521-2359-1,84521-2359,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,3680
+84521-2359-1,84521-2359,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,2960
+84521-2369-1,84521-2369,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,3270
+84521-2369-1,84521-2369,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,2980
+84521-2402-1,84521-2402,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,4750
+84521-2402-1,84521-2402,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,5860
+84521-2403-1,84521-2403,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,5860
+84521-2403-1,84521-2403,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,3690
+84521-2420-1,84521-2420,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,8490
+84521-2420-1,84521-2420,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,7840
+84521-2426-1,84521-2426,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,4550
+84521-2426-1,84521-2426,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4390
+84521-2427-1,84521-2427,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,3280
+84521-2427-1,84521-2427,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,3790

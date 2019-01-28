@@ -1,7 +1,7 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-96421-3291-1,96421-3291,Opening Year,unknown,unknown,,00:00,24:00,volume,137590
-96421-3291-1,96421-3291,Design Year,unknown,unknown,,00:00,24:00,volume,137590
-96421-3292-1,96421-3292,Opening Year,unknown,unknown,,00:00,24:00,volume,129034
-96421-3292-1,96421-3292,Design Year,unknown,unknown,,00:00,24:00,volume,129034
-96421-3293-1,96421-3293,Opening Year,unknown,unknown,,00:00,24:00,volume,118119
-96421-3293-1,96421-3293,Design Year,unknown,unknown,,00:00,24:00,volume,118119
+96421-3291-1,96421-3291,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,137590
+96421-3291-1,96421-3291,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,137590
+96421-3292-1,96421-3292,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,129034
+96421-3292-1,96421-3292,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,129034
+96421-3293-1,96421-3293,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,118119
+96421-3293-1,96421-3293,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,118119

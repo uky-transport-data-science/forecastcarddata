@@ -1,11 +1,11 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-24947-1580-1,24947-1580,Opening Year,unknown,unknown,,00:00,24:00,volume,8370
-24947-1580-1,24947-1580,Design Year,unknown,unknown,,00:00,24:00,volume,8370
-24947-1581-1,24947-1581,Opening Year,unknown,unknown,,00:00,24:00,volume,6030
-24947-1581-1,24947-1581,Design Year,unknown,unknown,,00:00,24:00,volume,6030
-24947-1585-1,24947-1585,Opening Year,unknown,unknown,,00:00,24:00,volume,12670
-24947-1585-1,24947-1585,Design Year,unknown,unknown,,00:00,24:00,volume,12670
-24947-1586-1,24947-1586,Opening Year,unknown,unknown,,00:00,24:00,volume,8460
-24947-1586-1,24947-1586,Design Year,unknown,unknown,,00:00,24:00,volume,8460
-24947-1587-1,24947-1587,Opening Year,unknown,unknown,,00:00,24:00,volume,7920
-24947-1587-1,24947-1587,Design Year,unknown,unknown,,00:00,24:00,volume,7920
+24947-1580-1,24947-1580,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8370
+24947-1580-1,24947-1580,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8370
+24947-1581-1,24947-1581,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,6030
+24947-1581-1,24947-1581,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,6030
+24947-1585-1,24947-1585,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,12670
+24947-1585-1,24947-1585,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,12670
+24947-1586-1,24947-1586,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8460
+24947-1586-1,24947-1586,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8460
+24947-1587-1,24947-1587,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,7920
+24947-1587-1,24947-1587,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,7920

@@ -1,5 +1,5 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-22219-179-1,22219-179,Opening Year,unknown,unknown,,00:00,24:00,volume,4000
-22219-179-1,22219-179,Design Year,unknown,unknown,,00:00,24:00,volume,3360
-22219-180-1,22219-180,Opening Year,unknown,unknown,,00:00,24:00,volume,1950
-22219-180-1,22219-180,Design Year,unknown,unknown,,00:00,24:00,volume,1950
+22219-179-1,22219-179,Opening Year,unknown,unknown,2004,00:00:00,24:00:00,volume,4000
+22219-179-1,22219-179,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,3360
+22219-180-1,22219-180,Opening Year,unknown,unknown,2004,00:00:00,24:00:00,volume,1950
+22219-180-1,22219-180,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,1950

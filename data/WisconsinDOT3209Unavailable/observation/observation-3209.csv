@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3209-6613-1,3209-6613,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,1000
+3209-6614-1,3209-6614,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,7500
+3209-6615-1,3209-6615,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,3400
+3209-6618-1,3209-6618,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,1050

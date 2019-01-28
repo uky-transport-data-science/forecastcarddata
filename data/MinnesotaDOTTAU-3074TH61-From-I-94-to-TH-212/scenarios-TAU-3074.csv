@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,MinnesotaDOT-TAU 3074TH61 - From I-94 to TH 212,s1,1964.0,Design Year,Unavailable,trendline,1964.0,state DOT

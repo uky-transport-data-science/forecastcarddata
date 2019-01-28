@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97327-3302-1,97327-3302,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7843
+97327-3302-1,97327-3302,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7843
+97327-3370-1,97327-3370,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,8049
+97327-3370-1,97327-3370,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,8049
+97327-3371-1,97327-3371,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,8049
+97327-3371-1,97327-3371,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,8049
+97327-3372-1,97327-3372,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,6405
+97327-3372-1,97327-3372,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,6405

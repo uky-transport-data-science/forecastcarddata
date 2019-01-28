@@ -1,0 +1,15 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,FEIS I35E-8708,Design Year,00:00:00,24:00,volume,39500
+f3,1,FEIS I35E-8709,Design Year,00:00:00,24:00,volume,39500
+f3,1,FEIS I35E-8710,Design Year,00:00:00,24:00,volume,19000
+f3,1,FEIS I35E-8711,Design Year,00:00:00,24:00,volume,19000
+f3,1,FEIS I35E-8712,Design Year,00:00:00,24:00,volume,22000
+f3,1,FEIS I35E-8713,Design Year,00:00:00,24:00,volume,22000
+f3,1,FEIS I35E-8714,Design Year,00:00:00,24:00,volume,25000
+f3,1,FEIS I35E-8715,Design Year,00:00:00,24:00,volume,25000
+f3,1,FEIS I35E-8716,Design Year,00:00:00,24:00,volume,23000
+f3,1,FEIS I35E-8717,Design Year,00:00:00,24:00,volume,23000
+f3,1,FEIS I35E-8718,Design Year,00:00:00,24:00,volume,19000
+f3,1,FEIS I35E-8719,Design Year,00:00:00,24:00,volume,19000
+f3,1,FEIS I35E-8720,Design Year,00:00:00,24:00,volume,61500
+f3,1,FEIS I35E-8721,Design Year,00:00:00,24:00,volume,61500

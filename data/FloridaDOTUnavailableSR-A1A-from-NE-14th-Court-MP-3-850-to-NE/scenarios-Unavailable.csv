@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,FloridaDOT-UnavailableSR A1A from NE 14th Court (MP 3.850) to NE 18th Street (MP 4.320),s1,2012.0,Opening Year,Unavailable,professional-judgment,2012.0,state DOT

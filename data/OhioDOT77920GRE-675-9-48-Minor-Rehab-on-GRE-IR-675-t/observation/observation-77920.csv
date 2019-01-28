@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77920-2687-1,77920-2687,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,73059
+77920-2687-1,77920-2687,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,67750
+77920-2688-1,77920-2688,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,38730
+77920-2688-1,77920-2688,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,35860
+77920-2689-1,77920-2689,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,38730
+77920-2689-1,77920-2689,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,48730
+77920-2690-1,77920-2690,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,56097
+77920-2690-1,77920-2690,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,42090

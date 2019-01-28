@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2252-6622-1,2252-6622,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,3000
+2252-6623-1,2252-6623,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,3000
+2252-6624-1,2252-6624,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,2600
+2252-6625-1,2252-6625,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,2000
+2252-6626-1,2252-6626,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,4000
+2252-6627-1,2252-6627,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,2700
+2252-6628-1,2252-6628,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,3500
+2252-6629-1,2252-6629,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,3600
+2252-6630-1,2252-6630,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,4400
+2252-6631-1,2252-6631,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,2800

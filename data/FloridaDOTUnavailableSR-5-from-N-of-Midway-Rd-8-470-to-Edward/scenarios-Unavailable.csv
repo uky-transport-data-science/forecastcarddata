@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,FloridaDOT-UnavailableSR-5 from N. of Midway Rd (8.470) to Edwards Rd (MP 10.780),s1,2011.0,Opening Year,Unavailable,professional-judgment,2011.0,state DOT

@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75720-1660-1,75720-1660,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,116070
+75720-1660-1,75720-1660,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,116070
+75720-1661-1,75720-1661,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,106380
+75720-1661-1,75720-1661,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,106380
+75720-1662-1,75720-1662,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,122290
+75720-1662-1,75720-1662,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,122290
+75720-1663-1,75720-1663,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,150420
+75720-1663-1,75720-1663,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,150420
+75720-1664-1,75720-1664,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,167000
+75720-1664-1,75720-1664,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,167000
+75720-1665-1,75720-1665,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,173380
+75720-1665-1,75720-1665,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,173380
+75720-1666-1,75720-1666,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,180470
+75720-1666-1,75720-1666,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,180470

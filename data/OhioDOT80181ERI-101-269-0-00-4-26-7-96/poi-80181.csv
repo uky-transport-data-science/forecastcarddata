@@ -1,13 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80181-756,", , ERI1010",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI1010"
-80181-756,", , ERI1010",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI1010"
-80181-757,", , ERI2694.11",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI2694.11"
-80181-757,", , ERI2694.11",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI2694.11"
-80181-825,", , ERI1012.46",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI1012.46"
-80181-825,", , ERI1012.46",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI1012.46"
-80181-826,", , ERI1012.72",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI1012.72"
-80181-826,", , ERI1012.72",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI1012.72"
-80181-827,", , ERI2697.45",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI2697.45"
-80181-827,", , ERI2697.45",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI2697.45"
-80181-828,", , ERI2697.96",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI2697.96"
-80181-828,", , ERI2697.96",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ERI2697.96"
+80181-756,  ERI1010,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ERI1010
+80181-757,  ERI2694.11,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ERI2694.11
+80181-825,  ERI1012.46,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ERI1012.46
+80181-826,  ERI1012.72,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ERI1012.72
+80181-827,  ERI2697.45,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ERI2697.45
+80181-828,  ERI2697.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ERI2697.96

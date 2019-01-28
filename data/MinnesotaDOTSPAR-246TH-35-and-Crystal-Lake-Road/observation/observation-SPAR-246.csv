@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+SPAR-246-7168-1,SPAR-246-7168,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,44500
+SPAR-246-7169-1,SPAR-246-7169,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,44500
+SPAR-246-7170-1,SPAR-246-7170,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,47000
+SPAR-246-7171-1,SPAR-246-7171,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,47000

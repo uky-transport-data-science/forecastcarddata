@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2923-6575-1,2923-6575,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,9800
+2923-6576-1,2923-6576,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,6400
+2923-6577-1,2923-6577,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,11800
+2923-6578-1,2923-6578,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,6900

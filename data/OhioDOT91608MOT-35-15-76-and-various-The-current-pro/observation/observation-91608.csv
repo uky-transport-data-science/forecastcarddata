@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91608-5095-1,91608-5095,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,61393
+91608-5095-1,91608-5095,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,61393
+91608-5096-1,91608-5096,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,53307
+91608-5096-1,91608-5096,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,53307
+91608-5097-1,91608-5097,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,53307
+91608-5097-1,91608-5097,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,53307

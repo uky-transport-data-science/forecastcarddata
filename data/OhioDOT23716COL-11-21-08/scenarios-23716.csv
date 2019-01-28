@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-,OhioDOT-23716-COL-11-21.08,s1,2004.0,,Unavailable,unknown,2004.0,state DOT
+1,OhioDOT-23716COL-11-21.08,s1,2004.0,Opening Year,Unavailable,unknown,2004.0,state DOT

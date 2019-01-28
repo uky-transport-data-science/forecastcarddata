@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78248-1486-1,78248-1486,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8960
+78248-1486-1,78248-1486,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,8960
+78248-1487-1,78248-1487,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,4770
+78248-1487-1,78248-1487,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,4770
+78248-1488-1,78248-1488,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,10880
+78248-1488-1,78248-1488,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,10880
+78248-1509-1,78248-1509,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,6830
+78248-1509-1,78248-1509,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,6830

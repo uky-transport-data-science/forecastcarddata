@@ -1,0 +1,15 @@
+poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
+101326-4291,  FRA27029.62,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27029.62
+101326-4292,  FRA27031.4,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27031.4
+101326-4336,  FRA335.04,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA335.04
+101326-4337,  FRA336.4,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA336.4
+101326-4338,  FRA337.18,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA337.18
+101326-4339,  FRA338.32,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA338.32
+101326-4394,  PIC2219.63,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PIC2219.63
+101326-4414,  MAD423.05,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD423.05
+101326-4417,  PIC220.54,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PIC220.54
+101326-4418,  PIC222.31,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PIC222.31
+101326-4419,  PIC226.12,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PIC226.12
+101326-4420,  PIC2210.77,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PIC2210.77
+101326-4421,  PIC2213.6,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PIC2213.6
+101326-4422,  PIC2222.21,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PIC2222.21

@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M245-7051-1,TA-M245-7051,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7052-1,TA-M245-7052,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7053-1,TA-M245-7053,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7054-1,TA-M245-7054,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7055-1,TA-M245-7055,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7056-1,TA-M245-7056,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7057-1,TA-M245-7057,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7058-1,TA-M245-7058,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7059-1,TA-M245-7059,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7060-1,TA-M245-7060,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7061-1,TA-M245-7061,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7062-1,TA-M245-7062,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,3450
+TA-M245-7063-1,TA-M245-7063,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,5050
+TA-M245-7064-1,TA-M245-7064,Design Year,unknown,unknown,2003,00:00:00,24:00:00,volume,5050

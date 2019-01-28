@@ -1,5 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-4904,", , PAU12710.875",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , PAU12710.875"
-Unavailable-4904,", , PAU12710.875",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , PAU12710.875"
-Unavailable-4905,", , PAU12712.815",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , PAU12712.815"
-Unavailable-4905,", , PAU12712.815",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , PAU12712.815"
+Unavailable-4904,  PAU12710.875,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PAU12710.875
+Unavailable-4905,  PAU12712.815,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PAU12712.815

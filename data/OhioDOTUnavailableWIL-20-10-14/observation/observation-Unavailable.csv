@@ -1,3 +1,3 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-5204-1,Unavailable-5204,Opening Year,unknown,unknown,,00:00,24:00,volume,3067
-Unavailable-5204-1,Unavailable-5204,Design Year,unknown,unknown,,00:00,24:00,volume,3067
+Unavailable-5204-1,Unavailable-5204,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3067
+Unavailable-5204-1,Unavailable-5204,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3067

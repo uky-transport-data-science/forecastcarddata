@@ -1,5 +1,5 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-82131-1590-1,82131-1590,Opening Year,unknown,unknown,,00:00,24:00,volume,4760
-82131-1590-1,82131-1590,Design Year,unknown,unknown,,00:00,24:00,volume,4760
-82131-1591-1,82131-1591,Opening Year,unknown,unknown,,00:00,24:00,volume,4760
-82131-1591-1,82131-1591,Design Year,unknown,unknown,,00:00,24:00,volume,4760
+82131-1590-1,82131-1590,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,4760
+82131-1590-1,82131-1590,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,4760
+82131-1591-1,82131-1591,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,4760
+82131-1591-1,82131-1591,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,4760

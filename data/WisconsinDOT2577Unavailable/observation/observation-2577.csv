@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2577-6260-1,2577-6260,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,23500
+2577-6271-1,2577-6271,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,10200
+2577-6272-1,2577-6272,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,18300
+2577-6273-1,2577-6273,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,20700
+2577-6275-1,2577-6275,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,25900
+2577-6281-1,2577-6281,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,5500

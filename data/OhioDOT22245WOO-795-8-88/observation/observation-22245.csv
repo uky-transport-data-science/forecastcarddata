@@ -1,13 +1,13 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-22245-1066-1,22245-1066,Opening Year,unknown,unknown,,00:00,24:00,volume,19340
-22245-1066-1,22245-1066,Design Year,unknown,unknown,,00:00,24:00,volume,19340
-22245-1067-1,22245-1067,Opening Year,unknown,unknown,,00:00,24:00,volume,19170
-22245-1067-1,22245-1067,Design Year,unknown,unknown,,00:00,24:00,volume,19170
-22245-1072-1,22245-1072,Opening Year,unknown,unknown,,00:00,24:00,volume,1640
-22245-1072-1,22245-1072,Design Year,unknown,unknown,,00:00,24:00,volume,1640
-22245-1078-1,22245-1078,Opening Year,unknown,unknown,,00:00,24:00,volume,19170
-22245-1078-1,22245-1078,Design Year,unknown,unknown,,00:00,24:00,volume,19170
-22245-1079-1,22245-1079,Opening Year,unknown,unknown,,00:00,24:00,volume,23070
-22245-1079-1,22245-1079,Design Year,unknown,unknown,,00:00,24:00,volume,23070
-22245-1094-1,22245-1094,Opening Year,unknown,unknown,,00:00,24:00,volume,4690
-22245-1094-1,22245-1094,Design Year,unknown,unknown,,00:00,24:00,volume,4690
+22245-1066-1,22245-1066,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,19340
+22245-1066-1,22245-1066,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,19340
+22245-1067-1,22245-1067,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,19170
+22245-1067-1,22245-1067,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,19170
+22245-1072-1,22245-1072,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,1640
+22245-1072-1,22245-1072,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,1640
+22245-1078-1,22245-1078,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,19170
+22245-1078-1,22245-1078,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,19170
+22245-1079-1,22245-1079,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,23070
+22245-1079-1,22245-1079,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,23070
+22245-1094-1,22245-1094,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4690
+22245-1094-1,22245-1094,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4690

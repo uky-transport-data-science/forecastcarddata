@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M298-7688-1,TA-M298-7688,Design Year,unknown,unknown,1987,00:00:00,24:00:00,volume,3450
+TA-M298-7689-1,TA-M298-7689,Design Year,unknown,unknown,1987,00:00:00,24:00:00,volume,3450
+TA-M298-7690-1,TA-M298-7690,Design Year,unknown,unknown,1987,00:00:00,24:00:00,volume,6375
+TA-M298-7691-1,TA-M298-7691,Design Year,unknown,unknown,1987,00:00:00,24:00:00,volume,6375
+TA-M298-7692-1,TA-M298-7692,Design Year,unknown,unknown,2007,00:00:00,24:00:00,volume,13500
+TA-M298-7693-1,TA-M298-7693,Design Year,unknown,unknown,2007,00:00:00,24:00:00,volume,13500

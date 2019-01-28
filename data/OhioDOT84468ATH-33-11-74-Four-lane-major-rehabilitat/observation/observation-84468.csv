@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84468-4552-1,84468-4552,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,22783
+84468-4552-1,84468-4552,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,22783
+84468-4584-1,84468-4584,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,1952
+84468-4584-1,84468-4584,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,1952
+84468-4585-1,84468-4585,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,2063
+84468-4585-1,84468-4585,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,2063
+84468-4586-1,84468-4586,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7248
+84468-4586-1,84468-4586,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7248
+84468-4587-1,84468-4587,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3044
+84468-4587-1,84468-4587,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3044

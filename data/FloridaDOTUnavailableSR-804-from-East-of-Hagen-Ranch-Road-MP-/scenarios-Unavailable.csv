@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,FloridaDOT-UnavailableSR 804 from East of Hagen Ranch Road (MP 2.760) to West of Jog Rod (MP 3.360),s1,2008.0,Opening Year,Unavailable,professional-judgment,2008.0,state DOT

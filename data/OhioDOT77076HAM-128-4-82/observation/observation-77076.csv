@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-77076-331-1,77076-331,Opening Year,unknown,unknown,,00:00,24:00,volume,10550
-77076-331-1,77076-331,Design Year,unknown,unknown,,00:00,24:00,volume,10590
-77076-350-1,77076-350,Opening Year,unknown,unknown,,00:00,24:00,volume,74970
-77076-350-1,77076-350,Design Year,unknown,unknown,,00:00,24:00,volume,64620
-77076-351-1,77076-351,Opening Year,unknown,unknown,,00:00,24:00,volume,83090
-77076-351-1,77076-351,Design Year,unknown,unknown,,00:00,24:00,volume,72930
-77076-374-1,77076-374,Opening Year,unknown,unknown,,00:00,24:00,volume,12840
-77076-374-1,77076-374,Design Year,unknown,unknown,,00:00,24:00,volume,12050
+77076-331-1,77076-331,Opening Year,unknown,unknown,2005,00:00:00,24:00:00,volume,10550
+77076-331-1,77076-331,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,10590
+77076-350-1,77076-350,Opening Year,unknown,unknown,2005,00:00:00,24:00:00,volume,74970
+77076-350-1,77076-350,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,64620
+77076-351-1,77076-351,Opening Year,unknown,unknown,2005,00:00:00,24:00:00,volume,83090
+77076-351-1,77076-351,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,72930
+77076-374-1,77076-374,Opening Year,unknown,unknown,2005,00:00:00,24:00:00,volume,12840
+77076-374-1,77076-374,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,12050

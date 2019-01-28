@@ -1,13 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-76037-467,", , LOR2544.92",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR2544.92"
-76037-467,", , LOR2544.92",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR2544.92"
-76037-468,", , LOR2545.09",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR2545.09"
-76037-468,", , LOR2545.09",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR2545.09"
-76037-469,", , LOR2546.02",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR2546.02"
-76037-469,", , LOR2546.02",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR2546.02"
-76037-470,", , LOR6119.78",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR6119.78"
-76037-470,", , LOR6119.78",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR6119.78"
-76037-471,", , LOR8315.22",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR8315.22"
-76037-471,", , LOR8315.22",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR8315.22"
-76037-472,", , LOR8318.04",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR8318.04"
-76037-472,", , LOR8318.04",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR8318.04"
+76037-467,  LOR2544.92,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR2544.92
+76037-468,  LOR2545.09,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR2545.09
+76037-469,  LOR2546.02,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR2546.02
+76037-470,  LOR6119.78,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR6119.78
+76037-471,  LOR8315.22,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR8315.22
+76037-472,  LOR8318.04,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR8318.04

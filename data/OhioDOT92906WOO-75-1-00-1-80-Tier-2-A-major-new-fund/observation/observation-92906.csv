@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+92906-5352-1,92906-5352,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,36720
+92906-5352-1,92906-5352,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,36720

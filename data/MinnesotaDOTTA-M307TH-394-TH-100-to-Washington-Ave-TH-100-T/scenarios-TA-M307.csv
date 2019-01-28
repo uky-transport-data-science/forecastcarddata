@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,MinnesotaDOT-TA-M307TH 394 - TH 100 to Washington Ave; TH 100 - Th 7 to TH 394,s1,0.0,Design Year,Unavailable,trendline,0.0,state DOT

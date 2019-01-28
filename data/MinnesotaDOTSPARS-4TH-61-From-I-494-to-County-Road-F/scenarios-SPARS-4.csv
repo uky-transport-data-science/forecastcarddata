@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,MinnesotaDOT-SPARS 4TH 61 - From I-494 to County Road F,s1,1970.0,Design Year,Unavailable,trendline,1970.0,state DOT

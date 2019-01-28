@@ -1,7 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-23675-34,", , MAH68015.41",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , MAH68015.41"
-23675-34,", , MAH68015.41",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , MAH68015.41"
-23675-73,", , MAH6809.92",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , MAH6809.92"
-23675-73,", , MAH6809.92",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , MAH6809.92"
-23675-74,", , MAH68013.38",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , MAH68013.38"
-23675-74,", , MAH68013.38",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , MAH68013.38"
+23675-34,  MAH68015.41,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MAH68015.41
+23675-73,  MAH6809.92,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MAH6809.92
+23675-74,  MAH68013.38,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MAH68013.38

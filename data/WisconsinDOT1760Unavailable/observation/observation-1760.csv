@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+1760-6528-1,1760-6528,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,3200
+1760-6529-1,1760-6529,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,9200
+1760-6530-1,1760-6530,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,11500
+1760-6531-1,1760-6531,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,2900
+1760-6532-1,1760-6532,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,5500

@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2204-6640-1,2204-6640,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,11000
+2204-6641-1,2204-6641,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,7800
+2204-6642-1,2204-6642,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,8300
+2204-6643-1,2204-6643,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,10500
+2204-6644-1,2204-6644,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,10800
+2204-6645-1,2204-6645,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,9900
+2204-6646-1,2204-6646,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,8500
+2204-6647-1,2204-6647,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,9500

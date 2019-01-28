@@ -1,5 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-3820,", , KNO5144.095",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , KNO5144.095"
-Unavailable-3820,", , KNO5144.095",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , KNO5144.095"
-Unavailable-4069,", , KNO5140.26",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , KNO5140.26"
-Unavailable-4069,", , KNO5140.26",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , KNO5140.26"
+Unavailable-3820,  KNO5144.095,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  KNO5144.095
+Unavailable-4069,  KNO5140.26,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  KNO5140.26

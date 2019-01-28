@@ -1,31 +1,16 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-77374-1568,", , MIA3610.64",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.64"
-77374-1568,", , MIA3610.64",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.64"
-77374-1569,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1569,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1570,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1570,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1571,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1571,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1572,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1572,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1573,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1573,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1574,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1574,", , MIA3610.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3610.79"
-77374-1575,", , MIA3611.06",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3611.06"
-77374-1575,", , MIA3611.06",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3611.06"
-77374-1576,", , MIA3611.06",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3611.06"
-77374-1576,", , MIA3611.06",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3611.06"
-77374-1577,", , MIA3611.06",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3611.06"
-77374-1577,", , MIA3611.06",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3611.06"
-77374-1578,", , MIA3611.06",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3611.06"
-77374-1578,", , MIA3611.06",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MIA3611.06"
-77374-1582,", , MIA18510.67",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA18510.67"
-77374-1582,", , MIA18510.67",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA18510.67"
-77374-1583,", , MIA18510.67",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA18510.67"
-77374-1583,", , MIA18510.67",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA18510.67"
-77374-1584,", , MIA18510.67",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA18510.67"
-77374-1584,", , MIA18510.67",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA18510.67"
-77374-1588,", , MIA660",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MIA660"
-77374-1588,", , MIA660",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MIA660"
+77374-1568,  MIA3610.64,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3610.64
+77374-1569,  MIA3610.79,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3610.79
+77374-1570,  MIA3610.79,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3610.79
+77374-1571,  MIA3610.79,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3610.79
+77374-1572,  MIA3610.79,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3610.79
+77374-1573,  MIA3610.79,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3610.79
+77374-1574,  MIA3610.79,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3610.79
+77374-1575,  MIA3611.06,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3611.06
+77374-1576,  MIA3611.06,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3611.06
+77374-1577,  MIA3611.06,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3611.06
+77374-1578,  MIA3611.06,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MIA3611.06
+77374-1582,  MIA18510.67,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MIA18510.67
+77374-1583,  MIA18510.67,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MIA18510.67
+77374-1584,  MIA18510.67,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MIA18510.67
+77374-1588,  MIA660,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MIA660

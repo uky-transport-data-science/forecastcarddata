@@ -1,0 +1,23 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87096-4866-1,87096-4866,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,9943
+87096-4866-1,87096-4866,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,9943
+87096-4890-1,87096-4890,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,15640
+87096-4890-1,87096-4890,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,15640
+87096-4941-1,87096-4941,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,8814
+87096-4941-1,87096-4941,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,8814
+87096-4943-1,87096-4943,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5136
+87096-4943-1,87096-4943,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,5136
+87096-4944-1,87096-4944,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,8144
+87096-4944-1,87096-4944,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,8144
+87096-4945-1,87096-4945,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7347
+87096-4945-1,87096-4945,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7347
+87096-5002-1,87096-5002,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,2234
+87096-5002-1,87096-5002,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,2234
+87096-5003-1,87096-5003,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,1716
+87096-5003-1,87096-5003,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,1716
+87096-5004-1,87096-5004,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3245
+87096-5004-1,87096-5004,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3245
+87096-5005-1,87096-5005,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7479
+87096-5005-1,87096-5005,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7479
+87096-5006-1,87096-5006,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,2613
+87096-5006-1,87096-5006,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,2613

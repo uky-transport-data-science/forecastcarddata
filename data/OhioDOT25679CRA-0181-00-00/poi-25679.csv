@@ -1,7 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-25679-593,", , CRA3094.98",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CRA3094.98"
-25679-593,", , CRA3094.98",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CRA3094.98"
-25679-604,", , CRA1810",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA1810"
-25679-604,", , CRA1810",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA1810"
-25679-605,", , CRA1810.16",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA1810.16"
-25679-605,", , CRA1810.16",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA1810.16"
+25679-593,  CRA3094.98,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CRA3094.98
+25679-604,  CRA1810,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CRA1810
+25679-605,  CRA1810.16,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CRA1810.16

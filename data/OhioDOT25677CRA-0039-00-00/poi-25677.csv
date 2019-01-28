@@ -1,11 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-25677-332,", , CRA9819.28",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA9819.28"
-25677-332,", , CRA9819.28",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA9819.28"
-25677-346,", , RIC980",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , RIC980"
-25677-346,", , RIC980",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , RIC980"
-25677-347,", , RIC6113.2",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , RIC6113.2"
-25677-347,", , RIC6113.2",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , RIC6113.2"
-25677-348,", , CRA390",6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,", , CRA390"
-25677-348,", , CRA390",6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,", , CRA390"
-25677-370,", , HUR610",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , HUR610"
-25677-370,", , HUR610",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , HUR610"
+25677-332,  CRA9819.28,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CRA9819.28
+25677-346,  RIC980,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  RIC980
+25677-347,  RIC6113.2,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  RIC6113.2
+25677-348,  CRA390,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  CRA390
+25677-370,  HUR610,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HUR610

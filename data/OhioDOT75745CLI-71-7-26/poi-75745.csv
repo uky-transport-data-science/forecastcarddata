@@ -1,11 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-75745-1813,", , CLI717.26",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , CLI717.26"
-75745-1813,", , CLI717.26",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , CLI717.26"
-75745-1814,", , GRE710",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , GRE710"
-75745-1814,", , GRE710",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , GRE710"
-75745-1815,", , CLI6820.36",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLI6820.36"
-75745-1815,", , CLI6820.36",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLI6820.36"
-75745-1817,", , CLI13420.12",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLI13420.12"
-75745-1817,", , CLI13420.12",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLI13420.12"
-75745-1818,", , GRE720",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , GRE720"
-75745-1818,", , GRE720",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , GRE720"
+75745-1813,  CLI717.26,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CLI717.26
+75745-1814,  GRE710,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  GRE710
+75745-1815,  CLI6820.36,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLI6820.36
+75745-1817,  CLI13420.12,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI13420.12
+75745-1818,  GRE720,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GRE720

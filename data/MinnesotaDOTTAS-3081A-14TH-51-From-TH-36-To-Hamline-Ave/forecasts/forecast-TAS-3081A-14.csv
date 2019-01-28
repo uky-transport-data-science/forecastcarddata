@@ -1,0 +1,15 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,TAS 3081A-14-7852,Design Year,00:00:00,24:00,volume,19900
+f3,1,TAS 3081A-14-7853,Design Year,00:00:00,24:00,volume,19900
+f3,1,TAS 3081A-14-7854,Design Year,00:00:00,24:00,volume,19300
+f3,1,TAS 3081A-14-7855,Design Year,00:00:00,24:00,volume,19300
+f3,1,TAS 3081A-14-7856,Design Year,00:00:00,24:00,volume,13700
+f3,1,TAS 3081A-14-7857,Design Year,00:00:00,24:00,volume,13700
+f3,1,TAS 3081A-14-7858,Design Year,00:00:00,24:00,volume,12000
+f3,1,TAS 3081A-14-7859,Design Year,00:00:00,24:00,volume,12000
+f3,1,TAS 3081A-14-7860,Design Year,00:00:00,24:00,volume,9900
+f3,1,TAS 3081A-14-7861,Design Year,00:00:00,24:00,volume,9900
+f3,1,TAS 3081A-14-7862,Design Year,00:00:00,24:00,volume,8500
+f3,1,TAS 3081A-14-7863,Design Year,00:00:00,24:00,volume,8500
+f3,1,TAS 3081A-14-7864,Design Year,00:00:00,24:00,volume,10500
+f3,1,TAS 3081A-14-7865,Design Year,00:00:00,24:00,volume,10500

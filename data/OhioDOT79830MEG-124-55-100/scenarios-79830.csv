@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-,OhioDOT-79830-MEG-124-55.100,s1,2007.0,,Unavailable,unknown,2007.0,state DOT
+1,OhioDOT-79830MEG-124-55.100,s1,2007.0,Opening Year,Unavailable,unknown,2007.0,state DOT

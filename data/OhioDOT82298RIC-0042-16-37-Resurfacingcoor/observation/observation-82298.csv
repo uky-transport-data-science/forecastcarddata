@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-82298-1327-1,82298-1327,Opening Year,unknown,unknown,,00:00,24:00,volume,8880
-82298-1327-1,82298-1327,Design Year,unknown,unknown,,00:00,24:00,volume,8880
-82298-1328-1,82298-1328,Opening Year,unknown,unknown,,00:00,24:00,volume,8880
-82298-1328-1,82298-1328,Design Year,unknown,unknown,,00:00,24:00,volume,8880
-82298-1329-1,82298-1329,Opening Year,unknown,unknown,,00:00,24:00,volume,9660
-82298-1329-1,82298-1329,Design Year,unknown,unknown,,00:00,24:00,volume,9660
-82298-1382-1,82298-1382,Opening Year,unknown,unknown,,00:00,24:00,volume,7760
-82298-1382-1,82298-1382,Design Year,unknown,unknown,,00:00,24:00,volume,7760

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85240-2124-1,85240-2124,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,74950
+85240-2124-1,85240-2124,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,80570
+85240-2138-1,85240-2138,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,44000
+85240-2138-1,85240-2138,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,58810
+85240-2139-1,85240-2139,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,40354
+85240-2139-1,85240-2139,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,46010

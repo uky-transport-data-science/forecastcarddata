@@ -1,0 +1,7 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,TA-M298-7688,Design Year,00:00:00,24:00,volume,2700
+f3,1,TA-M298-7689,Design Year,00:00:00,24:00,volume,2700
+f3,1,TA-M298-7690,Design Year,00:00:00,24:00,volume,7000
+f3,1,TA-M298-7691,Design Year,00:00:00,24:00,volume,7000
+f3,1,TA-M298-7692,Design Year,00:00:00,24:00,volume,9000
+f3,1,TA-M298-7693,Design Year,00:00:00,24:00,volume,9000

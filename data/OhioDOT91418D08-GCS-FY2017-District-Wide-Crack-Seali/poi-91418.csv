@@ -1,0 +1,14 @@
+poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
+91418-5103,  BUT1278.45,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  BUT1278.45
+91418-5166,  GRE3806.55,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  GRE3806.55
+91418-5174,  CLI2214.62,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLI2214.62
+91418-5175,  CLI6820.45,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLI6820.45
+91418-5176,  CLI6821.94,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLI6821.94
+91418-5214,  CLI221.31,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLI221.31
+91418-5234,  CLI224.65,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI224.65
+91418-5235,  CLI3801.76,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI3801.76
+91418-5236,  CLI3804.45,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI3804.45
+91418-5237,  CLI3807.29,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI3807.29
+91418-5238,  CLI3809.45,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI3809.45
+91418-5240,  GRE3803.04,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GRE3803.04
+91418-5282,  WAR1226.2,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR1226.2

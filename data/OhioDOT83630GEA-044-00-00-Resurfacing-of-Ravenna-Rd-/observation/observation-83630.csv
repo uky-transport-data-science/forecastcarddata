@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83630-2892-1,83630-2892,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,7490
+83630-2892-1,83630-2892,Design Year,unknown,unknown,2013,00:00:00,24:00:00,volume,7490
+83630-2952-1,83630-2952,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,6770
+83630-2952-1,83630-2952,Design Year,unknown,unknown,2013,00:00:00,24:00:00,volume,6770

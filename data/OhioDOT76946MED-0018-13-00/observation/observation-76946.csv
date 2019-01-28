@@ -1,11 +1,11 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-76946-907-1,76946-907,Opening Year,unknown,unknown,,00:00,24:00,volume,13250
-76946-907-1,76946-907,Design Year,unknown,unknown,,00:00,24:00,volume,13250
-76946-908-1,76946-908,Opening Year,unknown,unknown,,00:00,24:00,volume,13250
-76946-908-1,76946-908,Design Year,unknown,unknown,,00:00,24:00,volume,13250
-76946-909-1,76946-909,Opening Year,unknown,unknown,,00:00,24:00,volume,17540
-76946-909-1,76946-909,Design Year,unknown,unknown,,00:00,24:00,volume,17540
-76946-910-1,76946-910,Opening Year,unknown,unknown,,00:00,24:00,volume,17540
-76946-910-1,76946-910,Design Year,unknown,unknown,,00:00,24:00,volume,17540
-76946-911-1,76946-911,Opening Year,unknown,unknown,,00:00,24:00,volume,26300
-76946-911-1,76946-911,Design Year,unknown,unknown,,00:00,24:00,volume,26300
+76946-907-1,76946-907,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13250
+76946-907-1,76946-907,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13250
+76946-908-1,76946-908,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13250
+76946-908-1,76946-908,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,13250
+76946-909-1,76946-909,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,17540
+76946-909-1,76946-909,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,17540
+76946-910-1,76946-910,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,17540
+76946-910-1,76946-910,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,17540
+76946-911-1,76946-911,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,26300
+76946-911-1,76946-911,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,26300

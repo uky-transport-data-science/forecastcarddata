@@ -1,13 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-77055-719,", , CLA425.26",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLA425.26"
-77055-719,", , CLA425.26",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLA425.26"
-77055-720,", , CLA425.96",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLA425.96"
-77055-720,", , CLA425.96",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLA425.96"
-77055-727,", , CLA414.14",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLA414.14"
-77055-727,", , CLA414.14",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLA414.14"
-77055-728,", , CLA414.46",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLA414.46"
-77055-728,", , CLA414.46",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLA414.46"
-77055-729,", , CLA414.14",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLA414.14"
-77055-729,", , CLA414.14",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLA414.14"
-77055-730,", , CLA414.14",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLA414.14"
-77055-730,", , CLA414.14",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLA414.14"
+77055-719,  CLA425.26,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLA425.26
+77055-720,  CLA425.96,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLA425.96
+77055-727,  CLA414.14,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLA414.14
+77055-728,  CLA414.46,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLA414.46
+77055-729,  CLA414.14,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLA414.14
+77055-730,  CLA414.14,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLA414.14

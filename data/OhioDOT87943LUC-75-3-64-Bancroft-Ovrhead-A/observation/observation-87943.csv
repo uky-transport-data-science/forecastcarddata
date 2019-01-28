@@ -1,3 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-87943-3844-1,87943-3844,Opening Year,unknown,unknown,,00:00,24:00,volume,90750
-87943-3844-1,87943-3844,Design Year,unknown,unknown,,00:00,24:00,volume,82670

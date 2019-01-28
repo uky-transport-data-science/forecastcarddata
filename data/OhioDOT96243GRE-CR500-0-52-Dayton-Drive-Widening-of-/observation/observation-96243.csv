@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96243-3290-1,96243-3290,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3626
+96243-3290-1,96243-3290,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3626
+96243-3321-1,96243-3321,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3626
+96243-3321-1,96243-3321,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3626

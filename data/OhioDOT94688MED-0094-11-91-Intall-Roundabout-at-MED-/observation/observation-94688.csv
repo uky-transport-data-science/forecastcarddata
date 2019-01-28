@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+94688-3229-1,94688-3229,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,6299
+94688-3229-1,94688-3229,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,6299
+94688-3230-1,94688-3230,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,6299
+94688-3230-1,94688-3230,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,6299

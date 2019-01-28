@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3394-6436-1,3394-6436,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,5200
+3394-6437-1,3394-6437,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,17600
+3394-6438-1,3394-6438,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,5200
+3394-6439-1,3394-6439,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,4300
+3394-6440-1,3394-6440,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,1000
+3394-6441-1,3394-6441,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,1000
+3394-6442-1,3394-6442,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,9900
+3394-6443-1,3394-6443,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,4900
+3394-6444-1,3394-6444,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,1700
+3394-6445-1,3394-6445,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,16900

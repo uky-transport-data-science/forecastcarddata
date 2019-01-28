@@ -1,5 +1,5 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-3378-1,Unavailable-3378,Opening Year,unknown,unknown,,00:00,24:00,volume,7214
-Unavailable-3378-1,Unavailable-3378,Design Year,unknown,unknown,,00:00,24:00,volume,7214
-Unavailable-3438-1,Unavailable-3438,Opening Year,unknown,unknown,,00:00,24:00,volume,7214
-Unavailable-3438-1,Unavailable-3438,Design Year,unknown,unknown,,00:00,24:00,volume,7214
+Unavailable-3378-1,Unavailable-3378,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7214
+Unavailable-3378-1,Unavailable-3378,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7214
+Unavailable-3438-1,Unavailable-3438,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7214
+Unavailable-3438-1,Unavailable-3438,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,7214

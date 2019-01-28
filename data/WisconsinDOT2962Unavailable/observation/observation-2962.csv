@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2962-6562-1,2962-6562,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,17100
+2962-6563-1,2962-6563,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,60700
+2962-6564-1,2962-6564,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,56100
+2962-6567-1,2962-6567,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,12600

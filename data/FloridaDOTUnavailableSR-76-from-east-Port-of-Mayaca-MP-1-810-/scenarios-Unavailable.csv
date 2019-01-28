@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,FloridaDOT-UnavailableSR 76 from east Port of Mayaca (MP 1.810) to west of SR 710 (MP 9.770),s1,2008.0,Opening Year,Unavailable,professional-judgment,2008.0,state DOT

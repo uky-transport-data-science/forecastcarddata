@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,"MinnesotaDOT-SPARS 2TH 212 - TH 120 to proposed CSAH 19, I-694 - Temporary TH 212 To County Road 68",s1,1970.0,Design Year,Unavailable,trendline,1970.0,state DOT

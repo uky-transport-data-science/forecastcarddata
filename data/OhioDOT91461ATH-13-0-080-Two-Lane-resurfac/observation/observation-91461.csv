@@ -1,5 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-91461-2765-1,91461-2765,Opening Year,unknown,unknown,,00:00,24:00,volume,2415
-91461-2765-1,91461-2765,Design Year,unknown,unknown,,00:00,24:00,volume,2415
-91461-2911-1,91461-2911,Opening Year,unknown,unknown,,00:00,24:00,volume,2415
-91461-2911-1,91461-2911,Design Year,unknown,unknown,,00:00,24:00,volume,2415

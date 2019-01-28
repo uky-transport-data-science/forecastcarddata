@@ -1,7 +1,7 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-77348-919-1,77348-919,Opening Year,unknown,unknown,,00:00,24:00,volume,6860
-77348-919-1,77348-919,Design Year,unknown,unknown,,00:00,24:00,volume,6860
-77348-920-1,77348-920,Opening Year,unknown,unknown,,00:00,24:00,volume,6570
-77348-920-1,77348-920,Design Year,unknown,unknown,,00:00,24:00,volume,6570
-77348-921-1,77348-921,Opening Year,unknown,unknown,,00:00,24:00,volume,6570
-77348-921-1,77348-921,Design Year,unknown,unknown,,00:00,24:00,volume,6570
+77348-919-1,77348-919,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6860
+77348-919-1,77348-919,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6860
+77348-920-1,77348-920,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6570
+77348-920-1,77348-920,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6570
+77348-921-1,77348-921,Opening Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6570
+77348-921-1,77348-921,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,6570

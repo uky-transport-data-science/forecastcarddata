@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78425-3901-1,78425-3901,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47291
+78425-3901-1,78425-3901,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47291
+78425-3957-1,78425-3957,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47291
+78425-3957-1,78425-3957,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47291
+78425-3958-1,78425-3958,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47291
+78425-3958-1,78425-3958,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,47291
+78425-3959-1,78425-3959,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,46838
+78425-3959-1,78425-3959,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,46838
+78425-3960-1,78425-3960,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,45756
+78425-3960-1,78425-3960,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,45756

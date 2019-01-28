@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83571-2238-1,83571-2238,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,24700
+83571-2238-1,83571-2238,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,37560
+83571-2239-1,83571-2239,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,24700
+83571-2239-1,83571-2239,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,37560
+83571-2240-1,83571-2240,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,24700
+83571-2240-1,83571-2240,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,37560
+83571-2241-1,83571-2241,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,24700
+83571-2241-1,83571-2241,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,37560
+83571-2242-1,83571-2242,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,24700
+83571-2242-1,83571-2242,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,37560
+83571-2243-1,83571-2243,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,24700
+83571-2243-1,83571-2243,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,37560
+83571-2244-1,83571-2244,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,24700
+83571-2244-1,83571-2244,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,37560
+83571-2245-1,83571-2245,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,22480
+83571-2245-1,83571-2245,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,23740
+83571-2246-1,83571-2246,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,30470
+83571-2246-1,83571-2246,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,33850
+83571-2247-1,83571-2247,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,24200
+83571-2247-1,83571-2247,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,26910

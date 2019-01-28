@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3385-6681-1,3385-6681,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,670
+3385-6682-1,3385-6682,Opening Year,unknown,unknown,2010,00:00:00,24:00:00,volume,630

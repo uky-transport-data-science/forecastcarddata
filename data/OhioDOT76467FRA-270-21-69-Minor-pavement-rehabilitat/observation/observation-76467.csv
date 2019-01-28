@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76467-5675-1,76467-5675,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5675-1,76467-5675,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5676-1,76467-5676,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5676-1,76467-5676,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5677-1,76467-5677,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5677-1,76467-5677,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5679-1,76467-5679,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5679-1,76467-5679,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5689-1,76467-5689,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
+76467-5689-1,76467-5689,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620

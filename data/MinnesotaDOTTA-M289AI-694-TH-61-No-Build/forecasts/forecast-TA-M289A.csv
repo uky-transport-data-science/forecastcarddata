@@ -1,0 +1,13 @@
+forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
+f3,1,TA-M289A-7574,Design Year,00:00:00,24:00,volume,28300
+f3,1,TA-M289A-7575,Design Year,00:00:00,24:00,volume,28300
+f3,1,TA-M289A-7576,Design Year,00:00:00,24:00,volume,24050
+f3,1,TA-M289A-7577,Design Year,00:00:00,24:00,volume,24050
+f3,1,TA-M289A-7578,Design Year,00:00:00,24:00,volume,24050
+f3,1,TA-M289A-7579,Design Year,00:00:00,24:00,volume,24050
+f3,1,TA-M289A-7580,Design Year,00:00:00,24:00,volume,13000
+f3,1,TA-M289A-7581,Design Year,00:00:00,24:00,volume,13000
+f3,1,TA-M289A-7582,Design Year,00:00:00,24:00,volume,8750
+f3,1,TA-M289A-7583,Design Year,00:00:00,24:00,volume,8750
+f3,1,TA-M289A-7584,Design Year,00:00:00,24:00,volume,8750
+f3,1,TA-M289A-7585,Design Year,00:00:00,24:00,volume,8750

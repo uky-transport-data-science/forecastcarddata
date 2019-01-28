@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-,OhioDOT-Unavailable-UNI-347-0.00,s1,2016.0,,Unavailable,unknown,2016.0,state DOT
+1,OhioDOT-UnavailableUNI-347-0.00,s1,2016.0,Opening Year,Unavailable,unknown,2016.0,state DOT

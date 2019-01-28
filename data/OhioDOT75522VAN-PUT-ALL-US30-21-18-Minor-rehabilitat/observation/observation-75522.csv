@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75522-1919-1,75522-1919,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,12060
+75522-1919-1,75522-1919,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,12310
+75522-1922-1,75522-1922,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,10860
+75522-1922-1,75522-1922,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,11380
+75522-1923-1,75522-1923,Opening Year,unknown,unknown,2012,00:00:00,24:00:00,volume,12060
+75522-1923-1,75522-1923,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,11910
+75522-1970-1,75522-1970,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,12341
+75522-1970-1,75522-1970,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,12290

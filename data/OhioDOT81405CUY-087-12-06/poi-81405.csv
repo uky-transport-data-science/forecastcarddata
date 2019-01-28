@@ -1,7 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-81405-1400,", , CUY8711.89",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY8711.89"
-81405-1400,", , CUY8711.89",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY8711.89"
-81405-1401,", , CUY8712.19",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY8712.19"
-81405-1401,", , CUY8712.19",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY8712.19"
-81405-1402,", , CUY8712.75",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY8712.75"
-81405-1402,", , CUY8712.75",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY8712.75"
+81405-1400,  CUY8711.89,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY8711.89
+81405-1401,  CUY8712.19,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY8712.19
+81405-1402,  CUY8712.75,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY8712.75

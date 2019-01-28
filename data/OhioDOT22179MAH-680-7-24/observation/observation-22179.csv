@@ -1,7 +1,7 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-22179-70-1,22179-70,Opening Year,unknown,unknown,,00:00,24:00,volume,51920
-22179-70-1,22179-70,Design Year,unknown,unknown,,00:00,24:00,volume,48270
-22179-71-1,22179-71,Opening Year,unknown,unknown,,00:00,24:00,volume,51920
-22179-71-1,22179-71,Design Year,unknown,unknown,,00:00,24:00,volume,48270
-22179-72-1,22179-72,Opening Year,unknown,unknown,,00:00,24:00,volume,50740
-22179-72-1,22179-72,Design Year,unknown,unknown,,00:00,24:00,volume,46670
+22179-70-1,22179-70,Opening Year,unknown,unknown,2005,00:00:00,24:00:00,volume,51920
+22179-70-1,22179-70,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,48270
+22179-71-1,22179-71,Opening Year,unknown,unknown,2005,00:00:00,24:00:00,volume,51920
+22179-71-1,22179-71,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,48270
+22179-72-1,22179-72,Opening Year,unknown,unknown,2005,00:00:00,24:00:00,volume,50740
+22179-72-1,22179-72,Design Year,unknown,unknown,2008,00:00:00,24:00:00,volume,46670

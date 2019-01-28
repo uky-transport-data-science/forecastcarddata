@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84839-2385-1,84839-2385,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,2442
+84839-2385-1,84839-2385,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,2520
+84839-2386-1,84839-2386,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,5094
+84839-2386-1,84839-2386,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,5260
+84839-2387-1,84839-2387,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,8776
+84839-2387-1,84839-2387,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,8740
+84839-2388-1,84839-2388,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,10363
+84839-2388-1,84839-2388,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,10320
+84839-2389-1,84839-2389,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,14370
+84839-2389-1,84839-2389,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,14310
+84839-2390-1,84839-2390,Opening Year,unknown,unknown,2013,00:00:00,24:00:00,volume,11337
+84839-2390-1,84839-2390,Design Year,unknown,unknown,2011,00:00:00,24:00:00,volume,11290

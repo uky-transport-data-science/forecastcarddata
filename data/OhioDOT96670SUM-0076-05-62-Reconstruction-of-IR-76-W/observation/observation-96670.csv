@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96670-5979-1,96670-5979,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5979-1,96670-5979,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5980-1,96670-5980,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5980-1,96670-5980,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5981-1,96670-5981,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5981-1,96670-5981,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5982-1,96670-5982,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5982-1,96670-5982,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5983-1,96670-5983,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180
+96670-5983-1,96670-5983,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,4180

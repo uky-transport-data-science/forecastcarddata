@@ -1,13 +1,13 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-4096-1,Unavailable-4096,Opening Year,unknown,unknown,,00:00,24:00,volume,154140
-Unavailable-4096-1,Unavailable-4096,Design Year,unknown,unknown,,00:00,24:00,volume,154140
-Unavailable-4097-1,Unavailable-4097,Opening Year,unknown,unknown,,00:00,24:00,volume,123706
-Unavailable-4097-1,Unavailable-4097,Design Year,unknown,unknown,,00:00,24:00,volume,123706
-Unavailable-4098-1,Unavailable-4098,Opening Year,unknown,unknown,,00:00,24:00,volume,130840
-Unavailable-4098-1,Unavailable-4098,Design Year,unknown,unknown,,00:00,24:00,volume,130840
-Unavailable-4287-1,Unavailable-4287,Opening Year,unknown,unknown,,00:00,24:00,volume,191217
-Unavailable-4287-1,Unavailable-4287,Design Year,unknown,unknown,,00:00,24:00,volume,191217
-Unavailable-4288-1,Unavailable-4288,Opening Year,unknown,unknown,,00:00,24:00,volume,154140
-Unavailable-4288-1,Unavailable-4288,Design Year,unknown,unknown,,00:00,24:00,volume,154140
-Unavailable-4289-1,Unavailable-4289,Opening Year,unknown,unknown,,00:00,24:00,volume,123706
-Unavailable-4289-1,Unavailable-4289,Design Year,unknown,unknown,,00:00,24:00,volume,123706
+Unavailable-4096-1,Unavailable-4096,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,154140
+Unavailable-4096-1,Unavailable-4096,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,154140
+Unavailable-4097-1,Unavailable-4097,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,123706
+Unavailable-4097-1,Unavailable-4097,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,123706
+Unavailable-4098-1,Unavailable-4098,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,130840
+Unavailable-4098-1,Unavailable-4098,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,130840
+Unavailable-4287-1,Unavailable-4287,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,191217
+Unavailable-4287-1,Unavailable-4287,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,191217
+Unavailable-4288-1,Unavailable-4288,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,154140
+Unavailable-4288-1,Unavailable-4288,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,154140
+Unavailable-4289-1,Unavailable-4289,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,123706
+Unavailable-4289-1,Unavailable-4289,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,123706

@@ -1,7 +1,7 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-77326-225-1,77326-225,Opening Year,unknown,unknown,,00:00,24:00,volume,101530
-77326-225-1,77326-225,Design Year,unknown,unknown,,00:00,24:00,volume,101510
-77326-226-1,77326-226,Opening Year,unknown,unknown,,00:00,24:00,volume,95430
-77326-226-1,77326-226,Design Year,unknown,unknown,,00:00,24:00,volume,95780
-77326-227-1,77326-227,Opening Year,unknown,unknown,,00:00,24:00,volume,94390
-77326-227-1,77326-227,Design Year,unknown,unknown,,00:00,24:00,volume,95500
+77326-225-1,77326-225,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,101530
+77326-225-1,77326-225,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,101510
+77326-226-1,77326-226,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,95430
+77326-226-1,77326-226,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,95780
+77326-227-1,77326-227,Opening Year,unknown,unknown,2007,00:00:00,24:00:00,volume,94390
+77326-227-1,77326-227,Design Year,unknown,unknown,2010,00:00:00,24:00:00,volume,95500

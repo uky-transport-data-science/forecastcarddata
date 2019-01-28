@@ -1,0 +1,2 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+1,MinnesotaDOT-FEIS US-12/I-394US-12/I-394 - From between SR-101 and I-94,s1,1982.0,Design Year,Unavailable,trendline,1982.0,state DOT

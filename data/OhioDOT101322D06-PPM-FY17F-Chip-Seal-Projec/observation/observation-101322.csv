@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-101322-5251-1,101322-5251,Opening Year,unknown,unknown,,00:00,24:00,volume,989
-101322-5251-1,101322-5251,Design Year,unknown,unknown,,00:00,24:00,volume,989
-101322-5266-1,101322-5266,Opening Year,unknown,unknown,,00:00,24:00,volume,432
-101322-5266-1,101322-5266,Design Year,unknown,unknown,,00:00,24:00,volume,432
-101322-5267-1,101322-5267,Opening Year,unknown,unknown,,00:00,24:00,volume,348
-101322-5267-1,101322-5267,Design Year,unknown,unknown,,00:00,24:00,volume,348
-101322-5268-1,101322-5268,Opening Year,unknown,unknown,,00:00,24:00,volume,673
-101322-5268-1,101322-5268,Design Year,unknown,unknown,,00:00,24:00,volume,673

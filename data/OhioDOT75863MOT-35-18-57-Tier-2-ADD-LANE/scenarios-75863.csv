@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-,OhioDOT-75863-MOT-35-18.57|Tier-2|ADD-LANE,s1,2008.0,,Unavailable,unknown,2008.0,state DOT
+1,OhioDOT-75863MOT-35-18.57|Tier-2|ADD-LANE,s1,2008.0,Opening Year,Unavailable,unknown,2008.0,state DOT

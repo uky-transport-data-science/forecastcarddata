@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97228-4359-1,97228-4359,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,4091
+97228-4359-1,97228-4359,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,4091
+97228-4427-1,97228-4427,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3587
+97228-4427-1,97228-4427,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,3587
