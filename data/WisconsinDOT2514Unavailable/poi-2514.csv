@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-2514-6381,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
-2514-6382,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
-2514-6383,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
+2514-6381,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,
+2514-6382,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,
+2514-6383,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,

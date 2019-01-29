@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78043-993-1,78043-993,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,30940
+78043-993-1,78043-993,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,31410

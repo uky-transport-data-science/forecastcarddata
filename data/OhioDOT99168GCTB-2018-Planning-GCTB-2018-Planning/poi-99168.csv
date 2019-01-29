@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-99168-5643,  ATB619.69,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB619.69
-99168-5644,  ATB4611.95,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB4611.95
-99168-5645,  ATB5345.54,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB5345.54
+99168-5643,", , ATB619.69",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ATB619.69"
+99168-5644,", , ATB4611.95",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ATB4611.95"
+99168-5645,", , ATB5345.54",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ATB5345.54"

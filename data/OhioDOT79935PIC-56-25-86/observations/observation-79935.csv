@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79935-739-1,79935-739,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,4400
+79935-739-1,79935-739,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,3550
+79935-740-1,79935-740,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,6020
+79935-740-1,79935-740,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,3440

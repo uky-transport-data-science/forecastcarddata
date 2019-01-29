@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82140-1630,  CLE281.62,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE281.62
-82140-1631,  CLE281.62,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE281.62
-82140-1632,  CLE281.62,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE281.62
-82140-1633,  CLE281.62,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE281.62
-82140-1634,  CLE282.12,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE282.12
+82140-1630,", , CLE281.62",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE281.62"
+82140-1631,", , CLE281.62",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE281.62"
+82140-1632,", , CLE281.62",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE281.62"
+82140-1633,", , CLE281.62",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE281.62"
+82140-1634,", , CLE282.12",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CLE282.12"

@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93595-4076-1,93595-4076,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,908
+93595-4076-1,93595-4076,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,908
+93595-4079-1,93595-4079,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,16727
+93595-4079-1,93595-4079,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,16727
+93595-4080-1,93595-4080,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18342
+93595-4080-1,93595-4080,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18342
+93595-4081-1,93595-4081,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,5912
+93595-4081-1,93595-4081,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,5912

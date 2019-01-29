@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+409165-1-1.0-1,409165-1-1.0,Opening Year,unknown,unknown,2004,00:00:00,00:00:00,volume,45000
+409165-1-1.0-1,409165-1-1.0,Mid-design Year,unknown,unknown,2004,00:00:00,00:00:00,volume,45000
+409165-1-1.0-1,409165-1-1.0,Design Year,unknown,unknown,2004,00:00:00,00:00:00,volume,45000
+409165-1-2.0-1,409165-1-2.0,Opening Year,unknown,unknown,2004,00:00:00,00:00:00,volume,20500
+409165-1-2.0-1,409165-1-2.0,Mid-design Year,unknown,unknown,2004,00:00:00,00:00:00,volume,20500
+409165-1-2.0-1,409165-1-2.0,Design Year,unknown,unknown,2004,00:00:00,00:00:00,volume,20500

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80252-1550-1,80252-1550,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10210
+80252-1550-1,80252-1550,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10210
+80252-1551-1,80252-1551,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,11830
+80252-1551-1,80252-1551,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,11830

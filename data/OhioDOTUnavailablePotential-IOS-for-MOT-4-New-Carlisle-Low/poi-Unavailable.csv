@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-5559,  MOT424.32,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT424.32
-Unavailable-5636,  MOT2352.08,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  MOT2352.08
+Unavailable-5559,", , MOT424.32",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT424.32"
+Unavailable-5636,", , MOT2352.08",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , MOT2352.08"

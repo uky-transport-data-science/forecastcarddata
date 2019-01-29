@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81937-1775-1,81937-1775,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,14140
+81937-1775-1,81937-1775,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,14140

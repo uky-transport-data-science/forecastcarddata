@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75417-690-1,75417-690,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,30140
+75417-690-1,75417-690,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,30140

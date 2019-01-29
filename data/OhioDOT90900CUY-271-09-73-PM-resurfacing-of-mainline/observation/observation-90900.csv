@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-90900-4547-1,90900-4547,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,159701
-90900-4547-1,90900-4547,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,159701
-90900-4548-1,90900-4548,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,107118
-90900-4548-1,90900-4548,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,107118
-90900-4549-1,90900-4549,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,129954
-90900-4549-1,90900-4549,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,129954
-90900-4550-1,90900-4550,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,118745
-90900-4550-1,90900-4550,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,118745

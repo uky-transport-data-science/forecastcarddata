@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-76374-623,  WAR1223.17,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR1223.17
-76374-624,  WAR1224.64,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR1224.64
-76374-625,  WAR1224.77,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR1224.77
-76374-626,  WAR12320.65,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12320.65
-76374-627,  WAR12323.94,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12323.94
-76374-628,  WAR7416.82,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR7416.82
-76374-629,  WAR74111.02,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR74111.02
+76374-623,", , WAR1223.17",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR1223.17"
+76374-624,", , WAR1224.64",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR1224.64"
+76374-625,", , WAR1224.77",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR1224.77"
+76374-626,", , WAR12320.65",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12320.65"
+76374-627,", , WAR12323.94",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12323.94"
+76374-628,", , WAR7416.82",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR7416.82"
+76374-629,", , WAR74111.02",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR74111.02"

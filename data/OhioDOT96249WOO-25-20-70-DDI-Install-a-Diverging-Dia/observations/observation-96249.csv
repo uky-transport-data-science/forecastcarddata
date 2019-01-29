@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96249-4379-1,96249-4379,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,34256
+96249-4379-1,96249-4379,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,34256
+96249-4380-1,96249-4380,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,34256
+96249-4380-1,96249-4380,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,34256
+96249-4381-1,96249-4381,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,20129
+96249-4381-1,96249-4381,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,20129
+96249-4382-1,96249-4382,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,20129
+96249-4382-1,96249-4382,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,20129

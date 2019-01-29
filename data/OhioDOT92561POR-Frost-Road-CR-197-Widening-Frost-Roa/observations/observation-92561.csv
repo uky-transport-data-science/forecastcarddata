@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+92561-4655-1,92561-4655,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,44313
+92561-4655-1,92561-4655,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,44313
+92561-4660-1,92561-4660,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,26696
+92561-4660-1,92561-4660,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,26696
+92561-4661-1,92561-4661,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,41699
+92561-4661-1,92561-4661,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,41699
+92561-4678-1,92561-4678,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,12216
+92561-4678-1,92561-4678,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,12216
+92561-4702-1,92561-4702,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,43792
+92561-4702-1,92561-4702,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,43792

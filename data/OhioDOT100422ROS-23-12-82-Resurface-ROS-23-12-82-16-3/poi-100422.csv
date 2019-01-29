@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-100422-5078,  ROS2316.75,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  ROS2316.75
-100422-5079,  ROS2314.44,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  ROS2314.44
-100422-5080,  ROS3520.14,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  ROS3520.14
+100422-5078,", , ROS2316.75",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , ROS2316.75"
+100422-5079,", , ROS2314.44",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , ROS2314.44"
+100422-5080,", , ROS3520.14",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , ROS3520.14"

@@ -1,21 +1,21 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 19-8357,   I-494East of Mississippi RiverWest of Maxwell Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494East of Mississippi RiverWest of Maxwell Ave.EB
-SPARS 19-8358,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 19-8359,   I-494East of Maxwell Ave.West of TH 61EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494East of Maxwell Ave.West of TH 61EB
-SPARS 19-8360,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 19-8361,   I-494North of TH 61South of Bailey Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494North of TH 61South of Bailey Rd.NB
-SPARS 19-8362,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 19-8363,   I-494North of Bailey Rd.South of Lower Afton Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494North of Bailey Rd.South of Lower Afton Rd.NB
-SPARS 19-8364,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 19-8365,   I-494North of Lower Afton Rd.South of I-94NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494North of Lower Afton Rd.South of I-94NB
-SPARS 19-8366,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 19-8367,   I-94West of I-494EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94West of I-494EB
-SPARS 19-8368,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 19-8369,   I-94East of I-494EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94East of I-494EB
-SPARS 19-8370,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 19-8371,   I-694North of I-94South of Minnehaha Ave.,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694North of I-94South of Minnehaha Ave.
-SPARS 19-8372,  ,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,  
-SPARS 19-8373,   I-694North of Minnehaha Ave.South of TH 5NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694North of Minnehaha Ave.South of TH 5NB
-SPARS 19-8374,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 19-8375,   I-694North Of TH 5NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694North Of TH 5NB
-SPARS 19-8376,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 19-8357,", , , I-494East of Mississippi RiverWest of Maxwell Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-494East of Mississippi RiverWest of Maxwell Ave.EB"
+SPARS 19-8358,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 19-8359,", , , I-494East of Maxwell Ave.West of TH 61EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-494East of Maxwell Ave.West of TH 61EB"
+SPARS 19-8360,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 19-8361,", , , I-494North of TH 61South of Bailey Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-494North of TH 61South of Bailey Rd.NB"
+SPARS 19-8362,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 19-8363,", , , I-494North of Bailey Rd.South of Lower Afton Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-494North of Bailey Rd.South of Lower Afton Rd.NB"
+SPARS 19-8364,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 19-8365,", , , I-494North of Lower Afton Rd.South of I-94NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-494North of Lower Afton Rd.South of I-94NB"
+SPARS 19-8366,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 19-8367,", , , I-94West of I-494EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94West of I-494EB"
+SPARS 19-8368,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 19-8369,", , , I-94East of I-494EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94East of I-494EB"
+SPARS 19-8370,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 19-8371,", , , I-694North of I-94South of Minnehaha Ave.",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694North of I-94South of Minnehaha Ave."
+SPARS 19-8372,", , ,",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , ,"
+SPARS 19-8373,", , , I-694North of Minnehaha Ave.South of TH 5NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694North of Minnehaha Ave.South of TH 5NB"
+SPARS 19-8374,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 19-8375,", , , I-694North Of TH 5NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694North Of TH 5NB"
+SPARS 19-8376,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"

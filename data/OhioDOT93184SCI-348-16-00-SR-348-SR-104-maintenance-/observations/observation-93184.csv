@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93184-3219-1,93184-3219,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,8739
+93184-3219-1,93184-3219,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,8739
+93184-3231-1,93184-3231,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4721
+93184-3231-1,93184-3231,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4721
+93184-3232-1,93184-3232,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4042
+93184-3232-1,93184-3232,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4042
+93184-3233-1,93184-3233,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4355
+93184-3233-1,93184-3233,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4355

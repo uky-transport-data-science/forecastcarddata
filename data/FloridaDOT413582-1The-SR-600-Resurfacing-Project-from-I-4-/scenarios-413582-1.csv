@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-413582-1The SR 600 Resurfacing Project from I-4 (M.P. 13.178) to Bellvue Road (M.P. 15.444).,s1,2003.0,Opening Year,Unavailable,travel-model,2003.0,Consultant
+1,FloridaDOT-413582-1The SR 600 Resurfacing Project from I-4 (M.P. 13.178) to Bellvue Road (M.P. 15.444).,s1,01/01/2003,Opening Year,Unavailable,travel-model,01/01/2003,Consultant

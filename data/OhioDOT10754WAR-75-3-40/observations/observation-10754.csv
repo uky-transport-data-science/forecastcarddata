@@ -1,0 +1,27 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+10754-1143-1,10754-1143,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,96060
+10754-1143-1,10754-1143,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,96060
+10754-1144-1,10754-1144,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,88710
+10754-1144-1,10754-1144,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,88710
+10754-1145-1,10754-1145,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,86890
+10754-1145-1,10754-1145,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,86890
+10754-1146-1,10754-1146,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,92420
+10754-1146-1,10754-1146,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,92420
+10754-1162-1,10754-1162,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,23500
+10754-1162-1,10754-1162,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,23500
+10754-1163-1,10754-1163,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,23500
+10754-1163-1,10754-1163,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,23500
+10754-1164-1,10754-1164,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,23500
+10754-1164-1,10754-1164,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,23500
+10754-1171-1,10754-1171,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,28630
+10754-1171-1,10754-1171,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,28630
+10754-1172-1,10754-1172,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,24270
+10754-1172-1,10754-1172,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,24270
+10754-1173-1,10754-1173,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,12650
+10754-1173-1,10754-1173,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,12650
+10754-1174-1,10754-1174,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,13250
+10754-1174-1,10754-1174,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,13250
+10754-1175-1,10754-1175,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,14110
+10754-1175-1,10754-1175,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,14110
+10754-1176-1,10754-1176,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10360
+10754-1176-1,10754-1176,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10360

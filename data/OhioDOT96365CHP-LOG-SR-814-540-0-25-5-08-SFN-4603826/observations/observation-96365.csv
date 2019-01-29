@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96365-4801-1,96365-4801,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2648
+96365-4801-1,96365-4801,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2648
+96365-4811-1,96365-4811,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,854
+96365-4811-1,96365-4811,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,854

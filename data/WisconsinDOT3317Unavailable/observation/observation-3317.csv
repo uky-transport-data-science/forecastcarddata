@@ -1,4 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-3317-6590-1,3317-6590,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,1300
-3317-6591-1,3317-6591,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,13600
-3317-6592-1,3317-6592,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,13600

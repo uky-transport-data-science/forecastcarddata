@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-23733-1248,  GEA8717.58,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA8717.58
-23733-1249,  GEA8718.2,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA8718.2
-23733-1250,  GEA5284.59,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA5284.59
-23733-1251,  GEA5286.35,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA5286.35
+23733-1248,", , GEA8717.58",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , GEA8717.58"
+23733-1249,", , GEA8718.2",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , GEA8718.2"
+23733-1250,", , GEA5284.59",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , GEA5284.59"
+23733-1251,", , GEA5286.35",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , GEA5286.35"

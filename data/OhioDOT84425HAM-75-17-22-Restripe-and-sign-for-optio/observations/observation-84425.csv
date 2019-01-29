@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84425-1605-1,84425-1605,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,109850
+84425-1605-1,84425-1605,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,109850
+84425-1606-1,84425-1606,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,119570
+84425-1606-1,84425-1606,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,119570
+84425-1607-1,84425-1607,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,107580
+84425-1607-1,84425-1607,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,107580
+84425-1608-1,84425-1608,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,111320
+84425-1608-1,84425-1608,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,111320
+84425-1609-1,84425-1609,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,133610
+84425-1609-1,84425-1609,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,133610
+84425-1610-1,84425-1610,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,136770
+84425-1610-1,84425-1610,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,136770

@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-3512-6508,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
-3512-6509,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-3512-6510,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
-3512-6511,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
-3512-6512,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
-3512-6648,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
+3512-6508,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+3512-6509,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+3512-6510,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+3512-6511,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+3512-6512,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+3512-6648,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,

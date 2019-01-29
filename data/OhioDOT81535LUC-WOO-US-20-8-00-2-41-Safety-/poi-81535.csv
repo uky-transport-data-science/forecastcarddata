@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-81535-582,  LUC/WOO2013.41,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC/WOO2013.41
-81535-583,  LUC/WOO2014.94,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC/WOO2014.94
-81535-584,  LUC/WOO210.67,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC/WOO210.67
-81535-585,  LUC/WOO211.71,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC/WOO211.71
+81535-582,", , LUC/WOO2013.41",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC/WOO2013.41"
+81535-583,", , LUC/WOO2014.94",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC/WOO2014.94"
+81535-584,", , LUC/WOO210.67",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC/WOO210.67"
+81535-585,", , LUC/WOO211.71",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC/WOO211.71"

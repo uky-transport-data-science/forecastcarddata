@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-99999-5035,  FRA2701.07,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA2701.07
-99999-5038,  FRA7120.67,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA7120.67
-99999-5039,  FRA27021.3,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27021.3
-99999-5040,  FRA27026.61,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27026.61
-99999-5041,  FRA27031.4,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27031.4
-99999-5128,  DEL426.39,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL426.39
+99999-5035,", , FRA2701.07",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA2701.07"
+99999-5038,", , FRA7120.67",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA7120.67"
+99999-5039,", , FRA27021.3",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27021.3"
+99999-5040,", , FRA27026.61",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27026.61"
+99999-5041,", , FRA27031.4",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27031.4"
+99999-5128,", , DEL426.39",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL426.39"

@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-422031-1The SR 44 Resurfacing Project from Riverside Drive (M.P. 0.000) to Peninsula Avenue (M.P. 1.433),s1,2008.0,Opening Year,Unavailable,travel-model,2008.0,Consultant
+1,FloridaDOT-422031-1The SR 44 Resurfacing Project from Riverside Drive (M.P. 0.000) to Peninsula Avenue (M.P. 1.433),s1,01/01/2008,Opening Year,Unavailable,travel-model,01/01/2008,Consultant

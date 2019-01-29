@@ -1,17 +1,17 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-91406-5161,  BUT7310.31,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  BUT7310.31
-91406-5178,  GRE4217.67,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  GRE4217.67
-91406-5179,  GRE4217.98,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  GRE4217.98
-91406-5180,  GRE4220.62,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  GRE4220.62
-91406-5190,  BUT735.85,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  BUT735.85
-91406-5191,  BUT7312.69,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  BUT7312.69
-91406-5200,  PRE3518.56,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PRE3518.56
-91406-5221,  BUT5030.49,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  BUT5030.49
-91406-5231,  PRE400.12,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE400.12
-91406-5232,  PRE400.67,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE400.67
-91406-5259,  CLE1331.64,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE1331.64
-91406-5277,  PRE404.23,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE404.23
-91406-5278,  PRE408.65,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE408.65
-91406-5281,  WAR3506.11,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR3506.11
-91406-5284,  BUT5032.79,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  BUT5032.79
-91406-5285,  BUT5035.33,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  BUT5035.33
+91406-5161,", , BUT7310.31",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , BUT7310.31"
+91406-5178,", , GRE4217.67",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , GRE4217.67"
+91406-5179,", , GRE4217.98",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , GRE4217.98"
+91406-5180,", , GRE4220.62",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , GRE4220.62"
+91406-5190,", , BUT735.85",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , BUT735.85"
+91406-5191,", , BUT7312.69",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , BUT7312.69"
+91406-5200,", , PRE3518.56",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , PRE3518.56"
+91406-5221,", , BUT5030.49",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , BUT5030.49"
+91406-5231,", , PRE400.12",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE400.12"
+91406-5232,", , PRE400.67",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE400.67"
+91406-5259,", , CLE1331.64",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CLE1331.64"
+91406-5277,", , PRE404.23",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE404.23"
+91406-5278,", , PRE408.65",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE408.65"
+91406-5281,", , WAR3506.11",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR3506.11"
+91406-5284,", , BUT5032.79",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , BUT5032.79"
+91406-5285,", , BUT5035.33",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , BUT5035.33"

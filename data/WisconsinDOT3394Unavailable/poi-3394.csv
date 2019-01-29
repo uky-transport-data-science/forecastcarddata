@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-3394-6436,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-3394-6437,nan,1-Interstate or Limited-access facility,,,urban,Freeway,Freeway,,Wisconsin,WisconsinDOT,nan
-3394-6438,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-3394-6439,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-3394-6440,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-3394-6441,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-3394-6442,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-3394-6443,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-3394-6444,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-3394-6445,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+3394-6436,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+3394-6437,,1-Interstate or Limited-access facility,,,urban,Freeway,Freeway,,Wisconsin,WisconsinDOT,
+3394-6438,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+3394-6439,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+3394-6440,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+3394-6441,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+3394-6442,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+3394-6443,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+3394-6444,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+3394-6445,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,

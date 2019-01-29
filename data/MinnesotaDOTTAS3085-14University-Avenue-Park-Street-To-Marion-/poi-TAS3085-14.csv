@@ -1,15 +1,15 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAS3085-14-8155,   University AvenueWest Of Marion StreetEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   University AvenueWest Of Marion StreetEB
-TAS3085-14-8156,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS3085-14-8157,   University AvenueBetween Marion StreetEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   University AvenueBetween Marion StreetEB
-TAS3085-14-8158,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS3085-14-8159,   University AvenueEast Of Marion StreetWest Of Rice StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   University AvenueEast Of Marion StreetWest Of Rice StEB
-TAS3085-14-8160,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS3085-14-8161,   University AvenueBetween Rice StreetEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   University AvenueBetween Rice StreetEB
-TAS3085-14-8162,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS3085-14-8163,   University AvenueEast Of Rice StWest Of Park StreetEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   University AvenueEast Of Rice StWest Of Park StreetEB
-TAS3085-14-8164,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS3085-14-8165,   University AvenueBetween Park StreetEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   University AvenueBetween Park StreetEB
-TAS3085-14-8166,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS3085-14-8167,   University AvenueEast Of Park StreetEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   University AvenueEast Of Park StreetEB
-TAS3085-14-8168,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAS3085-14-8155,", , , University AvenueWest Of Marion StreetEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , University AvenueWest Of Marion StreetEB"
+TAS3085-14-8156,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TAS3085-14-8157,", , , University AvenueBetween Marion StreetEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , University AvenueBetween Marion StreetEB"
+TAS3085-14-8158,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TAS3085-14-8159,", , , University AvenueEast Of Marion StreetWest Of Rice StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , University AvenueEast Of Marion StreetWest Of Rice StEB"
+TAS3085-14-8160,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TAS3085-14-8161,", , , University AvenueBetween Rice StreetEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , University AvenueBetween Rice StreetEB"
+TAS3085-14-8162,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TAS3085-14-8163,", , , University AvenueEast Of Rice StWest Of Park StreetEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , University AvenueEast Of Rice StWest Of Park StreetEB"
+TAS3085-14-8164,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TAS3085-14-8165,", , , University AvenueBetween Park StreetEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , University AvenueBetween Park StreetEB"
+TAS3085-14-8166,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TAS3085-14-8167,", , , University AvenueEast Of Park StreetEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , University AvenueEast Of Park StreetEB"
+TAS3085-14-8168,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"

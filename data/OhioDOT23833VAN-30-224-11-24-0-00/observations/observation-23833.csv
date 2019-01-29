@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23833-668-1,23833-668,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,12420
+23833-668-1,23833-668,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,12420
+23833-680-1,23833-680,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,10760
+23833-680-1,23833-680,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,10760

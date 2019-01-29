@@ -1,21 +1,21 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-75467-3069,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3070,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3071,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3072,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3073,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3074,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3075,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3076,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3077,  ALL30915.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL30915.18
-75467-3078,  ALL11718.28,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL11718.28
-75467-3079,  ALL11718.33,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL11718.33
-75467-3080,  ALL11718.38,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL11718.38
-75467-3081,  ALL11718.5,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL11718.5
-75467-3082,  ALL11718.5,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL11718.5
-75467-3083,  ALL11718.5,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ALL11718.5
-75467-3086,  ALL11718.75,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ALL11718.75
-75467-3087,  ALL11718.75,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ALL11718.75
-75467-3088,  ALL11718.75,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ALL11718.75
-75467-3089,  ALL11718.75,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ALL11718.75
-75467-3090,  ALL11718.75,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ALL11718.75
+75467-3069,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3070,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3071,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3072,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3073,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3074,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3075,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3076,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3077,", , ALL30915.18",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL30915.18"
+75467-3078,", , ALL11718.28",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL11718.28"
+75467-3079,", , ALL11718.33",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL11718.33"
+75467-3080,", , ALL11718.38",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL11718.38"
+75467-3081,", , ALL11718.5",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL11718.5"
+75467-3082,", , ALL11718.5",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL11718.5"
+75467-3083,", , ALL11718.5",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ALL11718.5"
+75467-3086,", , ALL11718.75",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ALL11718.75"
+75467-3087,", , ALL11718.75",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ALL11718.75"
+75467-3088,", , ALL11718.75",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ALL11718.75"
+75467-3089,", , ALL11718.75",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ALL11718.75"
+75467-3090,", , ALL11718.75",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ALL11718.75"

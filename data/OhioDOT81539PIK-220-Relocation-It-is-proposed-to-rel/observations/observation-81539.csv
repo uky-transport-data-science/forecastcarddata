@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81539-2006-1,81539-2006,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,7740
+81539-2006-1,81539-2006,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,7740
+81539-2007-1,81539-2007,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,6897
+81539-2007-1,81539-2007,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,6720
+81539-2008-1,81539-2008,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,7883
+81539-2008-1,81539-2008,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,7680

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76437-648-1,76437-648,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,13740
+76437-648-1,76437-648,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,15250
+76437-649-1,76437-649,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,18420
+76437-649-1,76437-649,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,20120

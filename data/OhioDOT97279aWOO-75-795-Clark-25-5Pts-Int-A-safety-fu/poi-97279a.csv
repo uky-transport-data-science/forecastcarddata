@@ -1,10 +1,10 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-97279a-3515,  WOO7526.74,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WOO7526.74
-97279a-3516,  WOO7527.91,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WOO7527.91
-97279a-3517,  WOO7529.67,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WOO7529.67
-97279a-3518,  WOO7530.95,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WOO7530.95
-97279a-3574,  WOO203.09,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WOO203.09
-97279a-3575,  WOO7952.49,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WOO7952.49
-97279a-3576,  WOO7952.8,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WOO7952.8
-97279a-3616,  WOO202.59,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WOO202.59
-97279a-3617,  WOO7952.09,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WOO7952.09
+97279a-3515,", , WOO7526.74",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , WOO7526.74"
+97279a-3516,", , WOO7527.91",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , WOO7527.91"
+97279a-3517,", , WOO7529.67",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , WOO7529.67"
+97279a-3518,", , WOO7530.95",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , WOO7530.95"
+97279a-3574,", , WOO203.09",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO203.09"
+97279a-3575,", , WOO7952.49",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO7952.49"
+97279a-3576,", , WOO7952.8",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO7952.8"
+97279a-3616,", , WOO202.59",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , WOO202.59"
+97279a-3617,", , WOO7952.09",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , WOO7952.09"

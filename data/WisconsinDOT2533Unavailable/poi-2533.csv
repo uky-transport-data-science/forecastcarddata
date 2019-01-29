@@ -1,21 +1,21 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-2533-6322,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6323,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6324,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6325,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6326,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6327,nan,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,nan
-2533-6328,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6329,nan,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,nan
-2533-6330,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6331,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6332,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
-2533-6333,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6334,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6335,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-2533-6336,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
-2533-6337,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6338,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-2533-6339,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-2533-6340,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-2533-6341,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+2533-6322,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+2533-6323,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2533-6324,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2533-6325,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+2533-6326,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+2533-6327,,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,
+2533-6328,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2533-6329,,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,
+2533-6330,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2533-6331,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2533-6332,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,
+2533-6333,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2533-6334,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+2533-6335,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+2533-6336,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,
+2533-6337,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2533-6338,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+2533-6339,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+2533-6340,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2533-6341,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,

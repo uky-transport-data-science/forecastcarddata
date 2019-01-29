@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2017-6533-1,2017-6533,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,33100
+2017-6534-1,2017-6534,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,32400
+2017-6535-1,2017-6535,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,26900

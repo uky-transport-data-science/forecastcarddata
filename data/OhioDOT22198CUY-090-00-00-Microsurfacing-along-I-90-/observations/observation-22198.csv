@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+22198-3685-1,22198-3685,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,75309
+22198-3685-1,22198-3685,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,75309

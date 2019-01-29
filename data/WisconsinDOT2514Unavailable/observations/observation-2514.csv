@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2514-6381-1,2514-6381,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,560
+2514-6382-1,2514-6382,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,740
+2514-6383-1,2514-6383,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,430

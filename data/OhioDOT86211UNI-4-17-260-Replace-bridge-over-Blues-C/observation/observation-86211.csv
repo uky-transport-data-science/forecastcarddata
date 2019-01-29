@@ -1,5 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-86211-5430-1,86211-5430,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
-86211-5430-1,86211-5430,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
-86211-5431-1,86211-5431,Opening Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620
-86211-5431-1,86211-5431,Design Year,unknown,unknown,2009,00:00:00,24:00:00,volume,620

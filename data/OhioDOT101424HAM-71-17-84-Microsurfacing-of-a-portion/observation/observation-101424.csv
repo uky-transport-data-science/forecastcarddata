@@ -1,5 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-101424-4282-1,101424-4282,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,125354
-101424-4282-1,101424-4282,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,125354
-101424-4283-1,101424-4283,Opening Year,unknown,unknown,2015,00:00:00,24:00:00,volume,78587
-101424-4283-1,101424-4283,Design Year,unknown,unknown,2015,00:00:00,24:00:00,volume,78587

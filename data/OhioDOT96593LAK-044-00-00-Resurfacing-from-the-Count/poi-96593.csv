@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-96593-4118,  LAK442.96,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  LAK442.96
-96593-4148,  LAK440.91,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LAK440.91
-96593-4149,  LAK441.945,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LAK441.945
+96593-4118,", , LAK442.96",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , LAK442.96"
+96593-4148,", , LAK440.91",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LAK440.91"
+96593-4149,", , LAK441.945",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LAK441.945"

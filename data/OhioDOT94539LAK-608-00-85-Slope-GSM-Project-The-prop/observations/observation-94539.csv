@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+94539-4682-1,94539-4682,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3167
+94539-4682-1,94539-4682,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3167
+94539-4693-1,94539-4693,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3167
+94539-4693-1,94539-4693,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3167
+94539-4700-1,94539-4700,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3167
+94539-4700-1,94539-4700,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3167

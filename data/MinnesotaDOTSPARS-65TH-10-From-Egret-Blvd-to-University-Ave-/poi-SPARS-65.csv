@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 65-8503,   TH 10North of Egret Blvd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 10North of Egret Blvd.NB
-SPARS 65-8504,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 65-8505,   TH 10South of Egret Blvd.North of Foley Blvd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 10South of Egret Blvd.North of Foley Blvd.NB
-SPARS 65-8506,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 65-8507,   TH 10South of Foley Blvd.North of TH 47NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 10South of Foley Blvd.North of TH 47NB
-SPARS 65-8508,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 65-8509,   TH 10Between TH 47 and University Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 10Between TH 47 and University Ave.EB
-SPARS 65-8510,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 65-8511,   TH 10East of University Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 10East of University Ave.EB
-SPARS 65-8512,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 65-8503,", , , TH 10North of Egret Blvd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 10North of Egret Blvd.NB"
+SPARS 65-8504,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 65-8505,", , , TH 10South of Egret Blvd.North of Foley Blvd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 10South of Egret Blvd.North of Foley Blvd.NB"
+SPARS 65-8506,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 65-8507,", , , TH 10South of Foley Blvd.North of TH 47NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 10South of Foley Blvd.North of TH 47NB"
+SPARS 65-8508,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 65-8509,", , , TH 10Between TH 47 and University Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 10Between TH 47 and University Ave.EB"
+SPARS 65-8510,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 65-8511,", , , TH 10East of University Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 10East of University Ave.EB"
+SPARS 65-8512,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"

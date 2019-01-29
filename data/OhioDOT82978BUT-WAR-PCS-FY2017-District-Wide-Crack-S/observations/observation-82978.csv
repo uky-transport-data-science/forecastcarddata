@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82978-5017-1,82978-5017,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,113089
+82978-5017-1,82978-5017,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,113089
+82978-5030-1,82978-5030,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,113089
+82978-5030-1,82978-5030,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,113089
+82978-5031-1,82978-5031,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,102957
+82978-5031-1,82978-5031,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,102957
+82978-5054-1,82978-5054,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,110142
+82978-5054-1,82978-5054,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,110142
+82978-5055-1,82978-5055,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,100588
+82978-5055-1,82978-5055,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,100588
+82978-5056-1,82978-5056,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,107934
+82978-5056-1,82978-5056,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,107934

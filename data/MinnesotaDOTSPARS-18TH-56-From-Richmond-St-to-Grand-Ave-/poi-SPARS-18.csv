@@ -1,19 +1,19 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 18-8339,   Concord St. (TH 56)South of Richmond St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Concord St. (TH 56)South of Richmond St.NB
-SPARS 18-8340,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 18-8341,   Concord St. (TH 56)North of Richmond St.South of I-494NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Concord St. (TH 56)North of Richmond St.South of I-494NB
-SPARS 18-8342,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 18-8343,   Concord St. (TH 56)North of I-494South of Vlllaume St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Concord St. (TH 56)North of I-494South of Vlllaume St.NB
-SPARS 18-8344,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 18-8345,   Concord St. (TH 56)North of Vlllaume St.South of Sixth St. S.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Concord St. (TH 56)North of Vlllaume St.South of Sixth St. S.NB
-SPARS 18-8346,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 18-8347,   Concord St. (TH 56)North of Sixth St. S.South of Armour Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Concord St. (TH 56)North of Sixth St. S.South of Armour Ave.NB
-SPARS 18-8348,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 18-8349,   Concord St. (TH 56)North of Armour Ave.South of Grand Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Concord St. (TH 56)North of Armour Ave.South of Grand Ave.NB
-SPARS 18-8350,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 18-8351,   Concord St. (TH 56)North of Grand Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Concord St. (TH 56)North of Grand Ave.NB
-SPARS 18-8352,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 18-8353,   I-494West of Concord St. (TH 56)EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494West of Concord St. (TH 56)EB
-SPARS 18-8354,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 18-8355,   I-494East of Concord St. (TH 56)EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494East of Concord St. (TH 56)EB
-SPARS 18-8356,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 18-8339,", , , Concord St. (TH 56)South of Richmond St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Concord St. (TH 56)South of Richmond St.NB"
+SPARS 18-8340,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 18-8341,", , , Concord St. (TH 56)North of Richmond St.South of I-494NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Concord St. (TH 56)North of Richmond St.South of I-494NB"
+SPARS 18-8342,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 18-8343,", , , Concord St. (TH 56)North of I-494South of Vlllaume St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Concord St. (TH 56)North of I-494South of Vlllaume St.NB"
+SPARS 18-8344,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 18-8345,", , , Concord St. (TH 56)North of Vlllaume St.South of Sixth St. S.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Concord St. (TH 56)North of Vlllaume St.South of Sixth St. S.NB"
+SPARS 18-8346,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 18-8347,", , , Concord St. (TH 56)North of Sixth St. S.South of Armour Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Concord St. (TH 56)North of Sixth St. S.South of Armour Ave.NB"
+SPARS 18-8348,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 18-8349,", , , Concord St. (TH 56)North of Armour Ave.South of Grand Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Concord St. (TH 56)North of Armour Ave.South of Grand Ave.NB"
+SPARS 18-8350,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 18-8351,", , , Concord St. (TH 56)North of Grand Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Concord St. (TH 56)North of Grand Ave.NB"
+SPARS 18-8352,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 18-8353,", , , I-494West of Concord St. (TH 56)EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-494West of Concord St. (TH 56)EB"
+SPARS 18-8354,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 18-8355,", , , I-494East of Concord St. (TH 56)EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-494East of Concord St. (TH 56)EB"
+SPARS 18-8356,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"

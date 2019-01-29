@@ -1,0 +1,23 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76174-2373-1,76174-2373,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,69330
+76174-2373-1,76174-2373,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,63710
+76174-2374-1,76174-2374,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,61900
+76174-2374-1,76174-2374,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,56200
+76174-2473-1,76174-2473,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,75300
+76174-2473-1,76174-2473,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,75300
+76174-2474-1,76174-2474,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,69330
+76174-2474-1,76174-2474,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,69330
+76174-2475-1,76174-2475,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,69330
+76174-2475-1,76174-2475,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,69330
+76174-2476-1,76174-2476,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,61900
+76174-2476-1,76174-2476,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,61900
+76174-2477-1,76174-2477,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,61900
+76174-2477-1,76174-2477,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,61900
+76174-2478-1,76174-2478,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,87970
+76174-2478-1,76174-2478,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,87970
+76174-2479-1,76174-2479,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,89300
+76174-2479-1,76174-2479,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,89300
+76174-2480-1,76174-2480,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,89300
+76174-2480-1,76174-2480,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,89300
+76174-2481-1,76174-2481,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,93900
+76174-2481-1,76174-2481,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,93900

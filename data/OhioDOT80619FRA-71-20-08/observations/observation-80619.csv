@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80619-776-1,80619-776,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,148550
+80619-776-1,80619-776,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,143380
+80619-777-1,80619-777,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,143360
+80619-777-1,80619-777,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,138700
+80619-778-1,80619-778,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,137770
+80619-778-1,80619-778,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,129240
+80619-779-1,80619-779,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,128550
+80619-779-1,80619-779,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,125000

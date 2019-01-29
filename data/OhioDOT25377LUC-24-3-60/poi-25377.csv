@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-25377-25,  LUC241.24,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC241.24
-25377-26,  LUC243.6,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC243.6
-25377-28,  LUC2950,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LUC2950
+25377-25,", , LUC241.24",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC241.24"
+25377-26,", , LUC243.6",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC243.6"
+25377-28,", , LUC2950",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LUC2950"

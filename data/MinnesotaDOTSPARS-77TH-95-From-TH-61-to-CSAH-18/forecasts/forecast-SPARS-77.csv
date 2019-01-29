@@ -1,7 +1,7 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,SPARS 77-8590,Design Year,00:00:00,24:00,volume,4532
-f3,1,SPARS 77-8591,Design Year,00:00:00,24:00,volume,4532
-f3,1,SPARS 77-8592,Design Year,00:00:00,24:00,volume,2946
-f3,1,SPARS 77-8593,Design Year,00:00:00,24:00,volume,2946
-f3,1,SPARS 77-8594,Design Year,00:00:00,24:00,volume,2152
-f3,1,SPARS 77-8595,Design Year,00:00:00,24:00,volume,2152
+f3,1,SPARS 77-8590,Design Year,00:00:00,00:00:00,volume,4532
+f3,1,SPARS 77-8591,Design Year,00:00:00,00:00:00,volume,4532
+f3,1,SPARS 77-8592,Design Year,00:00:00,00:00:00,volume,2946
+f3,1,SPARS 77-8593,Design Year,00:00:00,00:00:00,volume,2946
+f3,1,SPARS 77-8594,Design Year,00:00:00,00:00:00,volume,2152
+f3,1,SPARS 77-8595,Design Year,00:00:00,00:00:00,volume,2152

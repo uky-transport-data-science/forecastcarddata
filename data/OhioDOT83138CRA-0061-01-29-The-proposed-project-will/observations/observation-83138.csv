@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83138-1620-1,83138-1620,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7540
+83138-1620-1,83138-1620,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7540
+83138-1621-1,83138-1621,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+83138-1621-1,83138-1621,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+83138-1622-1,83138-1622,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+83138-1622-1,83138-1622,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+83138-1623-1,83138-1623,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+83138-1623-1,83138-1623,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+83138-1624-1,83138-1624,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+83138-1624-1,83138-1624,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+83138-1625-1,83138-1625,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+83138-1625-1,83138-1625,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+83138-1626-1,83138-1626,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+83138-1626-1,83138-1626,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+83138-1627-1,83138-1627,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+83138-1627-1,83138-1627,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+83138-1628-1,83138-1628,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,8680
+83138-1628-1,83138-1628,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,8680
+83138-1629-1,83138-1629,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,8680
+83138-1629-1,83138-1629,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,8680

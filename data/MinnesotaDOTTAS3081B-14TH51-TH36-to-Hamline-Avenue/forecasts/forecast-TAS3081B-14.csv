@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TAS3081B-14-8123,Design Year,00:00:00,24:00,volume,19900
-f3,1,TAS3081B-14-8124,Design Year,00:00:00,24:00,volume,19900
-f3,1,TAS3081B-14-8125,Design Year,00:00:00,24:00,volume,19300
-f3,1,TAS3081B-14-8126,Design Year,00:00:00,24:00,volume,19300
-f3,1,TAS3081B-14-8127,Design Year,00:00:00,24:00,volume,13700
-f3,1,TAS3081B-14-8128,Design Year,00:00:00,24:00,volume,13700
-f3,1,TAS3081B-14-8129,Design Year,00:00:00,24:00,volume,9500
-f3,1,TAS3081B-14-8130,Design Year,00:00:00,24:00,volume,9500
-f3,1,TAS3081B-14-8131,Design Year,00:00:00,24:00,volume,10500
-f3,1,TAS3081B-14-8132,Design Year,00:00:00,24:00,volume,10500
+f3,1,TAS3081B-14-8123,Design Year,00:00:00,00:00:00,volume,19900
+f3,1,TAS3081B-14-8124,Design Year,00:00:00,00:00:00,volume,19900
+f3,1,TAS3081B-14-8125,Design Year,00:00:00,00:00:00,volume,19300
+f3,1,TAS3081B-14-8126,Design Year,00:00:00,00:00:00,volume,19300
+f3,1,TAS3081B-14-8127,Design Year,00:00:00,00:00:00,volume,13700
+f3,1,TAS3081B-14-8128,Design Year,00:00:00,00:00:00,volume,13700
+f3,1,TAS3081B-14-8129,Design Year,00:00:00,00:00:00,volume,9500
+f3,1,TAS3081B-14-8130,Design Year,00:00:00,00:00:00,volume,9500
+f3,1,TAS3081B-14-8131,Design Year,00:00:00,00:00:00,volume,10500
+f3,1,TAS3081B-14-8132,Design Year,00:00:00,00:00:00,volume,10500

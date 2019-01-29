@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+90726-2140-1,90726-2140,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,44270
+90726-2140-1,90726-2140,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,42510
+90726-2152-1,90726-2152,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,21120
+90726-2152-1,90726-2152,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,31290

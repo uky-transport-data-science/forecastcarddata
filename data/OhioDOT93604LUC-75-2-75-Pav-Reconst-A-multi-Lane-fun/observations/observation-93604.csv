@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93604-3309-1,93604-3309,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,17540
+93604-3309-1,93604-3309,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,17540
+93604-3947-1,93604-3947,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,90956
+93604-3947-1,93604-3947,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,90956
+93604-3948-1,93604-3948,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,90750
+93604-3948-1,93604-3948,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,90750
+93604-3949-1,93604-3949,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,76028
+93604-3949-1,93604-3949,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,76028
+93604-3950-1,93604-3950,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,76028
+93604-3950-1,93604-3950,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,76028

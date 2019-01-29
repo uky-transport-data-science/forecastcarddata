@@ -1,20 +1,20 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-101308-4836,  FRA31511.22,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA31511.22
-101308-4861,  DEL3621.27,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL3621.27
-101308-4862,  DEL3722.11,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL3722.11
-101308-4863,  DEL7501.01,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL7501.01
-101308-4864,  DEL7502.46,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL7502.46
-101308-4868,  DEL3614.6,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL3614.6
-101308-4869,  DEL3617.71,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL3617.71
-101308-4870,  DEL3619.46,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL3619.46
-101308-4871,  DEL3724.11,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DEL3724.11
-101308-4893,  DEL3621.96,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  DEL3621.96
-101308-4894,  DEL3150.71,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  DEL3150.71
-101308-4895,  DEL3152.08,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  DEL3152.08
-101308-4896,  FRA31512.47,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA31512.47
-101308-4897,  FRA31513.37,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA31513.37
-101308-4921,  DEL3624.09,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  DEL3624.09
-101308-4922,  DEL3627.31,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  DEL3627.31
-101308-4960,  DEL3154.2,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  DEL3154.2
-101308-4961,  DEL3156.36,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  DEL3156.36
-101308-4962,  DEL3157.87,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  DEL3157.87
+101308-4836,", , FRA31511.22",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA31511.22"
+101308-4861,", , DEL3621.27",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL3621.27"
+101308-4862,", , DEL3722.11",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL3722.11"
+101308-4863,", , DEL7501.01",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL7501.01"
+101308-4864,", , DEL7502.46",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL7502.46"
+101308-4868,", , DEL3614.6",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL3614.6"
+101308-4869,", , DEL3617.71",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL3617.71"
+101308-4870,", , DEL3619.46",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL3619.46"
+101308-4871,", , DEL3724.11",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DEL3724.11"
+101308-4893,", , DEL3621.96",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , DEL3621.96"
+101308-4894,", , DEL3150.71",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , DEL3150.71"
+101308-4895,", , DEL3152.08",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , DEL3152.08"
+101308-4896,", , FRA31512.47",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FRA31512.47"
+101308-4897,", , FRA31513.37",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FRA31513.37"
+101308-4921,", , DEL3624.09",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , DEL3624.09"
+101308-4922,", , DEL3627.31",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , DEL3627.31"
+101308-4960,", , DEL3154.2",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , DEL3154.2"
+101308-4961,", , DEL3156.36",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , DEL3156.36"
+101308-4962,", , DEL3157.87",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , DEL3157.87"

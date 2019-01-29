@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,SPAR-210-7097,Design Year,00:00:00,24:00,volume,29125
-f3,1,SPAR-210-7098,Design Year,00:00:00,24:00,volume,29125
-f3,1,SPAR-210-7099,Design Year,00:00:00,24:00,volume,26250
-f3,1,SPAR-210-7100,Design Year,00:00:00,24:00,volume,26250
-f3,1,SPAR-210-7101,Design Year,00:00:00,24:00,volume,29800
-f3,1,SPAR-210-7102,Design Year,00:00:00,24:00,volume,29800
-f3,1,SPAR-210-7103,Design Year,00:00:00,24:00,volume,26110
-f3,1,SPAR-210-7104,Design Year,00:00:00,24:00,volume,26110
-f3,1,SPAR-210-7105,Design Year,00:00:00,24:00,volume,28990
-f3,1,SPAR-210-7106,Design Year,00:00:00,24:00,volume,28990
+f3,1,SPAR-210-7097,Design Year,00:00:00,00:00:00,volume,29125
+f3,1,SPAR-210-7098,Design Year,00:00:00,00:00:00,volume,29125
+f3,1,SPAR-210-7099,Design Year,00:00:00,00:00:00,volume,26250
+f3,1,SPAR-210-7100,Design Year,00:00:00,00:00:00,volume,26250
+f3,1,SPAR-210-7101,Design Year,00:00:00,00:00:00,volume,29800
+f3,1,SPAR-210-7102,Design Year,00:00:00,00:00:00,volume,29800
+f3,1,SPAR-210-7103,Design Year,00:00:00,00:00:00,volume,26110
+f3,1,SPAR-210-7104,Design Year,00:00:00,00:00:00,volume,26110
+f3,1,SPAR-210-7105,Design Year,00:00:00,00:00:00,volume,28990
+f3,1,SPAR-210-7106,Design Year,00:00:00,00:00:00,volume,28990

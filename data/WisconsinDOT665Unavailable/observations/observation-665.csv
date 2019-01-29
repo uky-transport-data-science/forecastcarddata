@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+665-6419-1,665-6419,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,6500
+665-6421-1,665-6421,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,10100
+665-6423-1,665-6423,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,13500

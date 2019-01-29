@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 69-8513,   TH 100South of W. 77th St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 100South of W. 77th St.NB
-SPARS 69-8514,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 69-8515,   TH 100North of W. 77th St.South of W. 70th St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 100North of W. 77th St.South of W. 70th St.NB
-SPARS 69-8516,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 69-8517,   TH 100North of W. 70th St.South of W. 66th St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 100North of W. 70th St.South of W. 66th St.NB
-SPARS 69-8518,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 69-8519,   TH 100North of TH 62South of Benton Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 100North of TH 62South of Benton Ave.NB
-SPARS 69-8520,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 69-8521,   TH 100North of Benton Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 100North of Benton Ave.NB
-SPARS 69-8522,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 69-8513,", , , TH 100South of W. 77th St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 100South of W. 77th St.NB"
+SPARS 69-8514,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 69-8515,", , , TH 100North of W. 77th St.South of W. 70th St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 100North of W. 77th St.South of W. 70th St.NB"
+SPARS 69-8516,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 69-8517,", , , TH 100North of W. 70th St.South of W. 66th St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 100North of W. 70th St.South of W. 66th St.NB"
+SPARS 69-8518,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 69-8519,", , , TH 100North of TH 62South of Benton Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 100North of TH 62South of Benton Ave.NB"
+SPARS 69-8520,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 69-8521,", , , TH 100North of Benton Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 100North of Benton Ave.NB"
+SPARS 69-8522,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"

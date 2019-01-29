@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-99618-4908,  ATB626.26,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ATB626.26
-99618-4954,  ATB69.37,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB69.37
-99618-4955,  ATB616.25,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB616.25
-99618-4956,  ATB619.69,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB619.69
-99618-4957,  ATB4611.95,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB4611.95
-99618-5001,  TRU8710.22,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  TRU8710.22
+99618-4908,", , ATB626.26",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ATB626.26"
+99618-4954,", , ATB69.37",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ATB69.37"
+99618-4955,", , ATB616.25",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ATB616.25"
+99618-4956,", , ATB619.69",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ATB619.69"
+99618-4957,", , ATB4611.95",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ATB4611.95"
+99618-5001,", , TRU8710.22",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , TRU8710.22"

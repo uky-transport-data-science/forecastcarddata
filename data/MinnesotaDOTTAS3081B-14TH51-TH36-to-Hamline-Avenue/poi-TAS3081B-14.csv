@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAS3081B-14-8123,   TH 51South Of TH 36NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 51South Of TH 36NB
-TAS3081B-14-8124,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAS3081B-14-8125,   TH 51North Of TH 36South Of County Road B2NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 51North Of TH 36South Of County Road B2NB
-TAS3081B-14-8126,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAS3081B-14-8127,   TH 51North Of County Road B2South Of County Road CNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 51North Of County Road B2South Of County Road CNB
-TAS3081B-14-8128,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAS3081B-14-8129,   TH 51North Of County Road C2South Of Hamline AvenueNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 51North Of County Road C2South Of Hamline AvenueNB
-TAS3081B-14-8130,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAS3081B-14-8131,   TH 51North Of Hamline AveNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 51North Of Hamline AveNB
-TAS3081B-14-8132,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAS3081B-14-8123,", , , TH 51South Of TH 36NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 51South Of TH 36NB"
+TAS3081B-14-8124,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+TAS3081B-14-8125,", , , TH 51North Of TH 36South Of County Road B2NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 51North Of TH 36South Of County Road B2NB"
+TAS3081B-14-8126,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+TAS3081B-14-8127,", , , TH 51North Of County Road B2South Of County Road CNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 51North Of County Road B2South Of County Road CNB"
+TAS3081B-14-8128,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+TAS3081B-14-8129,", , , TH 51North Of County Road C2South Of Hamline AvenueNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 51North Of County Road C2South Of Hamline AvenueNB"
+TAS3081B-14-8130,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+TAS3081B-14-8131,", , , TH 51North Of Hamline AveNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 51North Of Hamline AveNB"
+TAS3081B-14-8132,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"

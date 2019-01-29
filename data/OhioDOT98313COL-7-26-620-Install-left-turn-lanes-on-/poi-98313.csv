@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-98313-5406,  COL726.78,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  COL726.78
-98313-5407,  COL726.87,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  COL726.87
-98313-5434,  COL1411.73,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  COL1411.73
-98313-5435,  COL1411.77,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  COL1411.77
+98313-5406,", , COL726.78",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , COL726.78"
+98313-5407,", , COL726.87",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , COL726.87"
+98313-5434,", , COL1411.73",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , COL1411.73"
+98313-5435,", , COL1411.77",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , COL1411.77"

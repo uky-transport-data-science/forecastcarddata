@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAU 3078-8093-1,TAU 3078-8093,Design Year,unknown,unknown,1986,00:00:00,00:00:00,volume,25500
+TAU 3078-8094-1,TAU 3078-8094,Design Year,unknown,unknown,1986,00:00:00,00:00:00,volume,25500
+TAU 3078-8095-1,TAU 3078-8095,Design Year,unknown,unknown,1986,00:00:00,00:00:00,volume,23000
+TAU 3078-8096-1,TAU 3078-8096,Design Year,unknown,unknown,1986,00:00:00,00:00:00,volume,23000
+TAU 3078-8097-1,TAU 3078-8097,Design Year,unknown,unknown,1986,00:00:00,00:00:00,volume,21000
+TAU 3078-8098-1,TAU 3078-8098,Design Year,unknown,unknown,1986,00:00:00,00:00:00,volume,21000
+TAU 3078-8099-1,TAU 3078-8099,Design Year,unknown,unknown,1986,00:00:00,00:00:00,volume,21000
+TAU 3078-8100-1,TAU 3078-8100,Design Year,unknown,unknown,1986,00:00:00,00:00:00,volume,21000

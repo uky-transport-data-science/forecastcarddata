@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-78278-2699,  POR1411.23,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  POR1411.23
-78278-2700,  POR1412.58,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  POR1412.58
-78278-2701,  POR599.05,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  POR599.05
-78278-2702,  POR599.17,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  POR599.17
+78278-2699,", , POR1411.23",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , POR1411.23"
+78278-2700,", , POR1412.58",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , POR1412.58"
+78278-2701,", , POR599.05",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , POR599.05"
+78278-2702,", , POR599.17",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , POR599.17"

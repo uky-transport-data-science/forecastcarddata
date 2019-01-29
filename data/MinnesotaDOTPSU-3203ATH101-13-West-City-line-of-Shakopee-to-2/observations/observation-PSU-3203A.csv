@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+PSU 3203A-8101-1,PSU 3203A-8101,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,9400
+PSU 3203A-8102-1,PSU 3203A-8102,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,9400
+PSU 3203A-8103-1,PSU 3203A-8103,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,10850
+PSU 3203A-8104-1,PSU 3203A-8104,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,10850
+PSU 3203A-8105-1,PSU 3203A-8105,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,12450
+PSU 3203A-8106-1,PSU 3203A-8106,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,12450
+PSU 3203A-8107-1,PSU 3203A-8107,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,14200
+PSU 3203A-8108-1,PSU 3203A-8108,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,14200
+PSU 3203A-8109-1,PSU 3203A-8109,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,5750
+PSU 3203A-8110-1,PSU 3203A-8110,Design Year,unknown,unknown,1982,00:00:00,00:00:00,volume,5750

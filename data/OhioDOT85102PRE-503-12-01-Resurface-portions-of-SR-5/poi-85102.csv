@@ -1,12 +1,12 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-85102-3234,  PRE50312,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50312
-85102-4256,  PRE50312.67,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50312.67
-85102-4257,  PRE50312.97,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50312.97
-85102-4258,  PRE50313.11,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50313.11
-85102-4259,  PRE50313.74,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50313.74
-85102-4260,  PRE50319.55,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50319.55
-85102-4261,  PRE50319.82,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50319.82
-85102-4262,  PRE50320.57,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50320.57
-85102-4263,  PRE50320.78,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50320.78
-85102-4264,  PRE50320.86,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50320.86
-85102-4265,  PRE50321.24,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PRE50321.24
+85102-3234,", , PRE50312",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50312"
+85102-4256,", , PRE50312.67",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50312.67"
+85102-4257,", , PRE50312.97",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50312.97"
+85102-4258,", , PRE50313.11",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50313.11"
+85102-4259,", , PRE50313.74",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50313.74"
+85102-4260,", , PRE50319.55",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50319.55"
+85102-4261,", , PRE50319.82",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50319.82"
+85102-4262,", , PRE50320.57",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50320.57"
+85102-4263,", , PRE50320.78",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50320.78"
+85102-4264,", , PRE50320.86",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50320.86"
+85102-4265,", , PRE50321.24",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PRE50321.24"

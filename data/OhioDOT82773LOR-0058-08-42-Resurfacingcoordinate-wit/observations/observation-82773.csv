@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82773-2330-1,82773-2330,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,13082
+82773-2330-1,82773-2330,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,12390
+82773-2331-1,82773-2331,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,13082
+82773-2331-1,82773-2331,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,8380
+82773-2332-1,82773-2332,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,12060
+82773-2332-1,82773-2332,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,11060
+82773-2384-1,82773-2384,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,11678
+82773-2384-1,82773-2384,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,7810

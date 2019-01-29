@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-86718-2352,  ASD960,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD960
-86718-2353,  ASD961.52,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD961.52
-86718-2418,  ASD964.72,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD964.72
+86718-2352,", , ASD960",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ASD960"
+86718-2353,", , ASD961.52",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ASD961.52"
+86718-2418,", , ASD964.72",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD964.72"

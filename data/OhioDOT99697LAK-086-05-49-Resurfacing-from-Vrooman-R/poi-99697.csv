@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-99697-4600,  LAK866.52,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LAK866.52
-99697-4601,  LAK868.83,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LAK868.83
-99697-5700,  LAK866.52,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LAK866.52
-99697-5701,  LAK868.83,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LAK868.83
+99697-4600,", , LAK866.52",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LAK866.52"
+99697-4601,", , LAK868.83",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LAK868.83"
+99697-5700,", , LAK866.52",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LAK866.52"
+99697-5701,", , LAK868.83",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LAK868.83"

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93206-2869-1,93206-2869,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,35830
+93206-2869-1,93206-2869,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,35830
+93206-2987-1,93206-2987,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,4930
+93206-2987-1,93206-2987,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,4930

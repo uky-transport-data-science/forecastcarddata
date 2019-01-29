@@ -1,6 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-3231-6480-1,3231-6480,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,2700
-3231-6481-1,3231-6481,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,3400
-3231-6482-1,3231-6482,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,1600
-3231-6483-1,3231-6483,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,2600
-3231-6484-1,3231-6484,Opening Year,unknown,unknown,2011,00:00:00,24:00:00,volume,2000

@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-DEIS TH 610/TH 252TH 610/TH 252 - From I-94 in Maple Grove to TH 10 in Coon Rapids/From I-94 in Brooklyn Center to TH 610 in Brooklyn Park,s1,1981.0,Design Year,Unavailable,trendline,1981.0,state DOT
+1,MinnesotaDOT-DEIS TH 610/TH 252TH 610/TH 252 - From I-94 in Maple Grove to TH 10 in Coon Rapids/From I-94 in Brooklyn Center to TH 610 in Brooklyn Park,s1,01/01/1981,Design Year,Unavailable,trendline,01/01/1981,state DOT

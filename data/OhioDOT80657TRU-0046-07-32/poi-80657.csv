@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80657-1123,  TRU466.34,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  TRU466.34
-80657-1124,  TRU8216.44,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  TRU8216.44
-80657-1125,  TRU8216.8,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  TRU8216.8
-80657-1126,  TRU8216.82,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  TRU8216.82
-80657-1127,  TRU8218.07,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  TRU8218.07
-80657-1128,  TRU8218.97,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  TRU8218.97
-80657-1132,  TRU467.31,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  TRU467.31
+80657-1123,", , TRU466.34",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , TRU466.34"
+80657-1124,", , TRU8216.44",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , TRU8216.44"
+80657-1125,", , TRU8216.8",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , TRU8216.8"
+80657-1126,", , TRU8216.82",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , TRU8216.82"
+80657-1127,", , TRU8218.07",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , TRU8218.07"
+80657-1128,", , TRU8218.97",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , TRU8218.97"
+80657-1132,", , TRU467.31",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , TRU467.31"

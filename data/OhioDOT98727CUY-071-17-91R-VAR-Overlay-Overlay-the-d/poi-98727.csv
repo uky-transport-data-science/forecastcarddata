@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-98727-3502,  CUY4806.335,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  CUY4806.335
-98727-3503,  CUY7118.39,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  CUY7118.39
+98727-3502,", , CUY4806.335",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , CUY4806.335"
+98727-3503,", , CUY7118.39",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , CUY7118.39"

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+16669-2044-1,16669-2044,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,71460
+16669-2044-1,16669-2044,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,71800
+16669-2045-1,16669-2045,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,62480
+16669-2045-1,16669-2045,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,61590

@@ -1,0 +1,25 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79449-971-1,79449-971,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,6650
+79449-971-1,79449-971,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,6650
+79449-972-1,79449-972,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7540
+79449-972-1,79449-972,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7540
+79449-973-1,79449-973,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+79449-973-1,79449-973,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+79449-974-1,79449-974,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3950
+79449-974-1,79449-974,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3950
+79449-975-1,79449-975,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7410
+79449-975-1,79449-975,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7410
+79449-976-1,79449-976,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3140
+79449-976-1,79449-976,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3140
+79449-977-1,79449-977,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+79449-977-1,79449-977,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10960
+79449-978-1,79449-978,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,8680
+79449-978-1,79449-978,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,8680
+79449-983-1,79449-983,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3190
+79449-983-1,79449-983,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3190
+79449-984-1,79449-984,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,4770
+79449-984-1,79449-984,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,4770
+79449-985-1,79449-985,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7870
+79449-985-1,79449-985,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7870
+79449-991-1,79449-991,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,5290
+79449-991-1,79449-991,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,5290

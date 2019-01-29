@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88709-3904-1,88709-3904,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13431
+88709-3904-1,88709-3904,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13431
+88709-3923-1,88709-3923,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,1704
+88709-3923-1,88709-3923,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,1704
+88709-3924-1,88709-3924,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4740
+88709-3924-1,88709-3924,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4740
+88709-3925-1,88709-3925,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,15601
+88709-3925-1,88709-3925,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,15601
+88709-3963-1,88709-3963,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,47758
+88709-3963-1,88709-3963,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,47758

@@ -1,0 +1,27 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAU3204A-8169-1,TAU3204A-8169,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8170-1,TAU3204A-8170,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8171-1,TAU3204A-8171,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8172-1,TAU3204A-8172,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8173-1,TAU3204A-8173,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8174-1,TAU3204A-8174,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8175-1,TAU3204A-8175,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8176-1,TAU3204A-8176,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8177-1,TAU3204A-8177,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8178-1,TAU3204A-8178,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8179-1,TAU3204A-8179,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8180-1,TAU3204A-8180,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8181-1,TAU3204A-8181,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8182-1,TAU3204A-8182,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8183-1,TAU3204A-8183,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8184-1,TAU3204A-8184,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8185-1,TAU3204A-8185,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8186-1,TAU3204A-8186,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,6150
+TAU3204A-8187-1,TAU3204A-8187,Design Year,unknown,unknown,1988,00:00:00,00:00:00,volume,1425
+TAU3204A-8188-1,TAU3204A-8188,Design Year,unknown,unknown,1988,00:00:00,00:00:00,volume,1425
+TAU3204A-8189-1,TAU3204A-8189,Design Year,unknown,unknown,1988,00:00:00,00:00:00,volume,1475
+TAU3204A-8190-1,TAU3204A-8190,Design Year,unknown,unknown,1988,00:00:00,00:00:00,volume,1475
+TAU3204A-8191-1,TAU3204A-8191,Design Year,unknown,unknown,1988,00:00:00,00:00:00,volume,1475
+TAU3204A-8192-1,TAU3204A-8192,Design Year,unknown,unknown,1988,00:00:00,00:00:00,volume,1475
+TAU3204A-8193-1,TAU3204A-8193,Design Year,unknown,unknown,1988,00:00:00,00:00:00,volume,2250
+TAU3204A-8194-1,TAU3204A-8194,Design Year,unknown,unknown,1988,00:00:00,00:00:00,volume,2250

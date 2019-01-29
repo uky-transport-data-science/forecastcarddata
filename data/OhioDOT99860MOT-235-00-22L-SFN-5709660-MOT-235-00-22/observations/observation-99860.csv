@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99860-5835-1,99860-5835,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99860-5835-1,99860-5835,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620

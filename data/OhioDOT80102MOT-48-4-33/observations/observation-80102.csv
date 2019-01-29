@@ -1,0 +1,17 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80102-769-1,80102-769,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,41610
+80102-769-1,80102-769,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,41610
+80102-770-1,80102-770,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,66090
+80102-770-1,80102-770,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,66090
+80102-771-1,80102-771,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,57390
+80102-771-1,80102-771,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,57390
+80102-772-1,80102-772,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,66090
+80102-772-1,80102-772,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,66090
+80102-773-1,80102-773,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,66440
+80102-773-1,80102-773,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,66440
+80102-788-1,80102-788,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,24350
+80102-788-1,80102-788,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,24350
+80102-789-1,80102-789,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,31780
+80102-789-1,80102-789,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,31780
+80102-790-1,80102-790,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,41160
+80102-790-1,80102-790,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,41160

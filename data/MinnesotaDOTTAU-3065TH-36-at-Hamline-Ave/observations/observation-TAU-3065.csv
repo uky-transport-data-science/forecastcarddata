@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAU 3065-8005-1,TAU 3065-8005,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,26000
+TAU 3065-8006-1,TAU 3065-8006,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,26000
+TAU 3065-8007-1,TAU 3065-8007,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,27125
+TAU 3065-8008-1,TAU 3065-8008,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,27125
+TAU 3065-8009-1,TAU 3065-8009,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,5600
+TAU 3065-8010-1,TAU 3065-8010,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,5600
+TAU 3065-8011-1,TAU 3065-8011,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,5600
+TAU 3065-8012-1,TAU 3065-8012,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,5600
+TAU 3065-8013-1,TAU 3065-8013,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,5600
+TAU 3065-8014-1,TAU 3065-8014,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,5600
+TAU 3065-8015-1,TAU 3065-8015,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,6500
+TAU 3065-8016-1,TAU 3065-8016,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,6500
+TAU 3065-8017-1,TAU 3065-8017,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,6500
+TAU 3065-8018-1,TAU 3065-8018,Design Year,unknown,unknown,1983,00:00:00,00:00:00,volume,6500

@@ -1,7 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-SPARS 77-8590-1,SPARS 77-8590,Design Year,unknown,unknown,1992,00:00:00,24:00:00,volume,1325
-SPARS 77-8591-1,SPARS 77-8591,Design Year,unknown,unknown,1992,00:00:00,24:00:00,volume,1325
-SPARS 77-8592-1,SPARS 77-8592,Design Year,unknown,unknown,1992,00:00:00,24:00:00,volume,1050
-SPARS 77-8593-1,SPARS 77-8593,Design Year,unknown,unknown,1992,00:00:00,24:00:00,volume,1050
-SPARS 77-8594-1,SPARS 77-8594,Design Year,unknown,unknown,1992,00:00:00,24:00:00,volume,1100
-SPARS 77-8595-1,SPARS 77-8595,Design Year,unknown,unknown,1992,00:00:00,24:00:00,volume,1100

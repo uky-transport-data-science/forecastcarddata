@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-3825,  RIC3923.805,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  RIC3923.805
-Unavailable-3826,  RIC9718.6,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  RIC9718.6
+Unavailable-3825,", , RIC3923.805",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , RIC3923.805"
+Unavailable-3826,", , RIC9718.6",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , RIC9718.6"

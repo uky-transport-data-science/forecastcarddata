@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+94191-4156-1,94191-4156,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9517
+94191-4156-1,94191-4156,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9517
+94191-4200-1,94191-4200,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13452
+94191-4200-1,94191-4200,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13452
+94191-4201-1,94191-4201,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13452
+94191-4201-1,94191-4201,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13452
+94191-4202-1,94191-4202,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6949
+94191-4202-1,94191-4202,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6949
+94191-4203-1,94191-4203,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9517
+94191-4203-1,94191-4203,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9517

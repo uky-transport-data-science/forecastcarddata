@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2417-6540-1,2417-6540,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,17800
+2417-6541-1,2417-6541,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,13300
+2417-6542-1,2417-6542,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,8700
+2417-6543-1,2417-6543,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,11500

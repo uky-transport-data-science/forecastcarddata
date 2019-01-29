@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77877-484-1,77877-484,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,790
+77877-484-1,77877-484,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,790
+77877-485-1,77877-485,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,900
+77877-485-1,77877-485,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,900
+77877-486-1,77877-486,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,1610
+77877-486-1,77877-486,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,1610

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+95085-2547-1,95085-2547,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,145111
+95085-2547-1,95085-2547,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,145111
+95085-2973-1,95085-2973,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,145111
+95085-2973-1,95085-2973,Design Year,unknown,unknown,2013,00:00:00,00:00:00,volume,145111

@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-97237-4827,  ATH3311.46,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  ATH3311.46
-97237-4828,  ATH3312.92,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  ATH3312.92
-97237-4829,  ATH3314.22,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  ATH3314.22
-97237-4830,  ATH3314.88,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  ATH3314.88
-97237-4831,  ATH5014.88,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  ATH5014.88
+97237-4827,", , ATH3311.46",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , ATH3311.46"
+97237-4828,", , ATH3312.92",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , ATH3312.92"
+97237-4829,", , ATH3314.22",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , ATH3314.22"
+97237-4830,", , ATH3314.88",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , ATH3314.88"
+97237-4831,", , ATH5014.88",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , ATH5014.88"

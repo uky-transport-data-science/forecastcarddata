@@ -1,2 +1,2 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-88778-2800,  MED1620,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MED1620
+88778-2800,", , MED1620",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MED1620"

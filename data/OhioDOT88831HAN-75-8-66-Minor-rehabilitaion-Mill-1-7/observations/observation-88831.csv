@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88831-4740-1,88831-4740,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,31055
+88831-4740-1,88831-4740,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,31055
+88831-4741-1,88831-4741,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,31055
+88831-4741-1,88831-4741,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,31055

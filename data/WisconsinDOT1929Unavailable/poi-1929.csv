@@ -1,24 +1,24 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-1929-6350,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-1929-6351,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6352,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6353,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6354,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6355,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-1929-6356,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-1929-6357,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6358,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6359,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6360,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6361,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6365,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6366,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6368,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6370,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6372,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6373,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6374,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6376,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6377,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6379,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
-1929-6380,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+1929-6350,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+1929-6351,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6352,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6353,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6354,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6355,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+1929-6356,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+1929-6357,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6358,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6359,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6360,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6361,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6365,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6366,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6368,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6370,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6372,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6373,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6374,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6376,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6377,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6379,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+1929-6380,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,

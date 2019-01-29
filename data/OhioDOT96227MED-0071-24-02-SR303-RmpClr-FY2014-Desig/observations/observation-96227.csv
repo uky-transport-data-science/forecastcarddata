@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96227-3394-1,96227-3394,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9130
+96227-3394-1,96227-3394,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9130
+96227-3395-1,96227-3395,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9130
+96227-3395-1,96227-3395,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9130
+96227-3396-1,96227-3396,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,12367
+96227-3396-1,96227-3396,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,12367

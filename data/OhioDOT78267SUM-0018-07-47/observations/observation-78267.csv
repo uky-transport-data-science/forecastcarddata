@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78267-678-1,78267-678,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,19020
+78267-678-1,78267-678,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,18220
+78267-679-1,78267-679,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,19020
+78267-679-1,78267-679,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,18220

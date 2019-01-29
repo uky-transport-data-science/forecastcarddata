@@ -1,10 +1,10 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-84437-2216,  HAM27513.45,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  HAM27513.45
-84437-2217,  HAM27513.89,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  HAM27513.89
-84437-2218,  HAM27516.02,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  HAM27516.02
-84437-2219,  HAM27518.82,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  HAM27518.82
-84437-2229,  HAM2713.51,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM2713.51
-84437-2230,  HAM2713.51,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM2713.51
-84437-2231,  HAM2714.08,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM2714.08
-84437-2232,  HAM2714.29,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM2714.29
-84437-2233,  HAM2714.29,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM2714.29
+84437-2216,", , HAM27513.45",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , HAM27513.45"
+84437-2217,", , HAM27513.89",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , HAM27513.89"
+84437-2218,", , HAM27516.02",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , HAM27516.02"
+84437-2219,", , HAM27518.82",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , HAM27518.82"
+84437-2229,", , HAM2713.51",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM2713.51"
+84437-2230,", , HAM2713.51",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM2713.51"
+84437-2231,", , HAM2714.08",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM2714.08"
+84437-2232,", , HAM2714.29",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM2714.29"
+84437-2233,", , HAM2714.29",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM2714.29"

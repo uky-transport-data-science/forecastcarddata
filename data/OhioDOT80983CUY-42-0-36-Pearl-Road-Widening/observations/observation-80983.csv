@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80983-1896-1,80983-1896,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,11900
+80983-1896-1,80983-1896,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+80983-1897-1,80983-1897,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,11900
+80983-1897-1,80983-1897,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+80983-1898-1,80983-1898,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,11900
+80983-1898-1,80983-1898,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10460
+80983-1899-1,80983-1899,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,16100
+80983-1899-1,80983-1899,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,16950
+80983-1900-1,80983-1900,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,16100
+80983-1900-1,80983-1900,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,16950
+80983-1901-1,80983-1901,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,16100
+80983-1901-1,80983-1901,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,16950
+80983-1902-1,80983-1902,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,16100
+80983-1902-1,80983-1902,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,16950
+80983-1903-1,80983-1903,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,16100
+80983-1903-1,80983-1903,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,16950
+80983-1904-1,80983-1904,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,16100
+80983-1904-1,80983-1904,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,16950
+80983-1905-1,80983-1905,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,16100
+80983-1905-1,80983-1905,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,16950

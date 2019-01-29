@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91661-1803-1,91661-1803,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7080
+91661-1803-1,91661-1803,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7080
+91661-1804-1,91661-1804,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10520
+91661-1804-1,91661-1804,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,10520
+91661-1805-1,91661-1805,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3230
+91661-1805-1,91661-1805,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3230
+91661-1806-1,91661-1806,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,2420
+91661-1806-1,91661-1806,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,2420

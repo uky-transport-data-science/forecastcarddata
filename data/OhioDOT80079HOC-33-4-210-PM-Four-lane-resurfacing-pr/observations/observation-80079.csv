@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80079-1531-1,80079-1531,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,26010
+80079-1531-1,80079-1531,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,26010
+80079-1532-1,80079-1532,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,25090
+80079-1532-1,80079-1532,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,25090
+80079-1539-1,80079-1539,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,27540
+80079-1539-1,80079-1539,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,27540
+80079-1540-1,80079-1540,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,22500
+80079-1540-1,80079-1540,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,22500

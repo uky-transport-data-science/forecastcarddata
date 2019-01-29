@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23265-161-1,23265-161,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,14590
+23265-161-1,23265-161,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,13790
+23265-168-1,23265-168,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,7570
+23265-168-1,23265-168,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,5970

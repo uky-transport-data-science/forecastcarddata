@@ -1,12 +1,12 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-101616-5064,  MAD709.46,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MAD709.46
-101616-5167,  MAD565.46,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD565.46
-101616-5193,  MAD563.31,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD563.31
-101616-5194,  MAD620.64,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD620.64
-101616-5195,  MAD621.45,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD621.45
-101616-5196,  MAD621.77,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD621.77
-101616-5197,  MAD622.11,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD622.11
-101616-5198,  MAD622.57,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD622.57
-101616-5269,  MAD561,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAD561
-101616-5270,  MAD562.24,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAD562.24
-101616-5288,  MAD562.69,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAD562.69
+101616-5064,", , MAD709.46",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , MAD709.46"
+101616-5167,", , MAD565.46",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD565.46"
+101616-5193,", , MAD563.31",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD563.31"
+101616-5194,", , MAD620.64",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD620.64"
+101616-5195,", , MAD621.45",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD621.45"
+101616-5196,", , MAD621.77",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD621.77"
+101616-5197,", , MAD622.11",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD622.11"
+101616-5198,", , MAD622.57",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD622.57"
+101616-5269,", , MAD561",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAD561"
+101616-5270,", , MAD562.24",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAD562.24"
+101616-5288,", , MAD562.69",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAD562.69"

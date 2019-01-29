@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80791-821-1,80791-821,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,18020
+80791-821-1,80791-821,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,18020
+80791-822-1,80791-822,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,17100
+80791-822-1,80791-822,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,17100
+80791-823-1,80791-823,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,12850
+80791-823-1,80791-823,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,12850

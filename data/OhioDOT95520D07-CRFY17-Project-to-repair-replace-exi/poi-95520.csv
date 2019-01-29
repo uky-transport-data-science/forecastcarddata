@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-95520-4802,  DAR7057.25,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  DAR7057.25
-95520-4803,  DAR70514.75,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  DAR70514.75
-95520-4805,  MER492.06,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MER492.06
-95520-4806,  MER4911.635,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MER4911.635
-95520-4808,  SHE7051.35,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SHE7051.35
-95520-4813,  DAR7051.74,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  DAR7051.74
+95520-4802,", , DAR7057.25",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , DAR7057.25"
+95520-4803,", , DAR70514.75",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , DAR70514.75"
+95520-4805,", , MER492.06",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MER492.06"
+95520-4806,", , MER4911.635",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MER4911.635"
+95520-4808,", , SHE7051.35",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , SHE7051.35"
+95520-4813,", , DAR7051.74",6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,", , DAR7051.74"

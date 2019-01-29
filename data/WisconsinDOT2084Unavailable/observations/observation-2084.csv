@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2084-6393-1,2084-6393,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,3700
+2084-6394-1,2084-6394,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,1450

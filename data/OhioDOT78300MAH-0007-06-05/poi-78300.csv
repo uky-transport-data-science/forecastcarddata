@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-78300-1554,  MAH75,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAH75
-78300-1555,  MAH76.2,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAH76.2
-78300-1556,  MAH6261.18,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAH6261.18
+78300-1554,", , MAH75",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MAH75"
+78300-1555,", , MAH76.2",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MAH76.2"
+78300-1556,", , MAH6261.18",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAH6261.18"

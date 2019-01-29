@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83079-1869-1,83079-1869,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,19530
+83079-1869-1,83079-1869,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,22200
+83079-1893-1,83079-1893,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,26250
+83079-1893-1,83079-1893,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,28180

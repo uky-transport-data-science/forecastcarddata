@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85299-3195-1,85299-3195,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18091
+85299-3195-1,85299-3195,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,15620
+85299-3196-1,85299-3196,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18091
+85299-3196-1,85299-3196,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,12500

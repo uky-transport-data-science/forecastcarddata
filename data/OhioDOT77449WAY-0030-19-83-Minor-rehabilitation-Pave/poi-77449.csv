@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-77449-1707,  WAY3019.07,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY3019.07
-77449-1708,  WAY3020.15,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY3020.15
-77449-1709,  WAY3023.33,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY3023.33
-77449-1710,  WAY3024.02,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY3024.02
-77449-1711,  WAY3025.04,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY3025.04
-77449-1712,  WAY3026.02,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY3026.02
+77449-1707,", , WAY3019.07",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY3019.07"
+77449-1708,", , WAY3020.15",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY3020.15"
+77449-1709,", , WAY3023.33",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY3023.33"
+77449-1710,", , WAY3024.02",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY3024.02"
+77449-1711,", , WAY3025.04",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY3025.04"
+77449-1712,", , WAY3026.02",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY3026.02"

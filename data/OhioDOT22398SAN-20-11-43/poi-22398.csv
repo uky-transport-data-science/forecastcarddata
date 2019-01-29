@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-22398-44,  SAN2010.23,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SAN2010.23
-22398-45,  SAN2011.43,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SAN2011.43
-22398-64,  SAN5906.55,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SAN5906.55
-22398-65,  SAN59010.07,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SAN59010.07
+22398-44,", , SAN2010.23",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SAN2010.23"
+22398-45,", , SAN2011.43",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SAN2011.43"
+22398-64,", , SAN5906.55",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , SAN5906.55"
+22398-65,", , SAN59010.07",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , SAN59010.07"

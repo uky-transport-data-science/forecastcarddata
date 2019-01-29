@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93964-3990-1,93964-3990,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,91388
+93964-3990-1,93964-3990,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,91388
+93964-3992-1,93964-3992,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,63258
+93964-3992-1,93964-3992,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,63258
+93964-3993-1,93964-3993,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,71245
+93964-3993-1,93964-3993,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,71245

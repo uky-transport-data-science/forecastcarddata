@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97798-5767-1,97798-5767,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+97798-5767-1,97798-5767,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+97798-5768-1,97798-5768,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+97798-5768-1,97798-5768,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+97798-5769-1,97798-5769,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+97798-5769-1,97798-5769,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620

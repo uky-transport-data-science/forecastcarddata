@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 77-8590,   TH 95North of TH 61 & 10South of CR-78  (110th st.)NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 95North of TH 61 & 10South of CR-78  (110th st.)NB
-SPARS 77-8591,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 77-8592,   TH 95South of CSAH 20 (70th St. S)NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 95South of CSAH 20 (70th St. S)NB
-SPARS 77-8593,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 77-8594,   TH 95North of CSAH 20 (70th St. S)South of CSAH 18 (40th St.)NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 95North of CSAH 20 (70th St. S)South of CSAH 18 (40th St.)NB
-SPARS 77-8595,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 77-8590,", , , TH 95North of TH 61 & 10South of CR-78  (110th st.)NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 95North of TH 61 & 10South of CR-78  (110th st.)NB"
+SPARS 77-8591,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 77-8592,", , , TH 95South of CSAH 20 (70th St. S)NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 95South of CSAH 20 (70th St. S)NB"
+SPARS 77-8593,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 77-8594,", , , TH 95North of CSAH 20 (70th St. S)South of CSAH 18 (40th St.)NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 95North of CSAH 20 (70th St. S)South of CSAH 18 (40th St.)NB"
+SPARS 77-8595,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"

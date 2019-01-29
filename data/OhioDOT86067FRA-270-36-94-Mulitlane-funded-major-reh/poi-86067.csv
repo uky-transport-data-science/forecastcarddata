@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-86067-3117,  FRA27035.6,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA27035.6
-86067-3118,  FRA27037.36,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA27037.36
-86067-3119,  FRA27039.53,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA27039.53
-86067-3131,  FRA167.04,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA167.04
-86067-3132,  FRA168.08,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA168.08
-86067-3133,  FRA31716.7,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA31716.7
-86067-3134,  FRA31717.2,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA31717.2
+86067-3117,", , FRA27035.6",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27035.6"
+86067-3118,", , FRA27037.36",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27037.36"
+86067-3119,", , FRA27039.53",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27039.53"
+86067-3131,", , FRA167.04",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA167.04"
+86067-3132,", , FRA168.08",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA168.08"
+86067-3133,", , FRA31716.7",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA31716.7"
+86067-3134,", , FRA31717.2",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA31717.2"

@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-93855-4333,  AUG334.25,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  AUG334.25
-93855-4538,  AUG1160.965,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  AUG1160.965
+93855-4333,", , AUG334.25",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , AUG334.25"
+93855-4538,", , AUG1160.965",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , AUG1160.965"

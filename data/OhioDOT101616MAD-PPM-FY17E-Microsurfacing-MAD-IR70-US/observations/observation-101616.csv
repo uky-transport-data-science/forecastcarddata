@@ -1,0 +1,23 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101616-5064-1,101616-5064,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,54848
+101616-5064-1,101616-5064,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,54848
+101616-5167-1,101616-5167,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,7264
+101616-5167-1,101616-5167,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,7264
+101616-5193-1,101616-5193,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,5886
+101616-5193-1,101616-5193,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,5886
+101616-5194-1,101616-5194,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6122
+101616-5194-1,101616-5194,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6122
+101616-5195-1,101616-5195,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3188
+101616-5195-1,101616-5195,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3188
+101616-5196-1,101616-5196,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6548
+101616-5196-1,101616-5196,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6548
+101616-5197-1,101616-5197,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4956
+101616-5197-1,101616-5197,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4956
+101616-5198-1,101616-5198,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,7392
+101616-5198-1,101616-5198,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,7392
+101616-5269-1,101616-5269,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,1823
+101616-5269-1,101616-5269,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,1823
+101616-5270-1,101616-5270,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3040
+101616-5270-1,101616-5270,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3040
+101616-5288-1,101616-5288,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,5775
+101616-5288-1,101616-5288,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,5775

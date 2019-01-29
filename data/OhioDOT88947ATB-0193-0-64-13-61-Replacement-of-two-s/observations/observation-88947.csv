@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88947-4489-1,88947-4489,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,751
+88947-4489-1,88947-4489,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,751
+88947-4525-1,88947-4525,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,534
+88947-4525-1,88947-4525,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,534

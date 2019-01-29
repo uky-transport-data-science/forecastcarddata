@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76191-2268-1,76191-2268,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,56880
+76191-2268-1,76191-2268,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,65750
+76191-2269-1,76191-2269,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,60890
+76191-2269-1,76191-2269,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,71200
+76191-2270-1,76191-2270,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,78450
+76191-2270-1,76191-2270,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,89350
+76191-2271-1,76191-2271,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,105700
+76191-2271-1,76191-2271,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,115920
+76191-2272-1,76191-2272,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,93050
+76191-2272-1,76191-2272,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,91190
+76191-2273-1,76191-2273,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,116450
+76191-2273-1,76191-2273,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,119750

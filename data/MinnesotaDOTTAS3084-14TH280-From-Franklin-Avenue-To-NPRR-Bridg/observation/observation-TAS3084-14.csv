@@ -1,7 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TAS3084-14-8149-1,TAS3084-14-8149,Design Year,unknown,unknown,1985,00:00:00,24:00:00,volume,15625
-TAS3084-14-8150-1,TAS3084-14-8150,Design Year,unknown,unknown,1985,00:00:00,24:00:00,volume,15625
-TAS3084-14-8151-1,TAS3084-14-8151,Design Year,unknown,unknown,1985,00:00:00,24:00:00,volume,15625
-TAS3084-14-8152-1,TAS3084-14-8152,Design Year,unknown,unknown,1985,00:00:00,24:00:00,volume,15625
-TAS3084-14-8153-1,TAS3084-14-8153,Design Year,unknown,unknown,1985,00:00:00,24:00:00,volume,25125
-TAS3084-14-8154-1,TAS3084-14-8154,Design Year,unknown,unknown,1985,00:00:00,24:00:00,volume,25125

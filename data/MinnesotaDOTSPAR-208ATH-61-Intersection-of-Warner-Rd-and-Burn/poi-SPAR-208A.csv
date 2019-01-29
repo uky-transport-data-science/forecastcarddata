@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-208A-7087,   TH 61South of Warner RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61South of Warner RdNB
-SPAR-208A-7088,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-208A-7089,   TH 61Between Warner RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Between Warner RdNB
-SPAR-208A-7090,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-208A-7091,   TH 61Warner RdBurns AveNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Warner RdBurns AveNB
-SPAR-208A-7092,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-208A-7093,   TH 61Between Burns AveNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Between Burns AveNB
-SPAR-208A-7094,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-208A-7095,   TH 61North of Burns AveNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61North of Burns AveNB
-SPAR-208A-7096,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208A-7087,", , , TH 61South of Warner RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61South of Warner RdNB"
+SPAR-208A-7088,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPAR-208A-7089,", , , TH 61Between Warner RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Between Warner RdNB"
+SPAR-208A-7090,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPAR-208A-7091,", , , TH 61Warner RdBurns AveNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Warner RdBurns AveNB"
+SPAR-208A-7092,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPAR-208A-7093,", , , TH 61Between Burns AveNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Between Burns AveNB"
+SPAR-208A-7094,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPAR-208A-7095,", , , TH 61North of Burns AveNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61North of Burns AveNB"
+SPAR-208A-7096,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"

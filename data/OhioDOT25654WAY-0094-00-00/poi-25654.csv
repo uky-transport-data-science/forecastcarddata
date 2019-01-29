@@ -1,13 +1,13 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-25654-695,  WAY25026.02,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY25026.02
-25654-696,  WAY25026.26,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY25026.26
-25654-697,  WAY25026.39,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY25026.39
-25654-741,  WAY940,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY940
-25654-742,  WAY940.25,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY940.25
-25654-743,  WAY946.71,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY946.71
-25654-744,  WAY947.13,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY947.13
-25654-745,  WAY2410,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2410
-25654-746,  WAY2412.58,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2412.58
-25654-747,  WAY2412.88,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2412.88
-25654-748,  WAY2412.92,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2412.92
-25654-749,  WAY2413.07,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2413.07
+25654-695,", , WAY25026.02",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY25026.02"
+25654-696,", , WAY25026.26",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY25026.26"
+25654-697,", , WAY25026.39",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY25026.39"
+25654-741,", , WAY940",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY940"
+25654-742,", , WAY940.25",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY940.25"
+25654-743,", , WAY946.71",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY946.71"
+25654-744,", , WAY947.13",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY947.13"
+25654-745,", , WAY2410",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY2410"
+25654-746,", , WAY2412.58",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY2412.58"
+25654-747,", , WAY2412.88",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY2412.88"
+25654-748,", , WAY2412.92",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY2412.92"
+25654-749,", , WAY2413.07",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY2413.07"

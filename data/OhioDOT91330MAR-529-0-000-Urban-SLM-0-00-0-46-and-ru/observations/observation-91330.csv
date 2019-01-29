@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91330-4901-1,91330-4901,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6566
+91330-4901-1,91330-4901,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6566
+91330-4966-1,91330-4966,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2587
+91330-4966-1,91330-4966,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2587
+91330-4967-1,91330-4967,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2976
+91330-4967-1,91330-4967,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2976
+91330-4968-1,91330-4968,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2976
+91330-4968-1,91330-4968,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2976

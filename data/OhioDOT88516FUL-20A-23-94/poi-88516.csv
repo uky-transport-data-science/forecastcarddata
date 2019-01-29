@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-88516-4216,  FUL228.94,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FUL228.94
-88516-4217,  FUL229.13,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FUL229.13
-88516-4218,  FUL229.25,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FUL229.25
-88516-4219,  LUC20.12,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LUC20.12
-88516-4270,  FUL640.37,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  FUL640.37
+88516-4216,", , FUL228.94",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FUL228.94"
+88516-4217,", , FUL229.13",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FUL229.13"
+88516-4218,", , FUL229.25",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FUL229.25"
+88516-4219,", , LUC20.12",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LUC20.12"
+88516-4270,", , FUL640.37",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , FUL640.37"

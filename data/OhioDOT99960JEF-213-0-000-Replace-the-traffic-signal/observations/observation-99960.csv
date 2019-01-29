@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99960-5461-1,99960-5461,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5461-1,99960-5461,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5462-1,99960-5462,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5462-1,99960-5462,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5463-1,99960-5463,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5463-1,99960-5463,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5518-1,99960-5518,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5518-1,99960-5518,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5540-1,99960-5540,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5540-1,99960-5540,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5541-1,99960-5541,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5541-1,99960-5541,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5671-1,99960-5671,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+99960-5671-1,99960-5671,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620

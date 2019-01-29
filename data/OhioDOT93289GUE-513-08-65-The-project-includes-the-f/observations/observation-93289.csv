@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93289-5505-1,93289-5505,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+93289-5505-1,93289-5505,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+93289-5506-1,93289-5506,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+93289-5506-1,93289-5506,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+93289-5507-1,93289-5507,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+93289-5507-1,93289-5507,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+93289-5508-1,93289-5508,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+93289-5508-1,93289-5508,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620

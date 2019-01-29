@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+22232-79-1,22232-79,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,17890
+22232-79-1,22232-79,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,19420
+22232-80-1,22232-80,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,10320
+22232-80-1,22232-80,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,10860
+22232-81-1,22232-81,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,13800
+22232-81-1,22232-81,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,13900

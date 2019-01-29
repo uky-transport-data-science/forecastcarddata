@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-411777-1Resurfacing Project for SR 5/US 1 from SR 600/International Speedway Boulevard (M.P. 0.000) to Woodland Avenue (M.P. 5.868),s1,2002.0,Opening Year,Unavailable,travel-model,2002.0,Consultant
+1,FloridaDOT-411777-1Resurfacing Project for SR 5/US 1 from SR 600/International Speedway Boulevard (M.P. 0.000) to Woodland Avenue (M.P. 5.868),s1,01/01/2002,Opening Year,Unavailable,travel-model,01/01/2002,Consultant

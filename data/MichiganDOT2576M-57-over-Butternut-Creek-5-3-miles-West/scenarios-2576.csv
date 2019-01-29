@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"MichiganDOT-2576M-57 over Butternut Creek, 5.3 miles West of Carson City",s1,2012.0,Opening Year,Unavailable,professional-judgment,2012.0,state DOT
+1,"MichiganDOT-2576M-57 over Butternut Creek, 5.3 miles West of Carson City",s1,01/01/2012,Opening Year,Unavailable,professional-judgment,01/01/2012,state DOT

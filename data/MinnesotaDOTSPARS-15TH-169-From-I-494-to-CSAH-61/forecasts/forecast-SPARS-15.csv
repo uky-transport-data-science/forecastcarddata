@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,SPARS 15-8295,Design Year,00:00:00,24:00,volume,26000
-f3,1,SPARS 15-8296,Design Year,00:00:00,24:00,volume,26000
-f3,1,SPARS 15-8297,Design Year,00:00:00,24:00,volume,18200
-f3,1,SPARS 15-8298,Design Year,00:00:00,24:00,volume,18200
-f3,1,SPARS 15-8299,Design Year,00:00:00,24:00,volume,18500
-f3,1,SPARS 15-8300,Design Year,00:00:00,24:00,volume,18500
-f3,1,SPARS 15-8301,Design Year,00:00:00,24:00,volume,16600
-f3,1,SPARS 15-8302,Design Year,00:00:00,24:00,volume,16600
-f3,1,SPARS 15-8303,Design Year,00:00:00,24:00,volume,22950
-f3,1,SPARS 15-8304,Design Year,00:00:00,24:00,volume,22950
+f3,1,SPARS 15-8295,Design Year,00:00:00,00:00:00,volume,26000
+f3,1,SPARS 15-8296,Design Year,00:00:00,00:00:00,volume,26000
+f3,1,SPARS 15-8297,Design Year,00:00:00,00:00:00,volume,18200
+f3,1,SPARS 15-8298,Design Year,00:00:00,00:00:00,volume,18200
+f3,1,SPARS 15-8299,Design Year,00:00:00,00:00:00,volume,18500
+f3,1,SPARS 15-8300,Design Year,00:00:00,00:00:00,volume,18500
+f3,1,SPARS 15-8301,Design Year,00:00:00,00:00:00,volume,16600
+f3,1,SPARS 15-8302,Design Year,00:00:00,00:00:00,volume,16600
+f3,1,SPARS 15-8303,Design Year,00:00:00,00:00:00,volume,22950
+f3,1,SPARS 15-8304,Design Year,00:00:00,00:00:00,volume,22950

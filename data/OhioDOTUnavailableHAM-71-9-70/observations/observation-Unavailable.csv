@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+Unavailable-5984-1,Unavailable-5984,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+Unavailable-5984-1,Unavailable-5984,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+Unavailable-5985-1,Unavailable-5985,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+Unavailable-5985-1,Unavailable-5985,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180

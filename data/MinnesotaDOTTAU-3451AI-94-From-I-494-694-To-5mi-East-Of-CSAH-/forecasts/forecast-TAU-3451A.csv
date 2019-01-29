@@ -1,9 +1,9 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TAU 3451A-8199,Design Year,00:00:00,24:00,volume,26000
-f3,1,TAU 3451A-8200,Design Year,00:00:00,24:00,volume,26000
-f3,1,TAU 3451A-8201,Design Year,00:00:00,24:00,volume,17700
-f3,1,TAU 3451A-8202,Design Year,00:00:00,24:00,volume,17700
-f3,1,TAU 3451A-8203,Design Year,00:00:00,24:00,volume,16400
-f3,1,TAU 3451A-8204,Design Year,00:00:00,24:00,volume,16400
-f3,1,TAU 3451A-8205,Design Year,00:00:00,24:00,volume,17000
-f3,1,TAU 3451A-8206,Design Year,00:00:00,24:00,volume,17000
+f3,1,TAU 3451A-8199,Design Year,00:00:00,00:00:00,volume,26000
+f3,1,TAU 3451A-8200,Design Year,00:00:00,00:00:00,volume,26000
+f3,1,TAU 3451A-8201,Design Year,00:00:00,00:00:00,volume,17700
+f3,1,TAU 3451A-8202,Design Year,00:00:00,00:00:00,volume,17700
+f3,1,TAU 3451A-8203,Design Year,00:00:00,00:00:00,volume,16400
+f3,1,TAU 3451A-8204,Design Year,00:00:00,00:00:00,volume,16400
+f3,1,TAU 3451A-8205,Design Year,00:00:00,00:00:00,volume,17000
+f3,1,TAU 3451A-8206,Design Year,00:00:00,00:00:00,volume,17000

@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82316-1613-1,82316-1613,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,46380
+82316-1613-1,82316-1613,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,46380

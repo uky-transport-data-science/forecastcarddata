@@ -1,0 +1,27 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82977-5018-1,82977-5018,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,108052
+82977-5018-1,82977-5018,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,108052
+82977-5019-1,82977-5019,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,29114
+82977-5019-1,82977-5019,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,29114
+82977-5020-1,82977-5020,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,29114
+82977-5020-1,82977-5020,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,29114
+82977-5021-1,82977-5021,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,145897
+82977-5021-1,82977-5021,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,145897
+82977-5022-1,82977-5022,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,137856
+82977-5022-1,82977-5022,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,137856
+82977-5023-1,82977-5023,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,137856
+82977-5023-1,82977-5023,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,137856
+82977-5024-1,82977-5024,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,143847
+82977-5024-1,82977-5024,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,143847
+82977-5059-1,82977-5059,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,40382
+82977-5059-1,82977-5059,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,40382
+82977-5081-1,82977-5081,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,39353
+82977-5081-1,82977-5081,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,39353
+82977-5090-1,82977-5090,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,47314
+82977-5090-1,82977-5090,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,47314
+82977-5107-1,82977-5107,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,19700
+82977-5107-1,82977-5107,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,19700
+82977-5108-1,82977-5108,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,30768
+82977-5108-1,82977-5108,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,30768
+82977-5123-1,82977-5123,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,30836
+82977-5123-1,82977-5123,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,30836

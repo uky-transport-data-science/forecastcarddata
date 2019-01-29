@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101003-5630-1,101003-5630,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+101003-5630-1,101003-5630,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+101003-5631-1,101003-5631,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+101003-5631-1,101003-5631,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620

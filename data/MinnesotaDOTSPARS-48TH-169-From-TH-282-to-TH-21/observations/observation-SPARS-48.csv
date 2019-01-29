@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+SPARS 48-8441-1,SPARS 48-8441,Design Year,unknown,unknown,1990,00:00:00,00:00:00,volume,6850
+SPARS 48-8442-1,SPARS 48-8442,Design Year,unknown,unknown,1990,00:00:00,00:00:00,volume,6850
+SPARS 48-8443-1,SPARS 48-8443,Design Year,unknown,unknown,1990,00:00:00,00:00:00,volume,7100
+SPARS 48-8444-1,SPARS 48-8444,Design Year,unknown,unknown,1990,00:00:00,00:00:00,volume,7100
+SPARS 48-8445-1,SPARS 48-8445,Design Year,unknown,unknown,1990,00:00:00,00:00:00,volume,8750
+SPARS 48-8446-1,SPARS 48-8446,Design Year,unknown,unknown,1990,00:00:00,00:00:00,volume,8750

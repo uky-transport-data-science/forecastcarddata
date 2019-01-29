@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83827-2809-1,83827-2809,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,1190
+83827-2809-1,83827-2809,Design Year,unknown,unknown,2014,00:00:00,00:00:00,volume,1190

@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77242-630-1,77242-630,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,85300
+77242-630-1,77242-630,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,65300
+77242-631-1,77242-631,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,79960
+77242-631-1,77242-631,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,63710
+77242-632-1,77242-632,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,72550
+77242-632-1,77242-632,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,56200
+77242-633-1,77242-633,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,79310
+77242-633-1,77242-633,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,63540
+77242-634-1,77242-634,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,97350
+77242-634-1,77242-634,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,79840
+77242-635-1,77242-635,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,102780
+77242-635-1,77242-635,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,84460
+77242-636-1,77242-636,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,100760
+77242-636-1,77242-636,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,82670
+77242-637-1,77242-637,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,105040
+77242-637-1,77242-637,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,87560
+77242-644-1,77242-644,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,34140
+77242-644-1,77242-644,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,23240
+77242-645-1,77242-645,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,20600
+77242-645-1,77242-645,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,17930

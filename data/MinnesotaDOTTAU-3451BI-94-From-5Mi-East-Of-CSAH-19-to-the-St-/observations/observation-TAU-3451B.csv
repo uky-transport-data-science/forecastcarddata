@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAU 3451B-8207-1,TAU 3451B-8207,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,21900
+TAU 3451B-8208-1,TAU 3451B-8208,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,21900
+TAU 3451B-8209-1,TAU 3451B-8209,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,21900
+TAU 3451B-8210-1,TAU 3451B-8210,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,21900
+TAU 3451B-8211-1,TAU 3451B-8211,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,20000
+TAU 3451B-8212-1,TAU 3451B-8212,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,20000
+TAU 3451B-8213-1,TAU 3451B-8213,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,20000
+TAU 3451B-8214-1,TAU 3451B-8214,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,20000
+TAU 3451B-8215-1,TAU 3451B-8215,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,20000
+TAU 3451B-8216-1,TAU 3451B-8216,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,20000
+TAU 3451B-8217-1,TAU 3451B-8217,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,20000
+TAU 3451B-8218-1,TAU 3451B-8218,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,20000
+TAU 3451B-8219-1,TAU 3451B-8219,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,21100
+TAU 3451B-8220-1,TAU 3451B-8220,Design Year,unknown,unknown,1989,00:00:00,00:00:00,volume,21100

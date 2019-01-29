@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96366-4163-1,96366-4163,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,8111
+96366-4163-1,96366-4163,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,8111
+96366-4226-1,96366-4226,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,1237
+96366-4226-1,96366-4226,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,1237
+96366-4251-1,96366-4251,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3107
+96366-4251-1,96366-4251,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3107
+96366-4252-1,96366-4252,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,373
+96366-4252-1,96366-4252,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,373

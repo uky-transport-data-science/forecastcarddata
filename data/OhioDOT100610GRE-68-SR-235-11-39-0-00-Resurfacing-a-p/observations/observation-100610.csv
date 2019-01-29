@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+100610-4346-1,100610-4346,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,16104
+100610-4346-1,100610-4346,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,16104
+100610-4347-1,100610-4347,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,10206
+100610-4347-1,100610-4347,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,10206
+100610-4364-1,100610-4364,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,10206
+100610-4364-1,100610-4364,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,10206
+100610-4365-1,100610-4365,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9316
+100610-4365-1,100610-4365,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9316
+100610-4366-1,100610-4366,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9316
+100610-4366-1,100610-4366,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9316
+100610-4433-1,100610-4433,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4642
+100610-4433-1,100610-4433,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4642
+100610-4434-1,100610-4434,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4642
+100610-4434-1,100610-4434,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4642

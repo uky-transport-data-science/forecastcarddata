@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-5924,  SUM0007724.000,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM0007724.000
-Unavailable-5925,  SUM0007727.490,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM0007727.490
-Unavailable-5926,  SUM0007729.960,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM0007729.960
-Unavailable-5927,  SUM0007731.180,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM0007731.180
-Unavailable-5940,  SUM0007732.890,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM0007732.890
+Unavailable-5924,", , SUM0007724.000",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0007724.000"
+Unavailable-5925,", , SUM0007727.490",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0007727.490"
+Unavailable-5926,", , SUM0007729.960",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0007729.960"
+Unavailable-5927,", , SUM0007731.180",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM0007731.180"
+Unavailable-5940,", , SUM0007732.890",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM0007732.890"

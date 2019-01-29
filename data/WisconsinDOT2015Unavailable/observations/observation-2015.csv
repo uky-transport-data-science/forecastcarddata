@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2015-6236-1,2015-6236,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,14000
+2015-6237-1,2015-6237,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,14700
+2015-6238-1,2015-6238,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,16900

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97242-5557-1,97242-5557,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+97242-5557-1,97242-5557,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+97242-5634-1,97242-5634,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+97242-5634-1,97242-5634,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620

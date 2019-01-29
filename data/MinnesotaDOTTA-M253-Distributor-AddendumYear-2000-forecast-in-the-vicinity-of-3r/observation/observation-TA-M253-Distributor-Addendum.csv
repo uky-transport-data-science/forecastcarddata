@@ -1,4 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TA-M253 Distributor Addendum-7533-1,TA-M253 Distributor Addendum-7533,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6100
-TA-M253 Distributor Addendum-7534-1,TA-M253 Distributor Addendum-7534,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6100
-TA-M253 Distributor Addendum-7535-1,TA-M253 Distributor Addendum-7535,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6100

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88655-2149-1,88655-2149,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,5510
+88655-2149-1,88655-2149,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4660
+88655-2150-1,88655-2150,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,11100
+88655-2150-1,88655-2150,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,10500
+88655-2151-1,88655-2151,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,13240
+88655-2151-1,88655-2151,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,12750

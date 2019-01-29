@@ -1,5 +1,5 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,98633-5654,Opening Year,00:00:00,24:00,volume,1100
-f3,1,98633-5654,Design Year,00:00:00,24:00,volume,1200
-f1,1,98633-5664,Opening Year,00:00:00,24:00,volume,6400
-f3,1,98633-5664,Design Year,00:00:00,24:00,volume,6500
+f1,1,98633-5654,Opening Year,00:00:00,00:00:00,volume,1100
+f3,1,98633-5654,Design Year,00:00:00,00:00:00,volume,1200
+f1,1,98633-5664,Opening Year,00:00:00,00:00:00,volume,6400
+f3,1,98633-5664,Design Year,00:00:00,00:00:00,volume,6500

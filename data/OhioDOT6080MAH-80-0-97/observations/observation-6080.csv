@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+6080-153-1,6080-153,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,53170
+6080-153-1,6080-153,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,49920
+6080-154-1,6080-154,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,62530
+6080-154-1,6080-154,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,59810

@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82292-4350,  GAL726.45,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  GAL726.45
-82292-4354,  GAL734.005,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  GAL734.005
-82292-4355,  GAL734.955,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  GAL734.955
-82292-4356,  MEG71.855,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MEG71.855
-82292-4363,  GAL730.3,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  GAL730.3
-82292-4368,  MEG74.23,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MEG74.23
-82292-4369,  MEG75.265,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MEG75.265
+82292-4350,", , GAL726.45",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , GAL726.45"
+82292-4354,", , GAL734.005",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , GAL734.005"
+82292-4355,", , GAL734.955",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , GAL734.955"
+82292-4356,", , MEG71.855",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MEG71.855"
+82292-4363,", , GAL730.3",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , GAL730.3"
+82292-4368,", , MEG74.23",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MEG74.23"
+82292-4369,", , MEG75.265",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MEG75.265"

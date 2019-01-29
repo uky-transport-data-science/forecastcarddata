@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25662-342-1,25662-342,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,1260
+25662-342-1,25662-342,Design Year,unknown,unknown,2011,00:00:00,00:00:00,volume,930
+25662-343-1,25662-343,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,3840
+25662-343-1,25662-343,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,3210

@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 48-8441,   TH 169West of TH 282EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 169West of TH 282EB
-SPARS 48-8442,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 48-8443,   TH 169East of TH 282West of TH 21EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 169East of TH 282West of TH 21EB
-SPARS 48-8444,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 48-8445,   TH 169North of TH 21EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 169North of TH 21EB
-SPARS 48-8446,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 48-8441,", , , TH 169West of TH 282EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 169West of TH 282EB"
+SPARS 48-8442,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 48-8443,", , , TH 169East of TH 282West of TH 21EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 169East of TH 282West of TH 21EB"
+SPARS 48-8444,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 48-8445,", , , TH 169North of TH 21EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 169North of TH 21EB"
+SPARS 48-8446,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"

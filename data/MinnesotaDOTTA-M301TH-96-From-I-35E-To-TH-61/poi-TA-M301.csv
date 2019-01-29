@@ -1,23 +1,23 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M301-7764,   TH 96West Of I-35EEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96West Of I-35EEB
-TA-M301-7765,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7766,   TH 96Between I-35EEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96Between I-35EEB
-TA-M301-7767,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7768,   TH 96East Of I-35EWest Of 9th StreetEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of I-35EWest Of 9th StreetEB
-TA-M301-7769,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7770,   TH 96Between 9th StreetEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96Between 9th StreetEB
-TA-M301-7771,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7772,   TH 96East Of 9th StreetWest Of Birch Lake Blvd.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of 9th StreetWest Of Birch Lake Blvd.EB
-TA-M301-7773,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7774,   TH 96Between Birch Lake Blvd.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96Between Birch Lake Blvd.EB
-TA-M301-7775,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7776,   TH 96East Of Birch Lake Blvd.West Of Otter Lake RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of Birch Lake Blvd.West Of Otter Lake RdEB
-TA-M301-7777,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7778,   TH 96Between Otter Lake RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96Between Otter Lake RdEB
-TA-M301-7779,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7780,   TH 96East Of Otter Lake RdWest Of Lincoln St/ Bald Eagle AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of Otter Lake RdWest Of Lincoln St/ Bald Eagle AveEB
-TA-M301-7781,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7782,   TH 96Betwen Lincoln St/ Bald Eagle AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96Betwen Lincoln St/ Bald Eagle AveEB
-TA-M301-7783,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M301-7784,   TH 96East Of Lincoln St/ Bald Eagle AveWest Of TH 61EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of Lincoln St/ Bald Eagle AveWest Of TH 61EB
-TA-M301-7785,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M301-7764,", , , TH 96West Of I-35EEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96West Of I-35EEB"
+TA-M301-7765,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7766,", , , TH 96Between I-35EEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96Between I-35EEB"
+TA-M301-7767,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7768,", , , TH 96East Of I-35EWest Of 9th StreetEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96East Of I-35EWest Of 9th StreetEB"
+TA-M301-7769,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7770,", , , TH 96Between 9th StreetEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96Between 9th StreetEB"
+TA-M301-7771,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7772,", , , TH 96East Of 9th StreetWest Of Birch Lake Blvd.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96East Of 9th StreetWest Of Birch Lake Blvd.EB"
+TA-M301-7773,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7774,", , , TH 96Between Birch Lake Blvd.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96Between Birch Lake Blvd.EB"
+TA-M301-7775,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7776,", , , TH 96East Of Birch Lake Blvd.West Of Otter Lake RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96East Of Birch Lake Blvd.West Of Otter Lake RdEB"
+TA-M301-7777,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7778,", , , TH 96Between Otter Lake RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96Between Otter Lake RdEB"
+TA-M301-7779,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7780,", , , TH 96East Of Otter Lake RdWest Of Lincoln St/ Bald Eagle AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96East Of Otter Lake RdWest Of Lincoln St/ Bald Eagle AveEB"
+TA-M301-7781,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7782,", , , TH 96Betwen Lincoln St/ Bald Eagle AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96Betwen Lincoln St/ Bald Eagle AveEB"
+TA-M301-7783,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M301-7784,", , , TH 96East Of Lincoln St/ Bald Eagle AveWest Of TH 61EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 96East Of Lincoln St/ Bald Eagle AveWest Of TH 61EB"
+TA-M301-7785,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"

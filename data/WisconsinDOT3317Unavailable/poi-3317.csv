@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-3317-6590,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
-3317-6591,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-3317-6592,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+3317-6590,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,
+3317-6591,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+3317-6592,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,

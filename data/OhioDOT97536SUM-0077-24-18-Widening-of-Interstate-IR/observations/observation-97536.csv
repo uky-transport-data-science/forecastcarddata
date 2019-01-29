@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97536-5959-1,97536-5959,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5959-1,97536-5959,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5960-1,97536-5960,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5960-1,97536-5960,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5961-1,97536-5961,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5961-1,97536-5961,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5974-1,97536-5974,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5974-1,97536-5974,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5975-1,97536-5975,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180
+97536-5975-1,97536-5975,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4180

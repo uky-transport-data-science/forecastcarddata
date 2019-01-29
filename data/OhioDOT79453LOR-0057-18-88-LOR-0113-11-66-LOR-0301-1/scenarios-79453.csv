@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"OhioDOT-79453LOR-0057-18.88, LOR-0113-11.66, LOR-0301-19.56",s1,2008.0,Opening Year,Unavailable,unknown,2008.0,state DOT
+1,"OhioDOT-79453LOR-0057-18.88, LOR-0113-11.66, LOR-0301-19.56",s1,01/01/2008,Opening Year,Unavailable,unknown,01/01/2008,state DOT

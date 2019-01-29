@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91657-2834-1,91657-2834,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9030
+91657-2834-1,91657-2834,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,8160
+91657-2835-1,91657-2835,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9030
+91657-2835-1,91657-2835,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9030
+91657-2836-1,91657-2836,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9030
+91657-2836-1,91657-2836,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,9030

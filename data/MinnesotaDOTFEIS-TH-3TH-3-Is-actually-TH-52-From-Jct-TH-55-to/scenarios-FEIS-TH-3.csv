@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-FEIS TH 3TH 3 - (Is actually TH 52) -  From Jct. TH 55 to Jct. I-494,s1,1987.0,Design Year,Unavailable,trendline,1987.0,state DOT
+1,MinnesotaDOT-FEIS TH 3TH 3 - (Is actually TH 52) -  From Jct. TH 55 to Jct. I-501,s1,01/01/1987,Design Year,Unavailable,trendline,01/01/1987,state DOT

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2159-6343-1,2159-6343,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,10100
+2159-6344-1,2159-6344,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,7500
+2159-6345-1,2159-6345,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,8100
+2159-6346-1,2159-6346,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,8500
+2159-6347-1,2159-6347,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,1000
+2159-6348-1,2159-6348,Opening Year,unknown,unknown,2011,00:00:00,00:00:00,volume,660

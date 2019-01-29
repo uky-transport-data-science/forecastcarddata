@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+24794-139-1,24794-139,Opening Year,unknown,unknown,2004,00:00:00,00:00:00,volume,15580
+24794-139-1,24794-139,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,15190
+24794-140-1,24794-140,Opening Year,unknown,unknown,2004,00:00:00,00:00:00,volume,17800
+24794-140-1,24794-140,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,17340
+24794-141-1,24794-141,Opening Year,unknown,unknown,2004,00:00:00,00:00:00,volume,18020
+24794-141-1,24794-141,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,17770

@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+22866-364-1,22866-364,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,25740
+22866-364-1,22866-364,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,14810
+22866-365-1,22866-365,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,16920
+22866-365-1,22866-365,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,17410
+22866-366-1,22866-366,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,15220
+22866-366-1,22866-366,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,12130
+22866-367-1,22866-367,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,6470
+22866-367-1,22866-367,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,9040

@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-411603-1ASR 25 Resurfacing Project on SR 25 from 0.021 Mi South of Citizens BLVD (MP 4.150) to SR 500 (MP 11.557),s1,2004.0,Opening Year,Unavailable,travel-model,2004.0,Consultant
+1,FloridaDOT-411603-1ASR 25 Resurfacing Project on SR 25 from 0.021 Mi South of Citizens BLVD (MP 4.150) to SR 500 (MP 11.557),s1,01/01/2004,Opening Year,Unavailable,travel-model,01/01/2004,Consultant

@@ -1,21 +1,21 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 61-8483,   CSAH 18 (US-169)South of Smetana Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18 (US-169)South of Smetana Rd.NB
-SPARS 61-8484,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 61-8485,   CSAH 18North of Smetana Rd.South of 7th St. S.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18North of Smetana Rd.South of 7th St. S.NB
-SPARS 61-8486,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 61-8487,   CSAH 18North of 7th St. S.South of 5th St. S.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18North of 7th St. S.South of 5th St. S.NB
-SPARS 61-8488,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 61-8489,   CSAH 18North of 5th St. SSouth of CSAH 3NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18North of 5th St. SSouth of CSAH 3NB
-SPARS 61-8490,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 61-8491,   CSAH 18North of CSAH 3SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18North of CSAH 3SB
-SPARS 61-8492,   NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   NB
-SPARS 61-8493,   CSAH 18 (US-169)South of Smetana Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18 (US-169)South of Smetana Rd.NB
-SPARS 61-8494,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 61-8495,   CSAH 18North of Smetana Rd.South of 7th St. S.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18North of Smetana Rd.South of 7th St. S.NB
-SPARS 61-8496,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 61-8497,   CSAH 18North of 7th St. S.South of 5th St. S.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18North of 7th St. S.South of 5th St. S.NB
-SPARS 61-8498,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 61-8499,   CSAH 18North of 5th St. SSouth of CSAH 3NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18North of 5th St. SSouth of CSAH 3NB
-SPARS 61-8500,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 61-8501,   CSAH 18North of CSAH 3SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 18North of CSAH 3SB
-SPARS 61-8502,   NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   NB
+SPARS 61-8483,", , , CSAH 18 (US-169)South of Smetana Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18 (US-169)South of Smetana Rd.NB"
+SPARS 61-8484,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 61-8485,", , , CSAH 18North of Smetana Rd.South of 7th St. S.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18North of Smetana Rd.South of 7th St. S.NB"
+SPARS 61-8486,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 61-8487,", , , CSAH 18North of 7th St. S.South of 5th St. S.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18North of 7th St. S.South of 5th St. S.NB"
+SPARS 61-8488,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 61-8489,", , , CSAH 18North of 5th St. SSouth of CSAH 3NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18North of 5th St. SSouth of CSAH 3NB"
+SPARS 61-8490,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 61-8491,", , , CSAH 18North of CSAH 3SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18North of CSAH 3SB"
+SPARS 61-8492,", , , NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , NB"
+SPARS 61-8493,", , , CSAH 18 (US-169)South of Smetana Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18 (US-169)South of Smetana Rd.NB"
+SPARS 61-8494,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 61-8495,", , , CSAH 18North of Smetana Rd.South of 7th St. S.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18North of Smetana Rd.South of 7th St. S.NB"
+SPARS 61-8496,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 61-8497,", , , CSAH 18North of 7th St. S.South of 5th St. S.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18North of 7th St. S.South of 5th St. S.NB"
+SPARS 61-8498,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 61-8499,", , , CSAH 18North of 5th St. SSouth of CSAH 3NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18North of 5th St. SSouth of CSAH 3NB"
+SPARS 61-8500,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 61-8501,", , , CSAH 18North of CSAH 3SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 18North of CSAH 3SB"
+SPARS 61-8502,", , , NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , NB"

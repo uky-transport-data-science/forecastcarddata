@@ -1,3 +1,3 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
 1,"FloridaDOT-409847-1The Resurfacing Project for SR 400 limits begin
-east of SR 44 (M.P. 14.668) and end east of SR 600 (M.P. 25.274).",s1,2002.0,Opening Year,Unavailable,trendline,2002.0,Consultant
+east of SR 44 (M.P. 14.668) and end east of SR 600 (M.P. 25.274).",s1,01/01/2002,Opening Year,Unavailable,trendline,01/01/2002,Consultant

@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83382-2959-1,83382-2959,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,1300
+83382-2959-1,83382-2959,Design Year,unknown,unknown,2014,00:00:00,00:00:00,volume,1300

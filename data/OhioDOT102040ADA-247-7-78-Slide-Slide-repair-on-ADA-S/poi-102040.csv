@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-102040-5837,  ADA3210.49,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ADA3210.49
-102040-5863,  ADA2477.76,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ADA2477.76
+102040-5837,", , ADA3210.49",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ADA3210.49"
+102040-5863,", , ADA2477.76",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , ADA2477.76"

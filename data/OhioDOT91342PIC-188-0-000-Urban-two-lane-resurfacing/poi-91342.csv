@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-91342-5162,  pic1880,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  pic1880
-91342-5163,  pic1880.64,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  pic1880.64
-91342-5227,  pic1881.43,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  pic1881.43
-91342-5228,  pic1882.23,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  pic1882.23
+91342-5162,", , pic1880",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , pic1880"
+91342-5163,", , pic1880.64",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , pic1880.64"
+91342-5227,", , pic1881.43",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , pic1881.43"
+91342-5228,", , pic1882.23",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , pic1882.23"

@@ -1,15 +1,15 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-FEIS I35E-8708,   I-35ENorth of W 7th St.South of Randolph Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of W 7th St.South of Randolph Ave.NB
-FEIS I35E-8709,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-FEIS I35E-8710,   I-35ENorth of Jefferson AveSouth of Victoria St.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of Jefferson AveSouth of Victoria St.EB
-FEIS I35E-8711,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-FEIS I35E-8712,   I-35EEast of Victoria St.South of St. Clair Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35EEast of Victoria St.South of St. Clair Ave.EB
-FEIS I35E-8713,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-FEIS I35E-8714,   I-35ENorth of St. Clair Ave.South of Grand/RamseyNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of St. Clair Ave.South of Grand/RamseyNB
-FEIS I35E-8715,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-FEIS I35E-8716,   I-35ENorth of Grand/RamseySouth of Kellogg Blvd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of Grand/RamseySouth of Kellogg Blvd.NB
-FEIS I35E-8717,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-FEIS I35E-8718,   I-35ENorth of 6th St.South of I-94NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of 6th St.South of I-94NB
-FEIS I35E-8719,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-FEIS I35E-8720,   I-35ENorth of St. PeterSouth of University Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of St. PeterSouth of University Ave.NB
-FEIS I35E-8721,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+FEIS I35E-8708,", , , I-35ENorth of W 7th St.South of Randolph Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of W 7th St.South of Randolph Ave.NB"
+FEIS I35E-8709,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+FEIS I35E-8710,", , , I-35ENorth of Jefferson Ave,South of Victoria St.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of Jefferson Ave,South of Victoria St.EB"
+FEIS I35E-8711,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+FEIS I35E-8712,", , , I-35EEast of Victoria St.South of St. Clair Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35EEast of Victoria St.South of St. Clair Ave.EB"
+FEIS I35E-8713,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+FEIS I35E-8714,", , , I-35ENorth of St. Clair Ave.South of Grand/RamseyNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of St. Clair Ave.South of Grand/RamseyNB"
+FEIS I35E-8715,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+FEIS I35E-8716,", , , I-35ENorth of Grand/RamseySouth of Kellogg Blvd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of Grand/RamseySouth of Kellogg Blvd.NB"
+FEIS I35E-8717,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+FEIS I35E-8718,", , , I-35ENorth of 6th St.South of I-94NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of 6th St.South of I-94NB"
+FEIS I35E-8719,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+FEIS I35E-8720,", , , I-35ENorth of St. PeterSouth of University Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of St. PeterSouth of University Ave.NB"
+FEIS I35E-8721,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"

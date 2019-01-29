@@ -1,0 +1,25 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M304-6866-1,TA-M304-6866,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,56000
+TA-M304-6867-1,TA-M304-6867,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,56000
+TA-M304-6868-1,TA-M304-6868,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,40000
+TA-M304-6869-1,TA-M304-6869,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,40000
+TA-M304-6870-1,TA-M304-6870,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,61000
+TA-M304-6871-1,TA-M304-6871,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,61000
+TA-M304-6872-1,TA-M304-6872,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,54000
+TA-M304-6873-1,TA-M304-6873,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,54000
+TA-M304-6874-1,TA-M304-6874,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,54000
+TA-M304-6875-1,TA-M304-6875,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,54000
+TA-M304-6876-1,TA-M304-6876,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,48000
+TA-M304-6877-1,TA-M304-6877,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,48000
+TA-M304-6878-1,TA-M304-6878,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,48000
+TA-M304-6879-1,TA-M304-6879,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,48000
+TA-M304-6880-1,TA-M304-6880,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,48000
+TA-M304-6881-1,TA-M304-6881,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,48000
+TA-M304-6882-1,TA-M304-6882,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,48000
+TA-M304-6883-1,TA-M304-6883,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,48000
+TA-M304-6884-1,TA-M304-6884,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,51000
+TA-M304-6885-1,TA-M304-6885,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,51000
+TA-M304-6886-1,TA-M304-6886,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,51000
+TA-M304-6887-1,TA-M304-6887,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,51000
+TA-M304-6888-1,TA-M304-6888,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,51000
+TA-M304-6889-1,TA-M304-6889,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,51000

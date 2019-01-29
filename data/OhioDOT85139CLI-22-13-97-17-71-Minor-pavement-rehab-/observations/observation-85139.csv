@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85139-4428-1,85139-4428,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6567
+85139-4428-1,85139-4428,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6567
+85139-4429-1,85139-4429,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6615
+85139-4429-1,85139-4429,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6615
+85139-4430-1,85139-4430,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,5594
+85139-4430-1,85139-4430,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,5594
+85139-4431-1,85139-4431,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3868
+85139-4431-1,85139-4431,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3868

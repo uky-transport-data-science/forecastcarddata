@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-76561-1002,  MAD4015.18,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD4015.18
-76561-1003,  MAD14211.21,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD14211.21
-76561-1019,  MAD4014.82,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAD4014.82
+76561-1002,", , MAD4015.18",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD4015.18"
+76561-1003,", , MAD14211.21",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAD14211.21"
+76561-1019,", , MAD4014.82",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAD4014.82"

@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83443-2742-1,83443-2742,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,4550
+83443-2742-1,83443-2742,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3140

@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"MinnesotaDOT-SPAR-208TH 61, South of Warner Rd to the Washington County Line",s1,1978.0,Design Year,Unavailable,trendline,1978.0,state DOT
+1,"MinnesotaDOT-SPAR-208TH 61, South of Warner Rd to the Washington County Line",s1,01/01/1978,Design Year,Unavailable,trendline,01/01/1978,state DOT

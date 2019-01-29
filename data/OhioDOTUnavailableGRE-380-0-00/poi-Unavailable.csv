@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-6133,  GRE6754.51,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6754.51
-Unavailable-6134,  GRE6757.07,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6757.07
-Unavailable-6135,  GRE3511.07,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE3511.07
-Unavailable-6138,  GRE688.75,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  GRE688.75
-Unavailable-6145,  GRE4215.21,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  GRE4215.21
-Unavailable-6149,  GRE3803.04,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GRE3803.04
+Unavailable-6133,", , GRE6754.51",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , GRE6754.51"
+Unavailable-6134,", , GRE6757.07",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , GRE6757.07"
+Unavailable-6135,", , GRE3511.07",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , GRE3511.07"
+Unavailable-6138,", , GRE688.75",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , GRE688.75"
+Unavailable-6145,", , GRE4215.21",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , GRE4215.21"
+Unavailable-6149,", , GRE3803.04",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , GRE3803.04"

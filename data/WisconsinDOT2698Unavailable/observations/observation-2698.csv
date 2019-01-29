@@ -1,0 +1,2 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2698-6685-1,2698-6685,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,510

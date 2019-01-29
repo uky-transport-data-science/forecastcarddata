@@ -1,0 +1,25 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97178-4764-1,97178-4764,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4764-1,97178-4764,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4765-1,97178-4765,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4765-1,97178-4765,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4766-1,97178-4766,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4766-1,97178-4766,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4767-1,97178-4767,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4767-1,97178-4767,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4768-1,97178-4768,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4768-1,97178-4768,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4769-1,97178-4769,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4769-1,97178-4769,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4770-1,97178-4770,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4770-1,97178-4770,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4771-1,97178-4771,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4771-1,97178-4771,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4772-1,97178-4772,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4772-1,97178-4772,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4773-1,97178-4773,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4773-1,97178-4773,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4774-1,97178-4774,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4774-1,97178-4774,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,18408
+97178-4775-1,97178-4775,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,10460
+97178-4775-1,97178-4775,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,10460

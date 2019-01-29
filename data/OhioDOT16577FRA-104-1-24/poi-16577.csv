@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-16577-206,  FRA1041.43,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA1041.43
-16577-207,  FRA66511.89,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA66511.89
-16577-208,  FRA66512.2,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA66512.2
-16577-210,  FRA1040,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  FRA1040
+16577-206,", , FRA1041.43",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FRA1041.43"
+16577-207,", , FRA66511.89",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FRA66511.89"
+16577-208,", , FRA66512.2",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FRA66512.2"
+16577-210,", , FRA1040",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , FRA1040"

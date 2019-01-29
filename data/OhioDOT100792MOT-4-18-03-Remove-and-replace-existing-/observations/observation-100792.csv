@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+100792-4319-1,100792-4319,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,23026
+100792-4319-1,100792-4319,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,23026
+100792-4320-1,100792-4320,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,27352
+100792-4320-1,100792-4320,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,27352

@@ -1,0 +1,23 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82315-2394-1,82315-2394,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,16290
+82315-2394-1,82315-2394,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+82315-2395-1,82315-2395,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,8850
+82315-2395-1,82315-2395,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,8820
+82315-2396-1,82315-2396,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,13340
+82315-2396-1,82315-2396,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,12530
+82315-2397-1,82315-2397,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,11160
+82315-2397-1,82315-2397,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,11580
+82315-2398-1,82315-2398,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,8640
+82315-2398-1,82315-2398,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,9530
+82315-2399-1,82315-2399,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,4750
+82315-2399-1,82315-2399,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,5860
+82315-2400-1,82315-2400,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,6670
+82315-2400-1,82315-2400,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,7790
+82315-2401-1,82315-2401,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,7790
+82315-2401-1,82315-2401,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,3690
+82315-2419-1,82315-2419,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,4230
+82315-2419-1,82315-2419,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,4330
+82315-2424-1,82315-2424,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,3280
+82315-2424-1,82315-2424,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,3790
+82315-2425-1,82315-2425,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,3930
+82315-2425-1,82315-2425,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,3590

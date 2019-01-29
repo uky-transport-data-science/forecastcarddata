@@ -1,0 +1,25 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101298-4909-1,101298-4909,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2126
+101298-4909-1,101298-4909,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2126
+101298-4910-1,101298-4910,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2126
+101298-4910-1,101298-4910,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2126
+101298-4911-1,101298-4911,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2953
+101298-4911-1,101298-4911,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2953
+101298-4912-1,101298-4912,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2953
+101298-4912-1,101298-4912,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2953
+101298-4913-1,101298-4913,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3441
+101298-4913-1,101298-4913,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3441
+101298-4914-1,101298-4914,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3441
+101298-4914-1,101298-4914,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3441
+101298-4915-1,101298-4915,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3594
+101298-4915-1,101298-4915,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3594
+101298-4916-1,101298-4916,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3594
+101298-4916-1,101298-4916,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,3594
+101298-4917-1,101298-4917,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4557
+101298-4917-1,101298-4917,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4557
+101298-4918-1,101298-4918,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4557
+101298-4918-1,101298-4918,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4557
+101298-4919-1,101298-4919,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4779
+101298-4919-1,101298-4919,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4779
+101298-4920-1,101298-4920,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4779
+101298-4920-1,101298-4920,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4779

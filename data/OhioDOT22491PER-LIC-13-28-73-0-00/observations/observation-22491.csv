@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+22491-296-1,22491-296,Opening Year,unknown,unknown,2005,00:00:00,00:00:00,volume,13910
+22491-296-1,22491-296,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,12100
+22491-297-1,22491-297,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,6850
+22491-297-1,22491-297,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,6860
+22491-298-1,22491-298,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,8460
+22491-298-1,22491-298,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,8390
+22491-299-1,22491-299,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,12700
+22491-299-1,22491-299,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,12430
+22491-303-1,22491-303,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,2250
+22491-303-1,22491-303,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,2250
+22491-304-1,22491-304,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,1840
+22491-304-1,22491-304,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,1470

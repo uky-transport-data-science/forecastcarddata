@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+14821-529-1,14821-529,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,30300
+14821-529-1,14821-529,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,29920
+14821-530-1,14821-530,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,39500
+14821-530-1,14821-530,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,38970

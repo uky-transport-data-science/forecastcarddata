@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-88739-3967,  ASD427.54,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ASD427.54
-88739-3968,  ASD427.82,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ASD427.82
-88739-3969,  ASD428.92,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ASD428.92
-88739-3970,  ASD966.03,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ASD966.03
-88739-3971,  ASD25016.08,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ASD25016.08
-88739-3972,  ASD25016.29,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ASD25016.29
-88739-3973,  ASD25016.35,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ASD25016.35
+88739-3967,", , ASD427.54",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ASD427.54"
+88739-3968,", , ASD427.82",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ASD427.82"
+88739-3969,", , ASD428.92",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ASD428.92"
+88739-3970,", , ASD966.03",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ASD966.03"
+88739-3971,", , ASD25016.08",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ASD25016.08"
+88739-3972,", , ASD25016.29",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ASD25016.29"
+88739-3973,", , ASD25016.35",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ASD25016.35"

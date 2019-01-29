@@ -1,15 +1,15 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 72-8523,   I-94South of TH 12NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94South of TH 12NB
-SPARS 72-8524,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 72-8525,   I-94South of TH 12 Between ramp and TH 12NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94South of TH 12 Between ramp and TH 12NB
-SPARS 72-8526,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 72-8527,   I-94North of TH 12South of TH 55NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94North of TH 12South of TH 55NB
-SPARS 72-8528,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 72-8529,   I-94North of TH 55NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94North of TH 55NB
-SPARS 72-8530,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 72-8531,   I-94North of Broadway Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94North of Broadway Ave.NB
-SPARS 72-8532,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 72-8533,   I-94South of Dowling Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94South of Dowling Ave.NB
-SPARS 72-8534,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 72-8535,   I-94North of Dowling Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94North of Dowling Ave.NB
-SPARS 72-8536,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 72-8523,", , , I-94South of TH 12NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94South of TH 12NB"
+SPARS 72-8524,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 72-8525,", , , I-94South of TH 12 Between ramp and TH 12NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94South of TH 12 Between ramp and TH 12NB"
+SPARS 72-8526,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 72-8527,", , , I-94North of TH 12South of TH 55NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94North of TH 12South of TH 55NB"
+SPARS 72-8528,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 72-8529,", , , I-94North of TH 55NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94North of TH 55NB"
+SPARS 72-8530,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 72-8531,", , , I-94North of Broadway Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94North of Broadway Ave.NB"
+SPARS 72-8532,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 72-8533,", , , I-94South of Dowling Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94South of Dowling Ave.NB"
+SPARS 72-8534,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 72-8535,", , , I-94North of Dowling Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94North of Dowling Ave.NB"
+SPARS 72-8536,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"

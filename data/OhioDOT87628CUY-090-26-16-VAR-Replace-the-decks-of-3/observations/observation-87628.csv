@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87628-4698-1,87628-4698,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,108421
+87628-4698-1,87628-4698,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,108421

@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-3737,  LIC162.75,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LIC162.75
-Unavailable-3738,  LIC403.81,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LIC403.81
-Unavailable-3739,  LIC3101.38,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LIC3101.38
-Unavailable-3793,  LIC3101.83,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LIC3101.83
+Unavailable-3737,", , LIC162.75",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LIC162.75"
+Unavailable-3738,", , LIC403.81",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LIC403.81"
+Unavailable-3739,", , LIC3101.38",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LIC3101.38"
+Unavailable-3793,", , LIC3101.83",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LIC3101.83"

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93758-2852-1,93758-2852,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,18910
+93758-2852-1,93758-2852,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7680
+93758-2853-1,93758-2853,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,20390
+93758-2853-1,93758-2853,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,15740

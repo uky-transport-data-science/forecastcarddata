@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85162-2631-1,85162-2631,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,26530
+85162-2631-1,85162-2631,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,25530
+85162-2632-1,85162-2632,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,35920
+85162-2632-1,85162-2632,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,37920
+85162-2635-1,85162-2635,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,41440
+85162-2635-1,85162-2635,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,44060
+85162-2636-1,85162-2636,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,47020
+85162-2636-1,85162-2636,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,48950
+85162-2643-1,85162-2643,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,12540
+85162-2643-1,85162-2643,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,15070
+85162-2647-1,85162-2647,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,16990
+85162-2647-1,85162-2647,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,17530
+85162-2648-1,85162-2648,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,25580
+85162-2648-1,85162-2648,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,26860
+85162-2649-1,85162-2649,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,8710
+85162-2649-1,85162-2649,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,8620
+85162-2650-1,85162-2650,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,7240
+85162-2650-1,85162-2650,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7080
+85162-2666-1,85162-2666,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,7130
+85162-2666-1,85162-2666,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,8310

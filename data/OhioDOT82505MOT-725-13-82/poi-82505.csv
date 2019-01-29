@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82505-1277,  MOT72513.41,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT72513.41
-82505-1278,  MOT72513.99,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT72513.99
-82505-1279,  MOT72514.6,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT72514.6
-82505-1280,  MOT72515,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT72515
-82505-1281,  MOT72516.24,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT72516.24
-82505-1282,  MOT72517.51,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT72517.51
+82505-1277,", , MOT72513.41",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT72513.41"
+82505-1278,", , MOT72513.99",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT72513.99"
+82505-1279,", , MOT72514.6",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT72514.6"
+82505-1280,", , MOT72515",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT72515"
+82505-1281,", , MOT72516.24",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT72516.24"
+82505-1282,", , MOT72517.51",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT72517.51"

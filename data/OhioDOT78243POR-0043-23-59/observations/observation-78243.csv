@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78243-1165-1,78243-1165,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,9190
+78243-1165-1,78243-1165,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,9190
+78243-1166-1,78243-1166,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,12370
+78243-1166-1,78243-1166,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,12370
+78243-1167-1,78243-1167,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,12370
+78243-1167-1,78243-1167,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,12370
+78243-1177-1,78243-1177,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,9550
+78243-1177-1,78243-1177,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,9550
+78243-1178-1,78243-1178,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7310
+78243-1178-1,78243-1178,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,7310

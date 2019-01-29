@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99474-4906-1,99474-4906,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4721
+99474-4906-1,99474-4906,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4721
+99474-4907-1,99474-4907,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,8739
+99474-4907-1,99474-4907,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,8739
+99474-4946-1,99474-4946,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4042
+99474-4946-1,99474-4946,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4042
+99474-4947-1,99474-4947,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4355
+99474-4947-1,99474-4947,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4355

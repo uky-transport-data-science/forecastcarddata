@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TA-M240-6925-1,TA-M240-6925,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,5000
-TA-M240-6926-1,TA-M240-6926,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,5000
-TA-M240-6927-1,TA-M240-6927,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6750
-TA-M240-6928-1,TA-M240-6928,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6750
-TA-M240-6929-1,TA-M240-6929,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6750
-TA-M240-6930-1,TA-M240-6930,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6750
-TA-M240-6931-1,TA-M240-6931,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6350
-TA-M240-6932-1,TA-M240-6932,Design Year,unknown,unknown,2000,00:00:00,24:00:00,volume,6350

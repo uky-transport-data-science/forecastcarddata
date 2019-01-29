@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23733-1248-1,23733-1248,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,6740
+23733-1248-1,23733-1248,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,6740
+23733-1249-1,23733-1249,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,4620
+23733-1249-1,23733-1249,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,4620
+23733-1250-1,23733-1250,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,4320
+23733-1250-1,23733-1250,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,4320
+23733-1251-1,23733-1251,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3970
+23733-1251-1,23733-1251,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3970

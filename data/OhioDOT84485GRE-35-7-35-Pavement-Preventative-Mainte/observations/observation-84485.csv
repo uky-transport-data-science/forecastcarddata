@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84485-5537-1,84485-5537,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+84485-5537-1,84485-5537,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+84485-5538-1,84485-5538,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+84485-5538-1,84485-5538,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+84485-5539-1,84485-5539,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+84485-5539-1,84485-5539,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620

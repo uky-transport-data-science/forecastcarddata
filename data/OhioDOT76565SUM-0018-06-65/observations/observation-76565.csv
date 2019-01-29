@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76565-465-1,76565-465,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,21210
+76565-465-1,76565-465,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,19410
+76565-466-1,76565-466,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,19020
+76565-466-1,76565-466,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,18220

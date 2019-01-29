@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79453-1379-1,79453-1379,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,26430
+79453-1379-1,79453-1379,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,26430
+79453-1380-1,79453-1380,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,36230
+79453-1380-1,79453-1380,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,36230
+79453-1381-1,79453-1381,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,45300
+79453-1381-1,79453-1381,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,45300
+79453-1406-1,79453-1406,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,18020
+79453-1406-1,79453-1406,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,18020
+79453-1407-1,79453-1407,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,12920
+79453-1407-1,79453-1407,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,12920
+79453-1408-1,79453-1408,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,19520
+79453-1408-1,79453-1408,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,19520
+79453-1409-1,79453-1409,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,24350
+79453-1409-1,79453-1409,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,24350

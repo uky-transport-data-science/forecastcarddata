@@ -1,3 +1,3 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
 1,"FloridaDOT-238429-4SR 50  Add Lanes and Reconstruct Project, ffrom Hancock Road/SR 25 (M.P. 15.689) to the Orange County Line
-(M.P. 18.629)",s1,2006.0,Opening Year,Unavailable,travel-model,2006.0,Consultant
+(M.P. 18.629)",s1,01/01/2006,Opening Year,Unavailable,travel-model,01/01/2006,Consultant

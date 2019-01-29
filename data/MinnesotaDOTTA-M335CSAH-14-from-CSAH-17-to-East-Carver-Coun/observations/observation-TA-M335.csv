@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M335-6787-1,TA-M335-6787,Design Year,unknown,unknown,2003,00:00:00,00:00:00,volume,11000
+TA-M335-6788-1,TA-M335-6788,Design Year,unknown,unknown,2003,00:00:00,00:00:00,volume,7800
+TA-M335-6789-1,TA-M335-6789,Design Year,unknown,unknown,2003,00:00:00,00:00:00,volume,7900

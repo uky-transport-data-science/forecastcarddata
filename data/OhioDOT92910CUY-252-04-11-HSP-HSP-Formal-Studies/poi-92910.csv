@@ -1,20 +1,20 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-92910-4628,  CUY4801.5,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4801.5
-92910-4629,  CUY4803.98,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4803.98
-92910-4648,  CUY2524.77,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2524.77
-92910-4649,  CUY2524.34,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2524.34
-92910-4650,  CUY2523.42,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2523.42
-92910-4656,  CUY4805.600,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4805.600
-92910-4657,  CUY4804.450,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4804.450
-92910-4667,  CUY480.930,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY480.930
-92910-4668,  CUY2524.850,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2524.850
-92910-4669,  CUY17.620,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY17.620
-92910-4670,  CUY2524.710,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2524.710
-92910-4671,  CUY2524.620,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2524.620
-92910-4672,  CUY2524.500,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2524.500
-92910-4673,  CUY2524.390,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2524.390
-92910-4674,  CUY2524.320,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2524.320
-92910-4687,  CUY4802.240,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY4802.240
-92910-4688,  CUY17.840,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY17.840
-92910-4689,  CUY2524.150,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY2524.150
-92910-4696,  CUY2524.230,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CUY2524.230
+92910-4628,", , CUY4801.5",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , CUY4801.5"
+92910-4629,", , CUY4803.98",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , CUY4803.98"
+92910-4648,", , CUY2524.77",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2524.77"
+92910-4649,", , CUY2524.34",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2524.34"
+92910-4650,", , CUY2523.42",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2523.42"
+92910-4656,", , CUY4805.600",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , CUY4805.600"
+92910-4657,", , CUY4804.450",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , CUY4804.450"
+92910-4667,", , CUY480.930",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY480.930"
+92910-4668,", , CUY2524.850",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2524.850"
+92910-4669,", , CUY17.620",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY17.620"
+92910-4670,", , CUY2524.710",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2524.710"
+92910-4671,", , CUY2524.620",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2524.620"
+92910-4672,", , CUY2524.500",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2524.500"
+92910-4673,", , CUY2524.390",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2524.390"
+92910-4674,", , CUY2524.320",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY2524.320"
+92910-4687,", , CUY4802.240",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY4802.240"
+92910-4688,", , CUY17.840",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY17.840"
+92910-4689,", , CUY2524.150",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY2524.150"
+92910-4696,", , CUY2524.230",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CUY2524.230"

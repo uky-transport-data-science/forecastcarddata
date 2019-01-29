@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2833-6454-1,2833-6454,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,31700
+2833-6455-1,2833-6455,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,32200
+2833-6456-1,2833-6456,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,35100
+2833-6457-1,2833-6457,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,31400
+2833-6671-1,2833-6671,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,32500

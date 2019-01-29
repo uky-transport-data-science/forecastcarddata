@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+95675-4389-1,95675-4389,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13235
+95675-4389-1,95675-4389,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13235
+95675-4390-1,95675-4390,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,19244
+95675-4390-1,95675-4390,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,19244

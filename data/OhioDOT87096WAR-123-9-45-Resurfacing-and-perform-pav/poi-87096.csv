@@ -1,12 +1,12 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-87096-4866,  WAR12331.395,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAR12331.395
-87096-4890,  WAR12319.85,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WAR12319.85
-87096-4941,  WAR12316.16,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12316.16
-87096-4943,  WAR12325.305,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12325.305
-87096-4944,  WAR12327.12,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12327.12
-87096-4945,  WAR12332.73,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12332.73
-87096-5002,  WAR12310.01,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12310.01
-87096-5003,  WAR12312.11,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12312.11
-87096-5004,  WAR12314.23,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12314.23
-87096-5005,  WAR12314.89,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12314.89
-87096-5006,  WAR12322.185,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAR12322.185
+87096-4866,", , WAR12331.395",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAR12331.395"
+87096-4890,", , WAR12319.85",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , WAR12319.85"
+87096-4941,", , WAR12316.16",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12316.16"
+87096-4943,", , WAR12325.305",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12325.305"
+87096-4944,", , WAR12327.12",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12327.12"
+87096-4945,", , WAR12332.73",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12332.73"
+87096-5002,", , WAR12310.01",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12310.01"
+87096-5003,", , WAR12312.11",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12312.11"
+87096-5004,", , WAR12314.23",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12314.23"
+87096-5005,", , WAR12314.89",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12314.89"
+87096-5006,", , WAR12322.185",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAR12322.185"

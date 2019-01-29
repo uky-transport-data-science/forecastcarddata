@@ -1,0 +1,17 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+SPARS 16-8305-1,SPARS 16-8305,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,7150
+SPARS 16-8306-1,SPARS 16-8306,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,7150
+SPARS 16-8307-1,SPARS 16-8307,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,7100
+SPARS 16-8308-1,SPARS 16-8308,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,7100
+SPARS 16-8309-1,SPARS 16-8309,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,5250
+SPARS 16-8310-1,SPARS 16-8310,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,5250
+SPARS 16-8311-1,SPARS 16-8311,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,4075
+SPARS 16-8312-1,SPARS 16-8312,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,4075
+SPARS 16-8313-1,SPARS 16-8313,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,7675
+SPARS 16-8314-1,SPARS 16-8314,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,7675
+SPARS 16-8315-1,SPARS 16-8315,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,7050
+SPARS 16-8316-1,SPARS 16-8316,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,7050
+SPARS 16-8317-1,SPARS 16-8317,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,11000
+SPARS 16-8318-1,SPARS 16-8318,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,11000
+SPARS 16-8319-1,SPARS 16-8319,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,9200
+SPARS 16-8320-1,SPARS 16-8320,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,9200

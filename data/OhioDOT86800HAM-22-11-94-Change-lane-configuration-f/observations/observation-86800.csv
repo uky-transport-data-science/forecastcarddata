@@ -1,0 +1,21 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+86800-1673-1,86800-1673,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,19540
+86800-1673-1,86800-1673,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,19540
+86800-1674-1,86800-1674,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1674-1,86800-1674,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1675-1,86800-1675,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1675-1,86800-1675,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1676-1,86800-1676,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1676-1,86800-1676,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1677-1,86800-1677,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1677-1,86800-1677,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1678-1,86800-1678,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1678-1,86800-1678,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1679-1,86800-1679,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1679-1,86800-1679,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1680-1,86800-1680,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1680-1,86800-1680,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,14390
+86800-1681-1,86800-1681,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,17290
+86800-1681-1,86800-1681,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,17290
+86800-1682-1,86800-1682,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,17290
+86800-1682-1,86800-1682,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,17290

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+90653-3276-1,90653-3276,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,19331
+90653-3276-1,90653-3276,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,19331
+90653-4699-1,90653-4699,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,19331
+90653-4699-1,90653-4699,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,19331

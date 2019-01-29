@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80176-702-1,80176-702,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,4320
+80176-702-1,80176-702,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,4320
+80176-703-1,80176-703,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,7680
+80176-703-1,80176-703,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,7680

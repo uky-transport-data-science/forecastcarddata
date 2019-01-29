@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+90813-2120-1,90813-2120,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,22790
+90813-2120-1,90813-2120,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,19170
+90813-2121-1,90813-2121,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,22790
+90813-2121-1,90813-2121,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,19170
+90813-2122-1,90813-2122,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,22790
+90813-2122-1,90813-2122,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,23070

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85201-1683-1,85201-1683,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,18100
+85201-1683-1,85201-1683,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,18100
+85201-1684-1,85201-1684,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,11670
+85201-1684-1,85201-1684,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,11670

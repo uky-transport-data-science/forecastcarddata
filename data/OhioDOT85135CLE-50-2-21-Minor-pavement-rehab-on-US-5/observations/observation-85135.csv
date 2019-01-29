@@ -1,0 +1,19 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85135-2778-1,85135-2778,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,6880
+85135-2778-1,85135-2778,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,7760
+85135-2779-1,85135-2779,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,8940
+85135-2779-1,85135-2779,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,8270
+85135-2780-1,85135-2780,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,3610
+85135-2780-1,85135-2780,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,3780
+85135-2783-1,85135-2783,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,5485
+85135-2783-1,85135-2783,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,5900
+85135-2845-1,85135-2845,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,6380
+85135-2845-1,85135-2845,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,7250
+85135-2849-1,85135-2849,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,12738
+85135-2849-1,85135-2849,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,13110
+85135-2850-1,85135-2850,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,12738
+85135-2850-1,85135-2850,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,12500
+85135-2857-1,85135-2857,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,8610
+85135-2857-1,85135-2857,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,8260
+85135-2858-1,85135-2858,Opening Year,unknown,unknown,2014,00:00:00,00:00:00,volume,6770
+85135-2858-1,85135-2858,Design Year,unknown,unknown,2006,00:00:00,00:00:00,volume,8620

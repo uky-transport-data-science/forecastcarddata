@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82507-2051-1,82507-2051,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,22480
+82507-2051-1,82507-2051,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,23740
+82507-2052-1,82507-2052,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,18600
+82507-2052-1,82507-2052,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,22050

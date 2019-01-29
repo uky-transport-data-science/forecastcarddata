@@ -1,0 +1,27 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91418-5103-1,91418-5103,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,11327
+91418-5103-1,91418-5103,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,11327
+91418-5166-1,91418-5166,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2298
+91418-5166-1,91418-5166,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2298
+91418-5174-1,91418-5174,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,10980
+91418-5174-1,91418-5174,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,10980
+91418-5175-1,91418-5175,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13452
+91418-5175-1,91418-5175,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,13452
+91418-5176-1,91418-5176,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6949
+91418-5176-1,91418-5176,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6949
+91418-5214-1,91418-5214,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2543
+91418-5214-1,91418-5214,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2543
+91418-5234-1,91418-5234,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4552
+91418-5234-1,91418-5234,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,4552
+91418-5235-1,91418-5235,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2108
+91418-5235-1,91418-5235,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2108
+91418-5236-1,91418-5236,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2150
+91418-5236-1,91418-5236,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2150
+91418-5237-1,91418-5237,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2268
+91418-5237-1,91418-5237,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2268
+91418-5238-1,91418-5238,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2682
+91418-5238-1,91418-5238,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2682
+91418-5240-1,91418-5240,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2682
+91418-5240-1,91418-5240,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,2682
+91418-5282-1,91418-5282,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6791
+91418-5282-1,91418-5282,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,6791

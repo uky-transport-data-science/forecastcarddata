@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81918-1338-1,81918-1338,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,5680
+81918-1338-1,81918-1338,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,5680

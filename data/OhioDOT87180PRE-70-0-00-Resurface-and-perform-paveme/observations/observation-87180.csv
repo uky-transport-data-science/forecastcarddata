@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87180-4300-1,87180-4300,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,32072
+87180-4300-1,87180-4300,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,32072
+87180-4302-1,87180-4302,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,35547
+87180-4302-1,87180-4302,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,35547
+87180-4532-1,87180-4532,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,1311
+87180-4532-1,87180-4532,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,1311

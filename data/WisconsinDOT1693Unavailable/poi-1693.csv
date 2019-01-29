@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-1693-6396,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-1693-6397,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-1693-6398,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-1693-6399,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
-1693-6400,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+1693-6396,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+1693-6397,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+1693-6398,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+1693-6399,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+1693-6400,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,

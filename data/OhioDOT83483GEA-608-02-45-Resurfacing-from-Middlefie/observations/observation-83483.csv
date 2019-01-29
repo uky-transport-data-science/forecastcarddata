@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83483-1446-1,83483-1446,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,5800
+83483-1446-1,83483-1446,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,5800
+83483-1447-1,83483-1447,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3530
+83483-1447-1,83483-1447,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,3530

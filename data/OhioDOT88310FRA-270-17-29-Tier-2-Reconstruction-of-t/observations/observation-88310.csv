@@ -1,0 +1,19 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88310-3179-1,88310-3179,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,114281
+88310-3179-1,88310-3179,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,105060
+88310-3180-1,88310-3180,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,107446
+88310-3180-1,88310-3180,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,103420
+88310-3181-1,88310-3181,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,115963
+88310-3181-1,88310-3181,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,123840
+88310-3182-1,88310-3182,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,143208
+88310-3182-1,88310-3182,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,141240
+88310-3190-1,88310-3190,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,54991
+88310-3190-1,88310-3190,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,49490
+88310-3191-1,88310-3191,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,54991
+88310-3191-1,88310-3191,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,72120
+88310-3197-1,88310-3197,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,76233
+88310-3197-1,88310-3197,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,39290
+88310-3198-1,88310-3198,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,25696
+88310-3198-1,88310-3198,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,27810
+88310-3199-1,88310-3199,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,25696
+88310-3199-1,88310-3199,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,27810

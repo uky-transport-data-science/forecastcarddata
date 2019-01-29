@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TA-M289AI-694/TH 61 No Build,s1,1983.0,Design Year,Unavailable,trendline,1983.0,state DOT
+1,MinnesotaDOT-TA-M289AI-694/TH 61 No Build,s1,01/01/1983,Design Year,Unavailable,trendline,01/01/1983,state DOT

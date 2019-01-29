@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TA-M242TH 120 from Lower Afton Road to TH 244,s1,1980.0,Design Year,Unavailable,trendline,1980.0,state DOT
+1,MinnesotaDOT-TA-M242TH 120 from Lower Afton Road to TH 244,s1,01/01/1980,Design Year,Unavailable,trendline,01/01/1980,state DOT

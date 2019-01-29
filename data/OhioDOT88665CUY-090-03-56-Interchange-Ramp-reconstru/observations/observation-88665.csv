@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88665-3299-1,88665-3299,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,85748
+88665-3299-1,88665-3299,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,85748
+88665-3300-1,88665-3300,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,89273
+88665-3300-1,88665-3300,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,89273

@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-PSU 3203BTH13 - TH101 West Of Savage To .75 Mi West Of I-35W,s1,1962.0,Design Year,Unavailable,trendline,1962.0,state DOT
+1,MinnesotaDOT-PSU 3203BTH13 - TH101 West Of Savage To .75 Mi West Of I-35W,s1,01/01/1962,Design Year,Unavailable,trendline,01/01/1962,state DOT

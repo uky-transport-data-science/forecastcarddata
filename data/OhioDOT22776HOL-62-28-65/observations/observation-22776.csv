@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+22776-273-1,22776-273,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,4620
+22776-273-1,22776-273,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,4620
+22776-274-1,22776-274,Opening Year,unknown,unknown,2008,00:00:00,00:00:00,volume,3350
+22776-274-1,22776-274,Design Year,unknown,unknown,2008,00:00:00,00:00:00,volume,3350

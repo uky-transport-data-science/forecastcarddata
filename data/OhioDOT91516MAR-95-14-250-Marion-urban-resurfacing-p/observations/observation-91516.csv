@@ -1,0 +1,23 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91516-5573-1,91516-5573,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5573-1,91516-5573,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5574-1,91516-5574,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5574-1,91516-5574,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5575-1,91516-5575,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5575-1,91516-5575,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5576-1,91516-5576,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5576-1,91516-5576,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5577-1,91516-5577,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5577-1,91516-5577,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5578-1,91516-5578,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5578-1,91516-5578,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5579-1,91516-5579,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5579-1,91516-5579,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5580-1,91516-5580,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5580-1,91516-5580,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5610-1,91516-5610,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5610-1,91516-5610,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5611-1,91516-5611,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5611-1,91516-5611,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5612-1,91516-5612,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620
+91516-5612-1,91516-5612,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,620

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79745-1313-1,79745-1313,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,11690
+79745-1313-1,79745-1313,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,11690
+79745-1314-1,79745-1314,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,11370
+79745-1314-1,79745-1314,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,11370

@@ -1,9 +1,9 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,25659-1355,Opening Year,00:00:00,24:00,volume,5990
-f3,1,25659-1355,Design Year,00:00:00,24:00,volume,7250
-f1,1,25659-1404,Opening Year,00:00:00,24:00,volume,4190
-f3,1,25659-1404,Design Year,00:00:00,24:00,volume,4420
-f1,1,25659-1405,Opening Year,00:00:00,24:00,volume,6800
-f3,1,25659-1405,Design Year,00:00:00,24:00,volume,8140
-f1,1,25659-1410,Opening Year,00:00:00,24:00,volume,4790
-f3,1,25659-1410,Design Year,00:00:00,24:00,volume,5350
+f1,1,25659-1355,Opening Year,00:00:00,00:00:00,volume,5990
+f3,1,25659-1355,Design Year,00:00:00,00:00:00,volume,7250
+f1,1,25659-1404,Opening Year,00:00:00,00:00:00,volume,4190
+f3,1,25659-1404,Design Year,00:00:00,00:00:00,volume,4420
+f1,1,25659-1405,Opening Year,00:00:00,00:00:00,volume,6800
+f3,1,25659-1405,Design Year,00:00:00,00:00:00,volume,8140
+f1,1,25659-1410,Opening Year,00:00:00,00:00:00,volume,4790
+f3,1,25659-1410,Design Year,00:00:00,00:00:00,volume,5350

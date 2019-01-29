@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-76436SUM-0619-04.73,s1,2004.0,Opening Year,Unavailable,unknown,2004.0,state DOT
+1,OhioDOT-76436SUM-0619-04.73,s1,01/01/2004,Opening Year,Unavailable,unknown,01/01/2004,state DOT

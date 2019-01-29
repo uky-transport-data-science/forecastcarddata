@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79944-956-1,79944-956,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,39930
+79944-956-1,79944-956,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,39930
+79944-957-1,79944-957,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,41890
+79944-957-1,79944-957,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,41890
+79944-958-1,79944-958,Opening Year,unknown,unknown,2010,00:00:00,00:00:00,volume,5160
+79944-958-1,79944-958,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,5160

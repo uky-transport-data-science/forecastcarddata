@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-22245-1066,  WOO2800,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  WOO2800
-22245-1067,  WOO2800.72,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  WOO2800.72
-22245-1072,  WOO7959.05,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WOO7959.05
-22245-1078,  WOO2802.3,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  WOO2802.3
-22245-1079,  WOO2804.53,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  WOO2804.53
-22245-1094,  WOO7958.42,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WOO7958.42
+22245-1066,", , WOO2800",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , WOO2800"
+22245-1067,", , WOO2800.72",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , WOO2800.72"
+22245-1072,", , WOO7959.05",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO7959.05"
+22245-1078,", , WOO2802.3",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , WOO2802.3"
+22245-1079,", , WOO2804.53",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , WOO2804.53"
+22245-1094,", , WOO7958.42",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WOO7958.42"
