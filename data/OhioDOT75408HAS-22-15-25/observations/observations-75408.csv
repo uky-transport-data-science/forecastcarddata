@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75408-538-1,75408-538,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,2050
+75408-539-1,75408-539,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,4680
+75408-540-1,75408-540,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,5440

@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-94724-2900,", , LUC210.640",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC210.640"
-94724-2901,", , LUC0000210.710",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC0000210.710"
-94724-2902,", , LUC2014.920",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC2014.920"
-94724-2903,", , LUC0002014.950",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC0002014.950"
-94724-2904,", , LUC211.680",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC211.680"
-94724-2905,", , LUC211.720",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LUC211.720"
+94724-2900,  LUC210.640,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC210.640
+94724-2901,  LUC0000210.710,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC0000210.710
+94724-2902,  LUC2014.920,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC2014.920
+94724-2903,  LUC0002014.950,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC0002014.950
+94724-2904,  LUC211.680,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC211.680
+94724-2905,  LUC211.720,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC211.720

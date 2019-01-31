@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-101312-5164,", , FRA6740.72",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FRA6740.72"
-101312-5217,", , PIC31610.38",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC31610.38"
-101312-5218,", , PIC31612.26",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC31612.26"
-101312-5219,", , PIC31613.15",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC31613.15"
-101312-5220,", , PIC31613.69",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC31613.69"
-101312-5229,", , PIC5621.64",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC5621.64"
-101312-5272,", , PIC5624.83",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC5624.83"
-101312-5273,", , PIC5629.89",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC5629.89"
-101312-5274,", , PIC1800.24",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC1800.24"
-101312-5289,", , PIC5633.63",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC5633.63"
+101312-5164,  FRA6740.72,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA6740.72
+101312-5217,  PIC31610.38,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC31610.38
+101312-5218,  PIC31612.26,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC31612.26
+101312-5219,  PIC31613.15,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC31613.15
+101312-5220,  PIC31613.69,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC31613.69
+101312-5229,  PIC5621.64,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC5621.64
+101312-5272,  PIC5624.83,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC5624.83
+101312-5273,  PIC5629.89,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC5629.89
+101312-5274,  PIC1800.24,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC1800.24
+101312-5289,  PIC5633.63,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC5633.63

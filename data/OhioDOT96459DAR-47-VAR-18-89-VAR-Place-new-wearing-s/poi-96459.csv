@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-96459-4374,", , DAR4911.51",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , DAR4911.51"
-96459-4529,", , DAR4718.67",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , DAR4718.67"
-96459-4540,", , DAR7228.22",6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,", , DAR7228.22"
+96459-4374,  DAR4911.51,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  DAR4911.51
+96459-4529,  DAR4718.67,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  DAR4718.67
+96459-4540,  DAR7228.22,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  DAR7228.22

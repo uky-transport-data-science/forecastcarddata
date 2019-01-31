@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99042-3702-1,99042-3702,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,30693
+99042-3703-1,99042-3703,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,37296
+99042-3817-1,99042-3817,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,12404
+99042-3818-1,99042-3818,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,9769

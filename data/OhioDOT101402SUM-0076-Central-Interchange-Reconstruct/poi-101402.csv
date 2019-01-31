@@ -1,14 +1,14 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-101402-6029,", , SUM7610.02",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7610.02"
-101402-6030,", , SUM7610.02",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7610.02"
-101402-6031,", , SUM7611.09",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7611.09"
-101402-6032,", , SUM7611.42",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7611.42"
-101402-6033,", , SUM7611.7",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7611.7"
-101402-6034,", , SUM7612.1",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7612.1"
-101402-6035,", , SUM7612.1",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7612.1"
-101402-6036,", , SUM7613.34",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7613.34"
-101402-6037,", , SUM7710.86",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7710.86"
-101402-6038,", , SUM7711.51",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7711.51"
-101402-6044,", , SUM80.12",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM80.12"
-101402-6045,", , SUM80.74",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM80.74"
-101402-6046,", , SUM81.13",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , SUM81.13"
+101402-6029,  SUM7610.02,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7610.02
+101402-6030,  SUM7610.02,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7610.02
+101402-6031,  SUM7611.09,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7611.09
+101402-6032,  SUM7611.42,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7611.42
+101402-6033,  SUM7611.7,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7611.7
+101402-6034,  SUM7612.1,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7612.1
+101402-6035,  SUM7612.1,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7612.1
+101402-6036,  SUM7613.34,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7613.34
+101402-6037,  SUM7710.86,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7710.86
+101402-6038,  SUM7711.51,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7711.51
+101402-6044,  SUM80.12,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM80.12
+101402-6045,  SUM80.74,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM80.74
+101402-6046,  SUM81.13,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM81.13

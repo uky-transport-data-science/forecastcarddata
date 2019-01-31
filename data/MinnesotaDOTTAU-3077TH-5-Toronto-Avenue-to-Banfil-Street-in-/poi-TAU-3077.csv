@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAU 3077-8083,", , , TH 5South Of Jefferson AvenueNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 5South Of Jefferson AvenueNB"
-TAU 3077-8084,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAU 3077-8085,", , , TH 5Between Jefferson AvenueNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 5Between Jefferson AvenueNB"
-TAU 3077-8086,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAU 3077-8087,", , , TH 5North of Jefferson AvenueSouth Of St. Clair AvenueNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 5North of Jefferson AvenueSouth Of St. Clair AvenueNB"
-TAU 3077-8088,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAU 3077-8089,", , , TH 5Between St. Clair AvenueNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 5Between St. Clair AvenueNB"
-TAU 3077-8090,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAU 3077-8091,", , , TH 5North Of St. Clair AvenueNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 5North Of St. Clair AvenueNB"
-TAU 3077-8092,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+TAU 3077-8083,   TH 5South Of Jefferson AvenueNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5South Of Jefferson AvenueNB
+TAU 3077-8084,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3077-8085,   TH 5Between Jefferson AvenueNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5Between Jefferson AvenueNB
+TAU 3077-8086,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3077-8087,   TH 5North of Jefferson AvenueSouth Of St. Clair AvenueNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5North of Jefferson AvenueSouth Of St. Clair AvenueNB
+TAU 3077-8088,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3077-8089,   TH 5Between St. Clair AvenueNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5Between St. Clair AvenueNB
+TAU 3077-8090,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3077-8091,   TH 5North Of St. Clair AvenueNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5North Of St. Clair AvenueNB
+TAU 3077-8092,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB

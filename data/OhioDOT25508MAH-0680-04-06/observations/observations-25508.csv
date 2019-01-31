@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25508-896-1,25508-896,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,43210
+25508-897-1,25508-897,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,53450
+25508-898-1,25508-898,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,35730
+25508-899-1,25508-899,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,49550

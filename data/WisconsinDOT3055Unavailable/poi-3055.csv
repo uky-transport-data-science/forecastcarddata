@@ -1,14 +1,14 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-3055-6649,,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,
-3055-6650,,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,
-3055-6651,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
-3055-6652,,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,
-3055-6653,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
-3055-6654,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
-3055-6655,,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,
-3055-6656,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
-3055-6657,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
-3055-6658,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
-3055-6659,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
-3055-6660,,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,
-3055-6661,,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,
+3055-6649,nan,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,nan
+3055-6650,nan,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,nan
+3055-6651,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+3055-6652,nan,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,nan
+3055-6653,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+3055-6654,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+3055-6655,nan,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,nan
+3055-6656,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+3055-6657,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+3055-6658,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+3055-6659,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan
+3055-6660,nan,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Wisconsin,WisconsinDOT,nan
+3055-6661,nan,,,,urban,unknown,unknown,,Wisconsin,WisconsinDOT,nan

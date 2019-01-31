@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-94680-4703,", , WAS3394.53",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , WAS3394.53"
-94680-4706,", , MOE2623.8",6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,", , MOE2623.8"
+94680-4703,  WAS3394.53,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WAS3394.53
+94680-4706,  MOE2623.8,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  MOE2623.8

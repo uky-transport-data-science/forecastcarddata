@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79258-1387-1,79258-1387,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,16090
+79258-1388-1,79258-1388,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,16090
+79258-1389-1,79258-1389,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,16090
+79258-1390-1,79258-1390,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,9970
+79258-1391-1,79258-1391,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,9970
+79258-1392-1,79258-1392,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,9970
+79258-1393-1,79258-1393,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,9970
+79258-1394-1,79258-1394,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,3170

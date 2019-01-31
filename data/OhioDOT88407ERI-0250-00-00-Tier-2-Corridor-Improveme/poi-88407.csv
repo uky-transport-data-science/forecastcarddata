@@ -1,22 +1,22 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-88407-3841,", , ERI26.17",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI26.17"
-88407-3859,", , ERI28.07",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , ERI28.07"
-88407-3860,", , ERI211.93",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , ERI211.93"
-88407-3861,", , ERI615.92",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , ERI615.92"
-88407-3862,", , ERI68.53",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI68.53"
-88407-3863,", , ERI68.98",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI68.98"
-88407-3864,", , ERI2500",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2500"
-88407-3865,", , ERI2500.34",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2500.34"
-88407-3866,", , ERI2501.14",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2501.14"
-88407-3867,", , ERI2501.14",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2501.14"
-88407-3868,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3869,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3870,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3871,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3872,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3873,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3874,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3875,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3876,", , ERI2502.1",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2502.1"
-88407-3877,", , ERI2503.92",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2503.92"
-88407-3878,", , ERI2504.32",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , ERI2504.32"
+88407-3841,  ERI26.17,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI26.17
+88407-3859,  ERI28.07,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  ERI28.07
+88407-3860,  ERI211.93,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  ERI211.93
+88407-3861,  ERI615.92,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  ERI615.92
+88407-3862,  ERI68.53,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI68.53
+88407-3863,  ERI68.98,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI68.98
+88407-3864,  ERI2500,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2500
+88407-3865,  ERI2500.34,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2500.34
+88407-3866,  ERI2501.14,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2501.14
+88407-3867,  ERI2501.14,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2501.14
+88407-3868,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3869,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3870,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3871,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3872,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3873,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3874,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3875,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3876,  ERI2502.1,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2502.1
+88407-3877,  ERI2503.92,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2503.92
+88407-3878,  ERI2504.32,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  ERI2504.32

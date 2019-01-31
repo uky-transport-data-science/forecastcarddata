@@ -1,5 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-2927-6406-1,2927-6406,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,2800
-2927-6408-1,2927-6408,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,7400
-2927-6412-1,2927-6412,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,2000
-2927-6417-1,2927-6417,Opening Year,unknown,unknown,2009,00:00:00,00:00:00,volume,5700

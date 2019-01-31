@@ -1,4 +1,4 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TA-M335-6787,Design Year,00:00:00,00:00:00,volume,3600
-f3,1,TA-M335-6788,Design Year,00:00:00,00:00:00,volume,3150
-f3,1,TA-M335-6789,Design Year,00:00:00,00:00:00,volume,4050
+f3,1,TA-M335-6787,Design Year,00:00:00,23:59:59,volume,3600
+f3,1,TA-M335-6788,Design Year,00:00:00,23:59:59,volume,3150
+f3,1,TA-M335-6789,Design Year,00:00:00,23:59:59,volume,4050

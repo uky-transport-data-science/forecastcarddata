@@ -1,15 +1,15 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M308-7694,", , , TH 13West Of Nicollet Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13West Of Nicollet Ave.EB"
-TA-M308-7695,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M308-7696,", , , TH 13Between Nicollet Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13Between Nicollet Ave.EB"
-TA-M308-7697,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M308-7698,", , , TH 13Nicollet AvePortland AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13Nicollet AvePortland AveEB"
-TA-M308-7699,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M308-7700,", , , TH 13Between Portland Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13Between Portland Ave.EB"
-TA-M308-7701,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M308-7702,", , , TH 13East Of Portland Ave.West of Parkwood AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13East Of Portland Ave.West of Parkwood AveEB"
-TA-M308-7703,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M308-7704,", , , TH 13Between Parkwood Dr - 12th AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13Between Parkwood Dr - 12th AveEB"
-TA-M308-7705,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M308-7706,", , , TH 13East Of Parkwood Dr - 12th AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13East Of Parkwood Dr - 12th AveEB"
-TA-M308-7707,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M308-7694,   TH 13West Of Nicollet Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13West Of Nicollet Ave.EB
+TA-M308-7695,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M308-7696,   TH 13Between Nicollet Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13Between Nicollet Ave.EB
+TA-M308-7697,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M308-7698,   TH 13Nicollet AvePortland AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13Nicollet AvePortland AveEB
+TA-M308-7699,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M308-7700,   TH 13Between Portland Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13Between Portland Ave.EB
+TA-M308-7701,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M308-7702,   TH 13East Of Portland Ave.West of Parkwood AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13East Of Portland Ave.West of Parkwood AveEB
+TA-M308-7703,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M308-7704,   TH 13Between Parkwood Dr - 12th AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13Between Parkwood Dr - 12th AveEB
+TA-M308-7705,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M308-7706,   TH 13East Of Parkwood Dr - 12th AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13East Of Parkwood Dr - 12th AveEB
+TA-M308-7707,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

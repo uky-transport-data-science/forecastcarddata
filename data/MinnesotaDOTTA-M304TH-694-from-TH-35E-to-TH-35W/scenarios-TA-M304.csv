@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TA-M304TH 694 from TH 35E to TH 35W,s1,01/01/1984,Design Year,Unavailable,trendline,01/01/1984,state DOT
+1,MinnesotaDOT-TA-M304TH 694 from TH 35E to TH 35W,s1,1984-01-01,Design Year,Unavailable,trendline,1984-01-01,state DOT

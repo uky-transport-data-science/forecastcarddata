@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-98633-5654,", , LOG4721.65",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LOG4721.65"
-98633-5664,", , SHE6610.2",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , SHE6610.2"
+98633-5654,  LOG4721.65,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOG4721.65
+98633-5664,  SHE6610.2,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SHE6610.2

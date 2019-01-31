@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-UnavailableSR 808/Glades Rd from W of Boca Lakes Dr (MP 1.180) to Florida1s Turnpike (MP 2.049),s1,01/01/2009,Opening Year,Unavailable,trendline,01/01/2009,state DOT
+1,FloridaDOT-UnavailableSR 808/Glades Rd from W of Boca Lakes Dr (MP 1.180) to Florida1s Turnpike (MP 2.049),s1,2009-01-01,Opening Year,Unavailable,trendline,2009-01-01,state DOT

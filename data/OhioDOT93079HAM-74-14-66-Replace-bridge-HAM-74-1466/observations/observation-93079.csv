@@ -1,5 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-93079-3944-1,93079-3944,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,55476
-93079-3944-1,93079-3944,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,55476
-93079-3945-1,93079-3945,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,45993
-93079-3945-1,93079-3945,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,45993

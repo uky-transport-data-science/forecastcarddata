@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91727-5452-1,91727-5452,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+91727-5453-1,91727-5453,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620

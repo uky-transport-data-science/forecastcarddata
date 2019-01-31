@@ -1,0 +1,18 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101207-4351-1,101207-4351,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,20169
+101207-4361-1,101207-4361,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,28278
+101207-4362-1,101207-4362,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,14630
+101207-4367-1,101207-4367,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,25896
+101207-4403-1,101207-4403,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6589
+101207-4435-1,101207-4435,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,5391
+101207-4436-1,101207-4436,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,5017
+101207-4464-1,101207-4464,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,4561
+101207-4501-1,101207-4501,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,3769
+101207-4502-1,101207-4502,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1312
+101207-4506-1,101207-4506,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1582
+101207-4507-1,101207-4507,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6068
+101207-4508-1,101207-4508,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,3041
+101207-4509-1,101207-4509,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,4561
+101207-4510-1,101207-4510,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,3069
+101207-4511-1,101207-4511,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2314
+101207-4512-1,101207-4512,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1410

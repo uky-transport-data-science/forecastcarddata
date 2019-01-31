@@ -1,0 +1,8 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78910-1834-1,78910-1834,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,58700
+78910-1835-1,78910-1835,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,47120
+78910-1837-1,78910-1837,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,22360
+78910-1838-1,78910-1838,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,23390
+78910-1845-1,78910-1845,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,132210
+78910-1846-1,78910-1846,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,75040
+78910-1847-1,78910-1847,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,75040

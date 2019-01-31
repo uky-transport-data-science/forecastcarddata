@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83301-1261-1,83301-1261,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,61970
+83301-1262-1,83301-1262,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,65300
+83301-1263-1,83301-1263,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,63710
+83301-1264-1,83301-1264,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,56200
+83301-1265-1,83301-1265,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,63540
+83301-1266-1,83301-1266,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,79840
+83301-1267-1,83301-1267,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,82670
+83301-1268-1,83301-1268,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,87560
+83301-1269-1,83301-1269,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,90150

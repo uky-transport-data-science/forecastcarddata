@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-UnavailableSR-9/ I-95 from S. of Linton Blvd to S. of Boyton Beach Blvd (MP 7.600 to MP 14.400),s1,01/01/2010,Opening Year,Unavailable,professional-judgment,01/01/2010,state DOT
+1,FloridaDOT-UnavailableSR-9/ I-95 from S. of Linton Blvd to S. of Boyton Beach Blvd (MP 7.600 to MP 14.400),s1,2010-01-01,Opening Year,Unavailable,professional-judgment,2010-01-01,state DOT

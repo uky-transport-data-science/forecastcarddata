@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87061-3110-1,87061-3110,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,39406
+87061-3115-1,87061-3115,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2150

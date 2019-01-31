@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101678-4437-1,101678-4437,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2845
+101678-4438-1,101678-4438,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2712
+101678-4439-1,101678-4439,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,4721
+101678-4440-1,101678-4440,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,4574

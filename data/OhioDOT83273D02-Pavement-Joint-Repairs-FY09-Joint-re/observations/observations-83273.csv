@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83273-1070-1,83273-1070,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,48840
+83273-1071-1,83273-1071,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,52430
+83273-1081-1,83273-1081,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,57610
+83273-1082-1,83273-1082,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,63540
+83273-1083-1,83273-1083,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,79840
+83273-1084-1,83273-1084,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,86170
+83273-1085-1,83273-1085,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,84460
+83273-1086-1,83273-1086,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,82670
+83273-1087-1,83273-1087,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,87560

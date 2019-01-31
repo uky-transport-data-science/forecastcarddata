@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80619-776-1,80619-776,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,148550
+80619-777-1,80619-777,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,143360
+80619-778-1,80619-778,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,137770
+80619-779-1,80619-779,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,128550

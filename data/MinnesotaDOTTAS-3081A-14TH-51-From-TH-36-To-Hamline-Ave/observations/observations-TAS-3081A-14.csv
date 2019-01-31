@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAS 3081A-14-7852-1,TAS 3081A-14-7852,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,19000
+TAS 3081A-14-7853-1,TAS 3081A-14-7853,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,19000
+TAS 3081A-14-7854-1,TAS 3081A-14-7854,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,19500
+TAS 3081A-14-7855-1,TAS 3081A-14-7855,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,19500
+TAS 3081A-14-7856-1,TAS 3081A-14-7856,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,18000
+TAS 3081A-14-7857-1,TAS 3081A-14-7857,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,18000
+TAS 3081A-14-7858-1,TAS 3081A-14-7858,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,16000
+TAS 3081A-14-7859-1,TAS 3081A-14-7859,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,16000
+TAS 3081A-14-7860-1,TAS 3081A-14-7860,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS 3081A-14-7861-1,TAS 3081A-14-7861,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS 3081A-14-7862-1,TAS 3081A-14-7862,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS 3081A-14-7863-1,TAS 3081A-14-7863,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS 3081A-14-7864-1,TAS 3081A-14-7864,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,15250
+TAS 3081A-14-7865-1,TAS 3081A-14-7865,Design Year,unknown,unknown,1990,00:00:00,23:59:59,volume,15250

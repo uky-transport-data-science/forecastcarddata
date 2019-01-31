@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3278-6493-1,3278-6493,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,40700
+3278-6494-1,3278-6494,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,33400
+3278-6495-1,3278-6495,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,31700
+3278-6496-1,3278-6496,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,24800

@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-24879STA-0077-00.29||REDECKING,s1,01/01/2009,Opening Year,Unavailable,unknown,01/01/2009,state DOT
+1,OhioDOT-24879STA-0077-00.29||REDECKING,s1,2009-01-01,Opening Year,Unavailable,unknown,2009-01-01,state DOT

@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80094-2321-1,80094-2321,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,10838
+80094-2322-1,80094-2322,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,10838
+80094-2323-1,80094-2323,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,5262
+80094-2348-1,80094-2348,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,1351
+80094-2349-1,80094-2349,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,5262
+80094-2393-1,80094-2393,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,16810
+80094-2415-1,80094-2415,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,10631
+80094-2416-1,80094-2416,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,14284
+80094-2417-1,80094-2417,Opening Year,unknown,unknown,2014,00:00:00,23:59:59,volume,3990

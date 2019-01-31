@@ -1,13 +1,13 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAS 3081-7840,", , , County Road B-2East Of Fairview Ave.West Of Shopping Center EntranceEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , County Road B-2East Of Fairview Ave.West Of Shopping Center EntranceEB"
-TAS 3081-7841,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TAS 3081-7842,", , , County Road B-2East Of Shopping Center EntranceWest Of TH 51EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , County Road B-2East Of Shopping Center EntranceWest Of TH 51EB"
-TAS 3081-7843,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TAS 3081-7844,", , , County Road B-2East Of TH 51EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , County Road B-2East Of TH 51EB"
-TAS 3081-7845,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TAS 3081-7846,", , , TH 51South Of TH 36NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 51South Of TH 36NB"
-TAS 3081-7847,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAS 3081-7848,", , , TH 51North Of TH 36South Of County Road B-2NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 51North Of TH 36South Of County Road B-2NB"
-TAS 3081-7849,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAS 3081-7850,", , , TH 51North Of County Road B-2NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 51North Of County Road B-2NB"
-TAS 3081-7851,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+TAS 3081-7840,   County Road B-2East Of Fairview Ave.West Of Shopping Center EntranceEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   County Road B-2East Of Fairview Ave.West Of Shopping Center EntranceEB
+TAS 3081-7841,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAS 3081-7842,   County Road B-2East Of Shopping Center EntranceWest Of TH 51EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   County Road B-2East Of Shopping Center EntranceWest Of TH 51EB
+TAS 3081-7843,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAS 3081-7844,   County Road B-2East Of TH 51EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   County Road B-2East Of TH 51EB
+TAS 3081-7845,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAS 3081-7846,   TH 51South Of TH 36NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 51South Of TH 36NB
+TAS 3081-7847,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAS 3081-7848,   TH 51North Of TH 36South Of County Road B-2NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 51North Of TH 36South Of County Road B-2NB
+TAS 3081-7849,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAS 3081-7850,   TH 51North Of County Road B-2NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 51North Of County Road B-2NB
+TAS 3081-7851,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB

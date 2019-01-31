@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-1965-6404,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
-1965-6405,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
-1965-6407,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
-1965-6416,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
-1965-6418,,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,
+1965-6404,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
+1965-6405,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
+1965-6407,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+1965-6416,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+1965-6418,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan

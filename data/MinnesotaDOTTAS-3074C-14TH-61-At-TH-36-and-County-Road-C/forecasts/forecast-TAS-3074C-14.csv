@@ -1,7 +1,7 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TAS 3074C-14-7826,Design Year,00:00:00,00:00:00,volume,7300
-f3,1,TAS 3074C-14-7827,Design Year,00:00:00,00:00:00,volume,7300
-f3,1,TAS 3074C-14-7828,Design Year,00:00:00,00:00:00,volume,9900
-f3,1,TAS 3074C-14-7829,Design Year,00:00:00,00:00:00,volume,9900
-f3,1,TAS 3074C-14-7830,Design Year,00:00:00,00:00:00,volume,10100
-f3,1,TAS 3074C-14-7831,Design Year,00:00:00,00:00:00,volume,10100
+f3,1,TAS 3074C-14-7826,Design Year,00:00:00,23:59:59,volume,7300
+f3,1,TAS 3074C-14-7827,Design Year,00:00:00,23:59:59,volume,7300
+f3,1,TAS 3074C-14-7828,Design Year,00:00:00,23:59:59,volume,9900
+f3,1,TAS 3074C-14-7829,Design Year,00:00:00,23:59:59,volume,9900
+f3,1,TAS 3074C-14-7830,Design Year,00:00:00,23:59:59,volume,10100
+f3,1,TAS 3074C-14-7831,Design Year,00:00:00,23:59:59,volume,10100

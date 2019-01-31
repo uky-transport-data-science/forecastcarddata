@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-96439-3311,", , MOT3510.32",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT3510.32"
-96439-3312,", , MOT3511.78",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MOT3511.78"
-96439-3427,", , MOT3512.69",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MOT3512.69"
+96439-3311,  MOT3510.32,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT3510.32
+96439-3312,  MOT3511.78,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT3511.78
+96439-3427,  MOT3512.69,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MOT3512.69

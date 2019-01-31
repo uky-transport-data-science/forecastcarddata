@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77454-622-1,77454-622,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,7650
+77454-656-1,77454-656,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,8280

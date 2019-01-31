@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+92571-2458-1,92571-2458,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,10020
+92571-2459-1,92571-2459,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,7600
+92571-2460-1,92571-2460,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,4350

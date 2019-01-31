@@ -1,17 +1,17 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 16-8305,", , , TH 55East of TH 49West of CSAH 63(Argenta Trail)EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 55East of TH 49West of CSAH 63(Argenta Trail)EB"
-SPARS 16-8306,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 16-8307,", , , TH 55East of CSAH 63(Argenta Trail)EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 55East of CSAH 63(Argenta Trail)EB"
-SPARS 16-8308,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 16-8309,", , , TH 52 (Robert St.)North of TH 52 and 55Note*** Prop. TH 3 was never built and is the same as Robert St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52 (Robert St.)North of TH 52 and 55Note*** Prop. TH 3 was never built and is the same as Robert St.NB"
-SPARS 16-8310,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 16-8311,", , , TH 52 (Robert St.)South of TH 52 and 55NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52 (Robert St.)South of TH 52 and 55NB"
-SPARS 16-8312,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 16-8313,", , , TH 52 and 55West of Prop. TH 3EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52 and 55West of Prop. TH 3EB"
-SPARS 16-8314,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 16-8315,", , , TH 52 and 55East of Prop. TH 3West of CSAH 73(Babcock Trail)EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52 and 55East of Prop. TH 3West of CSAH 73(Babcock Trail)EB"
-SPARS 16-8316,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 16-8317,", , , TH 52 and 55East of CSAH 73(Babcock Trail)NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52 and 55East of CSAH 73(Babcock Trail)NB"
-SPARS 16-8318,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 16-8319,", , , TH 52, 55, and 56South of 117th St. ENB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52, 55, and 56South of 117th St. ENB"
-SPARS 16-8320,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 16-8305,   TH 55East of TH 49West of CSAH 63(Argenta Trail)EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 55East of TH 49West of CSAH 63(Argenta Trail)EB
+SPARS 16-8306,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 16-8307,   TH 55East of CSAH 63(Argenta Trail)EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 55East of CSAH 63(Argenta Trail)EB
+SPARS 16-8308,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 16-8309,   TH 52 (Robert St.)North of TH 52 and 55Note*** Prop. TH 3 was never built and is the same as Robert St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52 (Robert St.)North of TH 52 and 55Note*** Prop. TH 3 was never built and is the same as Robert St.NB
+SPARS 16-8310,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 16-8311,   TH 52 (Robert St.)South of TH 52 and 55NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52 (Robert St.)South of TH 52 and 55NB
+SPARS 16-8312,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 16-8313,   TH 52 and 55West of Prop. TH 3EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52 and 55West of Prop. TH 3EB
+SPARS 16-8314,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 16-8315,   TH 52 and 55East of Prop. TH 3West of CSAH 73(Babcock Trail)EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52 and 55East of Prop. TH 3West of CSAH 73(Babcock Trail)EB
+SPARS 16-8316,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 16-8317,   TH 52 and 55East of CSAH 73(Babcock Trail)NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52 and 55East of CSAH 73(Babcock Trail)NB
+SPARS 16-8318,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 16-8319,   TH 52 55 and 56South of 117th St. ENB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52 55 and 56South of 117th St. ENB
+SPARS 16-8320,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB

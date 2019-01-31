@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+Unavailable-3727-1,Unavailable-3727,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,9232
+Unavailable-3728-1,Unavailable-3728,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,11578
+Unavailable-3757-1,Unavailable-3757,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,17542
+Unavailable-3758-1,Unavailable-3758,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,11849

@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83413-2101-1,83413-2101,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,2390
+83413-2102-1,83413-2102,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,2720
+83413-2103-1,83413-2103,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,2000
+83413-2104-1,83413-2104,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,1460
+83413-2105-1,83413-2105,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,980

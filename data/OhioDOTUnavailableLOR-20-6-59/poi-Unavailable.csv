@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-3783,", , LOR204.32",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LOR204.32"
-Unavailable-3784,", , LOR208.15",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LOR208.15"
-Unavailable-3796,", , LOR5813.015",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR5813.015"
-Unavailable-3797,", , LOR5814.445",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR5814.445"
+Unavailable-3783,  LOR204.32,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LOR204.32
+Unavailable-3784,  LOR208.15,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LOR208.15
+Unavailable-3796,  LOR5813.015,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR5813.015
+Unavailable-3797,  LOR5814.445,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR5814.445

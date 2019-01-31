@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76242-3044-1,76242-3044,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,63722
+76242-3045-1,76242-3045,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,63722
+76242-3048-1,76242-3048,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,47114
+76242-3050-1,76242-3050,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,47114

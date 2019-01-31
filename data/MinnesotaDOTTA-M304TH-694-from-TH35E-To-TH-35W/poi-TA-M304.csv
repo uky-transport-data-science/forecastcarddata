@@ -1,25 +1,25 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M304-7740,", , , I-694West Of I-35WEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694West Of I-35WEB"
-TA-M304-7741,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7742,", , , I-694East Of I-35WWest Of TH10EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694East Of I-35WWest Of TH10EB"
-TA-M304-7743,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7744,", , , I-694East Of TH10West Of HamlineEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694East Of TH10West Of HamlineEB"
-TA-M304-7745,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7746,", , , I-694East Of HamlineWest of LexingtonEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694East Of HamlineWest of LexingtonEB"
-TA-M304-7747,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7748,", , , I-694Between LexingtonEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694Between LexingtonEB"
-TA-M304-7749,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7750,", , , I-694East Of LexingtonWest Of VictoriaEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694East Of LexingtonWest Of VictoriaEB"
-TA-M304-7751,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7752,", , , I-694Between VictoriaEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694Between VictoriaEB"
-TA-M304-7753,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7754,", , , I-694East Of VictoriaWest Of TH 49EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694East Of VictoriaWest Of TH 49EB"
-TA-M304-7755,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7756,", , , I-694Between TH 49EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694Between TH 49EB"
-TA-M304-7757,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7758,", , , I-694East Of TH 49West Of I-35E/694 CommonsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694East Of TH 49West Of I-35E/694 CommonsEB"
-TA-M304-7759,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7760,", , , I-694Between Western 35E/694 InterchangeEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694Between Western 35E/694 InterchangeEB"
-TA-M304-7761,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M304-7762,", , , I-694In The 35E/694 CommonsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694In The 35E/694 CommonsEB"
-TA-M304-7763,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M304-7740,   I-694West Of I-35WEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694West Of I-35WEB
+TA-M304-7741,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7742,   I-694East Of I-35WWest Of TH10EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of I-35WWest Of TH10EB
+TA-M304-7743,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7744,   I-694East Of TH10West Of HamlineEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of TH10West Of HamlineEB
+TA-M304-7745,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7746,   I-694East Of HamlineWest of LexingtonEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of HamlineWest of LexingtonEB
+TA-M304-7747,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7748,   I-694Between LexingtonEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694Between LexingtonEB
+TA-M304-7749,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7750,   I-694East Of LexingtonWest Of VictoriaEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of LexingtonWest Of VictoriaEB
+TA-M304-7751,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7752,   I-694Between VictoriaEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694Between VictoriaEB
+TA-M304-7753,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7754,   I-694East Of VictoriaWest Of TH 49EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of VictoriaWest Of TH 49EB
+TA-M304-7755,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7756,   I-694Between TH 49EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694Between TH 49EB
+TA-M304-7757,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7758,   I-694East Of TH 49West Of I-35E/694 CommonsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of TH 49West Of I-35E/694 CommonsEB
+TA-M304-7759,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7760,   I-694Between Western 35E/694 InterchangeEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694Between Western 35E/694 InterchangeEB
+TA-M304-7761,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-7762,   I-694In The 35E/694 CommonsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694In The 35E/694 CommonsEB
+TA-M304-7763,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

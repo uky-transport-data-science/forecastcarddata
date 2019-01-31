@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MichiganDOT-2562I-94 Putz Rd. to I-196,s1,01/01/2012,Opening Year,Unavailable,professional-judgment,01/01/2012,state DOT
+1,MichiganDOT-2562I-94 Putz Rd. to I-196,s1,2012-01-01,Opening Year,Unavailable,professional-judgment,2012-01-01,state DOT

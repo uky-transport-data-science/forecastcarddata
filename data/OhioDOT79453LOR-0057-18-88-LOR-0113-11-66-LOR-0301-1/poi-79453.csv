@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-79453-1379,", , LOR5718.86",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LOR5718.86"
-79453-1380,", , LOR5719.29",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LOR5719.29"
-79453-1381,", , LOR5720.05",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LOR5720.05"
-79453-1406,", , LOR5720.33",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR5720.33"
-79453-1407,", , LOR11311.66",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR11311.66"
-79453-1408,", , LOR30119.56",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR30119.56"
-79453-1409,", , LOR30121.16",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LOR30121.16"
+79453-1379,  LOR5718.86,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LOR5718.86
+79453-1380,  LOR5719.29,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LOR5719.29
+79453-1381,  LOR5720.05,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LOR5720.05
+79453-1406,  LOR5720.33,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR5720.33
+79453-1407,  LOR11311.66,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR11311.66
+79453-1408,  LOR30119.56,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR30119.56
+79453-1409,  LOR30121.16,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR30121.16

@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-81243-1318,", , WAY25017.31",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY25017.31"
-81243-1319,", , WAY25019.29",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , WAY25019.29"
-81243-1351,", , WAY3020.87",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY3020.87"
-81243-1352,", , WAY3020.97",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY3020.97"
+81243-1318,  WAY25017.31,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY25017.31
+81243-1319,  WAY25019.29,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY25019.29
+81243-1351,  WAY3020.87,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY3020.87
+81243-1352,  WAY3020.97,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY3020.97

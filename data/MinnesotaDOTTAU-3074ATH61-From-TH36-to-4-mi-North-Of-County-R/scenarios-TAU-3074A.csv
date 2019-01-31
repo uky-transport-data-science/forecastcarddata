@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TAU 3074ATH61 - From TH36 to .4 mi North Of County Road C,s1,01/01/1965,Design Year,Unavailable,trendline,01/01/1965,state DOT
+1,MinnesotaDOT-TAU 3074ATH61 - From TH36 to .4 mi North Of County Road C,s1,1965-01-01,Design Year,Unavailable,trendline,1965-01-01,state DOT

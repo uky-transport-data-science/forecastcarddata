@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-83433-2014,", , WAY3023.5",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY3023.5"
-83433-2015,", , WAY3023.82",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY3023.82"
-83433-2016,", , WAY3026.22",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY3026.22"
-83433-2017,", , WAY30212.91",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY30212.91"
+83433-2014,  WAY3023.5,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY3023.5
+83433-2015,  WAY3023.82,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY3023.82
+83433-2016,  WAY3026.22,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY3026.22
+83433-2017,  WAY30212.91,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY30212.91

@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TA-M301TH 96 From I-35E To TH 61,s1,01/01/1983,Design Year,Unavailable,trendline,01/01/1983,state DOT
+1,MinnesotaDOT-TA-M301TH 96 From I-35E To TH 61,s1,1983-01-01,Design Year,Unavailable,trendline,1983-01-01,state DOT

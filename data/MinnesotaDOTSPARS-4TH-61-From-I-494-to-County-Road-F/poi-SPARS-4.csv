@@ -1,25 +1,25 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 4-8271,", , , I-494West of Prop. TH 61EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-494West of Prop. TH 61EB"
-SPARS 4-8272,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 4-8273,", , , I 494East of Prop. TH 61EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I 494East of Prop. TH 61EB"
-SPARS 4-8274,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 4-8275,", , , Prop. TH 61North of I-494NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Prop. TH 61North of I-494NB"
-SPARS 4-8276,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 4-8277,", , , Prop. TH 61North of Stinchfield AveSouth of Carver Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Prop. TH 61North of Stinchfield AveSouth of Carver Rd.NB"
-SPARS 4-8278,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 4-8279,", , , Prop. TH 61North of Carver AveSouth of Skyway Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Prop. TH 61North of Carver AveSouth of Skyway Rd.NB"
-SPARS 4-8280,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 4-8281,", , , Prop. TH 61North of Skyway Rd.South of Springside Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Prop. TH 61North of Skyway Rd.South of Springside Rd.NB"
-SPARS 4-8282,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 4-8283,", , , Prop. TH 61North of Springside Dr.South of Lower Afton Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Prop. TH 61North of Springside Dr.South of Lower Afton Rd.NB"
-SPARS 4-8284,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 4-8285,", , , Prop. TH 61North Lower Afton Rd.South of Pt. Douglas Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Prop. TH 61North Lower Afton Rd.South of Pt. Douglas Rd.NB"
-SPARS 4-8286,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 4-8287,", , , Prop. TH 61North of Pt. Douglas Rd.South of Warner Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Prop. TH 61North of Pt. Douglas Rd.South of Warner Rd.NB"
-SPARS 4-8288,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 4-8289,", , , Prop. TH 61South of I-94NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Prop. TH 61South of I-94NB"
-SPARS 4-8290,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 4-8291,", , , I-94West of Prop. TH 61EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94West of Prop. TH 61EB"
-SPARS 4-8292,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 4-8293,", , , I-94East of Prop. TH 61EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-94East of Prop. TH 61EB"
-SPARS 4-8294,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 4-8271,   I-494West of Prop. TH 61EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494West of Prop. TH 61EB
+SPARS 4-8272,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 4-8273,   I 494East of Prop. TH 61EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I 494East of Prop. TH 61EB
+SPARS 4-8274,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 4-8275,   Prop. TH 61North of I-494NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Prop. TH 61North of I-494NB
+SPARS 4-8276,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 4-8277,   Prop. TH 61North of Stinchfield AveSouth of Carver Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Prop. TH 61North of Stinchfield AveSouth of Carver Rd.NB
+SPARS 4-8278,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 4-8279,   Prop. TH 61North of Carver AveSouth of Skyway Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Prop. TH 61North of Carver AveSouth of Skyway Rd.NB
+SPARS 4-8280,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 4-8281,   Prop. TH 61North of Skyway Rd.South of Springside Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Prop. TH 61North of Skyway Rd.South of Springside Rd.NB
+SPARS 4-8282,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 4-8283,   Prop. TH 61North of Springside Dr.South of Lower Afton Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Prop. TH 61North of Springside Dr.South of Lower Afton Rd.NB
+SPARS 4-8284,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 4-8285,   Prop. TH 61North Lower Afton Rd.South of Pt. Douglas Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Prop. TH 61North Lower Afton Rd.South of Pt. Douglas Rd.NB
+SPARS 4-8286,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 4-8287,   Prop. TH 61North of Pt. Douglas Rd.South of Warner Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Prop. TH 61North of Pt. Douglas Rd.South of Warner Rd.NB
+SPARS 4-8288,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 4-8289,   Prop. TH 61South of I-94NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Prop. TH 61South of I-94NB
+SPARS 4-8290,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 4-8291,   I-94West of Prop. TH 61EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94West of Prop. TH 61EB
+SPARS 4-8292,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 4-8293,   I-94East of Prop. TH 61EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94East of Prop. TH 61EB
+SPARS 4-8294,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

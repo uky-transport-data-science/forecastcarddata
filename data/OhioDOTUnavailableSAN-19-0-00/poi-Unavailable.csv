@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-4519,", , SAN192.66",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , SAN192.66"
-Unavailable-4606,", , San192",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , San192"
-Unavailable-4976,", , SAN192.66",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , SAN192.66"
+Unavailable-4519,  SAN192.66,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SAN192.66
+Unavailable-4606,  San192,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  San192
+Unavailable-4976,  SAN192.66,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SAN192.66

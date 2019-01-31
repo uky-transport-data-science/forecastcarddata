@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-18710-3111,", , SUM2710",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM2710"
-18710-3112,", , SUM2713.57",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM2713.57"
-18710-3113,", , SUM2716.01",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM2716.01"
-18710-3116,", , SUM3035.05",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , SUM3035.05"
-18710-3129,", , SUM2712.94",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM2712.94"
-18710-3130,", , SUM7729.63",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , SUM7729.63"
-18710-3160,", , SUM1760.85",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , SUM1760.85"
+18710-3111,  SUM2710,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM2710
+18710-3112,  SUM2713.57,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM2713.57
+18710-3113,  SUM2716.01,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM2716.01
+18710-3116,  SUM3035.05,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SUM3035.05
+18710-3129,  SUM2712.94,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM2712.94
+18710-3130,  SUM7729.63,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM7729.63
+18710-3160,  SUM1760.85,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SUM1760.85

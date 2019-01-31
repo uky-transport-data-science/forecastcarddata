@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+90200-2186-1,90200-2186,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,75040
+90200-2187-1,90200-2187,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,58700

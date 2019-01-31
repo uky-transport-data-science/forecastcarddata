@@ -1,13 +1,13 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-220-7107,", , , SnellingSouth of MarshallNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SnellingSouth of MarshallNB"
-SPAR-220-7108,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-220-7109,", , , SnellingBetween MarshallNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SnellingBetween MarshallNB"
-SPAR-220-7110,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-220-7111,", , , SnellingNorth of MarshallNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SnellingNorth of MarshallNB"
-SPAR-220-7112,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-220-7113,", , , MarshallWest of SnellingEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , MarshallWest of SnellingEB"
-SPAR-220-7114,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-220-7115,", , , MarshallBetween SnellingEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , MarshallBetween SnellingEB"
-SPAR-220-7116,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-220-7117,", , , MarshallEast of SnellingEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , MarshallEast of SnellingEB"
-SPAR-220-7118,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPAR-220-7107,   SnellingSouth of MarshallNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SnellingSouth of MarshallNB
+SPAR-220-7108,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-220-7109,   SnellingBetween MarshallNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SnellingBetween MarshallNB
+SPAR-220-7110,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-220-7111,   SnellingNorth of MarshallNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SnellingNorth of MarshallNB
+SPAR-220-7112,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-220-7113,   MarshallWest of SnellingEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   MarshallWest of SnellingEB
+SPAR-220-7114,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-220-7115,   MarshallBetween SnellingEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   MarshallBetween SnellingEB
+SPAR-220-7116,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-220-7117,   MarshallEast of SnellingEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   MarshallEast of SnellingEB
+SPAR-220-7118,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

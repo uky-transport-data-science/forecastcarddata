@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93593-4711-1,93593-4711,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19704
+93593-4712-1,93593-4712,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,21616
+93593-4714-1,93593-4714,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,4965

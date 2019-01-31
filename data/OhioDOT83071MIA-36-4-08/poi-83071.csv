@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-83071-837,", , MIA363.76",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA363.76"
-83071-838,", , MIA364.09",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA364.09"
-83071-839,", , MIA4119.02",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MIA4119.02"
-83071-847,", , MIA4814.11",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MIA4814.11"
+83071-837,  MIA363.76,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MIA363.76
+83071-838,  MIA364.09,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MIA364.09
+83071-839,  MIA4119.02,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MIA4119.02
+83071-847,  MIA4814.11,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MIA4814.11

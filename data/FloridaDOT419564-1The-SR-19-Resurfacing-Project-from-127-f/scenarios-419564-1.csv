@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-419564-1The SR 19 Resurfacing Project from 127 ft North of CR 42 (M.P. 7.612) to CR 445 (M.P. 12.772).,s1,01/01/2006,Opening Year,Unavailable,travel-model,01/01/2006,Consultant
+1,FloridaDOT-419564-1The SR 19 Resurfacing Project from 127 ft North of CR 42 (M.P. 7.612) to CR 445 (M.P. 12.772).,s1,2006-01-01,Opening Year,Unavailable,travel-model,2006-01-01,consultant

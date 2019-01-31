@@ -1,23 +1,23 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-208-7065,", , , TH 61North of Bailey RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61North of Bailey RdNB"
-SPAR-208-7066,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7067,", , , TH 61Between Bailey RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Between Bailey RdNB"
-SPAR-208-7068,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7069,", , , TH 61Bailey RdCarver RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Bailey RdCarver RdNB"
-SPAR-208-7070,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7071,", , , TH 61Between Carver RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Between Carver RdNB"
-SPAR-208-7072,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7073,", , , TH 61Carver RdHighwoodNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Carver RdHighwoodNB"
-SPAR-208-7074,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7075,", , , TH 61HighwoodSpringsideNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61HighwoodSpringsideNB"
-SPAR-208-7076,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7077,", , , TH 61SpringsideLower Afton RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61SpringsideLower Afton RdNB"
-SPAR-208-7078,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7079,", , , TH 61Between Lower Afton Rd RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Between Lower Afton Rd RampsNB"
-SPAR-208-7080,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7081,", , , TH 61Lower Afton RdPoint Douglas RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Lower Afton RdPoint Douglas RdNB"
-SPAR-208-7082,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7083,", , , TH 61Between Point Douglas RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61Between Point Douglas RdNB"
-SPAR-208-7084,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-208-7085,", , , TH 61North of Point Douglas RdNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 61North of Point Douglas RdNB"
-SPAR-208-7086,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPAR-208-7065,   TH 61North of Bailey RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61North of Bailey RdNB
+SPAR-208-7066,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7067,   TH 61Between Bailey RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Between Bailey RdNB
+SPAR-208-7068,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7069,   TH 61Bailey RdCarver RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Bailey RdCarver RdNB
+SPAR-208-7070,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7071,   TH 61Between Carver RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Between Carver RdNB
+SPAR-208-7072,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7073,   TH 61Carver RdHighwoodNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Carver RdHighwoodNB
+SPAR-208-7074,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7075,   TH 61HighwoodSpringsideNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61HighwoodSpringsideNB
+SPAR-208-7076,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7077,   TH 61SpringsideLower Afton RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61SpringsideLower Afton RdNB
+SPAR-208-7078,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7079,   TH 61Between Lower Afton Rd RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Between Lower Afton Rd RampsNB
+SPAR-208-7080,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7081,   TH 61Lower Afton RdPoint Douglas RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Lower Afton RdPoint Douglas RdNB
+SPAR-208-7082,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7083,   TH 61Between Point Douglas RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61Between Point Douglas RdNB
+SPAR-208-7084,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-208-7085,   TH 61North of Point Douglas RdNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 61North of Point Douglas RdNB
+SPAR-208-7086,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB

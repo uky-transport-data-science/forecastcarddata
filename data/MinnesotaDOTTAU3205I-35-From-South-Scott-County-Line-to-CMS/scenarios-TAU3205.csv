@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TAU3205I-35 - From South Scott County Line to CMSTP&P Railroad,s1,01/01/1963,Design Year,Unavailable,trendline,01/01/1963,state DOT
+1,MinnesotaDOT-TAU3205I-35 - From South Scott County Line to CMSTP&P Railroad,s1,1963-01-01,Design Year,Unavailable,trendline,1963-01-01,state DOT

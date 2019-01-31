@@ -1,0 +1,8 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+24696-900-1,24696-900,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,69670
+24696-901-1,24696-901,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,96910
+24696-902-1,24696-902,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,81560
+24696-903-1,24696-903,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,99490
+24696-904-1,24696-904,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,98780
+24696-905-1,24696-905,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,99470
+24696-906-1,24696-906,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,96650

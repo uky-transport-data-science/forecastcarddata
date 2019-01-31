@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-95409-5597,", , log4712.96",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , log4712.96"
-95409-5670,", , log7204.12",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , log7204.12"
+95409-5597,  log4712.96,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  log4712.96
+95409-5670,  log7204.12,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  log7204.12

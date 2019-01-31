@@ -1,5 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-83488-2275-1,83488-2275,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,86898
-83488-2275-1,83488-2275,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,95330
-83488-2283-1,83488-2283,Opening Year,unknown,unknown,2013,00:00:00,00:00:00,volume,17700
-83488-2283-1,83488-2283,Design Year,unknown,unknown,2010,00:00:00,00:00:00,volume,14960

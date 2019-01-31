@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82771-1997-1,82771-1997,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,3090
+82771-1998-1,82771-1998,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,3200
+82771-1999-1,82771-1999,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,3600
+82771-2000-1,82771-2000,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,3250

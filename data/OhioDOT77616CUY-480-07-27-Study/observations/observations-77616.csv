@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77616-1147-1,77616-1147,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,59930
+77616-1148-1,77616-1148,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,67780
+77616-1149-1,77616-1149,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,83470
+77616-1150-1,77616-1150,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,106830
+77616-1151-1,77616-1151,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,97420
+77616-1152-1,77616-1152,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,109540
+77616-1153-1,77616-1153,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,111110
+77616-1154-1,77616-1154,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,121010

@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAS 3074C-14-7826-1,TAS 3074C-14-7826,Design Year,unknown,unknown,1985,00:00:00,23:59:59,volume,8650
+TAS 3074C-14-7827-1,TAS 3074C-14-7827,Design Year,unknown,unknown,1985,00:00:00,23:59:59,volume,8650
+TAS 3074C-14-7828-1,TAS 3074C-14-7828,Design Year,unknown,unknown,1985,00:00:00,23:59:59,volume,10625
+TAS 3074C-14-7829-1,TAS 3074C-14-7829,Design Year,unknown,unknown,1985,00:00:00,23:59:59,volume,10625
+TAS 3074C-14-7830-1,TAS 3074C-14-7830,Design Year,unknown,unknown,1985,00:00:00,23:59:59,volume,9975
+TAS 3074C-14-7831-1,TAS 3074C-14-7831,Design Year,unknown,unknown,1985,00:00:00,23:59:59,volume,9975

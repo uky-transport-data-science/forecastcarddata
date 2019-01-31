@@ -1,0 +1,27 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M336-6790-1,TA-M336-6790,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,58500
+TA-M336-6791-1,TA-M336-6791,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,58500
+TA-M336-6792-1,TA-M336-6792,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,58500
+TA-M336-6793-1,TA-M336-6793,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,58500
+TA-M336-6794-1,TA-M336-6794,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,55500
+TA-M336-6795-1,TA-M336-6795,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,55500
+TA-M336-6796-1,TA-M336-6796,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,55500
+TA-M336-6797-1,TA-M336-6797,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,55500
+TA-M336-6798-1,TA-M336-6798,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,52000
+TA-M336-6799-1,TA-M336-6799,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,52000
+TA-M336-6800-1,TA-M336-6800,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,52000
+TA-M336-6801-1,TA-M336-6801,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,52000
+TA-M336-6802-1,TA-M336-6802,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,60000
+TA-M336-6803-1,TA-M336-6803,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,60000
+TA-M336-6804-1,TA-M336-6804,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,60000
+TA-M336-6805-1,TA-M336-6805,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,60000
+TA-M336-6806-1,TA-M336-6806,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,61500
+TA-M336-6807-1,TA-M336-6807,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,61500
+TA-M336-6808-1,TA-M336-6808,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,61500
+TA-M336-6809-1,TA-M336-6809,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,61500
+TA-M336-6810-1,TA-M336-6810,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,59000
+TA-M336-6811-1,TA-M336-6811,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,59000
+TA-M336-6812-1,TA-M336-6812,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,59000
+TA-M336-6813-1,TA-M336-6813,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,59000
+TA-M336-6814-1,TA-M336-6814,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,35500
+TA-M336-6815-1,TA-M336-6815,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,35500

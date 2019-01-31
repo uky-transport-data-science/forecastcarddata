@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+94724-2900-1,94724-2900,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,43090
+94724-2901-1,94724-2901,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,28220
+94724-2902-1,94724-2902,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,13660
+94724-2903-1,94724-2903,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,13660
+94724-2904-1,94724-2904,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,28220
+94724-2905-1,94724-2905,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,21590

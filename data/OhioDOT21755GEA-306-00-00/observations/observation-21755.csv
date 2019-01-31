@@ -1,7 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-21755-1383-1,21755-1383,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,16180
-21755-1383-1,21755-1383,Design Year,unknown,unknown,2007,00:00:00,00:00:00,volume,16180
-21755-1384-1,21755-1384,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,29190
-21755-1384-1,21755-1384,Design Year,unknown,unknown,2007,00:00:00,00:00:00,volume,29190
-21755-1385-1,21755-1385,Opening Year,unknown,unknown,2007,00:00:00,00:00:00,volume,16560
-21755-1385-1,21755-1385,Design Year,unknown,unknown,2007,00:00:00,00:00:00,volume,16560

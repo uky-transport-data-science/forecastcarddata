@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-101308D06-PPM-FY17B||DEL-37-21.94-22.03-AC-Overlay-without-RepairsDEL-37-22.03-22.28-A,s1,01/01/2015,Opening Year,Unavailable,unknown,01/01/2015,state DOT
+1,OhioDOT-101308D06-PPM-FY17B||DEL-37-21.94-22.03-AC-Overlay-without-RepairsDEL-37-22.03-22.28-A,s1,2015-01-01,Opening Year,Unavailable,unknown,2015-01-01,state DOT

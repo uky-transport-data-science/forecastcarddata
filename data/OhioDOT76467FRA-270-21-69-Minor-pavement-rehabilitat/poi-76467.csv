@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-76467-5675,", , FRA27021.3",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27021.3"
-76467-5676,", , FRA27023.28",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27023.28"
-76467-5677,", , FRA27024.81",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA27024.81"
-76467-5679,", , FRA31511.22",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , FRA31511.22"
-76467-5689,", , FRA31512.47",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FRA31512.47"
+76467-5675,  FRA27021.3,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27021.3
+76467-5676,  FRA27023.28,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27023.28
+76467-5677,  FRA27024.81,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27024.81
+76467-5679,  FRA31511.22,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA31511.22
+76467-5689,  FRA31512.47,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA31512.47

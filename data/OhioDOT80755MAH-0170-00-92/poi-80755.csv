@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80755-843,", , MAH1700.86",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAH1700.86"
-80755-844,", , MAH1700.95",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAH1700.95"
-80755-845,", , MAH6173.77",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAH6173.77"
+80755-843,  MAH1700.86,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAH1700.86
+80755-844,  MAH1700.95,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAH1700.95
+80755-845,  MAH6173.77,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAH6173.77

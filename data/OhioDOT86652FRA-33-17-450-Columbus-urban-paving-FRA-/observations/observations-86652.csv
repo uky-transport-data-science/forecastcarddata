@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+86652-4039-1,86652-4039,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,9065
+86652-4054-1,86652-4054,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,25013
+86652-4055-1,86652-4055,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,9065

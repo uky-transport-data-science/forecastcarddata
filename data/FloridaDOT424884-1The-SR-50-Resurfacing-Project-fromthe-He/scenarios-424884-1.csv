@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-424884-1The SR 50 Resurfacing Project fromthe Hernando County Line (M.P. 0.000) to SR 471 (M.P. 4.262).,s1,01/01/2009,Opening Year,Unavailable,travel-model,01/01/2009,Consultant
+1,FloridaDOT-424884-1The SR 50 Resurfacing Project fromthe Hernando County Line (M.P. 0.000) to SR 471 (M.P. 4.262).,s1,2009-01-01,Opening Year,Unavailable,travel-model,2009-01-01,consultant

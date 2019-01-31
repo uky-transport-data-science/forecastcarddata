@@ -1,0 +1,22 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88407-3841-1,88407-3841,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,26144
+88407-3859-1,88407-3859,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,26144
+88407-3860-1,88407-3860,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,24714
+88407-3861-1,88407-3861,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,28848
+88407-3862-1,88407-3862,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,8267
+88407-3863-1,88407-3863,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6472
+88407-3864-1,88407-3864,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6408
+88407-3865-1,88407-3865,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6408
+88407-3866-1,88407-3866,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3867-1,88407-3867,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3868-1,88407-3868,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3869-1,88407-3869,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3870-1,88407-3870,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3871-1,88407-3871,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3872-1,88407-3872,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3873-1,88407-3873,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3874-1,88407-3874,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3875-1,88407-3875,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3876-1,88407-3876,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19418
+88407-3877-1,88407-3877,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,25838
+88407-3878-1,88407-3878,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,22946

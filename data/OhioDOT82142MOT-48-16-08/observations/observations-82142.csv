@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82142-6218-1,82142-6218,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6219-1,82142-6219,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6220-1,82142-6220,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6221-1,82142-6221,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6222-1,82142-6222,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6223-1,82142-6223,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6224-1,82142-6224,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6225-1,82142-6225,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6226-1,82142-6226,Design Year,unknown,unknown,2009,00:00:00,23:59:59,volume,16060

@@ -1,3 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-80197-1839-1,80197-1839,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,3220
-80197-1839-1,80197-1839,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,2600

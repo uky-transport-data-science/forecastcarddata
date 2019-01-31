@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-237565-1SR 513 Corridor Improvement Project (M.P 1.913 to M.P 5.059),s1,01/01/2004,Opening Year,Unavailable,trendline,01/01/2004,Consultant
+1,FloridaDOT-237565-1SR 513 Corridor Improvement Project (M.P 1.913 to M.P 5.059),s1,2004-01-01,Opening Year,Unavailable,trendline,2004-01-01,consultant

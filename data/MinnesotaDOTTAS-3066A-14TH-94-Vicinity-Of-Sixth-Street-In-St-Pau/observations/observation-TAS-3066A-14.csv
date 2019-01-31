@@ -1,8 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TAS 3066A-14-7894-1,TAS 3066A-14-7894,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,49750
-TAS 3066A-14-7895-1,TAS 3066A-14-7895,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,49750
-TAS 3066A-14-7896-1,TAS 3066A-14-7896,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,49750
-TAS 3066A-14-7897-1,TAS 3066A-14-7897,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,41225
-TAS 3066A-14-7898-1,TAS 3066A-14-7898,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,41225
-TAS 3066A-14-7899-1,TAS 3066A-14-7899,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,34200
-TAS 3066A-14-7900-1,TAS 3066A-14-7900,Design Year,unknown,unknown,1985,00:00:00,00:00:00,volume,34200

@@ -1,14 +1,14 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-75051-1099,", , LAK912.13",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LAK912.13"
-75051-1100,", , LAK912.49",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LAK912.49"
-75051-1101,", , LAK912.59",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LAK912.59"
-75051-1102,", , LAK913.81",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LAK913.81"
-75051-1104,", , LAK914.56",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK914.56"
-75051-1105,", , LAK914.75",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK914.75"
-75051-1106,", , LAK915.04",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK915.04"
-75051-1107,", , LAK915.48",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK915.48"
-75051-1108,", , LAK6400.95",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK6400.95"
-75051-1109,", , LAK6401.18",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK6401.18"
-75051-1110,", , LAK6401.74",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK6401.74"
-75051-1111,", , LAK2833.83",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK2833.83"
-75051-1112,", , LAK2834.93",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , LAK2834.93"
+75051-1099,  LAK912.13,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LAK912.13
+75051-1100,  LAK912.49,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LAK912.49
+75051-1101,  LAK912.59,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LAK912.59
+75051-1102,  LAK913.81,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LAK913.81
+75051-1104,  LAK914.56,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK914.56
+75051-1105,  LAK914.75,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK914.75
+75051-1106,  LAK915.04,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK915.04
+75051-1107,  LAK915.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK915.48
+75051-1108,  LAK6400.95,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK6400.95
+75051-1109,  LAK6401.18,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK6401.18
+75051-1110,  LAK6401.74,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK6401.74
+75051-1111,  LAK2833.83,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK2833.83
+75051-1112,  LAK2834.93,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LAK2834.93

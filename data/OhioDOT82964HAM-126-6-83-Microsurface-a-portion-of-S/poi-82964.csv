@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82964-4310,", , HAM1267.2",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , HAM1267.2"
-82964-4311,", , HAM1268.3",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , HAM1268.3"
-82964-4312,", , HAM1269.88",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , HAM1269.88"
-82964-4313,", , HAM12611.1",1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,", , HAM12611.1"
+82964-4310,  HAM1267.2,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM1267.2
+82964-4311,  HAM1268.3,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM1268.3
+82964-4312,  HAM1269.88,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM1269.88
+82964-4313,  HAM12611.1,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM12611.1

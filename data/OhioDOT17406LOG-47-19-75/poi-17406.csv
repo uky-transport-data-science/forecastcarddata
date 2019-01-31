@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-17406-275,", , LOG4715.18",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LOG4715.18"
-17406-276,", , LOG4719.92",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LOG4719.92"
-17406-277,", , LOG5330",6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,", , LOG5330"
+17406-275,  LOG4715.18,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOG4715.18
+17406-276,  LOG4719.92,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOG4719.92
+17406-277,  LOG5330,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  LOG5330

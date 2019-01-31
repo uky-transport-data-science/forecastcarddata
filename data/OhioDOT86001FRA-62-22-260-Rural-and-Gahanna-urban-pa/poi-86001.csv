@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-86001-4067,", , FRA6222.38",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , FRA6222.38"
-86001-4155,", , FRA6222.26",3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA6222.26"
+86001-4067,  FRA6222.38,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  FRA6222.38
+86001-4155,  FRA6222.26,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA6222.26

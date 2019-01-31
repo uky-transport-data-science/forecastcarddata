@@ -1,4 +1,4 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
 1,"FloridaDOT-411672-1resurfacing of S.R. 518 from C.R.
 511 to S.R. 5 Milepost 0.000 and extends
-east to Milepost 4.454",s1,01/01/2002,Opening Year,Unavailable,travel-model,01/01/2002,Consultant
+east to Milepost 4.452",s1,2002-01-01,Opening Year,Unavailable,travel-model,2002-01-01,consultant

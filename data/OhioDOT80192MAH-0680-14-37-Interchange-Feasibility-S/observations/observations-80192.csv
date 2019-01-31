@@ -1,0 +1,8 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80192-4618-1,80192-4618,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,10450
+80192-4619-1,80192-4619,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,8254
+80192-4620-1,80192-4620,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2632
+80192-4621-1,80192-4621,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,4082
+80192-4622-1,80192-4622,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,10880
+80192-4627-1,80192-4627,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,36813
+80192-4630-1,80192-4630,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,44746

@@ -1,0 +1,14 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101402-6029-1,101402-6029,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6030-1,101402-6030,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6031-1,101402-6031,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6032-1,101402-6032,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6033-1,101402-6033,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6034-1,101402-6034,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6035-1,101402-6035,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6036-1,101402-6036,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6037-1,101402-6037,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6038-1,101402-6038,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6044-1,101402-6044,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6045-1,101402-6045,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+101402-6046-1,101402-6046,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180

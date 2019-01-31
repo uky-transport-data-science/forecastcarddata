@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97485-4415-1,97485-4415,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,3798
+97485-4416-1,97485-4416,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6454

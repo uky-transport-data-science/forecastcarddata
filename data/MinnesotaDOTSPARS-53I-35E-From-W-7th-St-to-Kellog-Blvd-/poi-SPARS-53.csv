@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 53-8455,", , , I-35ENorth of Shepard Rd.South of W. 7th StNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of Shepard Rd.South of W. 7th StNB"
-SPARS 53-8456,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 53-8457,", , , I-35ENorth of W. 7th St.South of Randolph Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of W. 7th St.South of Randolph Ave.NB"
-SPARS 53-8458,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 53-8459,", , , I-35EEast of Short Line Rt.West of Victoria St.WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35EEast of Short Line Rt.West of Victoria St.WB"
-SPARS 53-8460,", , , EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , EB"
-SPARS 53-8461,", , , I-35ENorth of Jefferson Ave.South of St. Clair Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of Jefferson Ave.South of St. Clair Ave.EB"
-SPARS 53-8462,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 53-8463,", , , I-35ENorth of St. Clair Ave.South of Ramsey St.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-35ENorth of St. Clair Ave.South of Ramsey St.EB"
-SPARS 53-8464,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 53-8455,   I-35ENorth of Shepard Rd.South of W. 7th StNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of Shepard Rd.South of W. 7th StNB
+SPARS 53-8456,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 53-8457,   I-35ENorth of W. 7th St.South of Randolph Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of W. 7th St.South of Randolph Ave.NB
+SPARS 53-8458,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 53-8459,   I-35EEast of Short Line Rt.West of Victoria St.WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35EEast of Short Line Rt.West of Victoria St.WB
+SPARS 53-8460,   EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   EB
+SPARS 53-8461,   I-35ENorth of Jefferson Ave.South of St. Clair Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of Jefferson Ave.South of St. Clair Ave.EB
+SPARS 53-8462,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 53-8463,   I-35ENorth of St. Clair Ave.South of Ramsey St.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth of St. Clair Ave.South of Ramsey St.EB
+SPARS 53-8464,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

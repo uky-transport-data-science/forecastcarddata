@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+86369-1418-1,86369-1418,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,4120
+86369-1419-1,86369-1419,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,7240
+86369-1430-1,86369-1430,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,1990
+86369-1431-1,86369-1431,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,1080

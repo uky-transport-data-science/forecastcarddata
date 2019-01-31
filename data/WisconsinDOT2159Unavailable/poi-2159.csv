@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-2159-6343,,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
-2159-6344,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
-2159-6345,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
-2159-6346,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
-2159-6347,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,
-2159-6348,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,
+2159-6343,nan,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+2159-6344,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+2159-6345,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+2159-6346,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+2159-6347,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
+2159-6348,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan

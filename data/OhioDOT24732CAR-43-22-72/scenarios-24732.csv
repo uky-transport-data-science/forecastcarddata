@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-24732CAR-43-22.72,s1,01/01/2003,Opening Year,Unavailable,unknown,01/01/2003,state DOT
+1,OhioDOT-24732CAR-43-22.72,s1,2003-01-01,Opening Year,Unavailable,unknown,2003-01-01,state DOT

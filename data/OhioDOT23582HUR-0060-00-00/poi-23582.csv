@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-23582-334,", , HUR600",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , HUR600"
-23582-335,", , HUR1620",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , HUR1620"
-23582-336,", , HUR16219.98",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , HUR16219.98"
-23582-337,", , HUR16224.34",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , HUR16224.34"
-23582-340,", , LOR1620",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LOR1620"
+23582-334,  HUR600,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HUR600
+23582-335,  HUR1620,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HUR1620
+23582-336,  HUR16219.98,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HUR16219.98
+23582-337,  HUR16224.34,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HUR16224.34
+23582-340,  LOR1620,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOR1620

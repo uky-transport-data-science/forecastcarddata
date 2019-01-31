@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+85456-2175-1,85456-2175,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,10130
+85456-2176-1,85456-2176,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,10130
+85456-2177-1,85456-2177,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,14300

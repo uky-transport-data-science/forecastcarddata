@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-101198-4410,", , FAY223.29",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAY223.29"
-101198-4411,", , FAY623.81",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAY623.81"
-101198-4412,", , FAY629.53",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAY629.53"
-101198-4453,", , FAY227.15",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAY227.15"
-101198-4454,", , FAY6211.86",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAY6211.86"
-101198-4481,", , PIC1043.16",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC1043.16"
-101198-4482,", , PIC1047.01",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC1047.01"
-101198-4483,", , PIC10411.69",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , PIC10411.69"
+101198-4410,  FAY223.29,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAY223.29
+101198-4411,  FAY623.81,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAY623.81
+101198-4412,  FAY629.53,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAY629.53
+101198-4453,  FAY227.15,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAY227.15
+101198-4454,  FAY6211.86,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAY6211.86
+101198-4481,  PIC1043.16,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC1043.16
+101198-4482,  PIC1047.01,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC1047.01
+101198-4483,  PIC10411.69,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC10411.69

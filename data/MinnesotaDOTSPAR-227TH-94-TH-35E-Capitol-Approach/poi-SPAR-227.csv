@@ -1,32 +1,32 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-227-7137,", , , TH 94West of Marion StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94West of Marion StEB"
-SPAR-227-7138,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7139,", , , TH 94East of Marion StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94East of Marion StEB"
-SPAR-227-7140,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7141,", , , TH 94Just east of John Ireland BlvdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94Just east of John Ireland BlvdEB"
-SPAR-227-7142,", , , TH 94East of John Ireland BlvdSt. PeterEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94East of John Ireland BlvdSt. PeterEB"
-SPAR-227-7143,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7144,", , , TH 94/TH 35EMinnesotaRobertEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94/TH 35EMinnesotaRobertEB"
-SPAR-227-7145,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7146,", , , TH 94JacksonWacoutaEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94JacksonWacoutaEB"
-SPAR-227-7147,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7148,", , , TH 94WacoutaE 9th StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94WacoutaE 9th StEB"
-SPAR-227-7149,", , , EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , EB"
-SPAR-227-7150,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7151,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7152,", , , TH 94E 7th StLafayette RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94E 7th StLafayette RdEB"
-SPAR-227-7153,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7154,", , , TH 94East of Lafayette RdE 6th StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94East of Lafayette RdE 6th StEB"
-SPAR-227-7155,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7156,", , , TH 94E 6th StKellogg/E 3rd StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94E 6th StKellogg/E 3rd StEB"
-SPAR-227-7157,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7158,", , , TH 94East of Kellogg/E 3rd StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 94East of Kellogg/E 3rd StEB"
-SPAR-227-7159,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-227-7160,", , , TH 35ESouth of St.PeterNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 35ESouth of St.PeterNB"
-SPAR-227-7161,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-227-7162,", , , TH 35EJust east of JacksonNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 35EJust east of JacksonNB"
-SPAR-227-7163,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-227-7164,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPAR-227-7165,", , , TH 35EJust south of PennsylvaniaNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 35EJust south of PennsylvaniaNB"
-SPAR-227-7166,", , , NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , NB"
-SPAR-227-7167,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPAR-227-7137,   TH 94West of Marion StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94West of Marion StEB
+SPAR-227-7138,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7139,   TH 94East of Marion StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94East of Marion StEB
+SPAR-227-7140,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7141,   TH 94Just east of John Ireland BlvdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94Just east of John Ireland BlvdEB
+SPAR-227-7142,   TH 94East of John Ireland BlvdSt. PeterEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94East of John Ireland BlvdSt. PeterEB
+SPAR-227-7143,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7144,   TH 94/TH 35EMinnesotaRobertEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94/TH 35EMinnesotaRobertEB
+SPAR-227-7145,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7146,   TH 94JacksonWacoutaEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94JacksonWacoutaEB
+SPAR-227-7147,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7148,   TH 94WacoutaE 9th StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94WacoutaE 9th StEB
+SPAR-227-7149,   EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   EB
+SPAR-227-7150,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7151,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7152,   TH 94E 7th StLafayette RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94E 7th StLafayette RdEB
+SPAR-227-7153,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7154,   TH 94East of Lafayette RdE 6th StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94East of Lafayette RdE 6th StEB
+SPAR-227-7155,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7156,   TH 94E 6th StKellogg/E 3rd StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94E 6th StKellogg/E 3rd StEB
+SPAR-227-7157,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7158,   TH 94East of Kellogg/E 3rd StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 94East of Kellogg/E 3rd StEB
+SPAR-227-7159,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-227-7160,   TH 35ESouth of St.PeterNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ESouth of St.PeterNB
+SPAR-227-7161,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-227-7162,   TH 35EJust east of JacksonNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35EJust east of JacksonNB
+SPAR-227-7163,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-227-7164,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-227-7165,   TH 35EJust south of PennsylvaniaNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35EJust south of PennsylvaniaNB
+SPAR-227-7166,   NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   NB
+SPAR-227-7167,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB

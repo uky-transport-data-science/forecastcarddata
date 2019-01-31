@@ -1,22 +1,22 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-202-6688,", , , I-394Project West LimitsWest of LindenEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-394Project West LimitsWest of LindenEB"
-SPAR-202-6689,", , , I-395Project West LimitsWest of LindenWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-395Project West LimitsWest of LindenWB"
-SPAR-202-6690,", , , I-394Linden12thEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-394Linden12thEB"
-SPAR-202-6691,", , , I-395Linden13thWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-395Linden13thWB"
-SPAR-202-6692,", , , I-39411thGlenwoodEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-39411thGlenwoodEB"
-SPAR-202-6693,", , ,",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , ,"
-SPAR-202-6694,", , , I-39411thGlenwoodWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-39411thGlenwoodWB"
-SPAR-202-6695,", , ,",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , ,"
-SPAR-202-6696,", , , I-3947th6thEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-3947th6thEB"
-SPAR-202-6697,", , ,",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , ,"
-SPAR-202-6698,", , ,",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , ,"
-SPAR-202-6699,", , , I-3947th6thWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-3947th6thWB"
-SPAR-202-6700,", , ,",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , ,"
-SPAR-202-6701,", , , I-3946th5thEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-3946th5thEB"
-SPAR-202-6702,", , , I-3956th5thWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-3956th5thWB"
-SPAR-202-6703,", , , I-3945th4thWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-3945th4thWB"
-SPAR-202-6704,", , , I-3944th3rdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-3944th3rdEB"
-SPAR-202-6705,", , ,",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , ,"
-SPAR-202-6706,", , , I-3944th3rdWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-3944th3rdWB"
-SPAR-202-6707,", , , I-394TH 94 Connection3rd Ave NEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-394TH 94 Connection3rd Ave NEB"
-SPAR-202-6708,", , , I-394TH 94 Connection3rd Ave NWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-394TH 94 Connection3rd Ave NWB"
+SPAR-202-6688,   I-394Project West LimitsWest of LindenEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-394Project West LimitsWest of LindenEB
+SPAR-202-6689,   I-395Project West LimitsWest of LindenWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-395Project West LimitsWest of LindenWB
+SPAR-202-6690,   I-394Linden12thEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-394Linden12thEB
+SPAR-202-6691,   I-395Linden13thWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-395Linden13thWB
+SPAR-202-6692,   I-39411thGlenwoodEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-39411thGlenwoodEB
+SPAR-202-6693,  ,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,  
+SPAR-202-6694,   I-39411thGlenwoodWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-39411thGlenwoodWB
+SPAR-202-6695,  ,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,  
+SPAR-202-6696,   I-3947th6thEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-3947th6thEB
+SPAR-202-6697,  ,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,  
+SPAR-202-6698,  ,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,  
+SPAR-202-6699,   I-3947th6thWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-3947th6thWB
+SPAR-202-6700,  ,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,  
+SPAR-202-6701,   I-3946th5thEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-3946th5thEB
+SPAR-202-6702,   I-3956th5thWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-3956th5thWB
+SPAR-202-6703,   I-3945th4thWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-3945th4thWB
+SPAR-202-6704,   I-3944th3rdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-3944th3rdEB
+SPAR-202-6705,  ,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,  
+SPAR-202-6706,   I-3944th3rdWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-3944th3rdWB
+SPAR-202-6707,   I-394TH 94 Connection3rd Ave NEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-394TH 94 Connection3rd Ave NEB
+SPAR-202-6708,   I-394TH 94 Connection3rd Ave NWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-394TH 94 Connection3rd Ave NWB

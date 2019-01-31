@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79476-1183-1,79476-1183,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,133560
+79476-1184-1,79476-1184,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,132220
+79476-1202-1,79476-1202,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,23620
+79476-1203-1,79476-1203,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,42950

@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-2345-6409,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
-2345-6411,,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,
-2345-6413,,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,
+2345-6409,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan
+2345-6411,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
+2345-6413,nan,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Wisconsin,WisconsinDOT,nan

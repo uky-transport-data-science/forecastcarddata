@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76721-4642-1,76721-4642,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,75874
+76721-4643-1,76721-4643,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,75874
+76721-4644-1,76721-4644,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,67704
+76721-4645-1,76721-4645,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,53008
+76721-4646-1,76721-4646,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,53008

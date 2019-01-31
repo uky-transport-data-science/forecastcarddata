@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82505-1277-1,82505-1277,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,21020
+82505-1278-1,82505-1278,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,33860
+82505-1279-1,82505-1279,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,33850
+82505-1280-1,82505-1280,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,26910
+82505-1281-1,82505-1281,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,27000
+82505-1282-1,82505-1282,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,19290

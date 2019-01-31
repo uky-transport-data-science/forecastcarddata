@@ -1,0 +1,8 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2467-6303-1,2467-6303,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,22200
+2467-6304-1,2467-6304,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,20100
+2467-6305-1,2467-6305,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,18400
+2467-6307-1,2467-6307,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,2500
+2467-6308-1,2467-6308,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,33500
+2467-6309-1,2467-6309,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,2200
+2467-6310-1,2467-6310,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,25400

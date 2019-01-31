@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101317-5275-1,101317-5275,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1900
+101317-5276-1,101317-5276,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,587
+101317-5290-1,101317-5290,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1105
+101317-5291-1,101317-5291,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,961
+101317-5292-1,101317-5292,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,961
+101317-5293-1,101317-5293,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2136
+101317-5297-1,101317-5297,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1330
+101317-5298-1,101317-5298,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2577

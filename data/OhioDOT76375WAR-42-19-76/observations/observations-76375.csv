@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76375-422-1,76375-422,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,7740
+76375-423-1,76375-423,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,5250
+76375-424-1,76375-424,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,8910
+76375-425-1,76375-425,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,6750

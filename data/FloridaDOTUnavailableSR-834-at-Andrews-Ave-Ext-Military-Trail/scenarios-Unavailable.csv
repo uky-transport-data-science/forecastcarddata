@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-UnavailableSR-834 at Andrews Ave. Ext/ Military Trail (MP 7.020),s1,01/01/2014,Opening Year,Unavailable,professional-judgment,01/01/2014,state DOT
+1,FloridaDOT-UnavailableSR-834 at Andrews Ave. Ext/ Military Trail (MP 7.020),s1,2014-01-01,Opening Year,Unavailable,professional-judgment,2014-01-01,state DOT

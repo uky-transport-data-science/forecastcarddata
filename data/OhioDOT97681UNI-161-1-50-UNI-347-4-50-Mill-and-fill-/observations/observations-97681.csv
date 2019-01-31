@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97681-3662-1,97681-3662,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1461
+97681-3663-1,97681-3663,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2884
+97681-4249-1,97681-4249,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1461
+97681-4250-1,97681-4250,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2884

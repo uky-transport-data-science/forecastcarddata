@@ -1,29 +1,29 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-215-7254,", , , TH 494West of 24th AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494West of 24th AveEB"
-SPAR-215-7255,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7256,", , , TH 49424th Ave34th AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 49424th Ave34th AveEB"
-SPAR-215-7257,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7258,", , , TH 49434th AveTH 5EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 49434th AveTH 5EB"
-SPAR-215-7259,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7260,", , , TH 494TH 13CSAH 31EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494TH 13CSAH 31EB"
-SPAR-215-7261,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7262,", , , TH 494CSAH 31TH 55EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494CSAH 31TH 55EB"
-SPAR-215-7263,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7264,", , , TH 494I 35ETH 49EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494I 35ETH 49EB"
-SPAR-215-7265,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7266,", , , TH 494TH 49Proposed local access roadEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494TH 49Proposed local access roadEB"
-SPAR-215-7267,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7268,", , , TH 494Proposed local access roadDelaware/TH 52EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494Proposed local access roadDelaware/TH 52EB"
-SPAR-215-7269,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7270,", , , TH 494TH 52TH 110EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494TH 52TH 110EB"
-SPAR-215-7271,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7272,", , , TH 494TH 110TH 3EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494TH 110TH 3EB"
-SPAR-215-7273,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7274,", , , TH 494TH 37th Ave/5th AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494TH 37th Ave/5th AveEB"
-SPAR-215-7275,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7276,", , , TH 4947th Ave/5th AveConcordEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 4947th Ave/5th AveConcordEB"
-SPAR-215-7277,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7278,", , , TH 494ConcordProposed Industrial RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494ConcordProposed Industrial RdEB"
-SPAR-215-7279,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-215-7280,", , , TH 494Proposed Industrial RdMississippi RiverEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 494Proposed Industrial RdMississippi RiverEB"
-SPAR-215-7281,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPAR-215-7254,   TH 494West of 24th AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494West of 24th AveEB
+SPAR-215-7255,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7256,   TH 49424th Ave34th AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 49424th Ave34th AveEB
+SPAR-215-7257,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7258,   TH 49434th AveTH 5EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 49434th AveTH 5EB
+SPAR-215-7259,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7260,   TH 494TH 13CSAH 31EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494TH 13CSAH 31EB
+SPAR-215-7261,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7262,   TH 494CSAH 31TH 55EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494CSAH 31TH 55EB
+SPAR-215-7263,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7264,   TH 494I 35ETH 49EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494I 35ETH 49EB
+SPAR-215-7265,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7266,   TH 494TH 49Proposed local access roadEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494TH 49Proposed local access roadEB
+SPAR-215-7267,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7268,   TH 494Proposed local access roadDelaware/TH 52EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494Proposed local access roadDelaware/TH 52EB
+SPAR-215-7269,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7270,   TH 494TH 52TH 110EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494TH 52TH 110EB
+SPAR-215-7271,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7272,   TH 494TH 110TH 3EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494TH 110TH 3EB
+SPAR-215-7273,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7274,   TH 494TH 37th Ave/5th AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494TH 37th Ave/5th AveEB
+SPAR-215-7275,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7276,   TH 4947th Ave/5th AveConcordEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 4947th Ave/5th AveConcordEB
+SPAR-215-7277,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7278,   TH 494ConcordProposed Industrial RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494ConcordProposed Industrial RdEB
+SPAR-215-7279,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-215-7280,   TH 494Proposed Industrial RdMississippi RiverEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 494Proposed Industrial RdMississippi RiverEB
+SPAR-215-7281,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

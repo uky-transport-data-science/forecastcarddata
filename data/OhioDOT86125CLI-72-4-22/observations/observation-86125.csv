@@ -1,3 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-86125-1934-1,86125-1934,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,1360
-86125-1934-1,86125-1934,Design Year,unknown,unknown,2007,00:00:00,00:00:00,volume,1460

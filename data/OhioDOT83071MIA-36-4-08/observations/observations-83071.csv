@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83071-837-1,83071-837,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,7280
+83071-838-1,83071-838,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,7660
+83071-839-1,83071-839,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,7880
+83071-847-1,83071-847,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,5080

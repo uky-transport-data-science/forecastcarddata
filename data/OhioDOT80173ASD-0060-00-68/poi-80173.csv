@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80173-1011,", , ASD600.68",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD600.68"
-80173-1012,", , ASD601.22",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD601.22"
-80173-1013,", , ASD605.61",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD605.61"
-80173-1014,", , ASD6010.56",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD6010.56"
-80173-1015,", , ASD6010.81",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD6010.81"
-80173-1016,", , ASD36.08",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD36.08"
-80173-1017,", , ASD36.25",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD36.25"
-80173-1018,", , ASD36.41",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ASD36.41"
+80173-1011,  ASD600.68,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD600.68
+80173-1012,  ASD601.22,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD601.22
+80173-1013,  ASD605.61,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD605.61
+80173-1014,  ASD6010.56,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD6010.56
+80173-1015,  ASD6010.81,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD6010.81
+80173-1016,  ASD36.08,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD36.08
+80173-1017,  ASD36.25,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD36.25
+80173-1018,  ASD36.41,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD36.41

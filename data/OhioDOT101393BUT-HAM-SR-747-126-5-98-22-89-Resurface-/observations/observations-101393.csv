@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101393-4392-1,101393-4392,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,16751
+101393-4393-1,101393-4393,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6607
+101393-4462-1,101393-4462,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,4144
+101393-4463-1,101393-4463,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,7182

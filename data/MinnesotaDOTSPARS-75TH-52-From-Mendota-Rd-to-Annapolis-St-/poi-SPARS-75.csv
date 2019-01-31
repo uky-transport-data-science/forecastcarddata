@@ -1,31 +1,31 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 75-8541,", , , TH 52South of TH 110NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52South of TH 110NB"
-SPARS 75-8542,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8543,", , , TH 52North of TH 110South of Mendota Rd.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of TH 110South of Mendota Rd.NB"
-SPARS 75-8544,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8545,", , , TH 52North of Mendota Rd.South of Marie Ave.EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Mendota Rd.South of Marie Ave.EB"
-SPARS 75-8546,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 75-8547,", , , TH 52North of Marie Ave.South of Lothenbach Ave.SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Marie Ave.South of Lothenbach Ave.SB"
-SPARS 75-8548,", , , NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , NB"
-SPARS 75-8549,", , , TH 52North of Lothenbach Ave.South of Wentworth Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Lothenbach Ave.South of Wentworth Ave.NB"
-SPARS 75-8550,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8551,", , , TH 52North of Wentworth Ave.South of Thompson Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Wentworth Ave.South of Thompson Ave.NB"
-SPARS 75-8552,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8553,", , , TH 52North of Thompson Ave.South of Emerson Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Thompson Ave.South of Emerson Ave.NB"
-SPARS 75-8554,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8555,", , , TH 52North of Logan Ave.South of Moreland Ave.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Logan Ave.South of Moreland Ave.NB"
-SPARS 75-8556,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8557,", , , TH 52North of Moreland Ave.South of Ormie St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Moreland Ave.South of Ormie St.NB"
-SPARS 75-8558,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8559,", , , TH 52North of Ormie St.South of Butler AveNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Ormie St.South of Butler AveNB"
-SPARS 75-8560,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8561,", , , TH 52North of Butler Ave.South of Stanley St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Butler Ave.South of Stanley St.NB"
-SPARS 75-8562,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8563,", , , TH 52North of Bernard St.South of Haskell StNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Bernard St.South of Haskell StNB"
-SPARS 75-8564,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8565,", , , TH 52North of Haskell St.South of Hurley St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Haskell St.South of Hurley St.NB"
-SPARS 75-8566,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8567,", , , TH 52North of Hurley St.South of Annapolis St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Hurley St.South of Annapolis St.NB"
-SPARS 75-8568,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 75-8569,", , , TH 52North of Annapolis St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 52North of Annapolis St.NB"
-SPARS 75-8570,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 75-8541,   TH 52South of TH 110NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52South of TH 110NB
+SPARS 75-8542,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8543,   TH 52North of TH 110South of Mendota Rd.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of TH 110South of Mendota Rd.NB
+SPARS 75-8544,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8545,   TH 52North of Mendota Rd.South of Marie Ave.EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Mendota Rd.South of Marie Ave.EB
+SPARS 75-8546,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 75-8547,   TH 52North of Marie Ave.South of Lothenbach Ave.SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Marie Ave.South of Lothenbach Ave.SB
+SPARS 75-8548,   NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   NB
+SPARS 75-8549,   TH 52North of Lothenbach Ave.South of Wentworth Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Lothenbach Ave.South of Wentworth Ave.NB
+SPARS 75-8550,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8551,   TH 52North of Wentworth Ave.South of Thompson Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Wentworth Ave.South of Thompson Ave.NB
+SPARS 75-8552,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8553,   TH 52North of Thompson Ave.South of Emerson Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Thompson Ave.South of Emerson Ave.NB
+SPARS 75-8554,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8555,   TH 52North of Logan Ave.South of Moreland Ave.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Logan Ave.South of Moreland Ave.NB
+SPARS 75-8556,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8557,   TH 52North of Moreland Ave.South of Ormie St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Moreland Ave.South of Ormie St.NB
+SPARS 75-8558,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8559,   TH 52North of Ormie St.South of Butler AveNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Ormie St.South of Butler AveNB
+SPARS 75-8560,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8561,   TH 52North of Butler Ave.South of Stanley St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Butler Ave.South of Stanley St.NB
+SPARS 75-8562,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8563,   TH 52North of Bernard St.South of Haskell StNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Bernard St.South of Haskell StNB
+SPARS 75-8564,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8565,   TH 52North of Haskell St.South of Hurley St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Haskell St.South of Hurley St.NB
+SPARS 75-8566,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8567,   TH 52North of Hurley St.South of Annapolis St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Hurley St.South of Annapolis St.NB
+SPARS 75-8568,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 75-8569,   TH 52North of Annapolis St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 52North of Annapolis St.NB
+SPARS 75-8570,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB

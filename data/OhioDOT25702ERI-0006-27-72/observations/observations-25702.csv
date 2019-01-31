@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25702-799-1,25702-799,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,8770
+25702-800-1,25702-800,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,14670
+25702-809-1,25702-809,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,2800
+25702-810-1,25702-810,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,5990
+25702-811-1,25702-811,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,6390
+25702-812-1,25702-812,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,3210

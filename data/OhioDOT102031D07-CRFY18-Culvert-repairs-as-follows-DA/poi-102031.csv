@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-102031-5584,", , CHP6812.79",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CHP6812.79"
-102031-5617,", , DAR361.76",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , DAR361.76"
-102031-5618,", , DAR3616.2",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , DAR3616.2"
-102031-5646,", , CHP8141.54",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CHP8141.54"
-102031-5658,", , MER4917.68",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MER4917.68"
+102031-5584,  CHP6812.79,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CHP6812.79
+102031-5617,  DAR361.76,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  DAR361.76
+102031-5618,  DAR3616.2,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  DAR3616.2
+102031-5646,  CHP8141.54,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CHP8141.54
+102031-5658,  MER4917.68,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MER4917.68

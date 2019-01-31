@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-90415-3341,", , SUM002414.640",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM002414.640"
-90415-3342,", , SUM002414.540",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM002414.540"
-90415-3343,", , SUM0061910.120",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM0061910.120"
-90415-3344,", , SUM002414.100",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM002414.100"
-90415-3345,", , SUM002414.000",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM002414.000"
-90415-3346,", , SUM002413.890",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM002413.890"
-90415-3347,", , SUM002413.730",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM002413.730"
-90415-3348,", , SUM002413.670",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM002413.670"
-90415-3349,", , SUM002413.540",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , SUM002413.540"
-90415-3397,", , SUM006199.960",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , SUM006199.960"
+90415-3341,  SUM002414.640,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM002414.640
+90415-3342,  SUM002414.540,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM002414.540
+90415-3343,  SUM0061910.120,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM0061910.120
+90415-3344,  SUM002414.100,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM002414.100
+90415-3345,  SUM002414.000,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM002414.000
+90415-3346,  SUM002413.890,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM002413.890
+90415-3347,  SUM002413.730,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM002413.730
+90415-3348,  SUM002413.670,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM002413.670
+90415-3349,  SUM002413.540,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM002413.540
+90415-3397,  SUM006199.960,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM006199.960

@@ -1,0 +1,8 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84325-2057-1,84325-2057,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,4880
+84325-2058-1,84325-2058,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,5220
+84325-2059-1,84325-2059,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,5650
+84325-2066-1,84325-2066,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,2850
+84325-2067-1,84325-2067,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,3450
+84325-2068-1,84325-2068,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,6470
+84325-2069-1,84325-2069,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,5870

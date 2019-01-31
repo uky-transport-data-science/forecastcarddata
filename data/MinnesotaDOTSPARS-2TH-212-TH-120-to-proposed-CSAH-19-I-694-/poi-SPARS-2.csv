@@ -1,15 +1,15 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 2-8221,", , , TH 212West Of TH 120EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 212West Of TH 120EB"
-SPARS 2-8222,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 2-8223,", , , TH 212East Of TH 120West Of I-694EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 212East Of TH 120West Of I-694EB"
-SPARS 2-8224,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 2-8225,", , , TH 212East Of I-694West Of Proposed CSAH 13EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 212East Of I-694West Of Proposed CSAH 13EB"
-SPARS 2-8226,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 2-8227,", , , TH 212East Of Proposed CSAH 13EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 212East Of Proposed CSAH 13EB"
-SPARS 2-8228,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 2-8229,", , , I-694North of Country Road BNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694North of Country Road BNB"
-SPARS 2-8230,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 2-8231,", , , I-694South of Country Road BNorth Of TH 212NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694South of Country Road BNorth Of TH 212NB"
-SPARS 2-8232,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-SPARS 2-8233,", , , I-694South TH 212NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , I-694South TH 212NB"
-SPARS 2-8234,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+SPARS 2-8221,   TH 212West Of TH 120EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 212West Of TH 120EB
+SPARS 2-8222,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 2-8223,   TH 212East Of TH 120West Of I-694EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 212East Of TH 120West Of I-694EB
+SPARS 2-8224,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 2-8225,   TH 212East Of I-694West Of Proposed CSAH 13EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 212East Of I-694West Of Proposed CSAH 13EB
+SPARS 2-8226,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 2-8227,   TH 212East Of Proposed CSAH 13EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 212East Of Proposed CSAH 13EB
+SPARS 2-8228,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 2-8229,   I-694North of Country Road BNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694North of Country Road BNB
+SPARS 2-8230,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 2-8231,   I-694South of Country Road BNorth Of TH 212NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694South of Country Road BNorth Of TH 212NB
+SPARS 2-8232,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 2-8233,   I-694South TH 212NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694South TH 212NB
+SPARS 2-8234,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB

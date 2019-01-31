@@ -1,0 +1,23 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M309-7586-1,TA-M309-7586,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7587-1,TA-M309-7587,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7588-1,TA-M309-7588,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7589-1,TA-M309-7589,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7590-1,TA-M309-7590,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7591-1,TA-M309-7591,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7592-1,TA-M309-7592,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7593-1,TA-M309-7593,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7594-1,TA-M309-7594,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7595-1,TA-M309-7595,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7596-1,TA-M309-7596,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7597-1,TA-M309-7597,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+TA-M309-7598-1,TA-M309-7598,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,23000
+TA-M309-7599-1,TA-M309-7599,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,23000
+TA-M309-7600-1,TA-M309-7600,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,23000
+TA-M309-7601-1,TA-M309-7601,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,23000
+TA-M309-7602-1,TA-M309-7602,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,23000
+TA-M309-7603-1,TA-M309-7603,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,23000
+TA-M309-7604-1,TA-M309-7604,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,23000
+TA-M309-7605-1,TA-M309-7605,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,23000
+TA-M309-7606-1,TA-M309-7606,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,27000
+TA-M309-7607-1,TA-M309-7607,Design Year,unknown,unknown,2000,00:00:00,23:59:59,volume,27000

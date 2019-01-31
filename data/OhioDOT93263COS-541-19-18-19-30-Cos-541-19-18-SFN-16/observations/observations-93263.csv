@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93263-5436-1,93263-5436,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+93263-5437-1,93263-5437,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+93263-5438-1,93263-5438,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+93263-5439-1,93263-5439,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+93263-5440-1,93263-5440,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620

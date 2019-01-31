@@ -1,15 +1,15 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAU 3065-8005,", , , TH 36West Of Hamline AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 36West Of Hamline AveEB"
-TAU 3065-8006,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TAU 3065-8007,", , , TH 36East Of Hamline AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 36East Of Hamline AveEB"
-TAU 3065-8008,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TAU 3065-8009,", , , Hamline Ave.South Of Proposed Commerce St.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Hamline Ave.South Of Proposed Commerce St.NB"
-TAU 3065-8010,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAU 3065-8011,", , , Hamline Ave.Between Proposed Commerce StNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Hamline Ave.Between Proposed Commerce StNB"
-TAU 3065-8012,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAU 3065-8013,", , , Hamline Ave.North Of Proposed Commerce St.South Of Westbound TH 36 RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Hamline Ave.North Of Proposed Commerce St.South Of Westbound TH 36 RampsNB"
-TAU 3065-8014,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAU 3065-8015,", , , Hamline Ave.Between Westbound TH 36 RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Hamline Ave.Between Westbound TH 36 RampsNB"
-TAU 3065-8016,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
-TAU 3065-8017,", , , Hamline Ave.North Of Westbound TH 36 RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , Hamline Ave.North Of Westbound TH 36 RampsNB"
-TAU 3065-8018,", , , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , SB"
+TAU 3065-8005,   TH 36West Of Hamline AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36West Of Hamline AveEB
+TAU 3065-8006,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAU 3065-8007,   TH 36East Of Hamline AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East Of Hamline AveEB
+TAU 3065-8008,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAU 3065-8009,   Hamline Ave.South Of Proposed Commerce St.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Hamline Ave.South Of Proposed Commerce St.NB
+TAU 3065-8010,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3065-8011,   Hamline Ave.Between Proposed Commerce StNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Hamline Ave.Between Proposed Commerce StNB
+TAU 3065-8012,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3065-8013,   Hamline Ave.North Of Proposed Commerce St.South Of Westbound TH 36 RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Hamline Ave.North Of Proposed Commerce St.South Of Westbound TH 36 RampsNB
+TAU 3065-8014,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3065-8015,   Hamline Ave.Between Westbound TH 36 RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Hamline Ave.Between Westbound TH 36 RampsNB
+TAU 3065-8016,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3065-8017,   Hamline Ave.North Of Westbound TH 36 RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Hamline Ave.North Of Westbound TH 36 RampsNB
+TAU 3065-8018,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB

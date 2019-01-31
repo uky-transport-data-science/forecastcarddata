@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-3326,", , CUY712.960",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY712.960"
-Unavailable-3327,", , CUY712.210",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY712.210"
-Unavailable-3328,", , CUY000823.660",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CUY000823.660"
-Unavailable-3389,", , CUY000823.310",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CUY000823.310"
+Unavailable-3326,  CUY712.960,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY712.960
+Unavailable-3327,  CUY712.210,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY712.210
+Unavailable-3328,  CUY000823.660,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY000823.660
+Unavailable-3389,  CUY000823.310,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY000823.310

@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+96694-6000-1,96694-6000,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+96694-6001-1,96694-6001,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+96694-6002-1,96694-6002,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,4180

@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-96366-4163,", , LOG338.175",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LOG338.175"
-96366-4226,", , CHP2912.565",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CHP2912.565"
-96366-4251,", , AUG6617.68",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , AUG6617.68"
-96366-4252,", , AUG19710.335",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , AUG19710.335"
+96366-4163,  LOG338.175,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LOG338.175
+96366-4226,  CHP2912.565,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CHP2912.565
+96366-4251,  AUG6617.68,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  AUG6617.68
+96366-4252,  AUG19710.335,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  AUG19710.335

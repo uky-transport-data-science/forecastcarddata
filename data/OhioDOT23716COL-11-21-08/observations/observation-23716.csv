@@ -1,3 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-23716-212-1,23716-212,Opening Year,unknown,unknown,2006,00:00:00,00:00:00,volume,11710
-23716-212-1,23716-212,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,10970

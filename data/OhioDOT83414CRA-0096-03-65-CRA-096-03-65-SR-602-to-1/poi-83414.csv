@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-83414-1720,", , CRA963.65",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA963.65"
-83414-1721,", , CRA968.37",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA968.37"
-83414-1722,", , CRA968.49",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CRA968.49"
+83414-1720,  CRA963.65,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CRA963.65
+83414-1721,  CRA968.37,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CRA968.37
+83414-1722,  CRA968.49,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CRA968.49

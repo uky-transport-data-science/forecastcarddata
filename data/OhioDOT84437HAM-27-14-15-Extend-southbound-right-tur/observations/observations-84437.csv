@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84437-2216-1,84437-2216,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,57330
+84437-2217-1,84437-2217,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,68240
+84437-2218-1,84437-2218,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,76610
+84437-2219-1,84437-2219,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,87080
+84437-2229-1,84437-2229,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,32930
+84437-2230-1,84437-2230,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,32930
+84437-2231-1,84437-2231,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,34400
+84437-2232-1,84437-2232,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,26250
+84437-2233-1,84437-2233,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,26250

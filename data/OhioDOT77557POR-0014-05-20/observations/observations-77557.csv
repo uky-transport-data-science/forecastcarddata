@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77557-642-1,77557-642,Opening Year,unknown,unknown,2007,00:00:00,23:59:59,volume,23990
+77557-643-1,77557-643,Opening Year,unknown,unknown,2007,00:00:00,23:59:59,volume,23990

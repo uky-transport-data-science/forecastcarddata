@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-99947-5513,", , HOL5572.775",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , HOL5572.775"
-99947-5520,", , HOL6432.06",6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,", , HOL6432.06"
+99947-5513,  HOL5572.775,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HOL5572.775
+99947-5520,  HOL6432.06,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  HOL6432.06

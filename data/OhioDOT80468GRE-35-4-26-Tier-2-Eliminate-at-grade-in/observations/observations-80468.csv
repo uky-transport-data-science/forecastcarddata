@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80468-5346-1,80468-5346,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6352
+80468-5347-1,80468-5347,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,40150
+80468-5348-1,80468-5348,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,36230
+80468-5349-1,80468-5349,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,40150
+80468-5350-1,80468-5350,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,40150
+80468-5351-1,80468-5351,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,40150

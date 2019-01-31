@@ -1,30 +1,30 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-76997-5909,", , FAI00070.000",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FAI00070.000"
-76997-5910,", , FRA0007016.520",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0007016.520"
-76997-5911,", , FRA0007017.000",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0007017.000"
-76997-5912,", , FRA0007017.190",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0007017.190"
-76997-5913,", , FRA0007018.670",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0007018.670"
-76997-5914,", , FRA0007019.310",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0007019.310"
-76997-5915,", , FRA0007021.330",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0007021.330"
-76997-5916,", , FRA0007022.730",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0007022.730"
-76997-5917,", , FRA0031712.420",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0031712.420"
-76997-5918,", , FRA0027039.530",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0027039.530"
-76997-5919,", , FRA0027041.320",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0027041.320"
-76997-5920,", , FRA0027042.820",1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,", , FRA0027042.820"
-76997-5934,", , FRA0003320.270",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0003320.270"
-76997-5935,", , FRA0003321.910",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0003321.910"
-76997-5936,", , FRA0003322.400",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0003322.400"
-76997-5937,", , FRA0003322.980",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0003322.980"
-76997-5943,", , FRA0003324.750",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0003324.750"
-76997-5944,", , FRA0031711.090",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0031711.090"
-76997-5945,", , FRA0031712.000",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0031712.000"
-76997-5946,", , FRA0027046.130",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0027046.130"
-76997-5947,", , FRA0004021.400",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , FRA0004021.400"
-76997-5948,", , LIC00310.000",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , LIC00310.000"
-76997-5951,", , FAI000701.460",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAI000701.460"
-76997-5952,", , FAI00204.010",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAI00204.010"
-76997-5953,", , FAI00256.010",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAI00256.010"
-76997-5954,", , FAI00256.460",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAI00256.460"
-76997-5955,", , FAI00256.770",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , FAI00256.770"
-76997-5956,", , FRA0004021.800",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , FRA0004021.800"
-76997-5957,", , LIC00310.960",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , LIC00310.960"
+76997-5909,  FAI00070.000,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FAI00070.000
+76997-5910,  FRA0007016.520,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0007016.520
+76997-5911,  FRA0007017.000,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0007017.000
+76997-5912,  FRA0007017.190,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0007017.190
+76997-5913,  FRA0007018.670,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0007018.670
+76997-5914,  FRA0007019.310,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0007019.310
+76997-5915,  FRA0007021.330,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0007021.330
+76997-5916,  FRA0007022.730,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0007022.730
+76997-5917,  FRA0031712.420,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0031712.420
+76997-5918,  FRA0027039.530,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0027039.530
+76997-5919,  FRA0027041.320,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0027041.320
+76997-5920,  FRA0027042.820,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA0027042.820
+76997-5934,  FRA0003320.270,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0003320.270
+76997-5935,  FRA0003321.910,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0003321.910
+76997-5936,  FRA0003322.400,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0003322.400
+76997-5937,  FRA0003322.980,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0003322.980
+76997-5943,  FRA0003324.750,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0003324.750
+76997-5944,  FRA0031711.090,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0031711.090
+76997-5945,  FRA0031712.000,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0031712.000
+76997-5946,  FRA0027046.130,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0027046.130
+76997-5947,  FRA0004021.400,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA0004021.400
+76997-5948,  LIC00310.000,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LIC00310.000
+76997-5951,  FAI000701.460,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAI000701.460
+76997-5952,  FAI00204.010,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAI00204.010
+76997-5953,  FAI00256.010,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAI00256.010
+76997-5954,  FAI00256.460,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAI00256.460
+76997-5955,  FAI00256.770,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FAI00256.770
+76997-5956,  FRA0004021.800,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  FRA0004021.800
+76997-5957,  LIC00310.960,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LIC00310.960

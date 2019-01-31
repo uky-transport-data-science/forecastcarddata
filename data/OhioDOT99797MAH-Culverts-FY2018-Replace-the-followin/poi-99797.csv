@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-99797-5692,", , MAH459.43",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAH459.43"
-99797-5693,", , MAH2245.24",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , MAH2245.24"
-99797-5703,", , MAH16513.93",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAH16513.93"
-99797-5704,", , MAH16525.28",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAH16525.28"
-99797-5705,", , MAH5346.01",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MAH5346.01"
+99797-5692,  MAH459.43,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAH459.43
+99797-5693,  MAH2245.24,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAH2245.24
+99797-5703,  MAH16513.93,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAH16513.93
+99797-5704,  MAH16525.28,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAH16525.28
+99797-5705,  MAH5346.01,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MAH5346.01

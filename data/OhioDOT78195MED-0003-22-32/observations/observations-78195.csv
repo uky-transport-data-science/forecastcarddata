@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78195-892-1,78195-892,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,5600
+78195-893-1,78195-893,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,5330
+78195-894-1,78195-894,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,9500
+78195-895-1,78195-895,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,6800

@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77273-692-1,77273-692,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,6800
+77273-693-1,77273-693,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,12430
+77273-694-1,77273-694,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,4910

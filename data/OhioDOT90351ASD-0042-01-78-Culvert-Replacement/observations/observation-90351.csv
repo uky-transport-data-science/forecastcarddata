@@ -1,3 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-90351-2334-1,90351-2334,Opening Year,unknown,unknown,2012,00:00:00,00:00:00,volume,9870
-90351-2334-1,90351-2334,Design Year,unknown,unknown,2009,00:00:00,00:00:00,volume,9660

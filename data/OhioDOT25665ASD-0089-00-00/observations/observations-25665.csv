@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25665-487-1,25665-487,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,1210
+25665-488-1,25665-488,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,1240
+25665-489-1,25665-489,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,1450
+25665-490-1,25665-490,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,1000
+25665-491-1,25665-491,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,1430

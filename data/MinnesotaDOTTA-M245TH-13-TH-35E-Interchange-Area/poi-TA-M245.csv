@@ -1,15 +1,15 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M245-7051,", , , TH 13West of Victoria StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13West of Victoria StEB"
-TA-M245-7052,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M245-7053,", , , TH 13Between Victoria RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13Between Victoria RdEB"
-TA-M245-7054,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M245-7055,", , , TH 13Victoria StTH 35EEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13Victoria StTH 35EEB"
-TA-M245-7056,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M245-7057,", , , TH 13Between TH 35E RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13Between TH 35E RampsEB"
-TA-M245-7058,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M245-7059,", , , TH 13TH 35ECR 45EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13TH 35ECR 45EB"
-TA-M245-7060,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M245-7061,", , , TH 13Between CR 45EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13Between CR 45EB"
-TA-M245-7062,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M245-7063,", , , TH 13East of CR 45EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 13East of CR 45EB"
-TA-M245-7064,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M245-7051,   TH 13West of Victoria StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13West of Victoria StEB
+TA-M245-7052,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M245-7053,   TH 13Between Victoria RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13Between Victoria RdEB
+TA-M245-7054,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M245-7055,   TH 13Victoria StTH 35EEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13Victoria StTH 35EEB
+TA-M245-7056,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M245-7057,   TH 13Between TH 35E RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13Between TH 35E RampsEB
+TA-M245-7058,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M245-7059,   TH 13TH 35ECR 45EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13TH 35ECR 45EB
+TA-M245-7060,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M245-7061,   TH 13Between CR 45EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13Between CR 45EB
+TA-M245-7062,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M245-7063,   TH 13East of CR 45EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13East of CR 45EB
+TA-M245-7064,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

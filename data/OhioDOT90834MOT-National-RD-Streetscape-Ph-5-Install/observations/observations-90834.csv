@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+90834-4397-1,90834-4397,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,18932
+90834-4398-1,90834-4398,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,18841
+90834-4399-1,90834-4399,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,18010

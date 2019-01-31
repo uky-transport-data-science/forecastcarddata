@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-88656-2893,", , HAM5233.790",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM5233.790"
-88656-2908,", , HAM5230.110",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM5230.110"
-88656-2909,", , HAM5233.110",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM5233.110"
-88656-2910,", , HAM5233.910",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HAM5233.910"
+88656-2893,  HAM5233.790,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM5233.790
+88656-2908,  HAM5230.110,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM5230.110
+88656-2909,  HAM5233.110,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM5233.110
+88656-2910,  HAM5233.910,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM5233.910

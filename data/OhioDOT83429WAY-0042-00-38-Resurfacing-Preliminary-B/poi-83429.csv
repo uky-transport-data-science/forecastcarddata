@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-83429-2029,", , MED420",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , MED420"
-83429-2038,", , WAY420.38",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY420.38"
-83429-2039,", , WAY420.82",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY420.82"
-83429-2040,", , WAY421.38",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY421.38"
+83429-2029,  MED420,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MED420
+83429-2038,  WAY420.38,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY420.38
+83429-2039,  WAY420.82,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY420.82
+83429-2040,  WAY421.38,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY421.38

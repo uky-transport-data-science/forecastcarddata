@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-210-7097,", , , TH 36West of LexingtonEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 36West of LexingtonEB"
-SPAR-210-7098,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-210-7099,", , , TH 36Between LexingtonEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 36Between LexingtonEB"
-SPAR-210-7100,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-210-7101,", , , TH 36LexingtonVictoriaEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 36LexingtonVictoriaEB"
-SPAR-210-7102,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-210-7103,", , , TH 36Between DaleEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 36Between DaleEB"
-SPAR-210-7104,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPAR-210-7105,", , , TH 36East of DaleEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 36East of DaleEB"
-SPAR-210-7106,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPAR-210-7097,   TH 36West of LexingtonEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36West of LexingtonEB
+SPAR-210-7098,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-210-7099,   TH 36Between LexingtonEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36Between LexingtonEB
+SPAR-210-7100,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-210-7101,   TH 36LexingtonVictoriaEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36LexingtonVictoriaEB
+SPAR-210-7102,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-210-7103,   TH 36Between DaleEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36Between DaleEB
+SPAR-210-7104,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPAR-210-7105,   TH 36East of DaleEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East of DaleEB
+SPAR-210-7106,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

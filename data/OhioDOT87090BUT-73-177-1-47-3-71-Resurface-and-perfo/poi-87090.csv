@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-87090-4903,", , BUT732.595",4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , BUT732.595"
-87090-4939,", , BUT1773.125",5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,", , BUT1773.125"
-87090-4978,", , BUT1776.415",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , BUT1776.415"
-87090-4979,", , BUT17711.045",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , BUT17711.045"
+87090-4903,  BUT732.595,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  BUT732.595
+87090-4939,  BUT1773.125,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  BUT1773.125
+87090-4978,  BUT1776.415,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  BUT1776.415
+87090-4979,  BUT17711.045,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  BUT17711.045

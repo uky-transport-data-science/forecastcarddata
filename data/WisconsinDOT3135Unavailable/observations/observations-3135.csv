@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3135-6686-1,3135-6686,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,3200
+3135-6687-1,3135-6687,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,3500

@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91858-4160-1,91858-4160,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,13455
+91858-4161-1,91858-4161,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,12997
+91858-4162-1,91858-4162,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,8751

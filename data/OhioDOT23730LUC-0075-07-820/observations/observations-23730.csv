@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23730-780-1,23730-780,Opening Year,unknown,unknown,2007,00:00:00,23:59:59,volume,71720
+23730-781-1,23730-781,Opening Year,unknown,unknown,2007,00:00:00,23:59:59,volume,85080
+23730-782-1,23730-782,Opening Year,unknown,unknown,2007,00:00:00,23:59:59,volume,67900
+23730-783-1,23730-783,Opening Year,unknown,unknown,2007,00:00:00,23:59:59,volume,63510

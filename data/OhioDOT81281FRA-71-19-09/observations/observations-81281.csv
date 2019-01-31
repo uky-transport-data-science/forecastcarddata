@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81281-566-1,81281-566,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,155990
+81281-567-1,81281-567,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,148550
+81281-568-1,81281-568,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,143360
+81281-569-1,81281-569,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,142750
+81281-570-1,81281-570,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,139770
+81281-571-1,81281-571,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,137770
+81281-572-1,81281-572,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,128550
+81281-573-1,81281-573,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,118470

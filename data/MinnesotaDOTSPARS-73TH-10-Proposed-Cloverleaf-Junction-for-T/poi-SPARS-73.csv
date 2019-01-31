@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 73-8537,", , , TH 10West of TH 65EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 10West of TH 65EB"
-SPARS 73-8538,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-SPARS 73-8539,", , , TH 10East of TH 65EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 10East of TH 65EB"
-SPARS 73-8540,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+SPARS 73-8537,   TH 10West of TH 65EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 10West of TH 65EB
+SPARS 73-8538,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 73-8539,   TH 10East of TH 65EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 10East of TH 65EB
+SPARS 73-8540,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

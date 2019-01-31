@@ -1,9 +1,9 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TA-M207A-7566,Design Year,00:00:00,00:00:00,volume,29000
-f3,1,TA-M207A-7567,Design Year,00:00:00,00:00:00,volume,29000
-f3,1,TA-M207A-7568,Design Year,00:00:00,00:00:00,volume,25000
-f3,1,TA-M207A-7569,Design Year,00:00:00,00:00:00,volume,25000
-f3,1,TA-M207A-7570,Design Year,00:00:00,00:00:00,volume,5500
-f3,1,TA-M207A-7571,Design Year,00:00:00,00:00:00,volume,5500
-f3,1,TA-M207A-7572,Design Year,00:00:00,00:00:00,volume,8500
-f3,1,TA-M207A-7573,Design Year,00:00:00,00:00:00,volume,8500
+f3,1,TA-M207A-7566,Design Year,00:00:00,23:59:59,volume,29000
+f3,1,TA-M207A-7567,Design Year,00:00:00,23:59:59,volume,29000
+f3,1,TA-M207A-7568,Design Year,00:00:00,23:59:59,volume,25000
+f3,1,TA-M207A-7569,Design Year,00:00:00,23:59:59,volume,25000
+f3,1,TA-M207A-7570,Design Year,00:00:00,23:59:59,volume,5500
+f3,1,TA-M207A-7571,Design Year,00:00:00,23:59:59,volume,5500
+f3,1,TA-M207A-7572,Design Year,00:00:00,23:59:59,volume,8500
+f3,1,TA-M207A-7573,Design Year,00:00:00,23:59:59,volume,8500

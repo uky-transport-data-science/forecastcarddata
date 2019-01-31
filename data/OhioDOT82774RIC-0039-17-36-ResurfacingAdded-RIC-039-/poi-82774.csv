@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82774-2033,", , RIC3919.12",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , RIC3919.12"
-82774-2034,", , RIC3922.68",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , RIC3922.68"
-82774-2071,", , RIC3917.34",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , RIC3917.34"
+82774-2033,  RIC3919.12,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  RIC3919.12
+82774-2034,  RIC3922.68,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  RIC3922.68
+82774-2071,  RIC3917.34,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  RIC3917.34

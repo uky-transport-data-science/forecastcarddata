@@ -1,14 +1,14 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M253-7520,", , , TH 394West of Linden BridgeEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 394West of Linden BridgeEB"
-TA-M253-7521,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M253-7522,", , , TH 394Linden Bridge12th StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 394Linden Bridge12th StEB"
-TA-M253-7523,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M253-7524,", , , TH 39411th St10th StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 39411th St10th StEB"
-TA-M253-7525,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M253-7526,", , , TH 394Just east of 7th StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 394Just east of 7th StEB"
-TA-M253-7527,", , , EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , EB"
-TA-M253-7528,", , , EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , EB"
-TA-M253-7529,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M253-7530,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M253-7531,", , , TH 3943rd St3rd AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 3943rd St3rd AveEB"
-TA-M253-7532,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M253-7520,   TH 394West of Linden BridgeEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 394West of Linden BridgeEB
+TA-M253-7521,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M253-7522,   TH 394Linden Bridge12th StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 394Linden Bridge12th StEB
+TA-M253-7523,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M253-7524,   TH 39411th St10th StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 39411th St10th StEB
+TA-M253-7525,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M253-7526,   TH 394Just east of 7th StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 394Just east of 7th StEB
+TA-M253-7527,   EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   EB
+TA-M253-7528,   EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   EB
+TA-M253-7529,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M253-7530,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M253-7531,   TH 3943rd St3rd AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 3943rd St3rd AveEB
+TA-M253-7532,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

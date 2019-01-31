@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TAS 3081TH 51 - Jct TH 51 and Co Rd B2,s1,01/01/1967,Design Year,Unavailable,trendline,01/01/1967,state DOT
+1,MinnesotaDOT-TAS 3081TH 51 - Jct TH 51 and Co Rd B2,s1,1967-01-01,Design Year,Unavailable,trendline,1967-01-01,state DOT

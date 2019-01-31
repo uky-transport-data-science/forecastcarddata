@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-103793-5842,", , CHP686.11",3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CHP686.11"
-103793-5843,", , CHP686.78",3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , CHP686.78"
-103793-5858,", , CHP3616.37",4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , CHP3616.37"
-103793-5864,", , CHP3618.05",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , CHP3618.05"
+103793-5842,  CHP686.11,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CHP686.11
+103793-5843,  CHP686.78,3-Principal Arterial,,,urban,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CHP686.78
+103793-5858,  CHP3616.37,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CHP3616.37
+103793-5864,  CHP3618.05,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CHP3618.05

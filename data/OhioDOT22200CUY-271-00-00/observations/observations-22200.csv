@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+22200-1185-1,22200-1185,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,61100
+22200-1186-1,22200-1186,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,107250
+22200-1187-1,22200-1187,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,95930
+22200-1188-1,22200-1188,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,121500
+22200-1189-1,22200-1189,Opening Year,unknown,unknown,2010,00:00:00,23:59:59,volume,72690

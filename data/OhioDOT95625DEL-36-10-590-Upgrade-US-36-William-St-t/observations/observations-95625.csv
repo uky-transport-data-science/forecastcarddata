@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+95625-4753-1,95625-4753,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19806
+95625-4754-1,95625-4754,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,19806
+95625-4781-1,95625-4781,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,5562

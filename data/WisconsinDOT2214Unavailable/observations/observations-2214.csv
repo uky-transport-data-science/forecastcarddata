@@ -1,0 +1,8 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2214-6362-1,2214-6362,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,12100
+2214-6363-1,2214-6363,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,4700
+2214-6364-1,2214-6364,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,12100
+2214-6367-1,2214-6367,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,9900
+2214-6369-1,2214-6369,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,11100
+2214-6375-1,2214-6375,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,3300
+2214-6378-1,2214-6378,Opening Year,unknown,unknown,2006,00:00:00,23:59:59,volume,3000

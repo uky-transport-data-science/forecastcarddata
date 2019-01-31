@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82973-4321-1,82973-4321,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,41731
+82973-4324-1,82973-4324,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,9671
+82973-4345-1,82973-4345,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,32965
+82973-4348-1,82973-4348,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,37954

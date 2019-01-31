@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75890-1840-1,75890-1840,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,7700
+75890-1841-1,75890-1841,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,9330
+75890-1857-1,75890-1857,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,16500
+75890-1862-1,75890-1862,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,6320
+75890-1863-1,75890-1863,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,10630
+75890-1864-1,75890-1864,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,16500
+75890-1865-1,75890-1865,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,9640
+75890-1866-1,75890-1866,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,12710
+75890-1992-1,75890-1992,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,9950

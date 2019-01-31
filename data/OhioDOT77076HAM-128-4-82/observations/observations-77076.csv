@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+77076-331-1,77076-331,Opening Year,unknown,unknown,2005,00:00:00,23:59:59,volume,10550
+77076-350-1,77076-350,Opening Year,unknown,unknown,2005,00:00:00,23:59:59,volume,74970
+77076-351-1,77076-351,Opening Year,unknown,unknown,2005,00:00:00,23:59:59,volume,83090
+77076-374-1,77076-374,Opening Year,unknown,unknown,2005,00:00:00,23:59:59,volume,12840

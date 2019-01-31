@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82131-1592,", , HUR22416.12",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , HUR22416.12"
-82131-1593,", , MED2242.97",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MED2242.97"
-82131-1594,", , MED2245.84",3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,", , MED2245.84"
-82131-1598,", , WAY3013.97",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY3013.97"
-82131-1599,", , WAY3014.64",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY3014.64"
-82131-1600,", , WAY3015.4",5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,", , WAY3015.4"
-82131-1635,", , ERI623.04",4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,", , ERI623.04"
+82131-1592,  HUR22416.12,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HUR22416.12
+82131-1593,  MED2242.97,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MED2242.97
+82131-1594,  MED2245.84,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MED2245.84
+82131-1598,  WAY3013.97,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY3013.97
+82131-1599,  WAY3014.64,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY3014.64
+82131-1600,  WAY3015.4,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY3015.4
+82131-1635,  ERI623.04,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ERI623.04

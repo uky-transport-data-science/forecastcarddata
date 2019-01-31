@@ -1,0 +1,8 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+98585-5750-1,98585-5750,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+98585-5751-1,98585-5751,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+98585-5752-1,98585-5752,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+98585-5753-1,98585-5753,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+98585-5754-1,98585-5754,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+98585-5755-1,98585-5755,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+98585-5756-1,98585-5756,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620

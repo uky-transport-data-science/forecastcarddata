@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+94768-5499-1,94768-5499,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+94768-5500-1,94768-5500,Opening Year,unknown,unknown,2009,00:00:00,23:59:59,volume,620

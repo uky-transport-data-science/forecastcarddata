@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-99485-3682-1,99485-3682,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,66105
-99485-3682-1,99485-3682,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,66105
-99485-3683-1,99485-3683,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,68975
-99485-3683-1,99485-3683,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,68975
-99485-3684-1,99485-3684,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,68975
-99485-3684-1,99485-3684,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,68975
-99485-3701-1,99485-3701,Opening Year,unknown,unknown,2015,00:00:00,00:00:00,volume,54944
-99485-3701-1,99485-3701,Design Year,unknown,unknown,2015,00:00:00,00:00:00,volume,54944

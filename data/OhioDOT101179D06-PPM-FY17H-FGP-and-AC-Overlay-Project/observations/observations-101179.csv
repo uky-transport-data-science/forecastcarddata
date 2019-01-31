@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+101179-5181-1,101179-5181,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,9159
+101179-5182-1,101179-5182,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,6607
+101179-5183-1,101179-5183,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,7980
+101179-5184-1,101179-5184,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,3946
+101179-5185-1,101179-5185,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,1937
+101179-5186-1,101179-5186,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2304
+101179-5242-1,101179-5242,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,4679
+101179-5243-1,101179-5243,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2997
+101179-5244-1,101179-5244,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2170
+101179-5245-1,101179-5245,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2284
+101179-5246-1,101179-5246,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,2605
+101179-5247-1,101179-5247,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,3799

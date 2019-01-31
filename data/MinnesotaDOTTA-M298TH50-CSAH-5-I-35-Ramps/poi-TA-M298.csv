@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M298-7688,", , , CSAH 5West Of RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , CSAH 5West Of RampsEB"
-TA-M298-7689,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M298-7690,", , , TH 50East Of RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 50East Of RampsEB"
-TA-M298-7691,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
-TA-M298-7692,", , , TH 50East Of RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , TH 50East Of RampsEB"
-TA-M298-7693,", , , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,", , , WB"
+TA-M298-7688,   CSAH 5West Of RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 5West Of RampsEB
+TA-M298-7689,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M298-7690,   TH 50East Of RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 50East Of RampsEB
+TA-M298-7691,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M298-7692,   TH 50East Of RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 50East Of RampsEB
+TA-M298-7693,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB

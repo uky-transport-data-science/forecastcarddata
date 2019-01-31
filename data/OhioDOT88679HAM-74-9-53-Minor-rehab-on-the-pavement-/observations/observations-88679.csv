@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+88679-3941-1,88679-3941,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,73568
+88679-3942-1,88679-3942,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,21947
+88679-3943-1,88679-3943,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,73568
