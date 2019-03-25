@@ -1,13 +1,2 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,FEIS TH 3-8624,Design Year,00:00:00,23:59:59,volume,10035
-f3,1,FEIS TH 3-8625,Design Year,00:00:00,23:59:59,volume,10035
-f3,1,FEIS TH 3-8626,Design Year,00:00:00,23:59:59,volume,11490
-f3,1,FEIS TH 3-8627,Design Year,00:00:00,23:59:59,volume,11490
-f3,1,FEIS TH 3-8628,Design Year,00:00:00,23:59:59,volume,6435
-f3,1,FEIS TH 3-8629,Design Year,00:00:00,23:59:59,volume,6435
-f3,1,FEIS TH 3-8630,Design Year,00:00:00,23:59:59,volume,9085
-f3,1,FEIS TH 3-8631,Design Year,00:00:00,23:59:59,volume,9085
-f3,1,FEIS TH 3-8632,Design Year,00:00:00,23:59:59,volume,12395
-f3,1,FEIS TH 3-8633,Design Year,00:00:00,23:59:59,volume,12395
-f3,1,FEIS TH 3-8634,Design Year,00:00:00,23:59:59,volume,14190
-f3,1,FEIS TH 3-8635,Design Year,00:00:00,23:59:59,volume,14190
+Design-Year-FEIS TH 3-8635.0,Design-Year-Model-Run,FEIS TH 3-8635.0,Design-Year-Forecast-poi-FEIS TH 3-8635.0,00:00:00,23:59:59,volume,14190

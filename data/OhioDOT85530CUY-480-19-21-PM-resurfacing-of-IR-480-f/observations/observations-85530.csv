@@ -1,6 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-85530-4087-1,85530-4087,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,152974
-85530-4088-1,85530-4088,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,161068
-85530-4089-1,85530-4089,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,140781
-85530-4090-1,85530-4090,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,142337
-85530-4091-1,85530-4091,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,158150

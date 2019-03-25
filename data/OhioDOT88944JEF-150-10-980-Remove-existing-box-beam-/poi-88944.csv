@@ -1,2 +1,2 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-88944-3472,  JEF1509.09,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  JEF1509.09
+88944-3472.0, JEF1509.09,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, JEF1509.09

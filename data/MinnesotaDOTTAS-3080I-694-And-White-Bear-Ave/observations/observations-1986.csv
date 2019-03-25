@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAS 3080-7832.0-1,TAS 3080-7832.0,Design-Year-Forecast-poi-TAS 3080-7832.0,unknown,unknown,1986,00:00:00,23:59:59,volume,9400
+TAS 3080-7833.0-1,TAS 3080-7833.0,Design-Year-Forecast-poi-TAS 3080-7833.0,unknown,unknown,1986,00:00:00,23:59:59,volume,9400
+TAS 3080-7834.0-1,TAS 3080-7834.0,Design-Year-Forecast-poi-TAS 3080-7834.0,unknown,unknown,1986,00:00:00,23:59:59,volume,10800
+TAS 3080-7835.0-1,TAS 3080-7835.0,Design-Year-Forecast-poi-TAS 3080-7835.0,unknown,unknown,1986,00:00:00,23:59:59,volume,10800
+TAS 3080-7836.0-1,TAS 3080-7836.0,Design-Year-Forecast-poi-TAS 3080-7836.0,unknown,unknown,1986,00:00:00,23:59:59,volume,19500
+TAS 3080-7837.0-1,TAS 3080-7837.0,Design-Year-Forecast-poi-TAS 3080-7837.0,unknown,unknown,1986,00:00:00,23:59:59,volume,19500
+TAS 3080-7838.0-1,TAS 3080-7838.0,Design-Year-Forecast-poi-TAS 3080-7838.0,unknown,unknown,1986,00:00:00,23:59:59,volume,18250
+TAS 3080-7839.0-1,TAS 3080-7839.0,Design-Year-Forecast-poi-TAS 3080-7839.0,unknown,unknown,1986,00:00:00,23:59:59,volume,18250

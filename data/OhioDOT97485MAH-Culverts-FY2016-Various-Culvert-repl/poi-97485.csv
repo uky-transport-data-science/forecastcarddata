@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-97485-4415,  MAH145.685,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAH145.685
-97485-4416,  MAH624.305,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAH624.305
+97485-4415.0, MAH145.685,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MAH145.685
+97485-4416.0, MAH624.305,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MAH624.305

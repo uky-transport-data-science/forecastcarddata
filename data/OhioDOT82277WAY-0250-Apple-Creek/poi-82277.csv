@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82277-1243,  WAY25014.44,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY25014.44
-82277-1244,  WAY25018.13,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY25018.13
-82277-1245,  WAY25020.15,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WAY25020.15
+82277-1243.0, WAY25014.44,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, WAY25014.44
+82277-1244.0, WAY25018.13,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, WAY25018.13
+82277-1245.0, WAY25020.15,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, WAY25020.15

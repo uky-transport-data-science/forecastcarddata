@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2449-6420.0-1,2449-6420.0,Opening-Year-Forecast-poi-2449-6420.0,unknown,unknown,2008,00:00:00,23:59:59,volume,3400
+2449-6422.0-1,2449-6422.0,Opening-Year-Forecast-poi-2449-6422.0,unknown,unknown,2008,00:00:00,23:59:59,volume,5400

@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-24436-282,  MOT4817.23,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT4817.23
-24436-283,  MOT4817.87,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT4817.87
+24436-282.0, MOT4817.23,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT4817.23
+24436-283.0, MOT4817.87,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT4817.87

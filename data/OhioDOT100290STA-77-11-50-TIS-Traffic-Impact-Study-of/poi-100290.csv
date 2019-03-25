@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-100290-5757,  STA7710.11,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  STA7710.11
-100290-5758,  STA7711.8,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  STA7711.8
-100290-5759,  STA7712.31,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  STA7712.31
-100290-5760,  STA7714.76,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  STA7714.76
-100290-5772,  STA6222.61,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  STA6222.61
-100290-5773,  STA6223.23,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  STA6223.23
-100290-5778,  STA6873.99,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  STA6873.99
+100290-5757.0, STA7710.11,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, STA7710.11
+100290-5758.0, STA7711.8,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, STA7711.8
+100290-5759.0, STA7712.31,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, STA7712.31
+100290-5760.0, STA7714.76,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, STA7714.76
+100290-5772.0, STA6222.61,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, STA6222.61
+100290-5773.0, STA6223.23,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, STA6223.23
+100290-5778.0, STA6873.99,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, STA6873.99

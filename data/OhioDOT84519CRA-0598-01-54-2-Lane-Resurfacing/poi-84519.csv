@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-84519-2361,  CRA5981.99,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CRA5981.99
-84519-2407,  CRA5981.54,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CRA5981.54
+84519-2361.0, CRA5981.99,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CRA5981.99
+84519-2407.0, CRA5981.54,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CRA5981.54

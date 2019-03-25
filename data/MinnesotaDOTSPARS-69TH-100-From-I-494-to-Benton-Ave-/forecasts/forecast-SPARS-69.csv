@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,SPARS 69-8513,Design Year,00:00:00,23:59:59,volume,22000
-f3,1,SPARS 69-8514,Design Year,00:00:00,23:59:59,volume,22000
-f3,1,SPARS 69-8515,Design Year,00:00:00,23:59:59,volume,24000
-f3,1,SPARS 69-8516,Design Year,00:00:00,23:59:59,volume,24000
-f3,1,SPARS 69-8517,Design Year,00:00:00,23:59:59,volume,26500
-f3,1,SPARS 69-8518,Design Year,00:00:00,23:59:59,volume,26500
-f3,1,SPARS 69-8519,Design Year,00:00:00,23:59:59,volume,29700
-f3,1,SPARS 69-8520,Design Year,00:00:00,23:59:59,volume,29700
-f3,1,SPARS 69-8521,Design Year,00:00:00,23:59:59,volume,36300
-f3,1,SPARS 69-8522,Design Year,00:00:00,23:59:59,volume,36300
+Design-Year-SPARS 69-8513.0,Design-Year-Model-Run,SPARS 69-8513.0,Design-Year-Forecast-poi-SPARS 69-8513.0,00:00:00,23:59:59,volume,22000
+Design-Year-SPARS 69-8514.0,Design-Year-Model-Run,SPARS 69-8514.0,Design-Year-Forecast-poi-SPARS 69-8514.0,00:00:00,23:59:59,volume,22000
+Design-Year-SPARS 69-8515.0,Design-Year-Model-Run,SPARS 69-8515.0,Design-Year-Forecast-poi-SPARS 69-8515.0,00:00:00,23:59:59,volume,24000
+Design-Year-SPARS 69-8516.0,Design-Year-Model-Run,SPARS 69-8516.0,Design-Year-Forecast-poi-SPARS 69-8516.0,00:00:00,23:59:59,volume,24000
+Design-Year-SPARS 69-8517.0,Design-Year-Model-Run,SPARS 69-8517.0,Design-Year-Forecast-poi-SPARS 69-8517.0,00:00:00,23:59:59,volume,26500
+Design-Year-SPARS 69-8518.0,Design-Year-Model-Run,SPARS 69-8518.0,Design-Year-Forecast-poi-SPARS 69-8518.0,00:00:00,23:59:59,volume,26500
+Design-Year-SPARS 69-8519.0,Design-Year-Model-Run,SPARS 69-8519.0,Design-Year-Forecast-poi-SPARS 69-8519.0,00:00:00,23:59:59,volume,29700
+Design-Year-SPARS 69-8520.0,Design-Year-Model-Run,SPARS 69-8520.0,Design-Year-Forecast-poi-SPARS 69-8520.0,00:00:00,23:59:59,volume,29700
+Design-Year-SPARS 69-8521.0,Design-Year-Model-Run,SPARS 69-8521.0,Design-Year-Forecast-poi-SPARS 69-8521.0,00:00:00,23:59:59,volume,36300
+Design-Year-SPARS 69-8522.0,Design-Year-Model-Run,SPARS 69-8522.0,Design-Year-Forecast-poi-SPARS 69-8522.0,00:00:00,23:59:59,volume,36300

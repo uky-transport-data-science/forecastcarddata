@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-81066-588,  SUM812.54,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM812.54
-81066-589,  SUM812.72,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SUM812.72
-81066-597,  SUM3038.96,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM3038.96
-81066-598,  SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM30310.48
-81066-599,  SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM30310.48
-81066-600,  SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM30310.48
-81066-601,  SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM30310.48
+81066-588.0, SUM812.54,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, SUM812.54
+81066-589.0, SUM812.72,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, SUM812.72
+81066-597.0, SUM3038.96,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SUM3038.96
+81066-598.0, SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SUM30310.48
+81066-599.0, SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SUM30310.48
+81066-600.0, SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SUM30310.48
+81066-601.0, SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SUM30310.48

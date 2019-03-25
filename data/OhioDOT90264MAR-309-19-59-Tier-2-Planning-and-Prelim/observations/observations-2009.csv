@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+90264-5738.0-1,90264-5738.0,Opening-Year-Forecast-poi-90264-5738.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+90264-5739.0-1,90264-5739.0,Opening-Year-Forecast-poi-90264-5739.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+90264-5740.0-1,90264-5740.0,Opening-Year-Forecast-poi-90264-5740.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+90264-5741.0-1,90264-5741.0,Opening-Year-Forecast-poi-90264-5741.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+90264-5742.0-1,90264-5742.0,Opening-Year-Forecast-poi-90264-5742.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+90264-5743.0-1,90264-5743.0,Opening-Year-Forecast-poi-90264-5743.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+90264-5744.0-1,90264-5744.0,Opening-Year-Forecast-poi-90264-5744.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+90264-5745.0-1,90264-5745.0,Opening-Year-Forecast-poi-90264-5745.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+90264-5746.0-1,90264-5746.0,Opening-Year-Forecast-poi-90264-5746.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620

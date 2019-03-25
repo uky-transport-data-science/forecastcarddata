@@ -1,2 +1,3 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-90813WOO-280-3.39 /3.86/4.52 Bdg Pnt,s1,2011-01-01,Opening Year,Unavailable,unknown,2011-01-01,state DOT
+Opening-Year-Model-Run,OhioDOT-90813WOO-280-3.39 /3.86/4.52 Bdg Pnt,s1,2011-01-01,design scenario,Unavailable,unknown,2011-01-01,state DOT
+Design-Year-Model-Run,OhioDOT-90813WOO-280-3.39 /3.86/4.52 Bdg Pnt,s1,2011-01-01,design scenario,Unavailable,unknown,2011-01-01,state DOT

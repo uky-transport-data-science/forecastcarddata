@@ -1,12 +1,12 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-96335-2555,  HAM273.78,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM273.78
-96335-2561,  HAM271.00,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM271.00
-96335-2562,  HAM271.24,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM271.24
-96335-2563,  HAM271.45,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM271.45
-96335-2564,  HAM271.50,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM271.50
-96335-2565,  HAM271.84,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM271.84
-96335-2566,  HAM271.96,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM271.96
-96335-2567,  HAM272.29,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM272.29
-96335-2568,  HAM272.39,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM272.39
-96335-2569,  HAM272.67,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM272.67
-96335-2570,  HAM273.27,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM273.27
+96335-2555.0, HAM273.78,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM273.78
+96335-2561.0, HAM271.00,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM271.00
+96335-2562.0, HAM271.24,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM271.24
+96335-2563.0, HAM271.45,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM271.45
+96335-2564.0, HAM271.50,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM271.50
+96335-2565.0, HAM271.84,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM271.84
+96335-2566.0, HAM271.96,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM271.96
+96335-2567.0, HAM272.29,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM272.29
+96335-2568.0, HAM272.39,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM272.39
+96335-2569.0, HAM272.67,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM272.67
+96335-2570.0, HAM273.27,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM273.27

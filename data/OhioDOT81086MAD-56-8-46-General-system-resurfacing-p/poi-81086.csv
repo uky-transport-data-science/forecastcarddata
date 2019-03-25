@@ -1,2 +1,2 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-81086-2855,  MAD568.46,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAD568.46
+81086-2855.0, MAD568.46,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MAD568.46

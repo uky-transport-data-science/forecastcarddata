@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91710-5898.0-1,91710-5898.0,Opening-Year-Forecast-poi-91710-5898.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+91710-5899.0-1,91710-5899.0,Opening-Year-Forecast-poi-91710-5899.0,unknown,unknown,2010,00:00:00,23:59:59,volume,105180
+91710-5900.0-1,91710-5900.0,Opening-Year-Forecast-poi-91710-5900.0,unknown,unknown,2010,00:00:00,23:59:59,volume,116150

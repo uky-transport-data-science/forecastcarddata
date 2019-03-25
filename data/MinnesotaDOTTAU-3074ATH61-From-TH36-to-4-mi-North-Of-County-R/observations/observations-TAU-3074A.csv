@@ -1,7 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TAU 3074A-8063-1,TAU 3074A-8063,Design Year,unknown,unknown,1988,00:00:00,23:59:59,volume,11450
-TAU 3074A-8064-1,TAU 3074A-8064,Design Year,unknown,unknown,1988,00:00:00,23:59:59,volume,11450
-TAU 3074A-8065-1,TAU 3074A-8065,Design Year,unknown,unknown,1988,00:00:00,23:59:59,volume,11450
-TAU 3074A-8066-1,TAU 3074A-8066,Design Year,unknown,unknown,1988,00:00:00,23:59:59,volume,11450
-TAU 3074A-8067-1,TAU 3074A-8067,Design Year,unknown,unknown,1988,00:00:00,23:59:59,volume,11250
-TAU 3074A-8068-1,TAU 3074A-8068,Design Year,unknown,unknown,1988,00:00:00,23:59:59,volume,11250

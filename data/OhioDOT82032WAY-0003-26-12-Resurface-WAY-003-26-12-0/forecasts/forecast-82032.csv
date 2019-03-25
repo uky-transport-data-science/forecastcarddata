@@ -1,13 +1,13 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,82032-2337,Opening Year,00:00:00,23:59:59,volume,6050
-f3,1,82032-2337,Design Year,00:00:00,23:59:59,volume,6740
-f1,1,82032-2338,Opening Year,00:00:00,23:59:59,volume,6230
-f3,1,82032-2338,Design Year,00:00:00,23:59:59,volume,7280
-f1,1,82032-2339,Opening Year,00:00:00,23:59:59,volume,5780
-f3,1,82032-2339,Design Year,00:00:00,23:59:59,volume,6600
-f1,1,82032-2340,Opening Year,00:00:00,23:59:59,volume,6440
-f3,1,82032-2340,Design Year,00:00:00,23:59:59,volume,6910
-f1,1,82032-2341,Opening Year,00:00:00,23:59:59,volume,7640
-f3,1,82032-2341,Design Year,00:00:00,23:59:59,volume,7670
-f1,1,82032-2342,Opening Year,00:00:00,23:59:59,volume,11250
-f3,1,82032-2342,Design Year,00:00:00,23:59:59,volume,12860
+Opening-Year-82032-2337.0,Opening-Year-Model-Run,82032-2337.0,Opening-Year-Forecast-poi-82032-2337.0,00:00:00,23:59:59,volume,6050
+Design-Year-82032-2337.0,Design-Year-Model-Run,82032-2337.0,Design-Year-Forecast-poi-82032-2337.0,00:00:00,23:59:59,volume,6740
+Opening-Year-82032-2338.0,Opening-Year-Model-Run,82032-2338.0,Opening-Year-Forecast-poi-82032-2338.0,00:00:00,23:59:59,volume,6230
+Design-Year-82032-2338.0,Design-Year-Model-Run,82032-2338.0,Design-Year-Forecast-poi-82032-2338.0,00:00:00,23:59:59,volume,7280
+Opening-Year-82032-2339.0,Opening-Year-Model-Run,82032-2339.0,Opening-Year-Forecast-poi-82032-2339.0,00:00:00,23:59:59,volume,5780
+Design-Year-82032-2339.0,Design-Year-Model-Run,82032-2339.0,Design-Year-Forecast-poi-82032-2339.0,00:00:00,23:59:59,volume,6600
+Opening-Year-82032-2340.0,Opening-Year-Model-Run,82032-2340.0,Opening-Year-Forecast-poi-82032-2340.0,00:00:00,23:59:59,volume,6440
+Design-Year-82032-2340.0,Design-Year-Model-Run,82032-2340.0,Design-Year-Forecast-poi-82032-2340.0,00:00:00,23:59:59,volume,6910
+Opening-Year-82032-2341.0,Opening-Year-Model-Run,82032-2341.0,Opening-Year-Forecast-poi-82032-2341.0,00:00:00,23:59:59,volume,7640
+Design-Year-82032-2341.0,Design-Year-Model-Run,82032-2341.0,Design-Year-Forecast-poi-82032-2341.0,00:00:00,23:59:59,volume,7670
+Opening-Year-82032-2342.0,Opening-Year-Model-Run,82032-2342.0,Opening-Year-Forecast-poi-82032-2342.0,00:00:00,23:59:59,volume,11250
+Design-Year-82032-2342.0,Design-Year-Model-Run,82032-2342.0,Design-Year-Forecast-poi-82032-2342.0,00:00:00,23:59:59,volume,12860

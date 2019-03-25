@@ -1,0 +1,17 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M326-7644.0-1,TA-M326-7644.0,Design-Year-Forecast-poi-TA-M326-7644.0,unknown,unknown,2000,00:00:00,23:59:59,volume,4100
+TA-M326-7645.0-1,TA-M326-7645.0,Design-Year-Forecast-poi-TA-M326-7645.0,unknown,unknown,2000,00:00:00,23:59:59,volume,4100
+TA-M326-7646.0-1,TA-M326-7646.0,Design-Year-Forecast-poi-TA-M326-7646.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6250
+TA-M326-7647.0-1,TA-M326-7647.0,Design-Year-Forecast-poi-TA-M326-7647.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6250
+TA-M326-7648.0-1,TA-M326-7648.0,Design-Year-Forecast-poi-TA-M326-7648.0,unknown,unknown,2000,00:00:00,23:59:59,volume,1725
+TA-M326-7649.0-1,TA-M326-7649.0,Design-Year-Forecast-poi-TA-M326-7649.0,unknown,unknown,2000,00:00:00,23:59:59,volume,1725
+TA-M326-7650.0-1,TA-M326-7650.0,Design-Year-Forecast-poi-TA-M326-7650.0,unknown,unknown,2000,00:00:00,23:59:59,volume,1500
+TA-M326-7651.0-1,TA-M326-7651.0,Design-Year-Forecast-poi-TA-M326-7651.0,unknown,unknown,2000,00:00:00,23:59:59,volume,1500
+TA-M326-7652.0-1,TA-M326-7652.0,Design-Year-Forecast-poi-TA-M326-7652.0,unknown,unknown,2000,00:00:00,23:59:59,volume,1500
+TA-M326-7653.0-1,TA-M326-7653.0,Design-Year-Forecast-poi-TA-M326-7653.0,unknown,unknown,2000,00:00:00,23:59:59,volume,1500
+TA-M326-7654.0-1,TA-M326-7654.0,Design-Year-Forecast-poi-TA-M326-7654.0,unknown,unknown,2000,00:00:00,23:59:59,volume,4100
+TA-M326-7655.0-1,TA-M326-7655.0,Design-Year-Forecast-poi-TA-M326-7655.0,unknown,unknown,2000,00:00:00,23:59:59,volume,4100
+TA-M326-7656.0-1,TA-M326-7656.0,Design-Year-Forecast-poi-TA-M326-7656.0,unknown,unknown,2000,00:00:00,23:59:59,volume,5350
+TA-M326-7657.0-1,TA-M326-7657.0,Design-Year-Forecast-poi-TA-M326-7657.0,unknown,unknown,2000,00:00:00,23:59:59,volume,5350
+TA-M326-7658.0-1,TA-M326-7658.0,Design-Year-Forecast-poi-TA-M326-7658.0,unknown,unknown,2000,00:00:00,23:59:59,volume,5250
+TA-M326-7659.0-1,TA-M326-7659.0,Design-Year-Forecast-poi-TA-M326-7659.0,unknown,unknown,2000,00:00:00,23:59:59,volume,5250

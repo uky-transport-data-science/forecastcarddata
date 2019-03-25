@@ -1,13 +1,13 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,80468-5346,Opening Year,00:00:00,23:59:59,volume,436810
-f3,1,80468-5346,Design Year,00:00:00,23:59:59,volume,44530
-f1,1,80468-5347,Opening Year,00:00:00,23:59:59,volume,34580
-f3,1,80468-5347,Design Year,00:00:00,23:59:59,volume,42000
-f1,1,80468-5348,Opening Year,00:00:00,23:59:59,volume,32590
-f3,1,80468-5348,Design Year,00:00:00,23:59:59,volume,39350
-f1,1,80468-5349,Opening Year,00:00:00,23:59:59,volume,30960
-f3,1,80468-5349,Design Year,00:00:00,23:59:59,volume,37250
-f1,1,80468-5350,Opening Year,00:00:00,23:59:59,volume,30780
-f3,1,80468-5350,Design Year,00:00:00,23:59:59,volume,37010
-f1,1,80468-5351,Opening Year,00:00:00,23:59:59,volume,31770
-f3,1,80468-5351,Design Year,00:00:00,23:59:59,volume,38230
+Opening-Year-80468-5346.0,Opening-Year-Model-Run,80468-5346.0,Opening-Year-Forecast-poi-80468-5346.0,00:00:00,23:59:59,volume,436810
+Design-Year-80468-5346.0,Design-Year-Model-Run,80468-5346.0,Design-Year-Forecast-poi-80468-5346.0,00:00:00,23:59:59,volume,44530
+Opening-Year-80468-5347.0,Opening-Year-Model-Run,80468-5347.0,Opening-Year-Forecast-poi-80468-5347.0,00:00:00,23:59:59,volume,34580
+Design-Year-80468-5347.0,Design-Year-Model-Run,80468-5347.0,Design-Year-Forecast-poi-80468-5347.0,00:00:00,23:59:59,volume,42000
+Opening-Year-80468-5348.0,Opening-Year-Model-Run,80468-5348.0,Opening-Year-Forecast-poi-80468-5348.0,00:00:00,23:59:59,volume,32590
+Design-Year-80468-5348.0,Design-Year-Model-Run,80468-5348.0,Design-Year-Forecast-poi-80468-5348.0,00:00:00,23:59:59,volume,39350
+Opening-Year-80468-5349.0,Opening-Year-Model-Run,80468-5349.0,Opening-Year-Forecast-poi-80468-5349.0,00:00:00,23:59:59,volume,30960
+Design-Year-80468-5349.0,Design-Year-Model-Run,80468-5349.0,Design-Year-Forecast-poi-80468-5349.0,00:00:00,23:59:59,volume,37250
+Opening-Year-80468-5350.0,Opening-Year-Model-Run,80468-5350.0,Opening-Year-Forecast-poi-80468-5350.0,00:00:00,23:59:59,volume,30780
+Design-Year-80468-5350.0,Design-Year-Model-Run,80468-5350.0,Design-Year-Forecast-poi-80468-5350.0,00:00:00,23:59:59,volume,37010
+Opening-Year-80468-5351.0,Opening-Year-Model-Run,80468-5351.0,Opening-Year-Forecast-poi-80468-5351.0,00:00:00,23:59:59,volume,31770
+Design-Year-80468-5351.0,Design-Year-Model-Run,80468-5351.0,Design-Year-Forecast-poi-80468-5351.0,00:00:00,23:59:59,volume,38230

@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-79425-791,  HUR2245.17,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HUR2245.17
-79425-792,  HUR2245.17,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HUR2245.17
-79425-793,  HUR2246.05,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HUR2246.05
-79425-805,  HUR990,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HUR990
-79425-806,  HUR990,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HUR990
-79425-807,  HUR990,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HUR990
+79425-791.0, HUR2245.17,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HUR2245.17
+79425-792.0, HUR2245.17,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HUR2245.17
+79425-793.0, HUR2246.05,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HUR2246.05
+79425-805.0, HUR990,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HUR990
+79425-806.0, HUR990,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HUR990
+79425-807.0, HUR990,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HUR990

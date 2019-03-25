@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-UnavailableSR-5/ US 1 from SR-842/ Broward Blvd (MP 0.000) to NE 17th Way (MP 1.830),s1,2011-01-01,Opening Year,Unavailable,professional-judgment,2011-01-01,state DOT
+Opening-Year-Model-Run,FloridaDOT-UnavailableSR-5/ US 1 from SR-842/ Broward Blvd (MP 0.000) to NE 17th Way (MP 1.830),s1,2011-01-01,design scenario,Unavailable,professional-judgment,2011-01-01,state DOT

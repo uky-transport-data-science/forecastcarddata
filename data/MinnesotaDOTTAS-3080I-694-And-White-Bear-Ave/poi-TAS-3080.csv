@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAS 3080-7832,   White Bear AvenueNorth Of I-694NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   White Bear AvenueNorth Of I-694NB
-TAS 3080-7833,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAS 3080-7834,   White Bear AvenueSouth Of I-694NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   White Bear AvenueSouth Of I-694NB
-TAS 3080-7835,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAS 3080-7836,   I-694West Of White Bear AvenueEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694West Of White Bear AvenueEB
-TAS 3080-7837,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3080-7838,   I-694East Of White Bear AvenueEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of White Bear AvenueEB
-TAS 3080-7839,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAS 3080-7832.0," , White Bear AvenueNorth Of I-694NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , White Bear AvenueNorth Of I-694NB"
+TAS 3080-7833.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TAS 3080-7834.0," , White Bear AvenueSouth Of I-694NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , White Bear AvenueSouth Of I-694NB"
+TAS 3080-7835.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TAS 3080-7836.0," , I-694West Of White Bear AvenueEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-694West Of White Bear AvenueEB"
+TAS 3080-7837.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3080-7838.0," , I-694East Of White Bear AvenueEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-694East Of White Bear AvenueEB"
+TAS 3080-7839.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

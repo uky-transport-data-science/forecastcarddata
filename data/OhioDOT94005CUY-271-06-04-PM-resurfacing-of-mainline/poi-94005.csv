@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-94005-2873,  CUY2715.56,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY2715.56
-94005-2874,  CUY2716.26,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY2716.26
-94005-2875,  CUY2716.68,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY2716.68
-94005-2876,  CUY2717.19,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY2717.19
-94005-2877,  CUY2717.72,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY2717.72
-94005-2915,  CUY2718.04,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY2718.04
+94005-2873.0, CUY2715.56,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY2715.56
+94005-2874.0, CUY2716.26,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY2716.26
+94005-2875.0, CUY2716.68,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY2716.68
+94005-2876.0, CUY2717.19,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY2717.19
+94005-2877.0, CUY2717.72,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY2717.72
+94005-2915.0, CUY2718.04,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CUY2718.04

@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAU 3451B-8207.0-1,TAU 3451B-8207.0,Design-Year-Forecast-poi-TAU 3451B-8207.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21900
+TAU 3451B-8208.0-1,TAU 3451B-8208.0,Design-Year-Forecast-poi-TAU 3451B-8208.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21900
+TAU 3451B-8209.0-1,TAU 3451B-8209.0,Design-Year-Forecast-poi-TAU 3451B-8209.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21900
+TAU 3451B-8210.0-1,TAU 3451B-8210.0,Design-Year-Forecast-poi-TAU 3451B-8210.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21900
+TAU 3451B-8211.0-1,TAU 3451B-8211.0,Design-Year-Forecast-poi-TAU 3451B-8211.0,unknown,unknown,1989,00:00:00,23:59:59,volume,20000
+TAU 3451B-8212.0-1,TAU 3451B-8212.0,Design-Year-Forecast-poi-TAU 3451B-8212.0,unknown,unknown,1989,00:00:00,23:59:59,volume,20000
+TAU 3451B-8213.0-1,TAU 3451B-8213.0,Design-Year-Forecast-poi-TAU 3451B-8213.0,unknown,unknown,1989,00:00:00,23:59:59,volume,20000
+TAU 3451B-8214.0-1,TAU 3451B-8214.0,Design-Year-Forecast-poi-TAU 3451B-8214.0,unknown,unknown,1989,00:00:00,23:59:59,volume,20000
+TAU 3451B-8215.0-1,TAU 3451B-8215.0,Design-Year-Forecast-poi-TAU 3451B-8215.0,unknown,unknown,1989,00:00:00,23:59:59,volume,20000
+TAU 3451B-8216.0-1,TAU 3451B-8216.0,Design-Year-Forecast-poi-TAU 3451B-8216.0,unknown,unknown,1989,00:00:00,23:59:59,volume,20000
+TAU 3451B-8217.0-1,TAU 3451B-8217.0,Design-Year-Forecast-poi-TAU 3451B-8217.0,unknown,unknown,1989,00:00:00,23:59:59,volume,20000
+TAU 3451B-8218.0-1,TAU 3451B-8218.0,Design-Year-Forecast-poi-TAU 3451B-8218.0,unknown,unknown,1989,00:00:00,23:59:59,volume,20000
+TAU 3451B-8219.0-1,TAU 3451B-8219.0,Design-Year-Forecast-poi-TAU 3451B-8219.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21100
+TAU 3451B-8220.0-1,TAU 3451B-8220.0,Design-Year-Forecast-poi-TAU 3451B-8220.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21100

@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAS 3066A-14-7894,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3066A-14-7895,   I-94East Of Western 6th St RampsWest Of Lafayette RoadEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94East Of Western 6th St RampsWest Of Lafayette RoadEB
-TAS 3066A-14-7896,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3066A-14-7897,   I-94East Of Lafayette RdWest Of Eastern 6th St RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94East Of Lafayette RdWest Of Eastern 6th St RampsEB
-TAS 3066A-14-7898,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3066A-14-7899,   I-94East Of Eastern 6th St RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94East Of Eastern 6th St RampsEB
-TAS 3066A-14-7900,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAS 3066A-14-7894.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3066A-14-7895.0," , I-94East Of Western 6th St RampsWest Of Lafayette RoadEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94East Of Western 6th St RampsWest Of Lafayette RoadEB"
+TAS 3066A-14-7896.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3066A-14-7897.0," , I-94East Of Lafayette RdWest Of Eastern 6th St RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94East Of Lafayette RdWest Of Eastern 6th St RampsEB"
+TAS 3066A-14-7898.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3066A-14-7899.0," , I-94East Of Eastern 6th St RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94East Of Eastern 6th St RampsEB"
+TAS 3066A-14-7900.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

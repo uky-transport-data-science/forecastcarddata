@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-92866-4018-1,92866-4018,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,17707
-92866-4019-1,92866-4019,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,15698
-92866-4020-1,92866-4020,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,15698
-92866-4132-1,92866-4132,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,20012
-92866-4133-1,92866-4133,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,20012
-92866-4134-1,92866-4134,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,20012
-92866-4135-1,92866-4135,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,17707
-92866-4181-1,92866-4181,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,15698

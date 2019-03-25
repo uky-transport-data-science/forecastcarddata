@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-22776-273,  HOL6226.45,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HOL6226.45
-22776-274,  HOL6227.49,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HOL6227.49
+22776-273.0, HOL6226.45,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HOL6226.45
+22776-274.0, HOL6227.49,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HOL6227.49

@@ -1,17 +1,17 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAS 3065A-14-7786,   TH 36West Of Snelling (TH 51)EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36West Of Snelling (TH 51)EB
-TAS 3065A-14-7787,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3065A-14-7788,   TH 36East Of Snelling(TH 51)West Of Hamline AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East Of Snelling(TH 51)West Of Hamline AveEB
-TAS 3065A-14-7789,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3065A-14-7790,   TH 36East Of Hamline AveWest of LexingtonEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East Of Hamline AveWest of LexingtonEB
-TAS 3065A-14-7791,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3065A-14-7792,   TH 36East Of LexingtonWest Of Victoria StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East Of LexingtonWest Of Victoria StEB
-TAS 3065A-14-7793,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3065A-14-7794,   TH 36East Of Victoria StWest Of Dale StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East Of Victoria StWest Of Dale StEB
-TAS 3065A-14-7795,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3065A-14-7796,   TH 36East Of Dale StWest Of Rice StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East Of Dale StWest Of Rice StEB
-TAS 3065A-14-7797,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3065A-14-7798,   TH 36East Of Rice StWest Of TH 35EEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East Of Rice StWest Of TH 35EEB
-TAS 3065A-14-7799,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAS 3065A-14-7800,   TH 36East Of TH 35EEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 36East Of TH 35EEB
-TAS 3065A-14-7801,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAS 3065A-14-7786.0," , TH 36West Of Snelling (TH 51)EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 36West Of Snelling (TH 51)EB"
+TAS 3065A-14-7787.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3065A-14-7788.0," , TH 36East Of Snelling(TH 51)West Of Hamline AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 36East Of Snelling(TH 51)West Of Hamline AveEB"
+TAS 3065A-14-7789.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3065A-14-7790.0," , TH 36East Of Hamline AveWest of LexingtonEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 36East Of Hamline AveWest of LexingtonEB"
+TAS 3065A-14-7791.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3065A-14-7792.0," , TH 36East Of LexingtonWest Of Victoria StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 36East Of LexingtonWest Of Victoria StEB"
+TAS 3065A-14-7793.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3065A-14-7794.0," , TH 36East Of Victoria StWest Of Dale StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 36East Of Victoria StWest Of Dale StEB"
+TAS 3065A-14-7795.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3065A-14-7796.0," , TH 36East Of Dale StWest Of Rice StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 36East Of Dale StWest Of Rice StEB"
+TAS 3065A-14-7797.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3065A-14-7798.0," , TH 36East Of Rice StWest Of TH 35EEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 36East Of Rice StWest Of TH 35EEB"
+TAS 3065A-14-7799.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAS 3065A-14-7800.0," , TH 36East Of TH 35EEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 36East Of TH 35EEB"
+TAS 3065A-14-7801.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

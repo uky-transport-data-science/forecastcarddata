@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-422024-2The SR 600 (US 92) Rigid Pavement Rehabilitation project from East of Clark Bay Road
-(M.P. 7.200) to the end of the rigid pavement (M.P. 13.175).",s1,2009-01-01,Opening Year,Unavailable,professional-judgment,2009-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-422024-2The SR 600 (US 92) Rigid Pavement Rehabilitation project from East of Clark Bay Road
+(M.P. 7.200) to the end of the rigid pavement (M.P. 13.175).",s1,2009-01-01,design scenario,Unavailable,professional-judgment,2009-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-422024-2The SR 600 (US 92) Rigid Pavement Rehabilitation project from East of Clark Bay Road
+(M.P. 7.200) to the end of the rigid pavement (M.P. 13.175).",s1,2009-01-01,design scenario,Unavailable,professional-judgment,2009-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-422024-2The SR 600 (US 92) Rigid Pavement Rehabilitation project from East of Clark Bay Road
+(M.P. 7.200) to the end of the rigid pavement (M.P. 13.175).",s1,2009-01-01,design scenario,Unavailable,professional-judgment,2009-01-01,consultant

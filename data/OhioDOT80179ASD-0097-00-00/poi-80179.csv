@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80179-929,  ASD30,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD30
-80179-930,  ASD33.33,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ASD33.33
-80179-940,  ASD970,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD970
+80179-929.0, ASD30,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, ASD30
+80179-930.0, ASD33.33,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, ASD33.33
+80179-940.0, ASD970,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ASD970

@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAU 3073-8027,   I-35ENorth Of I-694South Of County Road ENB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth Of I-694South Of County Road ENB
-TAU 3073-8028,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAU 3073-8029,   I-35ENorth Of County Road ESouth Of TH 96/100NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth Of County Road ESouth Of TH 96/100NB
-TAU 3073-8030,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAU 3073-8031,   I-35ENorth Of TH 96/100South Of Otter Lake RoadNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth Of TH 96/100South Of Otter Lake RoadNB
-TAU 3073-8032,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TAU 3073-8033,   I-35ENorth Of Otter Lake RoadNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-35ENorth Of Otter Lake RoadNB
-TAU 3073-8034,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TAU 3073-8027.0," , I-35ENorth Of I-694South Of County Road ENB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-35ENorth Of I-694South Of County Road ENB"
+TAU 3073-8028.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TAU 3073-8029.0," , I-35ENorth Of County Road ESouth Of TH 96/100NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-35ENorth Of County Road ESouth Of TH 96/100NB"
+TAU 3073-8030.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TAU 3073-8031.0," , I-35ENorth Of TH 96/100South Of Otter Lake RoadNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-35ENorth Of TH 96/100South Of Otter Lake RoadNB"
+TAU 3073-8032.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TAU 3073-8033.0," , I-35ENorth Of Otter Lake RoadNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-35ENorth Of Otter Lake RoadNB"
+TAU 3073-8034.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"

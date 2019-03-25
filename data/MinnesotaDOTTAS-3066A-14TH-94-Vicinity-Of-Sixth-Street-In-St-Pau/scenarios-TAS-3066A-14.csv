@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TAS 3066A-14TH 94 Vicinity Of Sixth Street In St. Paul,s1,1969-01-01,Design Year,Unavailable,trendline,1969-01-01,state DOT
+Design-Year-Model-Run,MinnesotaDOT-TAS 3066A-14TH 94 Vicinity Of Sixth Street In St. Paul,s1,1969-01-01,design scenario,Unavailable,trendline,1969-01-01,state DOT

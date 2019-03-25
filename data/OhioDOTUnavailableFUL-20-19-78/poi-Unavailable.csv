@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-4786,  FUL2019.6,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FUL2019.6
-Unavailable-4787,  FUL2019.97,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FUL2019.97
-Unavailable-4789,  FUL10915,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FUL10915
-Unavailable-4796,  FUL10914.76,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  FUL10914.76
+Unavailable-4786.0, FUL2019.6,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, FUL2019.6
+Unavailable-4787.0, FUL2019.97,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, FUL2019.97
+Unavailable-4789.0, FUL10915,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, FUL10915
+Unavailable-4796.0, FUL10914.76,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, FUL10914.76

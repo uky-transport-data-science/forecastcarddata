@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-3704,  LUC47510.6,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  LUC47510.6
-Unavailable-3705,  LUC47511.88,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  LUC47511.88
-Unavailable-3706,  LUC47512.94,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  LUC47512.94
-Unavailable-3707,  LUC47513.74,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  LUC47513.74
-Unavailable-3708,  LUC47514.255,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  LUC47514.255
+Unavailable-3704.0, LUC47510.6,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, LUC47510.6
+Unavailable-3705.0, LUC47511.88,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, LUC47511.88
+Unavailable-3706.0, LUC47512.94,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, LUC47512.94
+Unavailable-3707.0, LUC47513.74,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, LUC47513.74
+Unavailable-3708.0, LUC47514.255,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, LUC47514.255

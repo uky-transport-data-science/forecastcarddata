@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-2545-6319,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
-2545-6320,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
-2545-6321,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan
+2545-6319.0,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
+2545-6320.0,nan,5-Major Collector,,,urban,Major Collector,Major Collector,,Wisconsin,WisconsinDOT,nan
+2545-6321.0,nan,4-Minor Arterial,,,urban,Minor Arterial,Minor Arterial,,Wisconsin,WisconsinDOT,nan

@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82978-5017,  BUT758.99,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  BUT758.99
-82978-5030,  WAR750.18,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WAR750.18
-82978-5031,  WAR752.23,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WAR752.23
-82978-5054,  WAR7511.11,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WAR7511.11
-82978-5055,  WAR756.14,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WAR756.14
-82978-5056,  WAR759.1,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WAR759.1
+82978-5017.0, BUT758.99,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, BUT758.99
+82978-5030.0, WAR750.18,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, WAR750.18
+82978-5031.0, WAR752.23,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, WAR752.23
+82978-5054.0, WAR7511.11,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, WAR7511.11
+82978-5055.0, WAR756.14,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, WAR756.14
+82978-5056.0, WAR759.1,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, WAR759.1

@@ -1,5 +1,5 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,2006-6581,Opening Year,00:00:00,23:59:59,volume,4600
-f1,1,2006-6582,Opening Year,00:00:00,23:59:59,volume,1750
-f1,1,2006-6583,Opening Year,00:00:00,23:59:59,volume,2050
-f1,1,2006-6584,Opening Year,00:00:00,23:59:59,volume,3200
+Opening-Year-2006-6581.0,Opening-Year-Model-Run,2006-6581.0,Opening-Year-Forecast-poi-2006-6581.0,00:00:00,23:59:59,volume,4600
+Opening-Year-2006-6582.0,Opening-Year-Model-Run,2006-6582.0,Opening-Year-Forecast-poi-2006-6582.0,00:00:00,23:59:59,volume,1750
+Opening-Year-2006-6583.0,Opening-Year-Model-Run,2006-6583.0,Opening-Year-Forecast-poi-2006-6583.0,00:00:00,23:59:59,volume,2050
+Opening-Year-2006-6584.0,Opening-Year-Model-Run,2006-6584.0,Opening-Year-Forecast-poi-2006-6584.0,00:00:00,23:59:59,volume,3200

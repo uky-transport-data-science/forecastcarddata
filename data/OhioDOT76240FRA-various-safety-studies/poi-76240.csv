@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-76240-6207,  FRA164.32,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA164.32
-76240-6208,  FRA164.84,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA164.84
-76240-6209,  FRA337.7,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA337.7
-76240-6210,  FRA338.94,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA338.94
-76240-6211,  FRA1618.67,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA1618.67
-76240-6212,  FRA1618.78,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA1618.78
-76240-6213,  FRA4017.57,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA4017.57
-76240-6214,  FRA4018.08,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA4018.08
-76240-6216,  FRA3317.59,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA3317.59
-76240-6217,  FRA3317.59,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  FRA3317.59
+76240-6207.0, FRA164.32,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA164.32
+76240-6208.0, FRA164.84,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA164.84
+76240-6209.0, FRA337.7,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA337.7
+76240-6210.0, FRA338.94,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA338.94
+76240-6211.0, FRA1618.67,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA1618.67
+76240-6212.0, FRA1618.78,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA1618.78
+76240-6213.0, FRA4017.57,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA4017.57
+76240-6214.0, FRA4018.08,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA4018.08
+76240-6216.0, FRA3317.59,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, FRA3317.59
+76240-6217.0, FRA3317.59,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, FRA3317.59

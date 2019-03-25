@@ -1,2 +1,4 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-242592-2The SR 400 Resurfacing, Widening and New Construction Project from Orange County Line (M.P. 0.000) to 1.0 mile north of SR 434 (M.P. 4.500).",s1,2005-01-01,Opening Year,Unavailable,trendline,2005-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-242592-2The SR 400 Resurfacing, Widening and New Construction Project from Orange County Line (M.P. 0.000) to 1.0 mile north of SR 434 (M.P. 4.500).",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-242592-2The SR 400 Resurfacing, Widening and New Construction Project from Orange County Line (M.P. 0.000) to 1.0 mile north of SR 434 (M.P. 4.500).",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-242592-2The SR 400 Resurfacing, Widening and New Construction Project from Orange County Line (M.P. 0.000) to 1.0 mile north of SR 434 (M.P. 4.500).",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant

@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2209-6676.0-1,2209-6676.0,Opening-Year-Forecast-poi-2209-6676.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4600
+2209-6677.0-1,2209-6677.0,Opening-Year-Forecast-poi-2209-6677.0,unknown,unknown,2009,00:00:00,23:59:59,volume,330
+2209-6678.0-1,2209-6678.0,Opening-Year-Forecast-poi-2209-6678.0,unknown,unknown,2009,00:00:00,23:59:59,volume,6900
+2209-6679.0-1,2209-6679.0,Opening-Year-Forecast-poi-2209-6679.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4900
+2209-6680.0-1,2209-6680.0,Opening-Year-Forecast-poi-2209-6680.0,unknown,unknown,2009,00:00:00,23:59:59,volume,440

@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+92953-5366.0-1,92953-5366.0,Opening-Year-Forecast-poi-92953-5366.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+92953-5371.0-1,92953-5371.0,Opening-Year-Forecast-poi-92953-5371.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+92953-5372.0-1,92953-5372.0,Opening-Year-Forecast-poi-92953-5372.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+92953-5373.0-1,92953-5373.0,Opening-Year-Forecast-poi-92953-5373.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+92953-5374.0-1,92953-5374.0,Opening-Year-Forecast-poi-92953-5374.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+92953-5375.0-1,92953-5375.0,Opening-Year-Forecast-poi-92953-5375.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+92953-5376.0-1,92953-5376.0,Opening-Year-Forecast-poi-92953-5376.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+92953-5377.0-1,92953-5377.0,Opening-Year-Forecast-poi-92953-5377.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620

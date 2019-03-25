@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75855-6186.0-1,75855-6186.0,Design-Year-Forecast-poi-75855-6186.0,unknown,unknown,2008,00:00:00,23:59:59,volume,3760
+75855-6187.0-1,75855-6187.0,Design-Year-Forecast-poi-75855-6187.0,unknown,unknown,2008,00:00:00,23:59:59,volume,3760
+75855-6188.0-1,75855-6188.0,Design-Year-Forecast-poi-75855-6188.0,unknown,unknown,2008,00:00:00,23:59:59,volume,3760
+75855-6189.0-1,75855-6189.0,Design-Year-Forecast-poi-75855-6189.0,unknown,unknown,2008,00:00:00,23:59:59,volume,3760
+75855-6190.0-1,75855-6190.0,Design-Year-Forecast-poi-75855-6190.0,unknown,unknown,2008,00:00:00,23:59:59,volume,3760

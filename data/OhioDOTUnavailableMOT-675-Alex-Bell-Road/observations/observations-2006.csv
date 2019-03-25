@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+Unavailable-433.0-1,Unavailable-433.0,Opening-Year-Forecast-poi-Unavailable-433.0,unknown,unknown,2006,00:00:00,23:59:59,volume,44030
+Unavailable-434.0-1,Unavailable-434.0,Opening-Year-Forecast-poi-Unavailable-434.0,unknown,unknown,2006,00:00:00,23:59:59,volume,64190
+Unavailable-435.0-1,Unavailable-435.0,Opening-Year-Forecast-poi-Unavailable-435.0,unknown,unknown,2006,00:00:00,23:59:59,volume,55280

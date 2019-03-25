@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+FEIS I35E-8708.0-1,FEIS I35E-8708.0,Design-Year-Forecast-poi-FEIS I35E-8708.0,unknown,unknown,2006,00:00:00,23:59:59,volume,46000
+FEIS I35E-8709.0-1,FEIS I35E-8709.0,Design-Year-Forecast-poi-FEIS I35E-8709.0,unknown,unknown,2006,00:00:00,23:59:59,volume,46000
+FEIS I35E-8710.0-1,FEIS I35E-8710.0,Design-Year-Forecast-poi-FEIS I35E-8710.0,unknown,unknown,2006,00:00:00,23:59:59,volume,37000
+FEIS I35E-8711.0-1,FEIS I35E-8711.0,Design-Year-Forecast-poi-FEIS I35E-8711.0,unknown,unknown,2006,00:00:00,23:59:59,volume,37000
+FEIS I35E-8712.0-1,FEIS I35E-8712.0,Design-Year-Forecast-poi-FEIS I35E-8712.0,unknown,unknown,2006,00:00:00,23:59:59,volume,38500
+FEIS I35E-8713.0-1,FEIS I35E-8713.0,Design-Year-Forecast-poi-FEIS I35E-8713.0,unknown,unknown,2006,00:00:00,23:59:59,volume,38500
+FEIS I35E-8714.0-1,FEIS I35E-8714.0,Design-Year-Forecast-poi-FEIS I35E-8714.0,unknown,unknown,2006,00:00:00,23:59:59,volume,42000
+FEIS I35E-8715.0-1,FEIS I35E-8715.0,Design-Year-Forecast-poi-FEIS I35E-8715.0,unknown,unknown,2006,00:00:00,23:59:59,volume,42000
+FEIS I35E-8716.0-1,FEIS I35E-8716.0,Design-Year-Forecast-poi-FEIS I35E-8716.0,unknown,unknown,2006,00:00:00,23:59:59,volume,35000
+FEIS I35E-8717.0-1,FEIS I35E-8717.0,Design-Year-Forecast-poi-FEIS I35E-8717.0,unknown,unknown,2006,00:00:00,23:59:59,volume,35000
+FEIS I35E-8718.0-1,FEIS I35E-8718.0,Design-Year-Forecast-poi-FEIS I35E-8718.0,unknown,unknown,2006,00:00:00,23:59:59,volume,30000
+FEIS I35E-8719.0-1,FEIS I35E-8719.0,Design-Year-Forecast-poi-FEIS I35E-8719.0,unknown,unknown,2006,00:00:00,23:59:59,volume,30000
+FEIS I35E-8720.0-1,FEIS I35E-8720.0,Design-Year-Forecast-poi-FEIS I35E-8720.0,unknown,unknown,2006,00:00:00,23:59:59,volume,101000
+FEIS I35E-8721.0-1,FEIS I35E-8721.0,Design-Year-Forecast-poi-FEIS I35E-8721.0,unknown,unknown,2006,00:00:00,23:59:59,volume,101000

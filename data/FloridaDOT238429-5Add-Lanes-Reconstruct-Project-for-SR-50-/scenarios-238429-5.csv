@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-238429-5Add Lanes & Reconstruct Project for SR 50 begin at the Lake County Line (M.P. 0.000)
-and end at the East Ramps at the Florida Turnpike (M.P. 1.400).",s1,2003-01-01,Opening Year,Unavailable,trendline,2003-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-238429-5Add Lanes & Reconstruct Project for SR 50 begin at the Lake County Line (M.P. 0.000)
+and end at the East Ramps at the Florida Turnpike (M.P. 1.400).",s1,2003-01-01,design scenario,Unavailable,trendline,2003-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-238429-5Add Lanes & Reconstruct Project for SR 50 begin at the Lake County Line (M.P. 0.000)
+and end at the East Ramps at the Florida Turnpike (M.P. 1.400).",s1,2003-01-01,design scenario,Unavailable,trendline,2003-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-238429-5Add Lanes & Reconstruct Project for SR 50 begin at the Lake County Line (M.P. 0.000)
+and end at the East Ramps at the Florida Turnpike (M.P. 1.400).",s1,2003-01-01,design scenario,Unavailable,trendline,2003-01-01,consultant

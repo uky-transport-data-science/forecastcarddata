@@ -1,0 +1,14 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91418-5103.0-1,91418-5103.0,Opening-Year-Forecast-poi-91418-5103.0,unknown,unknown,2015,00:00:00,23:59:59,volume,11327
+91418-5166.0-1,91418-5166.0,Opening-Year-Forecast-poi-91418-5166.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2298
+91418-5174.0-1,91418-5174.0,Opening-Year-Forecast-poi-91418-5174.0,unknown,unknown,2015,00:00:00,23:59:59,volume,10980
+91418-5175.0-1,91418-5175.0,Opening-Year-Forecast-poi-91418-5175.0,unknown,unknown,2015,00:00:00,23:59:59,volume,13452
+91418-5176.0-1,91418-5176.0,Opening-Year-Forecast-poi-91418-5176.0,unknown,unknown,2015,00:00:00,23:59:59,volume,6949
+91418-5214.0-1,91418-5214.0,Opening-Year-Forecast-poi-91418-5214.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2543
+91418-5234.0-1,91418-5234.0,Opening-Year-Forecast-poi-91418-5234.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4552
+91418-5235.0-1,91418-5235.0,Opening-Year-Forecast-poi-91418-5235.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2108
+91418-5236.0-1,91418-5236.0,Opening-Year-Forecast-poi-91418-5236.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2150
+91418-5237.0-1,91418-5237.0,Opening-Year-Forecast-poi-91418-5237.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2268
+91418-5238.0-1,91418-5238.0,Opening-Year-Forecast-poi-91418-5238.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2682
+91418-5240.0-1,91418-5240.0,Opening-Year-Forecast-poi-91418-5240.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2682
+91418-5282.0-1,91418-5282.0,Opening-Year-Forecast-poi-91418-5282.0,unknown,unknown,2015,00:00:00,23:59:59,volume,6791

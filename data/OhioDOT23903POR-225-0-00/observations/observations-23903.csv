@@ -1,4 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-23903-173-1,23903-173,Opening Year,unknown,unknown,2004,00:00:00,23:59:59,volume,5820
-23903-174-1,23903-174,Opening Year,unknown,unknown,2004,00:00:00,23:59:59,volume,3290
-23903-175-1,23903-175,Opening Year,unknown,unknown,2004,00:00:00,23:59:59,volume,6090

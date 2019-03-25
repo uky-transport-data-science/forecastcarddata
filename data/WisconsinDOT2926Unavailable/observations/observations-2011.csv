@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2926-6586.0-1,2926-6586.0,Opening-Year-Forecast-poi-2926-6586.0,unknown,unknown,2011,00:00:00,23:59:59,volume,13700
+2926-6587.0-1,2926-6587.0,Opening-Year-Forecast-poi-2926-6587.0,unknown,unknown,2011,00:00:00,23:59:59,volume,7500
+2926-6588.0-1,2926-6588.0,Opening-Year-Forecast-poi-2926-6588.0,unknown,unknown,2011,00:00:00,23:59:59,volume,6300
+2926-6589.0-1,2926-6589.0,Opening-Year-Forecast-poi-2926-6589.0,unknown,unknown,2011,00:00:00,23:59:59,volume,9500

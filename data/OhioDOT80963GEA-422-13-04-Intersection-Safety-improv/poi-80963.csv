@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80963-5775,  GEA42212.93,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  GEA42212.93
-80963-5776,  GEA42213.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  GEA42213.18
-80963-5798,  GEA7002.6,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA7002.6
-80963-5799,  GEA7002.85,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA7002.85
+80963-5775.0, GEA42212.93,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, GEA42212.93
+80963-5776.0, GEA42213.18,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, GEA42213.18
+80963-5798.0, GEA7002.6,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, GEA7002.6
+80963-5799.0, GEA7002.85,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, GEA7002.85

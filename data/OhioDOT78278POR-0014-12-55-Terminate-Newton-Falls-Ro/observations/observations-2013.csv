@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78278-2699.0-1,78278-2699.0,Opening-Year-Forecast-poi-78278-2699.0,unknown,unknown,2013,00:00:00,23:59:59,volume,15310
+78278-2700.0-1,78278-2700.0,Opening-Year-Forecast-poi-78278-2700.0,unknown,unknown,2013,00:00:00,23:59:59,volume,23610
+78278-2701.0-1,78278-2701.0,Opening-Year-Forecast-poi-78278-2701.0,unknown,unknown,2013,00:00:00,23:59:59,volume,13820
+78278-2702.0-1,78278-2702.0,Opening-Year-Forecast-poi-78278-2702.0,unknown,unknown,2013,00:00:00,23:59:59,volume,5590

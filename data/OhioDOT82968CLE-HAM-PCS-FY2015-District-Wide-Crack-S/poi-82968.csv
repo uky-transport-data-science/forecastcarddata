@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82968-3490,  HAM27529.07,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM27529.07
-82968-3491,  HAM27530.51,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM27530.51
-82968-3492,  HAM27531.71,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM27531.71
-82968-3493,  HAM27533.52,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM27533.52
-82968-3494,  HAM27534.96,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  HAM27534.96
-82968-3534,  CLE328.96,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CLE328.96
-82968-3535,  CLE3211.36,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CLE3211.36
-82968-3536,  CLE3213.05,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CLE3213.05
+82968-3490.0, HAM27529.07,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, HAM27529.07
+82968-3491.0, HAM27530.51,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, HAM27530.51
+82968-3492.0, HAM27531.71,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, HAM27531.71
+82968-3493.0, HAM27533.52,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, HAM27533.52
+82968-3494.0, HAM27534.96,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, HAM27534.96
+82968-3534.0, CLE328.96,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CLE328.96
+82968-3535.0, CLE3211.36,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CLE3211.36
+82968-3536.0, CLE3213.05,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CLE3213.05

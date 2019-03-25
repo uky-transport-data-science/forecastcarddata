@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-423346-1The SR 50 Resurfacing Project from Sumter County Line (M.P. 0.000) to CR 33/Bluff Lake Road
-(M.P. 4.293)",s1,2008-01-01,Opening Year,Unavailable,trendline,2008-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-423346-1The SR 50 Resurfacing Project from Sumter County Line (M.P. 0.000) to CR 33/Bluff Lake Road
+(M.P. 4.293)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-423346-1The SR 50 Resurfacing Project from Sumter County Line (M.P. 0.000) to CR 33/Bluff Lake Road
+(M.P. 4.293)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-423346-1The SR 50 Resurfacing Project from Sumter County Line (M.P. 0.000) to CR 33/Bluff Lake Road
+(M.P. 4.293)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant

@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-25655-942,  WAY2260,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2260
-25655-943,  WAY2260.88,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2260.88
-25655-944,  WAY2261.86,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2261.86
-25655-945,  WAY2262.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY2262.96
+25655-942.0, WAY2260,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WAY2260
+25655-943.0, WAY2260.88,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WAY2260.88
+25655-944.0, WAY2261.86,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WAY2261.86
+25655-945.0, WAY2262.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WAY2262.96

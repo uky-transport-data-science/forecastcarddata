@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-103820-6040,  CLA701.55,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CLA701.55
-103820-6041,  CLA7022.96,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CLA7022.96
-103820-6043,  CLA7019.47,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  CLA7019.47
+103820-6040.0, CLA701.55,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CLA701.55
+103820-6041.0, CLA7022.96,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CLA7022.96
+103820-6043.0, CLA7019.47,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, CLA7019.47

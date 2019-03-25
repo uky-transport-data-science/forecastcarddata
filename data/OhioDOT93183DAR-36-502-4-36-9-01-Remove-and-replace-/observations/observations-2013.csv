@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93183-2931.0-1,93183-2931.0,Opening-Year-Forecast-poi-93183-2931.0,unknown,unknown,2013,00:00:00,23:59:59,volume,2590
+93183-2944.0-1,93183-2944.0,Opening-Year-Forecast-poi-93183-2944.0,unknown,unknown,2013,00:00:00,23:59:59,volume,2410

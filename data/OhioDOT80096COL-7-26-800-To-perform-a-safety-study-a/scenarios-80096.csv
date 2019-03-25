@@ -1,2 +1,3 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-80096COL-7-26.800||To-perform-a-safety-study-at-the-intersection-of-SR-7-and-SR-14-in,s1,2012-01-01,Opening Year,Unavailable,unknown,2012-01-01,state DOT
+Opening-Year-Model-Run,OhioDOT-80096COL-7-26.800||To-perform-a-safety-study-at-the-intersection-of-SR-7-and-SR-14-in,s1,2012-01-01,design scenario,Unavailable,unknown,2012-01-01,state DOT
+Design-Year-Model-Run,OhioDOT-80096COL-7-26.800||To-perform-a-safety-study-at-the-intersection-of-SR-7-and-SR-14-in,s1,2012-01-01,design scenario,Unavailable,unknown,2012-01-01,state DOT

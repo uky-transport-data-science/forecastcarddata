@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3394-6436.0-1,3394-6436.0,Opening-Year-Forecast-poi-3394-6436.0,unknown,unknown,2010,00:00:00,23:59:59,volume,5200
+3394-6437.0-1,3394-6437.0,Opening-Year-Forecast-poi-3394-6437.0,unknown,unknown,2010,00:00:00,23:59:59,volume,17600
+3394-6438.0-1,3394-6438.0,Opening-Year-Forecast-poi-3394-6438.0,unknown,unknown,2010,00:00:00,23:59:59,volume,5200
+3394-6439.0-1,3394-6439.0,Opening-Year-Forecast-poi-3394-6439.0,unknown,unknown,2010,00:00:00,23:59:59,volume,4300
+3394-6440.0-1,3394-6440.0,Opening-Year-Forecast-poi-3394-6440.0,unknown,unknown,2010,00:00:00,23:59:59,volume,1000
+3394-6441.0-1,3394-6441.0,Opening-Year-Forecast-poi-3394-6441.0,unknown,unknown,2010,00:00:00,23:59:59,volume,1000
+3394-6442.0-1,3394-6442.0,Opening-Year-Forecast-poi-3394-6442.0,unknown,unknown,2010,00:00:00,23:59:59,volume,9900
+3394-6443.0-1,3394-6443.0,Opening-Year-Forecast-poi-3394-6443.0,unknown,unknown,2010,00:00:00,23:59:59,volume,4900
+3394-6444.0-1,3394-6444.0,Opening-Year-Forecast-poi-3394-6444.0,unknown,unknown,2010,00:00:00,23:59:59,volume,1700
+3394-6445.0-1,3394-6445.0,Opening-Year-Forecast-poi-3394-6445.0,unknown,unknown,2010,00:00:00,23:59:59,volume,16900

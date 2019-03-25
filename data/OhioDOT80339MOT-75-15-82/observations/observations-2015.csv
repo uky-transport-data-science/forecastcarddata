@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80339-3040.0-1,80339-3040.0,Opening-Year-Forecast-poi-80339-3040.0,unknown,unknown,2015,00:00:00,23:59:59,volume,111868
+80339-3041.0-1,80339-3041.0,Opening-Year-Forecast-poi-80339-3041.0,unknown,unknown,2015,00:00:00,23:59:59,volume,112195
+80339-3042.0-1,80339-3042.0,Opening-Year-Forecast-poi-80339-3042.0,unknown,unknown,2015,00:00:00,23:59:59,volume,112195
+80339-3043.0-1,80339-3043.0,Opening-Year-Forecast-poi-80339-3043.0,unknown,unknown,2015,00:00:00,23:59:59,volume,107135

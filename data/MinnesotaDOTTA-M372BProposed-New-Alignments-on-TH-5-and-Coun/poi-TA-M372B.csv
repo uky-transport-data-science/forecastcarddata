@@ -1,23 +1,23 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M372B-6709,   Proposed TH 5West of Birch StEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5West of Birch StEB
-TA-M372B-6710,   Proposed TH 5West of Birch StWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5West of Birch StWB
-TA-M372B-6711,   Proposed TH 5Between Birch Street RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Between Birch Street RampsEB
-TA-M372B-6712,   Proposed TH 5Between Birch Street RampsWB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Between Birch Street RampsWB
-TA-M372B-6713,   Proposed TH 5Birch StreetCR 30EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Birch StreetCR 30EB
-TA-M372B-6714,   Proposed TH 5Birch StreetCR 30WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Birch StreetCR 30WB
-TA-M372B-6715,   Proposed TH 5Between CR 30 RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Between CR 30 RampsEB
-TA-M372B-6716,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M372B-6717,   Proposed TH 5Between CR 30 RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Between CR 30 RampsEB
-TA-M372B-6718,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M372B-6719,   Proposed TH 5Between CR 30 RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Between CR 30 RampsEB
-TA-M372B-6720,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M372B-6721,   Proposed TH 5CR 30Scandia RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5CR 30Scandia RdEB
-TA-M372B-6722,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M372B-6723,   Proposed TH 5Between Scandia Road RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Between Scandia Road RampsEB
-TA-M372B-6724,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M372B-6725,   Proposed TH 5Scandia RoadIsland View RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Scandia RoadIsland View RampsEB
-TA-M372B-6726,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M372B-6727,   Proposed TH 5Between Island View RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5Between Island View RampsEB
-TA-M372B-6728,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M372B-6729,   Proposed TH 5East of Island View RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   Proposed TH 5East of Island View RampsEB
-TA-M372B-6730,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M372B-6709.0," , Proposed TH 5West of Birch StEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5West of Birch StEB"
+TA-M372B-6710.0," , Proposed TH 5West of Birch StWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5West of Birch StWB"
+TA-M372B-6711.0," , Proposed TH 5Between Birch Street RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Between Birch Street RampsEB"
+TA-M372B-6712.0," , Proposed TH 5Between Birch Street RampsWB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Between Birch Street RampsWB"
+TA-M372B-6713.0," , Proposed TH 5Birch StreetCR 30EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Birch StreetCR 30EB"
+TA-M372B-6714.0," , Proposed TH 5Birch StreetCR 30WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Birch StreetCR 30WB"
+TA-M372B-6715.0," , Proposed TH 5Between CR 30 RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Between CR 30 RampsEB"
+TA-M372B-6716.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M372B-6717.0," , Proposed TH 5Between CR 30 RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Between CR 30 RampsEB"
+TA-M372B-6718.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M372B-6719.0," , Proposed TH 5Between CR 30 RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Between CR 30 RampsEB"
+TA-M372B-6720.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M372B-6721.0," , Proposed TH 5CR 30Scandia RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5CR 30Scandia RdEB"
+TA-M372B-6722.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M372B-6723.0," , Proposed TH 5Between Scandia Road RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Between Scandia Road RampsEB"
+TA-M372B-6724.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M372B-6725.0," , Proposed TH 5Scandia RoadIsland View RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Scandia RoadIsland View RampsEB"
+TA-M372B-6726.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M372B-6727.0," , Proposed TH 5Between Island View RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5Between Island View RampsEB"
+TA-M372B-6728.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M372B-6729.0," , Proposed TH 5East of Island View RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , Proposed TH 5East of Island View RampsEB"
+TA-M372B-6730.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

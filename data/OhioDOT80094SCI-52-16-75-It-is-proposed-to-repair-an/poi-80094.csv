@@ -1,10 +1,10 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80094-2321,  SCI5216.75,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SCI5216.75
-80094-2322,  SCI5217,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SCI5217
-80094-2323,  SCI8520,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SCI8520
-80094-2348,  SCI2390,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SCI2390
-80094-2349,  SCI8520.14,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SCI8520.14
-80094-2393,  SCI5217.92,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  SCI5217.92
-80094-2415,  SCI7324.02,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SCI7324.02
-80094-2416,  SCI7324.23,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SCI7324.23
-80094-2417,  SCI7325.14,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SCI7325.14
+80094-2321.0, SCI5216.75,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, SCI5216.75
+80094-2322.0, SCI5217,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, SCI5217
+80094-2323.0, SCI8520,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, SCI8520
+80094-2348.0, SCI2390,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, SCI2390
+80094-2349.0, SCI8520.14,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, SCI8520.14
+80094-2393.0, SCI5217.92,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, SCI5217.92
+80094-2415.0, SCI7324.02,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SCI7324.02
+80094-2416.0, SCI7324.23,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SCI7324.23
+80094-2417.0, SCI7325.14,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SCI7325.14

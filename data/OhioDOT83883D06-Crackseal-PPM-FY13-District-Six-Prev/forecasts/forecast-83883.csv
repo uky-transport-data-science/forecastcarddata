@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,83883-2504,Opening Year,00:00:00,23:59:59,volume,154000
-f3,1,83883-2504,Design Year,00:00:00,23:59:59,volume,182000
-f1,1,83883-2508,Opening Year,00:00:00,23:59:59,volume,148000
-f3,1,83883-2508,Design Year,00:00:00,23:59:59,volume,194000
-f1,1,83883-2509,Opening Year,00:00:00,23:59:59,volume,130000
-f3,1,83883-2509,Design Year,00:00:00,23:59:59,volume,182000
-f1,1,83883-2510,Opening Year,00:00:00,23:59:59,volume,135000
-f3,1,83883-2510,Design Year,00:00:00,23:59:59,volume,141000
-f1,1,83883-2535,Opening Year,00:00:00,23:59:59,volume,19000
-f3,1,83883-2535,Design Year,00:00:00,23:59:59,volume,26000
+Opening-Year-83883-2504.0,Opening-Year-Model-Run,83883-2504.0,Opening-Year-Forecast-poi-83883-2504.0,00:00:00,23:59:59,volume,154000
+Design-Year-83883-2504.0,Design-Year-Model-Run,83883-2504.0,Design-Year-Forecast-poi-83883-2504.0,00:00:00,23:59:59,volume,182000
+Opening-Year-83883-2508.0,Opening-Year-Model-Run,83883-2508.0,Opening-Year-Forecast-poi-83883-2508.0,00:00:00,23:59:59,volume,148000
+Design-Year-83883-2508.0,Design-Year-Model-Run,83883-2508.0,Design-Year-Forecast-poi-83883-2508.0,00:00:00,23:59:59,volume,194000
+Opening-Year-83883-2509.0,Opening-Year-Model-Run,83883-2509.0,Opening-Year-Forecast-poi-83883-2509.0,00:00:00,23:59:59,volume,130000
+Design-Year-83883-2509.0,Design-Year-Model-Run,83883-2509.0,Design-Year-Forecast-poi-83883-2509.0,00:00:00,23:59:59,volume,182000
+Opening-Year-83883-2510.0,Opening-Year-Model-Run,83883-2510.0,Opening-Year-Forecast-poi-83883-2510.0,00:00:00,23:59:59,volume,135000
+Design-Year-83883-2510.0,Design-Year-Model-Run,83883-2510.0,Design-Year-Forecast-poi-83883-2510.0,00:00:00,23:59:59,volume,141000
+Opening-Year-83883-2535.0,Opening-Year-Model-Run,83883-2535.0,Opening-Year-Forecast-poi-83883-2535.0,00:00:00,23:59:59,volume,19000
+Design-Year-83883-2535.0,Design-Year-Model-Run,83883-2535.0,Design-Year-Forecast-poi-83883-2535.0,00:00:00,23:59:59,volume,26000

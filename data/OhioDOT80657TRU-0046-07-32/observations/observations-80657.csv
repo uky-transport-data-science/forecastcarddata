@@ -1,8 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-80657-1123-1,80657-1123,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,33580
-80657-1124-1,80657-1124,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,27500
-80657-1125-1,80657-1125,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,43690
-80657-1126-1,80657-1126,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,43690
-80657-1127-1,80657-1127,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,41710
-80657-1128-1,80657-1128,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,41710
-80657-1132-1,80657-1132,Opening Year,unknown,unknown,2008,00:00:00,23:59:59,volume,14400

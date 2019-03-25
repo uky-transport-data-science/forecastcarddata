@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84444-1464.0-1,84444-1464.0,Opening-Year-Forecast-poi-84444-1464.0,unknown,unknown,2009,00:00:00,23:59:59,volume,147870
+84444-1465.0-1,84444-1465.0,Opening-Year-Forecast-poi-84444-1465.0,unknown,unknown,2009,00:00:00,23:59:59,volume,152200
+84444-1466.0-1,84444-1466.0,Opening-Year-Forecast-poi-84444-1466.0,unknown,unknown,2009,00:00:00,23:59:59,volume,153040
+84444-1467.0-1,84444-1467.0,Opening-Year-Forecast-poi-84444-1467.0,unknown,unknown,2009,00:00:00,23:59:59,volume,156190
+84444-1485.0-1,84444-1485.0,Opening-Year-Forecast-poi-84444-1485.0,unknown,unknown,2009,00:00:00,23:59:59,volume,65990

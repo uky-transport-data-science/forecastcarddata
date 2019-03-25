@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M335-6787,   CSAH 14East of CSAH 17,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 14East of CSAH 17
-TA-M335-6788,   CSAH 14West of TH 101,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 14West of TH 101
-TA-M335-6789,   CSAH 14East of TH 101,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 14East of TH 101
+TA-M335-6787.0," , CSAH 14East of CSAH 17",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 14East of CSAH 17"
+TA-M335-6788.0," , CSAH 14West of TH 101",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 14West of TH 101"
+TA-M335-6789.0," , CSAH 14East of TH 101",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 14East of TH 101"

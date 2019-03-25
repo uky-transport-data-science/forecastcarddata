@@ -1,27 +1,27 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M336-6790,   TH 35WSouth of TH 694NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WSouth of TH 694NB
-TA-M336-6791,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6792,   TH 35WBetween TH 694 RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WBetween TH 694 RampsNB
-TA-M336-6793,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6794,   TH 35WTH 694Co Rd GNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WTH 694Co Rd GNB
-TA-M336-6795,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6796,   TH 35WBetween Co Rd G RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WBetween Co Rd G RampsNB
-TA-M336-6797,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6798,   TH 35WCo Rd GTH 10NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WCo Rd GTH 10NB
-TA-M336-6799,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6800,   TH 35WBetween TH 10 RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WBetween TH 10 RampsNB
-TA-M336-6801,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6802,   TH 35WNorth of  TH 10Co Rd HNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WNorth of  TH 10Co Rd HNB
-TA-M336-6803,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6804,   TH 35WBetween Co Rd H RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WBetween Co Rd H RampsNB
-TA-M336-6805,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6806,   TH 35WCounty Road HCounty Road INB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WCounty Road HCounty Road INB
-TA-M336-6807,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6808,   TH 35WBetween Co Rd I RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WBetween Co Rd I RampsNB
-TA-M336-6809,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6810,   TH 35WCo Rd IProposed TH 10EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WCo Rd IProposed TH 10EB
-TA-M336-6811,   NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   NB
-TA-M336-6812,   TH 35WBetween Prop TH 10 RampsNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WBetween Prop TH 10 RampsNB
-TA-M336-6813,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-TA-M336-6814,   TH 35WNorth of Prop TH 10NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WNorth of Prop TH 10NB
-TA-M336-6815,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+TA-M336-6790.0," , TH 35WSouth of TH 694NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WSouth of TH 694NB"
+TA-M336-6791.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6792.0," , TH 35WBetween TH 694 RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WBetween TH 694 RampsNB"
+TA-M336-6793.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6794.0," , TH 35WTH 694Co Rd GNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WTH 694Co Rd GNB"
+TA-M336-6795.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6796.0," , TH 35WBetween Co Rd G RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WBetween Co Rd G RampsNB"
+TA-M336-6797.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6798.0," , TH 35WCo Rd GTH 10NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WCo Rd GTH 10NB"
+TA-M336-6799.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6800.0," , TH 35WBetween TH 10 RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WBetween TH 10 RampsNB"
+TA-M336-6801.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6802.0," , TH 35WNorth of  TH 10Co Rd HNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WNorth of  TH 10Co Rd HNB"
+TA-M336-6803.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6804.0," , TH 35WBetween Co Rd H RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WBetween Co Rd H RampsNB"
+TA-M336-6805.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6806.0," , TH 35WCounty Road HCounty Road INB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WCounty Road HCounty Road INB"
+TA-M336-6807.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6808.0," , TH 35WBetween Co Rd I RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WBetween Co Rd I RampsNB"
+TA-M336-6809.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6810.0," , TH 35WCo Rd IProposed TH 10EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WCo Rd IProposed TH 10EB"
+TA-M336-6811.0," , NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , NB"
+TA-M336-6812.0," , TH 35WBetween Prop TH 10 RampsNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WBetween Prop TH 10 RampsNB"
+TA-M336-6813.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+TA-M336-6814.0," , TH 35WNorth of Prop TH 10NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WNorth of Prop TH 10NB"
+TA-M336-6815.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"

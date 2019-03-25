@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+X-57.0-1,X-57.0,Opening-Year-Forecast-poi-X-57.0,unknown,unknown,2003,00:00:00,23:59:59,volume,2000
+X-58.0-1,X-58.0,Opening-Year-Forecast-poi-X-58.0,unknown,unknown,2003,00:00:00,23:59:59,volume,1880
+X-59.0-1,X-59.0,Opening-Year-Forecast-poi-X-59.0,unknown,unknown,2003,00:00:00,23:59:59,volume,1650
+X-60.0-1,X-60.0,Opening-Year-Forecast-poi-X-60.0,unknown,unknown,2003,00:00:00,23:59:59,volume,1480

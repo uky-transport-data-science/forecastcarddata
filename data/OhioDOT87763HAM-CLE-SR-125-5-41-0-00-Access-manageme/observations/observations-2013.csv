@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87763-2314.0-1,87763-2314.0,Opening-Year-Forecast-poi-87763-2314.0,unknown,unknown,2013,00:00:00,23:59:59,volume,31800
+87763-2315.0-1,87763-2315.0,Opening-Year-Forecast-poi-87763-2315.0,unknown,unknown,2013,00:00:00,23:59:59,volume,28170
+87763-2316.0-1,87763-2316.0,Opening-Year-Forecast-poi-87763-2316.0,unknown,unknown,2013,00:00:00,23:59:59,volume,27072
+87763-2317.0-1,87763-2317.0,Opening-Year-Forecast-poi-87763-2317.0,unknown,unknown,2013,00:00:00,23:59:59,volume,35136

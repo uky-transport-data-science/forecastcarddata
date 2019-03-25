@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-23586-129,  RIC3140,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  RIC3140
-23586-130,  RIC3145.03,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  RIC3145.03
+23586-129.0, RIC3140,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, RIC3140
+23586-130.0, RIC3145.03,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, RIC3145.03

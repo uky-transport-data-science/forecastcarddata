@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-422005-1SR 526 Resurfacing Project from SR 15/Mills Ave. (M.P. 0.000) to Pavement Change east of
-Primrose Dr. (M.P. 1.039",s1,2007-01-01,Opening Year,Unavailable,professional-judgment,2007-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-422005-1SR 526 Resurfacing Project from SR 15/Mills Ave. (M.P. 0.000) to Pavement Change east of
+Primrose Dr. (M.P. 1.039",s1,2007-01-01,design scenario,Unavailable,professional-judgment,2007-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-422005-1SR 526 Resurfacing Project from SR 15/Mills Ave. (M.P. 0.000) to Pavement Change east of
+Primrose Dr. (M.P. 1.039",s1,2007-01-01,design scenario,Unavailable,professional-judgment,2007-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-422005-1SR 526 Resurfacing Project from SR 15/Mills Ave. (M.P. 0.000) to Pavement Change east of
+Primrose Dr. (M.P. 1.039",s1,2007-01-01,design scenario,Unavailable,professional-judgment,2007-01-01,consultant

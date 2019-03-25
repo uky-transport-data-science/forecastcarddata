@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+Unavailable-3009.0-1,Unavailable-3009.0,Opening-Year-Forecast-poi-Unavailable-3009.0,unknown,unknown,2015,00:00:00,23:59:59,volume,17035
+Unavailable-3010.0-1,Unavailable-3010.0,Opening-Year-Forecast-poi-Unavailable-3010.0,unknown,unknown,2015,00:00:00,23:59:59,volume,23128
+Unavailable-3022.0-1,Unavailable-3022.0,Opening-Year-Forecast-poi-Unavailable-3022.0,unknown,unknown,2015,00:00:00,23:59:59,volume,34719
+Unavailable-3023.0-1,Unavailable-3023.0,Opening-Year-Forecast-poi-Unavailable-3023.0,unknown,unknown,2015,00:00:00,23:59:59,volume,21021

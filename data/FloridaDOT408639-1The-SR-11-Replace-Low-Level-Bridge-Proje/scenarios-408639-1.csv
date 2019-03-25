@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-408639-1The SR 11 Replace Low Level Bridge Project from Little Haw Creek (M.P. 0.400) to Bridge #
-730015 (M.P. 0.500)",s1,2005-01-01,Opening Year,Unavailable,trendline,2005-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-408639-1The SR 11 Replace Low Level Bridge Project from Little Haw Creek (M.P. 0.400) to Bridge #
+730015 (M.P. 0.500)",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-408639-1The SR 11 Replace Low Level Bridge Project from Little Haw Creek (M.P. 0.400) to Bridge #
+730015 (M.P. 0.500)",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-408639-1The SR 11 Replace Low Level Bridge Project from Little Haw Creek (M.P. 0.400) to Bridge #
+730015 (M.P. 0.500)",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant

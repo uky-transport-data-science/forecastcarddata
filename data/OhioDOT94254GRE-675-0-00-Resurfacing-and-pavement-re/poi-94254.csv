@@ -1,12 +1,12 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-94254-5811,  GRE6750.18,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6750.18
-94254-5812,  GRE6751.73,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6751.73
-94254-5813,  GRE6754.51,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6754.51
-94254-5814,  GRE6757.07,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6757.07
-94254-5815,  GRE6758.59,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6758.59
-94254-5816,  GRE6759.26,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6759.26
-94254-5817,  GRE6759.96,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE6759.96
-94254-5818,  GRE67511.73,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE67511.73
-94254-5819,  GRE67514.27,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE67514.27
-94254-5820,  GRE67516.49,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE67516.49
-94254-5821,  GRE67517.63,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  GRE67517.63
+94254-5811.0, GRE6750.18,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE6750.18
+94254-5812.0, GRE6751.73,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE6751.73
+94254-5813.0, GRE6754.51,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE6754.51
+94254-5814.0, GRE6757.07,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE6757.07
+94254-5815.0, GRE6758.59,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE6758.59
+94254-5816.0, GRE6759.26,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE6759.26
+94254-5817.0, GRE6759.96,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE6759.96
+94254-5818.0, GRE67511.73,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE67511.73
+94254-5819.0, GRE67514.27,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE67514.27
+94254-5820.0, GRE67516.49,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE67516.49
+94254-5821.0, GRE67517.63,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, GRE67517.63

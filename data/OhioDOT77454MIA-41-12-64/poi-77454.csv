@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-77454-622,  MIA4112.9,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MIA4112.9
-77454-656,  MIA4112.68,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MIA4112.68
+77454-622.0, MIA4112.9,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, MIA4112.9
+77454-656.0, MIA4112.68,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MIA4112.68

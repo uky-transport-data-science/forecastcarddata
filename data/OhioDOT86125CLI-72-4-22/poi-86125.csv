@@ -1,2 +1,2 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-86125-1934,  CLI724.22,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI724.22
+86125-1934.0, CLI724.22,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLI724.22

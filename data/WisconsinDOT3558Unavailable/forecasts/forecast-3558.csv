@@ -1,2 +1,2 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,3558-6301,Opening Year,00:00:00,23:59:59,volume,4300
+Opening-Year-3558-6301.0,Opening-Year-Model-Run,3558-6301.0,Opening-Year-Forecast-poi-3558-6301.0,00:00:00,23:59:59,volume,4300

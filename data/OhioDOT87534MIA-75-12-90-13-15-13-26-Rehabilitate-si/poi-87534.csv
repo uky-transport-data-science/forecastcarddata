@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-87534-3108,  MIA7510.89,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MIA7510.89
-87534-3109,  MIA7513.14,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MIA7513.14
+87534-3108.0, MIA7510.89,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MIA7510.89
+87534-3109.0, MIA7513.14,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MIA7513.14

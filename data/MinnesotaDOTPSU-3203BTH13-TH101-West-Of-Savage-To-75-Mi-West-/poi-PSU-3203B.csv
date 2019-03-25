@@ -1,13 +1,13 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-PSU 3203B-8111,   TH101West Of TH 13EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH101West Of TH 13EB
-PSU 3203B-8112,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-PSU 3203B-8113,   TH13East Of TH 13West Of CSAH 31EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH13East Of TH 13West Of CSAH 31EB
-PSU 3203B-8114,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-PSU 3203B-8115,   TH13East Of CSAH 31West OF CSAH 106EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH13East Of CSAH 31West OF CSAH 106EB
-PSU 3203B-8116,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-PSU 3203B-8117,   TH13East Of CSAH 106West Of CSAH 17EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH13East Of CSAH 106West Of CSAH 17EB
-PSU 3203B-8118,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-PSU 3203B-8119,   TH13East Of CSAH 17West of I-35WEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH13East Of CSAH 17West of I-35WEB
-PSU 3203B-8120,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-PSU 3203B-8121,   TH 13South Of TH 101NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 13South Of TH 101NB
-PSU 3203B-8122,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+PSU 3203B-8111.0," , TH101West Of TH 13EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH101West Of TH 13EB"
+PSU 3203B-8112.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+PSU 3203B-8113.0," , TH13East Of TH 13West Of CSAH 31EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH13East Of TH 13West Of CSAH 31EB"
+PSU 3203B-8114.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+PSU 3203B-8115.0," , TH13East Of CSAH 31West OF CSAH 106EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH13East Of CSAH 31West OF CSAH 106EB"
+PSU 3203B-8116.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+PSU 3203B-8117.0," , TH13East Of CSAH 106West Of CSAH 17EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH13East Of CSAH 106West Of CSAH 17EB"
+PSU 3203B-8118.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+PSU 3203B-8119.0," , TH13East Of CSAH 17West of I-35WEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH13East Of CSAH 17West of I-35WEB"
+PSU 3203B-8120.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+PSU 3203B-8121.0," , TH 13South Of TH 101NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 13South Of TH 101NB"
+PSU 3203B-8122.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"

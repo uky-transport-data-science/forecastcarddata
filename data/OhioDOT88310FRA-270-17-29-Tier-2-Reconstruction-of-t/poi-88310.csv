@@ -1,10 +1,10 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-88310-3179,  FRA27012.63,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA27012.63
-88310-3180,  FRA27015.63,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA27015.63
-88310-3181,  FRA27017.29,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA27017.29
-88310-3182,  FRA27019.82,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA27019.82
-88310-3190,  FRA330,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA330
-88310-3191,  FRA331.31,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FRA331.31
-88310-3197,  FRA332.57,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA332.57
-88310-3198,  FRA333.13,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA333.13
-88310-3199,  FRA333.13,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  FRA333.13
+88310-3179.0, FRA27012.63,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, FRA27012.63
+88310-3180.0, FRA27015.63,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, FRA27015.63
+88310-3181.0, FRA27017.29,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, FRA27017.29
+88310-3182.0, FRA27019.82,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, FRA27019.82
+88310-3190.0, FRA330,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, FRA330
+88310-3191.0, FRA331.31,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, FRA331.31
+88310-3197.0, FRA332.57,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA332.57
+88310-3198.0, FRA333.13,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA333.13
+88310-3199.0, FRA333.13,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, FRA333.13

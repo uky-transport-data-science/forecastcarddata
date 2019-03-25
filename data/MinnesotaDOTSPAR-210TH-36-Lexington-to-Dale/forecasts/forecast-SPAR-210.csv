@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,SPAR-210-7097,Design Year,00:00:00,23:59:59,volume,29125
-f3,1,SPAR-210-7098,Design Year,00:00:00,23:59:59,volume,29125
-f3,1,SPAR-210-7099,Design Year,00:00:00,23:59:59,volume,26250
-f3,1,SPAR-210-7100,Design Year,00:00:00,23:59:59,volume,26250
-f3,1,SPAR-210-7101,Design Year,00:00:00,23:59:59,volume,29800
-f3,1,SPAR-210-7102,Design Year,00:00:00,23:59:59,volume,29800
-f3,1,SPAR-210-7103,Design Year,00:00:00,23:59:59,volume,26110
-f3,1,SPAR-210-7104,Design Year,00:00:00,23:59:59,volume,26110
-f3,1,SPAR-210-7105,Design Year,00:00:00,23:59:59,volume,28990
-f3,1,SPAR-210-7106,Design Year,00:00:00,23:59:59,volume,28990
+Design-Year-SPAR-210-7097.0,Design-Year-Model-Run,SPAR-210-7097.0,Design-Year-Forecast-poi-SPAR-210-7097.0,00:00:00,23:59:59,volume,29125
+Design-Year-SPAR-210-7098.0,Design-Year-Model-Run,SPAR-210-7098.0,Design-Year-Forecast-poi-SPAR-210-7098.0,00:00:00,23:59:59,volume,29125
+Design-Year-SPAR-210-7099.0,Design-Year-Model-Run,SPAR-210-7099.0,Design-Year-Forecast-poi-SPAR-210-7099.0,00:00:00,23:59:59,volume,26250
+Design-Year-SPAR-210-7100.0,Design-Year-Model-Run,SPAR-210-7100.0,Design-Year-Forecast-poi-SPAR-210-7100.0,00:00:00,23:59:59,volume,26250
+Design-Year-SPAR-210-7101.0,Design-Year-Model-Run,SPAR-210-7101.0,Design-Year-Forecast-poi-SPAR-210-7101.0,00:00:00,23:59:59,volume,29800
+Design-Year-SPAR-210-7102.0,Design-Year-Model-Run,SPAR-210-7102.0,Design-Year-Forecast-poi-SPAR-210-7102.0,00:00:00,23:59:59,volume,29800
+Design-Year-SPAR-210-7103.0,Design-Year-Model-Run,SPAR-210-7103.0,Design-Year-Forecast-poi-SPAR-210-7103.0,00:00:00,23:59:59,volume,26110
+Design-Year-SPAR-210-7104.0,Design-Year-Model-Run,SPAR-210-7104.0,Design-Year-Forecast-poi-SPAR-210-7104.0,00:00:00,23:59:59,volume,26110
+Design-Year-SPAR-210-7105.0,Design-Year-Model-Run,SPAR-210-7105.0,Design-Year-Forecast-poi-SPAR-210-7105.0,00:00:00,23:59:59,volume,28990
+Design-Year-SPAR-210-7106.0,Design-Year-Model-Run,SPAR-210-7106.0,Design-Year-Forecast-poi-SPAR-210-7106.0,00:00:00,23:59:59,volume,28990

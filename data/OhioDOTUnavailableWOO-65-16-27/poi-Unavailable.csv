@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-2854,  WOO6516.3,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  WOO6516.3
-Unavailable-2872,  WOO6516.260,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  WOO6516.260
+Unavailable-2854.0, WOO6516.3,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, WOO6516.3
+Unavailable-2872.0, WOO6516.260,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, WOO6516.260

@@ -1,8 +1,8 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-83456-1971,  LOR30121.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR30121.5
-83456-1972,  LOR30121.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR30121.5
-83456-1973,  LOR30121.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR30121.5
-83456-1974,  LOR30121.8,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR30121.8
-83456-1975,  LOR30122.33,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR30122.33
-83456-1976,  LOR25421.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR25421.5
-83456-1977,  LOR25421.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  LOR25421.5
+83456-1971.0, LOR30121.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, LOR30121.5
+83456-1972.0, LOR30121.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, LOR30121.5
+83456-1973.0, LOR30121.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, LOR30121.5
+83456-1974.0, LOR30121.8,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, LOR30121.8
+83456-1975.0, LOR30122.33,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, LOR30122.33
+83456-1976.0, LOR25421.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, LOR25421.5
+83456-1977.0, LOR25421.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, LOR25421.5

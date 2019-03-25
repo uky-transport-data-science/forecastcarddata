@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80171-938,  ASD3028.85,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD3028.85
-80171-939,  ASD30311.25,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD30311.25
+80171-938.0, ASD3028.85,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ASD3028.85
+80171-939.0, ASD30311.25,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ASD30311.25

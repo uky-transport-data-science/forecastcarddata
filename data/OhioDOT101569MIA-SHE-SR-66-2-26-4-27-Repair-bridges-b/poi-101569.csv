@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-101569-5614,  MIA661.57,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MIA661.57
-101569-5665,  SHE665.17,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SHE665.17
+101569-5614.0, MIA661.57,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MIA661.57
+101569-5665.0, SHE665.17,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, SHE665.17

@@ -1,23 +1,23 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M309-7586,   TH 5West Of CSAH 4EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5West Of CSAH 4EB
-TA-M309-7587,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7588,   TH 5Between CSAH 4EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5Between CSAH 4EB
-TA-M309-7589,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7590,   TH 5East of CSAH 4West Of FullerEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5East of CSAH 4West Of FullerEB
-TA-M309-7591,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7592,   TH 5Between FullerEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5Between FullerEB
-TA-M309-7593,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7594,   TH 5East Of FullerWest Of Wallace/MartinEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5East Of FullerWest Of Wallace/MartinEB
-TA-M309-7595,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7596,   TH 5Between Wallace/MartinEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5Between Wallace/MartinEB
-TA-M309-7597,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7598,   TH 5East Of Wallace/MartinWest Of Mitchell/CSAH 60EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5East Of Wallace/MartinWest Of Mitchell/CSAH 60EB
-TA-M309-7599,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7600,   TH 5Between Mitchell/CSAH 60EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5Between Mitchell/CSAH 60EB
-TA-M309-7601,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7602,   TH 5East Of Mitchell/CSAH 60West of Ring RoadEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5East Of Mitchell/CSAH 60West of Ring RoadEB
-TA-M309-7603,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7604,   TH 5Between Ring RoadEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5Between Ring RoadEB
-TA-M309-7605,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M309-7606,   TH 5East Of Ring RoadEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 5East Of Ring RoadEB
-TA-M309-7607,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M309-7586.0," , TH 5West Of CSAH 4EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5West Of CSAH 4EB"
+TA-M309-7587.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7588.0," , TH 5Between CSAH 4EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5Between CSAH 4EB"
+TA-M309-7589.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7590.0," , TH 5East of CSAH 4West Of FullerEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5East of CSAH 4West Of FullerEB"
+TA-M309-7591.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7592.0," , TH 5Between FullerEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5Between FullerEB"
+TA-M309-7593.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7594.0," , TH 5East Of FullerWest Of Wallace/MartinEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5East Of FullerWest Of Wallace/MartinEB"
+TA-M309-7595.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7596.0," , TH 5Between Wallace/MartinEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5Between Wallace/MartinEB"
+TA-M309-7597.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7598.0," , TH 5East Of Wallace/MartinWest Of Mitchell/CSAH 60EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5East Of Wallace/MartinWest Of Mitchell/CSAH 60EB"
+TA-M309-7599.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7600.0," , TH 5Between Mitchell/CSAH 60EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5Between Mitchell/CSAH 60EB"
+TA-M309-7601.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7602.0," , TH 5East Of Mitchell/CSAH 60West of Ring RoadEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5East Of Mitchell/CSAH 60West of Ring RoadEB"
+TA-M309-7603.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7604.0," , TH 5Between Ring RoadEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5Between Ring RoadEB"
+TA-M309-7605.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M309-7606.0," , TH 5East Of Ring RoadEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 5East Of Ring RoadEB"
+TA-M309-7607.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

@@ -1,17 +1,17 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TA-M326-7644,Design Year,00:00:00,23:59:59,volume,2500
-f3,1,TA-M326-7645,Design Year,00:00:00,23:59:59,volume,2500
-f3,1,TA-M326-7646,Design Year,00:00:00,23:59:59,volume,3250
-f3,1,TA-M326-7647,Design Year,00:00:00,23:59:59,volume,3250
-f3,1,TA-M326-7648,Design Year,00:00:00,23:59:59,volume,2000
-f3,1,TA-M326-7649,Design Year,00:00:00,23:59:59,volume,2000
-f3,1,TA-M326-7650,Design Year,00:00:00,23:59:59,volume,1750
-f3,1,TA-M326-7651,Design Year,00:00:00,23:59:59,volume,1750
-f3,1,TA-M326-7652,Design Year,00:00:00,23:59:59,volume,1500
-f3,1,TA-M326-7653,Design Year,00:00:00,23:59:59,volume,1500
-f3,1,TA-M326-7654,Design Year,00:00:00,23:59:59,volume,2900
-f3,1,TA-M326-7655,Design Year,00:00:00,23:59:59,volume,2900
-f3,1,TA-M326-7656,Design Year,00:00:00,23:59:59,volume,3250
-f3,1,TA-M326-7657,Design Year,00:00:00,23:59:59,volume,3250
-f3,1,TA-M326-7658,Design Year,00:00:00,23:59:59,volume,3000
-f3,1,TA-M326-7659,Design Year,00:00:00,23:59:59,volume,3000
+Design-Year-TA-M326-7644.0,Design-Year-Model-Run,TA-M326-7644.0,Design-Year-Forecast-poi-TA-M326-7644.0,00:00:00,23:59:59,volume,2500
+Design-Year-TA-M326-7645.0,Design-Year-Model-Run,TA-M326-7645.0,Design-Year-Forecast-poi-TA-M326-7645.0,00:00:00,23:59:59,volume,2500
+Design-Year-TA-M326-7646.0,Design-Year-Model-Run,TA-M326-7646.0,Design-Year-Forecast-poi-TA-M326-7646.0,00:00:00,23:59:59,volume,3250
+Design-Year-TA-M326-7647.0,Design-Year-Model-Run,TA-M326-7647.0,Design-Year-Forecast-poi-TA-M326-7647.0,00:00:00,23:59:59,volume,3250
+Design-Year-TA-M326-7648.0,Design-Year-Model-Run,TA-M326-7648.0,Design-Year-Forecast-poi-TA-M326-7648.0,00:00:00,23:59:59,volume,2000
+Design-Year-TA-M326-7649.0,Design-Year-Model-Run,TA-M326-7649.0,Design-Year-Forecast-poi-TA-M326-7649.0,00:00:00,23:59:59,volume,2000
+Design-Year-TA-M326-7650.0,Design-Year-Model-Run,TA-M326-7650.0,Design-Year-Forecast-poi-TA-M326-7650.0,00:00:00,23:59:59,volume,1750
+Design-Year-TA-M326-7651.0,Design-Year-Model-Run,TA-M326-7651.0,Design-Year-Forecast-poi-TA-M326-7651.0,00:00:00,23:59:59,volume,1750
+Design-Year-TA-M326-7652.0,Design-Year-Model-Run,TA-M326-7652.0,Design-Year-Forecast-poi-TA-M326-7652.0,00:00:00,23:59:59,volume,1500
+Design-Year-TA-M326-7653.0,Design-Year-Model-Run,TA-M326-7653.0,Design-Year-Forecast-poi-TA-M326-7653.0,00:00:00,23:59:59,volume,1500
+Design-Year-TA-M326-7654.0,Design-Year-Model-Run,TA-M326-7654.0,Design-Year-Forecast-poi-TA-M326-7654.0,00:00:00,23:59:59,volume,2900
+Design-Year-TA-M326-7655.0,Design-Year-Model-Run,TA-M326-7655.0,Design-Year-Forecast-poi-TA-M326-7655.0,00:00:00,23:59:59,volume,2900
+Design-Year-TA-M326-7656.0,Design-Year-Model-Run,TA-M326-7656.0,Design-Year-Forecast-poi-TA-M326-7656.0,00:00:00,23:59:59,volume,3250
+Design-Year-TA-M326-7657.0,Design-Year-Model-Run,TA-M326-7657.0,Design-Year-Forecast-poi-TA-M326-7657.0,00:00:00,23:59:59,volume,3250
+Design-Year-TA-M326-7658.0,Design-Year-Model-Run,TA-M326-7658.0,Design-Year-Forecast-poi-TA-M326-7658.0,00:00:00,23:59:59,volume,3000
+Design-Year-TA-M326-7659.0,Design-Year-Model-Run,TA-M326-7659.0,Design-Year-Forecast-poi-TA-M326-7659.0,00:00:00,23:59:59,volume,3000

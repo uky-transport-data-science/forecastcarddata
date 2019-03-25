@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-SPARS 75ATH 49 (Dodd Rd.) - From TH 110 to I-35E,s1,1974-01-01,Design Year,Unavailable,trendline,1974-01-01,state DOT
+Design-Year-Model-Run,MinnesotaDOT-SPARS 75ATH 49 (Dodd Rd.) - From TH 110 to I-35E,s1,1974-01-01,design scenario,Unavailable,trendline,1974-01-01,state DOT

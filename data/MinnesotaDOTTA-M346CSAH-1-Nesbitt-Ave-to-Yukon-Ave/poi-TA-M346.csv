@@ -1,29 +1,29 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M346-7424,   CSAH 1West of Louisiana AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1West of Louisiana AveEB
-TA-M346-7425,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7426,   CSAH 1Between Louisiana AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Between Louisiana AveEB
-TA-M346-7427,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7428,   CSAH 1Louisiana AveHampshire AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Louisiana AveHampshire AveEB
-TA-M346-7429,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7430,   CSAH 1Between Hampshire AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Between Hampshire AveEB
-TA-M346-7431,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7432,   CSAH 1Hampshire AveNesbitt AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Hampshire AveNesbitt AveEB
-TA-M346-7433,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7434,   CSAH 1Between Nesbitt AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Between Nesbitt AveEB
-TA-M346-7435,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7436,   CSAH 1East of Nesbitt AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1East of Nesbitt AveEB
-TA-M346-7437,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7438,   CSAH 1West of Yukon AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1West of Yukon AveEB
-TA-M346-7439,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7440,   CSAH 1Between Yukon AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Between Yukon AveEB
-TA-M346-7441,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7442,   CSAH 1Yukon AveBloomington Ferry RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Yukon AveBloomington Ferry RdEB
-TA-M346-7443,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7444,   CSAH 1Between BloomingtonFerry RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Between BloomingtonFerry RdEB
-TA-M346-7445,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7446,   CSAH 1Bloomington Ferry RdBush Lake RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Bloomington Ferry RdBush Lake RdEB
-TA-M346-7447,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7448,   CSAH 1Between Bush Lake RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1Between Bush Lake RdEB
-TA-M346-7449,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M346-7450,   CSAH 1East of Bush Lake RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   CSAH 1East of Bush Lake RdEB
-TA-M346-7451,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M346-7424.0," , CSAH 1West of Louisiana AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1West of Louisiana AveEB"
+TA-M346-7425.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7426.0," , CSAH 1Between Louisiana AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Between Louisiana AveEB"
+TA-M346-7427.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7428.0," , CSAH 1Louisiana AveHampshire AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Louisiana AveHampshire AveEB"
+TA-M346-7429.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7430.0," , CSAH 1Between Hampshire AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Between Hampshire AveEB"
+TA-M346-7431.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7432.0," , CSAH 1Hampshire AveNesbitt AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Hampshire AveNesbitt AveEB"
+TA-M346-7433.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7434.0," , CSAH 1Between Nesbitt AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Between Nesbitt AveEB"
+TA-M346-7435.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7436.0," , CSAH 1East of Nesbitt AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1East of Nesbitt AveEB"
+TA-M346-7437.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7438.0," , CSAH 1West of Yukon AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1West of Yukon AveEB"
+TA-M346-7439.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7440.0," , CSAH 1Between Yukon AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Between Yukon AveEB"
+TA-M346-7441.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7442.0," , CSAH 1Yukon AveBloomington Ferry RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Yukon AveBloomington Ferry RdEB"
+TA-M346-7443.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7444.0," , CSAH 1Between BloomingtonFerry RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Between BloomingtonFerry RdEB"
+TA-M346-7445.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7446.0," , CSAH 1Bloomington Ferry RdBush Lake RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Bloomington Ferry RdBush Lake RdEB"
+TA-M346-7447.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7448.0," , CSAH 1Between Bush Lake RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1Between Bush Lake RdEB"
+TA-M346-7449.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M346-7450.0," , CSAH 1East of Bush Lake RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , CSAH 1East of Bush Lake RdEB"
+TA-M346-7451.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

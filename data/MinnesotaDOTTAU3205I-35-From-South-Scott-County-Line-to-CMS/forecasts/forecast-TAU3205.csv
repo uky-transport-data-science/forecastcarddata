@@ -1,5 +1,5 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TAU3205-8195,Design Year,00:00:00,23:59:59,volume,7800
-f3,1,TAU3205-8196,Design Year,00:00:00,23:59:59,volume,7800
-f3,1,TAU3205-8197,Design Year,00:00:00,23:59:59,volume,7835
-f3,1,TAU3205-8198,Design Year,00:00:00,23:59:59,volume,7835
+Design-Year-TAU3205-8195.0,Design-Year-Model-Run,TAU3205-8195.0,Design-Year-Forecast-poi-TAU3205-8195.0,00:00:00,23:59:59,volume,7800
+Design-Year-TAU3205-8196.0,Design-Year-Model-Run,TAU3205-8196.0,Design-Year-Forecast-poi-TAU3205-8196.0,00:00:00,23:59:59,volume,7800
+Design-Year-TAU3205-8197.0,Design-Year-Model-Run,TAU3205-8197.0,Design-Year-Forecast-poi-TAU3205-8197.0,00:00:00,23:59:59,volume,7835
+Design-Year-TAU3205-8198.0,Design-Year-Model-Run,TAU3205-8198.0,Design-Year-Forecast-poi-TAU3205-8198.0,00:00:00,23:59:59,volume,7835

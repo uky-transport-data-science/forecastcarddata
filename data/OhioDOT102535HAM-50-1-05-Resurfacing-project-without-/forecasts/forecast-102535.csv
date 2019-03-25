@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,102535-5545,Opening Year,00:00:00,23:59:59,volume,13000
-f3,1,102535-5545,Design Year,00:00:00,23:59:59,volume,13000
-f1,1,102535-5546,Opening Year,00:00:00,23:59:59,volume,14000
-f3,1,102535-5546,Design Year,00:00:00,23:59:59,volume,16000
-f1,1,102535-5598,Opening Year,00:00:00,23:59:59,volume,15000
-f3,1,102535-5598,Design Year,00:00:00,23:59:59,volume,17000
-f1,1,102535-5599,Opening Year,00:00:00,23:59:59,volume,13000
-f3,1,102535-5599,Design Year,00:00:00,23:59:59,volume,15000
-f1,1,102535-5600,Opening Year,00:00:00,23:59:59,volume,19000
-f3,1,102535-5600,Design Year,00:00:00,23:59:59,volume,23000
+Opening-Year-102535-5545.0,Opening-Year-Model-Run,102535-5545.0,Opening-Year-Forecast-poi-102535-5545.0,00:00:00,23:59:59,volume,13000
+Design-Year-102535-5545.0,Design-Year-Model-Run,102535-5545.0,Design-Year-Forecast-poi-102535-5545.0,00:00:00,23:59:59,volume,13000
+Opening-Year-102535-5546.0,Opening-Year-Model-Run,102535-5546.0,Opening-Year-Forecast-poi-102535-5546.0,00:00:00,23:59:59,volume,14000
+Design-Year-102535-5546.0,Design-Year-Model-Run,102535-5546.0,Design-Year-Forecast-poi-102535-5546.0,00:00:00,23:59:59,volume,16000
+Opening-Year-102535-5598.0,Opening-Year-Model-Run,102535-5598.0,Opening-Year-Forecast-poi-102535-5598.0,00:00:00,23:59:59,volume,15000
+Design-Year-102535-5598.0,Design-Year-Model-Run,102535-5598.0,Design-Year-Forecast-poi-102535-5598.0,00:00:00,23:59:59,volume,17000
+Opening-Year-102535-5599.0,Opening-Year-Model-Run,102535-5599.0,Opening-Year-Forecast-poi-102535-5599.0,00:00:00,23:59:59,volume,13000
+Design-Year-102535-5599.0,Design-Year-Model-Run,102535-5599.0,Design-Year-Forecast-poi-102535-5599.0,00:00:00,23:59:59,volume,15000
+Opening-Year-102535-5600.0,Opening-Year-Model-Run,102535-5600.0,Opening-Year-Forecast-poi-102535-5600.0,00:00:00,23:59:59,volume,19000
+Design-Year-102535-5600.0,Design-Year-Model-Run,102535-5600.0,Design-Year-Forecast-poi-102535-5600.0,00:00:00,23:59:59,volume,23000

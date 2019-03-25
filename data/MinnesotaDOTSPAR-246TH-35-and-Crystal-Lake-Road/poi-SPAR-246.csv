@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-246-7168,   TH 35WNorth of Crystal Lake Rd InterchangeNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WNorth of Crystal Lake Rd InterchangeNB
-SPAR-246-7169,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-246-7170,   TH 35WSouth of Crystal Lake Rd InterchangeNB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35WSouth of Crystal Lake Rd InterchangeNB
-SPAR-246-7171,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-246-7168.0," , TH 35WNorth of Crystal Lake Rd InterchangeNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WNorth of Crystal Lake Rd InterchangeNB"
+SPAR-246-7169.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-246-7170.0," , TH 35WSouth of Crystal Lake Rd InterchangeNB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35WSouth of Crystal Lake Rd InterchangeNB"
+SPAR-246-7171.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"

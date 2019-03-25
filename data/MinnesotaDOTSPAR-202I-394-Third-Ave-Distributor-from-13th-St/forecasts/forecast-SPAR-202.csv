@@ -1,22 +1,22 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,SPAR-202-6688,Design Year,00:00:00,23:59:59,volume,22000
-f3,1,SPAR-202-6689,Design Year,00:00:00,23:59:59,volume,22000
-f3,1,SPAR-202-6690,Design Year,00:00:00,23:59:59,volume,15000
-f3,1,SPAR-202-6691,Design Year,00:00:00,23:59:59,volume,15000
-f3,1,SPAR-202-6692,Design Year,00:00:00,23:59:59,volume,7075
-f3,1,SPAR-202-6693,Design Year,00:00:00,23:59:59,volume,7925
-f3,1,SPAR-202-6694,Design Year,00:00:00,23:59:59,volume,11000
-f3,1,SPAR-202-6695,Design Year,00:00:00,23:59:59,volume,4000
-f3,1,SPAR-202-6696,Design Year,00:00:00,23:59:59,volume,3925
-f3,1,SPAR-202-6697,Design Year,00:00:00,23:59:59,volume,5350
-f3,1,SPAR-202-6698,Design Year,00:00:00,23:59:59,volume,1725
-f3,1,SPAR-202-6699,Design Year,00:00:00,23:59:59,volume,6700
-f3,1,SPAR-202-6700,Design Year,00:00:00,23:59:59,volume,4300
-f3,1,SPAR-202-6701,Design Year,00:00:00,23:59:59,volume,2000
-f3,1,SPAR-202-6702,Design Year,00:00:00,23:59:59,volume,2000
-f3,1,SPAR-202-6703,Design Year,00:00:00,23:59:59,volume,3350
-f3,1,SPAR-202-6704,Design Year,00:00:00,23:59:59,volume,2000
-f3,1,SPAR-202-6705,Design Year,00:00:00,23:59:59,volume,3350
-f3,1,SPAR-202-6706,Design Year,00:00:00,23:59:59,volume,3350
-f3,1,SPAR-202-6707,Design Year,00:00:00,23:59:59,volume,3350
-f3,1,SPAR-202-6708,Design Year,00:00:00,23:59:59,volume,3350
+Design-Year-SPAR-202-6688.0,Design-Year-Model-Run,SPAR-202-6688.0,Design-Year-Forecast-poi-SPAR-202-6688.0,00:00:00,23:59:59,volume,22000
+Design-Year-SPAR-202-6689.0,Design-Year-Model-Run,SPAR-202-6689.0,Design-Year-Forecast-poi-SPAR-202-6689.0,00:00:00,23:59:59,volume,22000
+Design-Year-SPAR-202-6690.0,Design-Year-Model-Run,SPAR-202-6690.0,Design-Year-Forecast-poi-SPAR-202-6690.0,00:00:00,23:59:59,volume,15000
+Design-Year-SPAR-202-6691.0,Design-Year-Model-Run,SPAR-202-6691.0,Design-Year-Forecast-poi-SPAR-202-6691.0,00:00:00,23:59:59,volume,15000
+Design-Year-SPAR-202-6692.0,Design-Year-Model-Run,SPAR-202-6692.0,Design-Year-Forecast-poi-SPAR-202-6692.0,00:00:00,23:59:59,volume,7075
+Design-Year-SPAR-202-6693.0,Design-Year-Model-Run,SPAR-202-6693.0,Design-Year-Forecast-poi-SPAR-202-6693.0,00:00:00,23:59:59,volume,7925
+Design-Year-SPAR-202-6694.0,Design-Year-Model-Run,SPAR-202-6694.0,Design-Year-Forecast-poi-SPAR-202-6694.0,00:00:00,23:59:59,volume,11000
+Design-Year-SPAR-202-6695.0,Design-Year-Model-Run,SPAR-202-6695.0,Design-Year-Forecast-poi-SPAR-202-6695.0,00:00:00,23:59:59,volume,4000
+Design-Year-SPAR-202-6696.0,Design-Year-Model-Run,SPAR-202-6696.0,Design-Year-Forecast-poi-SPAR-202-6696.0,00:00:00,23:59:59,volume,3925
+Design-Year-SPAR-202-6697.0,Design-Year-Model-Run,SPAR-202-6697.0,Design-Year-Forecast-poi-SPAR-202-6697.0,00:00:00,23:59:59,volume,5350
+Design-Year-SPAR-202-6698.0,Design-Year-Model-Run,SPAR-202-6698.0,Design-Year-Forecast-poi-SPAR-202-6698.0,00:00:00,23:59:59,volume,1725
+Design-Year-SPAR-202-6699.0,Design-Year-Model-Run,SPAR-202-6699.0,Design-Year-Forecast-poi-SPAR-202-6699.0,00:00:00,23:59:59,volume,6700
+Design-Year-SPAR-202-6700.0,Design-Year-Model-Run,SPAR-202-6700.0,Design-Year-Forecast-poi-SPAR-202-6700.0,00:00:00,23:59:59,volume,4300
+Design-Year-SPAR-202-6701.0,Design-Year-Model-Run,SPAR-202-6701.0,Design-Year-Forecast-poi-SPAR-202-6701.0,00:00:00,23:59:59,volume,2000
+Design-Year-SPAR-202-6702.0,Design-Year-Model-Run,SPAR-202-6702.0,Design-Year-Forecast-poi-SPAR-202-6702.0,00:00:00,23:59:59,volume,2000
+Design-Year-SPAR-202-6703.0,Design-Year-Model-Run,SPAR-202-6703.0,Design-Year-Forecast-poi-SPAR-202-6703.0,00:00:00,23:59:59,volume,3350
+Design-Year-SPAR-202-6704.0,Design-Year-Model-Run,SPAR-202-6704.0,Design-Year-Forecast-poi-SPAR-202-6704.0,00:00:00,23:59:59,volume,2000
+Design-Year-SPAR-202-6705.0,Design-Year-Model-Run,SPAR-202-6705.0,Design-Year-Forecast-poi-SPAR-202-6705.0,00:00:00,23:59:59,volume,3350
+Design-Year-SPAR-202-6706.0,Design-Year-Model-Run,SPAR-202-6706.0,Design-Year-Forecast-poi-SPAR-202-6706.0,00:00:00,23:59:59,volume,3350
+Design-Year-SPAR-202-6707.0,Design-Year-Model-Run,SPAR-202-6707.0,Design-Year-Forecast-poi-SPAR-202-6707.0,00:00:00,23:59:59,volume,3350
+Design-Year-SPAR-202-6708.0,Design-Year-Model-Run,SPAR-202-6708.0,Design-Year-Forecast-poi-SPAR-202-6708.0,00:00:00,23:59:59,volume,3350

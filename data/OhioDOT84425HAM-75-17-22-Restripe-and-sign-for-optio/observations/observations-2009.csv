@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+84425-1605.0-1,84425-1605.0,Opening-Year-Forecast-poi-84425-1605.0,unknown,unknown,2009,00:00:00,23:59:59,volume,109850
+84425-1606.0-1,84425-1606.0,Opening-Year-Forecast-poi-84425-1606.0,unknown,unknown,2009,00:00:00,23:59:59,volume,119570
+84425-1607.0-1,84425-1607.0,Opening-Year-Forecast-poi-84425-1607.0,unknown,unknown,2009,00:00:00,23:59:59,volume,107580
+84425-1608.0-1,84425-1608.0,Opening-Year-Forecast-poi-84425-1608.0,unknown,unknown,2009,00:00:00,23:59:59,volume,111320
+84425-1609.0-1,84425-1609.0,Opening-Year-Forecast-poi-84425-1609.0,unknown,unknown,2009,00:00:00,23:59:59,volume,133610
+84425-1610.0-1,84425-1610.0,Opening-Year-Forecast-poi-84425-1610.0,unknown,unknown,2009,00:00:00,23:59:59,volume,136770

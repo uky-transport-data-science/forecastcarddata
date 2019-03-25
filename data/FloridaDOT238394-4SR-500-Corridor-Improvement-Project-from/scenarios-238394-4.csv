@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-238394-4SR 500 Corridor Improvement Project from North of Griffin Rd (M.P. 4.622) to Martin
-Luther King Blvd (M.P. 5.806)",s1,2006-01-01,Opening Year,Unavailable,professional-judgment,2006-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-238394-4SR 500 Corridor Improvement Project from North of Griffin Rd (M.P. 4.622) to Martin
+Luther King Blvd (M.P. 5.806)",s1,2006-01-01,design scenario,Unavailable,professional-judgment,2006-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-238394-4SR 500 Corridor Improvement Project from North of Griffin Rd (M.P. 4.622) to Martin
+Luther King Blvd (M.P. 5.806)",s1,2006-01-01,design scenario,Unavailable,professional-judgment,2006-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-238394-4SR 500 Corridor Improvement Project from North of Griffin Rd (M.P. 4.622) to Martin
+Luther King Blvd (M.P. 5.806)",s1,2006-01-01,design scenario,Unavailable,professional-judgment,2006-01-01,consultant

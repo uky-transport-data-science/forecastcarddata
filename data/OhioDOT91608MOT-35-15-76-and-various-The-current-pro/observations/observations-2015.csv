@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+91608-5095.0-1,91608-5095.0,Opening-Year-Forecast-poi-91608-5095.0,unknown,unknown,2015,00:00:00,23:59:59,volume,61393
+91608-5096.0-1,91608-5096.0,Opening-Year-Forecast-poi-91608-5096.0,unknown,unknown,2015,00:00:00,23:59:59,volume,53307
+91608-5097.0-1,91608-5097.0,Opening-Year-Forecast-poi-91608-5097.0,unknown,unknown,2015,00:00:00,23:59:59,volume,53307

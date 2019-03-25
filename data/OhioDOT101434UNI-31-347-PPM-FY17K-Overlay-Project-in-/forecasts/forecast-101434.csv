@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,101434-5187,Opening Year,00:00:00,23:59:59,volume,6700
-f3,1,101434-5187,Design Year,00:00:00,23:59:59,volume,8600
-f1,1,101434-5188,Opening Year,00:00:00,23:59:59,volume,5300
-f3,1,101434-5188,Design Year,00:00:00,23:59:59,volume,6700
-f1,1,101434-5189,Opening Year,00:00:00,23:59:59,volume,5000
-f3,1,101434-5189,Design Year,00:00:00,23:59:59,volume,6500
-f1,1,101434-5252,Opening Year,00:00:00,23:59:59,volume,5300
-f3,1,101434-5252,Design Year,00:00:00,23:59:59,volume,6700
-f1,1,101434-5253,Opening Year,00:00:00,23:59:59,volume,2900
-f3,1,101434-5253,Design Year,00:00:00,23:59:59,volume,3800
+Opening-Year-101434-5187.0,Opening-Year-Model-Run,101434-5187.0,Opening-Year-Forecast-poi-101434-5187.0,00:00:00,23:59:59,volume,6700
+Design-Year-101434-5187.0,Design-Year-Model-Run,101434-5187.0,Design-Year-Forecast-poi-101434-5187.0,00:00:00,23:59:59,volume,8600
+Opening-Year-101434-5188.0,Opening-Year-Model-Run,101434-5188.0,Opening-Year-Forecast-poi-101434-5188.0,00:00:00,23:59:59,volume,5300
+Design-Year-101434-5188.0,Design-Year-Model-Run,101434-5188.0,Design-Year-Forecast-poi-101434-5188.0,00:00:00,23:59:59,volume,6700
+Opening-Year-101434-5189.0,Opening-Year-Model-Run,101434-5189.0,Opening-Year-Forecast-poi-101434-5189.0,00:00:00,23:59:59,volume,5000
+Design-Year-101434-5189.0,Design-Year-Model-Run,101434-5189.0,Design-Year-Forecast-poi-101434-5189.0,00:00:00,23:59:59,volume,6500
+Opening-Year-101434-5252.0,Opening-Year-Model-Run,101434-5252.0,Opening-Year-Forecast-poi-101434-5252.0,00:00:00,23:59:59,volume,5300
+Design-Year-101434-5252.0,Design-Year-Model-Run,101434-5252.0,Design-Year-Forecast-poi-101434-5252.0,00:00:00,23:59:59,volume,6700
+Opening-Year-101434-5253.0,Opening-Year-Model-Run,101434-5253.0,Opening-Year-Forecast-poi-101434-5253.0,00:00:00,23:59:59,volume,2900
+Design-Year-101434-5253.0,Design-Year-Model-Run,101434-5253.0,Design-Year-Forecast-poi-101434-5253.0,00:00:00,23:59:59,volume,3800

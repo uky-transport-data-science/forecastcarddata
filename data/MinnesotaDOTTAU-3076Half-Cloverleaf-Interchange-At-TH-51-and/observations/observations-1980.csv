@@ -1,0 +1,9 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAU 3076-8075.0-1,TAU 3076-8075.0,Design-Year-Forecast-poi-TAU 3076-8075.0,unknown,unknown,1980,00:00:00,23:59:59,volume,12400
+TAU 3076-8076.0-1,TAU 3076-8076.0,Design-Year-Forecast-poi-TAU 3076-8076.0,unknown,unknown,1980,00:00:00,23:59:59,volume,12400
+TAU 3076-8077.0-1,TAU 3076-8077.0,Design-Year-Forecast-poi-TAU 3076-8077.0,unknown,unknown,1980,00:00:00,23:59:59,volume,13600
+TAU 3076-8078.0-1,TAU 3076-8078.0,Design-Year-Forecast-poi-TAU 3076-8078.0,unknown,unknown,1980,00:00:00,23:59:59,volume,13600
+TAU 3076-8079.0-1,TAU 3076-8079.0,Design-Year-Forecast-poi-TAU 3076-8079.0,unknown,unknown,1980,00:00:00,23:59:59,volume,3250
+TAU 3076-8080.0-1,TAU 3076-8080.0,Design-Year-Forecast-poi-TAU 3076-8080.0,unknown,unknown,1980,00:00:00,23:59:59,volume,3250
+TAU 3076-8081.0-1,TAU 3076-8081.0,Design-Year-Forecast-poi-TAU 3076-8081.0,unknown,unknown,1980,00:00:00,23:59:59,volume,3900
+TAU 3076-8082.0-1,TAU 3076-8082.0,Design-Year-Forecast-poi-TAU 3076-8082.0,unknown,unknown,1980,00:00:00,23:59:59,volume,3900

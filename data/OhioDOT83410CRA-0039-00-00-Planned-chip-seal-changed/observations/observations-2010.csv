@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+83410-1735.0-1,83410-1735.0,Opening-Year-Forecast-poi-83410-1735.0,unknown,unknown,2010,00:00:00,23:59:59,volume,500
+83410-1736.0-1,83410-1736.0,Opening-Year-Forecast-poi-83410-1736.0,unknown,unknown,2010,00:00:00,23:59:59,volume,730
+83410-1737.0-1,83410-1737.0,Opening-Year-Forecast-poi-83410-1737.0,unknown,unknown,2010,00:00:00,23:59:59,volume,850

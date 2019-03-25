@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82032-2337.0-1,82032-2337.0,Opening-Year-Forecast-poi-82032-2337.0,unknown,unknown,2013,00:00:00,23:59:59,volume,5660
+82032-2338.0-1,82032-2338.0,Opening-Year-Forecast-poi-82032-2338.0,unknown,unknown,2013,00:00:00,23:59:59,volume,6008
+82032-2339.0-1,82032-2339.0,Opening-Year-Forecast-poi-82032-2339.0,unknown,unknown,2013,00:00:00,23:59:59,volume,3680
+82032-2340.0-1,82032-2340.0,Opening-Year-Forecast-poi-82032-2340.0,unknown,unknown,2013,00:00:00,23:59:59,volume,4870
+82032-2341.0-1,82032-2341.0,Opening-Year-Forecast-poi-82032-2341.0,unknown,unknown,2013,00:00:00,23:59:59,volume,5160
+82032-2342.0-1,82032-2342.0,Opening-Year-Forecast-poi-82032-2342.0,unknown,unknown,2013,00:00:00,23:59:59,volume,10480

@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+87761-2709.0-1,87761-2709.0,Opening-Year-Forecast-poi-87761-2709.0,unknown,unknown,2014,00:00:00,23:59:59,volume,20880
+87761-2710.0-1,87761-2710.0,Opening-Year-Forecast-poi-87761-2710.0,unknown,unknown,2014,00:00:00,23:59:59,volume,20880
+87761-2711.0-1,87761-2711.0,Opening-Year-Forecast-poi-87761-2711.0,unknown,unknown,2014,00:00:00,23:59:59,volume,20880
+87761-2712.0-1,87761-2712.0,Opening-Year-Forecast-poi-87761-2712.0,unknown,unknown,2014,00:00:00,23:59:59,volume,20880
+87761-2713.0-1,87761-2713.0,Opening-Year-Forecast-poi-87761-2713.0,unknown,unknown,2014,00:00:00,23:59:59,volume,17130

@@ -1,2 +1,2 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-22649-169,  MRW714.64,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MRW714.64
+22649-169.0, MRW714.64,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MRW714.64

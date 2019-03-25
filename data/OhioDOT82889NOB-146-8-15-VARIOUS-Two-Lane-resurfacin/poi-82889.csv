@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-82889-4230,  NOB1468.95,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  NOB1468.95
-82889-4231,  NOB2152.305,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  NOB2152.305
-82889-4232,  NOB2852.65,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  NOB2852.65
-82889-4276,  NOB1471.3,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  NOB1471.3
+82889-4230.0, NOB1468.95,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, NOB1468.95
+82889-4231.0, NOB2152.305,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, NOB2152.305
+82889-4232.0, NOB2852.65,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, NOB2852.65
+82889-4276.0, NOB1471.3,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT, NOB1471.3

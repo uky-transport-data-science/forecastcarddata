@@ -1,2 +1,3 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-95290MAD-29-10.09||Prevously-D06-Culvert-FY16Replace-102qx87q-slab-top-culvert-at-MAD,s1,2013-01-01,Opening Year,Unavailable,unknown,2013-01-01,state DOT
+Opening-Year-Model-Run,OhioDOT-95290MAD-29-10.09||Prevously-D06-Culvert-FY16Replace-102qx87q-slab-top-culvert-at-MAD,s1,2013-01-01,design scenario,Unavailable,unknown,2013-01-01,state DOT
+Design-Year-Model-Run,OhioDOT-95290MAD-29-10.09||Prevously-D06-Culvert-FY16Replace-102qx87q-slab-top-culvert-at-MAD,s1,2013-01-01,design scenario,Unavailable,unknown,2013-01-01,state DOT

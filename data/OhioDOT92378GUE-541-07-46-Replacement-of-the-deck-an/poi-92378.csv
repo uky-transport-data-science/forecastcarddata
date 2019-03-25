@@ -1,2 +1,2 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-92378-3926,  GUE5417.46,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GUE5417.46
+92378-3926.0, GUE5417.46,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, GUE5417.46

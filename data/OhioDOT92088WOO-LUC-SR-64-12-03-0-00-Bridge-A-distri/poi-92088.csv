@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-92088-5370,  LUC00064.210,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  LUC00064.210
-92088-5378,  WOO640.00,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  WOO640.00
-92088-5379,  WOO0006511.900,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WOO0006511.900
-92088-5380,  WOO0006512.030,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WOO0006512.030
-92088-5388,  WOO0006412.030,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WOO0006412.030
+92088-5370.0, LUC00064.210,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, LUC00064.210
+92088-5378.0, WOO640.00,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, WOO640.00
+92088-5379.0, WOO0006511.900,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WOO0006511.900
+92088-5380.0, WOO0006512.030,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WOO0006512.030
+92088-5388.0, WOO0006412.030,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WOO0006412.030

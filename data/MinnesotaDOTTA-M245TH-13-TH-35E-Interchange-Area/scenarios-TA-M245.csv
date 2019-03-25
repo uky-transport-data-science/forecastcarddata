@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TA-M245TH 13 - TH 35E Interchange Area,s1,1980-01-01,Design Year,Unavailable,trendline,1980-01-01,state DOT
+Design-Year-Model-Run,MinnesotaDOT-TA-M245TH 13 - TH 35E Interchange Area,s1,1980-01-01,design scenario,Unavailable,trendline,1980-01-01,state DOT

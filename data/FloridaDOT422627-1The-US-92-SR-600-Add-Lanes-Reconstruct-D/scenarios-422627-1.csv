@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-422627-1The US 92/SR 600 Add Lanes & Reconstruct Design project from the I-4 Eastbound On-Ramp (MP 13.412) to the CR
-415 (Tomoka Farms Road, MP 15.962).",s1,2011-01-01,Opening Year,Unavailable,travel-model,2011-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-422627-1The US 92/SR 600 Add Lanes & Reconstruct Design project from the I-4 Eastbound On-Ramp (MP 13.412) to the CR
+415 (Tomoka Farms Road, MP 15.962).",s1,2011-01-01,design scenario,Unavailable,travel-model,2011-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-422627-1The US 92/SR 600 Add Lanes & Reconstruct Design project from the I-4 Eastbound On-Ramp (MP 13.412) to the CR
+415 (Tomoka Farms Road, MP 15.962).",s1,2011-01-01,design scenario,Unavailable,travel-model,2011-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-422627-1The US 92/SR 600 Add Lanes & Reconstruct Design project from the I-4 Eastbound On-Ramp (MP 13.412) to the CR
+415 (Tomoka Farms Road, MP 15.962).",s1,2011-01-01,design scenario,Unavailable,travel-model,2011-01-01,consultant

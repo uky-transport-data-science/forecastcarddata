@@ -1,0 +1,7 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+76191-2268.0-1,76191-2268.0,Opening-Year-Forecast-poi-76191-2268.0,unknown,unknown,2013,00:00:00,23:59:59,volume,56880
+76191-2269.0-1,76191-2269.0,Opening-Year-Forecast-poi-76191-2269.0,unknown,unknown,2013,00:00:00,23:59:59,volume,60890
+76191-2270.0-1,76191-2270.0,Opening-Year-Forecast-poi-76191-2270.0,unknown,unknown,2013,00:00:00,23:59:59,volume,78450
+76191-2271.0-1,76191-2271.0,Opening-Year-Forecast-poi-76191-2271.0,unknown,unknown,2013,00:00:00,23:59:59,volume,105700
+76191-2272.0-1,76191-2272.0,Opening-Year-Forecast-poi-76191-2272.0,unknown,unknown,2013,00:00:00,23:59:59,volume,93050
+76191-2273.0-1,76191-2273.0,Opening-Year-Forecast-poi-76191-2273.0,unknown,unknown,2013,00:00:00,23:59:59,volume,116450

@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-19578-18,  TUS25014.64,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  TUS25014.64
-19578-19,  TUS25017.15,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  TUS25017.15
-19578-20,  TUS2591.21,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  TUS2591.21
-19578-21,  TUS2591.38,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  TUS2591.38
-19578-22,  TUS2591.38,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  TUS2591.38
-19578-23,  TUS2590,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  TUS2590
+19578-18.0, TUS25014.64,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, TUS25014.64
+19578-19.0, TUS25017.15,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, TUS25017.15
+19578-20.0, TUS2591.21,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, TUS2591.21
+19578-21.0, TUS2591.38,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, TUS2591.38
+19578-22.0, TUS2591.38,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, TUS2591.38
+19578-23.0, TUS2590,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, TUS2590

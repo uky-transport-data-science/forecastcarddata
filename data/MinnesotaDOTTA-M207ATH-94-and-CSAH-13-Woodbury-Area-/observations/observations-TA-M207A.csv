@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TA-M207A-7566-1,TA-M207A-7566,Design Year,unknown,unknown,2003,00:00:00,23:59:59,volume,43000
-TA-M207A-7567-1,TA-M207A-7567,Design Year,unknown,unknown,2003,00:00:00,23:59:59,volume,43000
-TA-M207A-7568-1,TA-M207A-7568,Design Year,unknown,unknown,2003,00:00:00,23:59:59,volume,38500
-TA-M207A-7569-1,TA-M207A-7569,Design Year,unknown,unknown,2003,00:00:00,23:59:59,volume,38500
-TA-M207A-7570-1,TA-M207A-7570,Design Year,unknown,unknown,2003,00:00:00,23:59:59,volume,4000
-TA-M207A-7571-1,TA-M207A-7571,Design Year,unknown,unknown,2003,00:00:00,23:59:59,volume,4000
-TA-M207A-7572-1,TA-M207A-7572,Design Year,unknown,unknown,2003,00:00:00,23:59:59,volume,11500
-TA-M207A-7573-1,TA-M207A-7573,Design Year,unknown,unknown,2003,00:00:00,23:59:59,volume,11500

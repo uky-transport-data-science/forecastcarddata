@@ -1,15 +1,15 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,100290-5757,Opening Year,00:00:00,23:59:59,volume,82610
-f3,1,100290-5757,Design Year,00:00:00,23:59:59,volume,99330
-f1,1,100290-5758,Opening Year,00:00:00,23:59:59,volume,104500
-f3,1,100290-5758,Design Year,00:00:00,23:59:59,volume,126800
-f1,1,100290-5759,Opening Year,00:00:00,23:59:59,volume,92330
-f3,1,100290-5759,Design Year,00:00:00,23:59:59,volume,113000
-f1,1,100290-5760,Opening Year,00:00:00,23:59:59,volume,78420
-f3,1,100290-5760,Design Year,00:00:00,23:59:59,volume,95870
-f1,1,100290-5772,Opening Year,00:00:00,23:59:59,volume,72810
-f3,1,100290-5772,Design Year,00:00:00,23:59:59,volume,88290
-f1,1,100290-5773,Opening Year,00:00:00,23:59:59,volume,72450
-f3,1,100290-5773,Design Year,00:00:00,23:59:59,volume,79770
-f1,1,100290-5778,Opening Year,00:00:00,23:59:59,volume,14140
-f3,1,100290-5778,Design Year,00:00:00,23:59:59,volume,16850
+Opening-Year-100290-5757.0,Opening-Year-Model-Run,100290-5757.0,Opening-Year-Forecast-poi-100290-5757.0,00:00:00,23:59:59,volume,82610
+Design-Year-100290-5757.0,Design-Year-Model-Run,100290-5757.0,Design-Year-Forecast-poi-100290-5757.0,00:00:00,23:59:59,volume,99330
+Opening-Year-100290-5758.0,Opening-Year-Model-Run,100290-5758.0,Opening-Year-Forecast-poi-100290-5758.0,00:00:00,23:59:59,volume,104500
+Design-Year-100290-5758.0,Design-Year-Model-Run,100290-5758.0,Design-Year-Forecast-poi-100290-5758.0,00:00:00,23:59:59,volume,126800
+Opening-Year-100290-5759.0,Opening-Year-Model-Run,100290-5759.0,Opening-Year-Forecast-poi-100290-5759.0,00:00:00,23:59:59,volume,92330
+Design-Year-100290-5759.0,Design-Year-Model-Run,100290-5759.0,Design-Year-Forecast-poi-100290-5759.0,00:00:00,23:59:59,volume,113000
+Opening-Year-100290-5760.0,Opening-Year-Model-Run,100290-5760.0,Opening-Year-Forecast-poi-100290-5760.0,00:00:00,23:59:59,volume,78420
+Design-Year-100290-5760.0,Design-Year-Model-Run,100290-5760.0,Design-Year-Forecast-poi-100290-5760.0,00:00:00,23:59:59,volume,95870
+Opening-Year-100290-5772.0,Opening-Year-Model-Run,100290-5772.0,Opening-Year-Forecast-poi-100290-5772.0,00:00:00,23:59:59,volume,72810
+Design-Year-100290-5772.0,Design-Year-Model-Run,100290-5772.0,Design-Year-Forecast-poi-100290-5772.0,00:00:00,23:59:59,volume,88290
+Opening-Year-100290-5773.0,Opening-Year-Model-Run,100290-5773.0,Opening-Year-Forecast-poi-100290-5773.0,00:00:00,23:59:59,volume,72450
+Design-Year-100290-5773.0,Design-Year-Model-Run,100290-5773.0,Design-Year-Forecast-poi-100290-5773.0,00:00:00,23:59:59,volume,79770
+Opening-Year-100290-5778.0,Opening-Year-Model-Run,100290-5778.0,Opening-Year-Forecast-poi-100290-5778.0,00:00:00,23:59:59,volume,14140
+Design-Year-100290-5778.0,Design-Year-Model-Run,100290-5778.0,Design-Year-Forecast-poi-100290-5778.0,00:00:00,23:59:59,volume,16850

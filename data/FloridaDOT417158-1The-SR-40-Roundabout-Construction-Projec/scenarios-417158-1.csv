@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-417158-1The SR 40 Roundabout Construction Project from 0.095 miles west of SR 19 (M.P. 31.989) to
-0.031 miles west of Lake County Line (M.P. 32.175",s1,2005-01-01,Opening Year,Unavailable,travel-model,2005-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-417158-1The SR 40 Roundabout Construction Project from 0.095 miles west of SR 19 (M.P. 31.989) to
+0.031 miles west of Lake County Line (M.P. 32.176",s1,2005-01-01,design scenario,Unavailable,travel-model,2005-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-417158-1The SR 40 Roundabout Construction Project from 0.095 miles west of SR 19 (M.P. 31.989) to
+0.031 miles west of Lake County Line (M.P. 32.176",s1,2005-01-01,design scenario,Unavailable,travel-model,2005-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-417158-1The SR 40 Roundabout Construction Project from 0.095 miles west of SR 19 (M.P. 31.989) to
+0.031 miles west of Lake County Line (M.P. 32.176",s1,2005-01-01,design scenario,Unavailable,travel-model,2005-01-01,consultant

@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-237567-1SR 501 Resurfacing Project on SR 501 from CR 503 (M.P. 1.193) to the north of Otterbein Avenue
-(M.P. 2.671)",s1,2007-01-01,Opening Year,Unavailable,trendline,2007-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-237567-1SR 501 Resurfacing Project on SR 501 from CR 503 (M.P. 1.193) to the north of Otterbein Avenue
+(M.P. 2.671)",s1,2007-01-01,design scenario,Unavailable,trendline,2007-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-237567-1SR 501 Resurfacing Project on SR 501 from CR 503 (M.P. 1.193) to the north of Otterbein Avenue
+(M.P. 2.671)",s1,2007-01-01,design scenario,Unavailable,trendline,2007-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-237567-1SR 501 Resurfacing Project on SR 501 from CR 503 (M.P. 1.193) to the north of Otterbein Avenue
+(M.P. 2.671)",s1,2007-01-01,design scenario,Unavailable,trendline,2007-01-01,consultant

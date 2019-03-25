@@ -1,13 +1,13 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,81627-1871,Opening Year,00:00:00,23:59:59,volume,6740
-f3,1,81627-1871,Design Year,00:00:00,23:59:59,volume,8760
-f1,1,81627-1872,Opening Year,00:00:00,23:59:59,volume,8840
-f3,1,81627-1872,Design Year,00:00:00,23:59:59,volume,12490
-f1,1,81627-1873,Opening Year,00:00:00,23:59:59,volume,7370
-f3,1,81627-1873,Design Year,00:00:00,23:59:59,volume,8740
-f1,1,81627-1874,Opening Year,00:00:00,23:59:59,volume,5580
-f3,1,81627-1874,Design Year,00:00:00,23:59:59,volume,6680
-f1,1,81627-1875,Opening Year,00:00:00,23:59:59,volume,9970
-f3,1,81627-1875,Design Year,00:00:00,23:59:59,volume,13490
-f1,1,81627-1876,Opening Year,00:00:00,23:59:59,volume,7320
-f3,1,81627-1876,Design Year,00:00:00,23:59:59,volume,9230
+Opening-Year-81627-1871.0,Opening-Year-Model-Run,81627-1871.0,Opening-Year-Forecast-poi-81627-1871.0,00:00:00,23:59:59,volume,6740
+Design-Year-81627-1871.0,Design-Year-Model-Run,81627-1871.0,Design-Year-Forecast-poi-81627-1871.0,00:00:00,23:59:59,volume,8760
+Opening-Year-81627-1872.0,Opening-Year-Model-Run,81627-1872.0,Opening-Year-Forecast-poi-81627-1872.0,00:00:00,23:59:59,volume,8840
+Design-Year-81627-1872.0,Design-Year-Model-Run,81627-1872.0,Design-Year-Forecast-poi-81627-1872.0,00:00:00,23:59:59,volume,12490
+Opening-Year-81627-1873.0,Opening-Year-Model-Run,81627-1873.0,Opening-Year-Forecast-poi-81627-1873.0,00:00:00,23:59:59,volume,7370
+Design-Year-81627-1873.0,Design-Year-Model-Run,81627-1873.0,Design-Year-Forecast-poi-81627-1873.0,00:00:00,23:59:59,volume,8740
+Opening-Year-81627-1874.0,Opening-Year-Model-Run,81627-1874.0,Opening-Year-Forecast-poi-81627-1874.0,00:00:00,23:59:59,volume,5580
+Design-Year-81627-1874.0,Design-Year-Model-Run,81627-1874.0,Design-Year-Forecast-poi-81627-1874.0,00:00:00,23:59:59,volume,6680
+Opening-Year-81627-1875.0,Opening-Year-Model-Run,81627-1875.0,Opening-Year-Forecast-poi-81627-1875.0,00:00:00,23:59:59,volume,9970
+Design-Year-81627-1875.0,Design-Year-Model-Run,81627-1875.0,Design-Year-Forecast-poi-81627-1875.0,00:00:00,23:59:59,volume,13490
+Opening-Year-81627-1876.0,Opening-Year-Model-Run,81627-1876.0,Opening-Year-Forecast-poi-81627-1876.0,00:00:00,23:59:59,volume,7320
+Design-Year-81627-1876.0,Design-Year-Model-Run,81627-1876.0,Design-Year-Forecast-poi-81627-1876.0,00:00:00,23:59:59,volume,9230

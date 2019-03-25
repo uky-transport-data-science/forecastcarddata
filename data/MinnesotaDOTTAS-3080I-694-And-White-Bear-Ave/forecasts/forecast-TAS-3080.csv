@@ -1,9 +1,9 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TAS 3080-7832,Design Year,00:00:00,23:59:59,volume,10900
-f3,1,TAS 3080-7833,Design Year,00:00:00,23:59:59,volume,10900
-f3,1,TAS 3080-7834,Design Year,00:00:00,23:59:59,volume,9900
-f3,1,TAS 3080-7835,Design Year,00:00:00,23:59:59,volume,9900
-f3,1,TAS 3080-7836,Design Year,00:00:00,23:59:59,volume,21900
-f3,1,TAS 3080-7837,Design Year,00:00:00,23:59:59,volume,21900
-f3,1,TAS 3080-7838,Design Year,00:00:00,23:59:59,volume,19300
-f3,1,TAS 3080-7839,Design Year,00:00:00,23:59:59,volume,19300
+Design-Year-TAS 3080-7832.0,Design-Year-Model-Run,TAS 3080-7832.0,Design-Year-Forecast-poi-TAS 3080-7832.0,00:00:00,23:59:59,volume,10900
+Design-Year-TAS 3080-7833.0,Design-Year-Model-Run,TAS 3080-7833.0,Design-Year-Forecast-poi-TAS 3080-7833.0,00:00:00,23:59:59,volume,10900
+Design-Year-TAS 3080-7834.0,Design-Year-Model-Run,TAS 3080-7834.0,Design-Year-Forecast-poi-TAS 3080-7834.0,00:00:00,23:59:59,volume,9900
+Design-Year-TAS 3080-7835.0,Design-Year-Model-Run,TAS 3080-7835.0,Design-Year-Forecast-poi-TAS 3080-7835.0,00:00:00,23:59:59,volume,9900
+Design-Year-TAS 3080-7836.0,Design-Year-Model-Run,TAS 3080-7836.0,Design-Year-Forecast-poi-TAS 3080-7836.0,00:00:00,23:59:59,volume,21900
+Design-Year-TAS 3080-7837.0,Design-Year-Model-Run,TAS 3080-7837.0,Design-Year-Forecast-poi-TAS 3080-7837.0,00:00:00,23:59:59,volume,21900
+Design-Year-TAS 3080-7838.0,Design-Year-Model-Run,TAS 3080-7838.0,Design-Year-Forecast-poi-TAS 3080-7838.0,00:00:00,23:59:59,volume,19300
+Design-Year-TAS 3080-7839.0,Design-Year-Model-Run,TAS 3080-7839.0,Design-Year-Forecast-poi-TAS 3080-7839.0,00:00:00,23:59:59,volume,19300

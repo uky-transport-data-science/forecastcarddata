@@ -1,13 +1,13 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,102520-5524,Opening Year,00:00:00,23:59:59,volume,68780
-f3,1,102520-5524,Design Year,00:00:00,23:59:59,volume,72880
-f1,1,102520-5525,Opening Year,00:00:00,23:59:59,volume,76310
-f3,1,102520-5525,Design Year,00:00:00,23:59:59,volume,80940
-f1,1,102520-5601,Opening Year,00:00:00,23:59:59,volume,18020
-f3,1,102520-5601,Design Year,00:00:00,23:59:59,volume,21430
-f1,1,102520-5602,Opening Year,00:00:00,23:59:59,volume,31550
-f3,1,102520-5602,Design Year,00:00:00,23:59:59,volume,32880
-f1,1,102520-5603,Opening Year,00:00:00,23:59:59,volume,31380
-f3,1,102520-5603,Design Year,00:00:00,23:59:59,volume,31380
-f1,1,102520-5604,Opening Year,00:00:00,23:59:59,volume,11940
-f3,1,102520-5604,Design Year,00:00:00,23:59:59,volume,12110
+Opening-Year-102520-5524.0,Opening-Year-Model-Run,102520-5524.0,Opening-Year-Forecast-poi-102520-5524.0,00:00:00,23:59:59,volume,68780
+Design-Year-102520-5524.0,Design-Year-Model-Run,102520-5524.0,Design-Year-Forecast-poi-102520-5524.0,00:00:00,23:59:59,volume,72880
+Opening-Year-102520-5525.0,Opening-Year-Model-Run,102520-5525.0,Opening-Year-Forecast-poi-102520-5525.0,00:00:00,23:59:59,volume,76310
+Design-Year-102520-5525.0,Design-Year-Model-Run,102520-5525.0,Design-Year-Forecast-poi-102520-5525.0,00:00:00,23:59:59,volume,80940
+Opening-Year-102520-5601.0,Opening-Year-Model-Run,102520-5601.0,Opening-Year-Forecast-poi-102520-5601.0,00:00:00,23:59:59,volume,18020
+Design-Year-102520-5601.0,Design-Year-Model-Run,102520-5601.0,Design-Year-Forecast-poi-102520-5601.0,00:00:00,23:59:59,volume,21430
+Opening-Year-102520-5602.0,Opening-Year-Model-Run,102520-5602.0,Opening-Year-Forecast-poi-102520-5602.0,00:00:00,23:59:59,volume,31550
+Design-Year-102520-5602.0,Design-Year-Model-Run,102520-5602.0,Design-Year-Forecast-poi-102520-5602.0,00:00:00,23:59:59,volume,32880
+Opening-Year-102520-5603.0,Opening-Year-Model-Run,102520-5603.0,Opening-Year-Forecast-poi-102520-5603.0,00:00:00,23:59:59,volume,31380
+Design-Year-102520-5603.0,Design-Year-Model-Run,102520-5603.0,Design-Year-Forecast-poi-102520-5603.0,00:00:00,23:59:59,volume,31380
+Opening-Year-102520-5604.0,Opening-Year-Model-Run,102520-5604.0,Opening-Year-Forecast-poi-102520-5604.0,00:00:00,23:59:59,volume,11940
+Design-Year-102520-5604.0,Design-Year-Model-Run,102520-5604.0,Design-Year-Forecast-poi-102520-5604.0,00:00:00,23:59:59,volume,12110

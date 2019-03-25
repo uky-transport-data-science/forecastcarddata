@@ -1,0 +1,16 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81338-2639.0-1,81338-2639.0,Opening-Year-Forecast-poi-81338-2639.0,unknown,unknown,2013,00:00:00,23:59:59,volume,35920
+81338-2640.0-1,81338-2640.0,Opening-Year-Forecast-poi-81338-2640.0,unknown,unknown,2013,00:00:00,23:59:59,volume,41440
+81338-2651.0-1,81338-2651.0,Opening-Year-Forecast-poi-81338-2651.0,unknown,unknown,2013,00:00:00,23:59:59,volume,13130
+81338-2652.0-1,81338-2652.0,Opening-Year-Forecast-poi-81338-2652.0,unknown,unknown,2013,00:00:00,23:59:59,volume,16990
+81338-2653.0-1,81338-2653.0,Opening-Year-Forecast-poi-81338-2653.0,unknown,unknown,2013,00:00:00,23:59:59,volume,16990
+81338-2654.0-1,81338-2654.0,Opening-Year-Forecast-poi-81338-2654.0,unknown,unknown,2013,00:00:00,23:59:59,volume,25580
+81338-2655.0-1,81338-2655.0,Opening-Year-Forecast-poi-81338-2655.0,unknown,unknown,2013,00:00:00,23:59:59,volume,25580
+81338-2656.0-1,81338-2656.0,Opening-Year-Forecast-poi-81338-2656.0,unknown,unknown,2013,00:00:00,23:59:59,volume,25580
+81338-2657.0-1,81338-2657.0,Opening-Year-Forecast-poi-81338-2657.0,unknown,unknown,2013,00:00:00,23:59:59,volume,25580
+81338-2658.0-1,81338-2658.0,Opening-Year-Forecast-poi-81338-2658.0,unknown,unknown,2013,00:00:00,23:59:59,volume,25580
+81338-2659.0-1,81338-2659.0,Opening-Year-Forecast-poi-81338-2659.0,unknown,unknown,2013,00:00:00,23:59:59,volume,25580
+81338-2660.0-1,81338-2660.0,Opening-Year-Forecast-poi-81338-2660.0,unknown,unknown,2013,00:00:00,23:59:59,volume,10970
+81338-2661.0-1,81338-2661.0,Opening-Year-Forecast-poi-81338-2661.0,unknown,unknown,2013,00:00:00,23:59:59,volume,10970
+81338-2662.0-1,81338-2662.0,Opening-Year-Forecast-poi-81338-2662.0,unknown,unknown,2013,00:00:00,23:59:59,volume,5860
+81338-2663.0-1,81338-2663.0,Opening-Year-Forecast-poi-81338-2663.0,unknown,unknown,2013,00:00:00,23:59:59,volume,5860

@@ -1,0 +1,11 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAS3081B-14-8123.0-1,TAS3081B-14-8123.0,Design-Year-Forecast-poi-TAS3081B-14-8123.0,unknown,unknown,1990,00:00:00,23:59:59,volume,19000
+TAS3081B-14-8124.0-1,TAS3081B-14-8124.0,Design-Year-Forecast-poi-TAS3081B-14-8124.0,unknown,unknown,1990,00:00:00,23:59:59,volume,19000
+TAS3081B-14-8125.0-1,TAS3081B-14-8125.0,Design-Year-Forecast-poi-TAS3081B-14-8125.0,unknown,unknown,1990,00:00:00,23:59:59,volume,19500
+TAS3081B-14-8126.0-1,TAS3081B-14-8126.0,Design-Year-Forecast-poi-TAS3081B-14-8126.0,unknown,unknown,1990,00:00:00,23:59:59,volume,19500
+TAS3081B-14-8127.0-1,TAS3081B-14-8127.0,Design-Year-Forecast-poi-TAS3081B-14-8127.0,unknown,unknown,1990,00:00:00,23:59:59,volume,18000
+TAS3081B-14-8128.0-1,TAS3081B-14-8128.0,Design-Year-Forecast-poi-TAS3081B-14-8128.0,unknown,unknown,1990,00:00:00,23:59:59,volume,18000
+TAS3081B-14-8129.0-1,TAS3081B-14-8129.0,Design-Year-Forecast-poi-TAS3081B-14-8129.0,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS3081B-14-8130.0-1,TAS3081B-14-8130.0,Design-Year-Forecast-poi-TAS3081B-14-8130.0,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS3081B-14-8131.0-1,TAS3081B-14-8131.0,Design-Year-Forecast-poi-TAS3081B-14-8131.0,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS3081B-14-8132.0-1,TAS3081B-14-8132.0,Design-Year-Forecast-poi-TAS3081B-14-8132.0,unknown,unknown,1990,00:00:00,23:59:59,volume,14750

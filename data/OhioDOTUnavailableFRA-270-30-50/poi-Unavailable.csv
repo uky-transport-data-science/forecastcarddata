@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-4096,  FRA27030.15,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27030.15
-Unavailable-4097,  FRA27031.6,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27031.6
-Unavailable-4098,  FRA27033.9,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27033.9
-Unavailable-4287,  FRA27034.57,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27034.57
-Unavailable-4288,  FRA27030.09,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27030.09
-Unavailable-4289,  FRA27031.17,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FRA27031.17
+Unavailable-4096.0, FRA27030.15,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, FRA27030.15
+Unavailable-4097.0, FRA27031.6,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, FRA27031.6
+Unavailable-4098.0, FRA27033.9,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, FRA27033.9
+Unavailable-4287.0, FRA27034.57,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, FRA27034.57
+Unavailable-4288.0, FRA27030.09,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, FRA27030.09
+Unavailable-4289.0, FRA27031.17,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, FRA27031.17

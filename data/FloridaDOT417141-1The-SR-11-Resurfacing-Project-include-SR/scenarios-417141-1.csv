@@ -1,2 +1,4 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-417141-1The SR 11  Resurfacing Project include SR 11 from Volusia County Line (M.P. 0.000) to SR 5/US 1 (M.P. 15.507).,s1,2005-01-01,Opening Year,Unavailable,trendline,2005-01-01,consultant
+Opening-Year-Model-Run,FloridaDOT-417141-1The SR 11  Resurfacing Project include SR 11 from Volusia County Line (M.P. 0.000) to SR 5/US 1 (M.P. 15.507).,s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant
+Interim-Year-Model-Run,FloridaDOT-417141-1The SR 11  Resurfacing Project include SR 11 from Volusia County Line (M.P. 0.000) to SR 5/US 1 (M.P. 15.507).,s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant
+Design-Year-Model-Run,FloridaDOT-417141-1The SR 11  Resurfacing Project include SR 11 from Volusia County Line (M.P. 0.000) to SR 5/US 1 (M.P. 15.507).,s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant

@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+78041-2284.0-1,78041-2284.0,Opening-Year-Forecast-poi-78041-2284.0,unknown,unknown,2012,00:00:00,23:59:59,volume,15610
+78041-2285.0-1,78041-2285.0,Opening-Year-Forecast-poi-78041-2285.0,unknown,unknown,2012,00:00:00,23:59:59,volume,9630
+78041-2286.0-1,78041-2286.0,Opening-Year-Forecast-poi-78041-2286.0,unknown,unknown,2012,00:00:00,23:59:59,volume,13440
+78041-2287.0-1,78041-2287.0,Opening-Year-Forecast-poi-78041-2287.0,unknown,unknown,2012,00:00:00,23:59:59,volume,13930

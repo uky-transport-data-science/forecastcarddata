@@ -1,19 +1,19 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 17-8321,   TH 56 (Concord St.)South of Linden St. (District Limits)North of 59th St. E.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of Linden St. (District Limits)North of 59th St. E.NB
-SPARS 17-8322,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 17-8323,   TH 56 (Concord St.)South of Prop. Airport Rd.North of 60th St. E.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of Prop. Airport Rd.North of 60th St. E.NB
-SPARS 17-8324,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 17-8325,   TH 56 (Concord St.)South of Upper 61st St. E.North of 63rd St. ENB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of Upper 61st St. E.North of 63rd St. ENB
-SPARS 17-8326,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 17-8327,   TH 56 (Concord St.)South of 63rd St. E.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of 63rd St. E.NB
-SPARS 17-8328,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 17-8329,   TH 56 (Concord St.)South of 64th St. E.North of Bushnell St.,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of 64th St. E.North of Bushnell St.
-SPARS 17-8330,  ,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,  
-SPARS 17-8331,   TH 56 (Concord St.)South of Bushnell St.North of 65th St. E.NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of Bushnell St.North of 65th St. E.NB
-SPARS 17-8332,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 17-8333,   TH 56 (Concord St.)South of Gladstone St.North of Co. Rd. 77(Dickman Trail)NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of Gladstone St.North of Co. Rd. 77(Dickman Trail)NB
-SPARS 17-8334,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 17-8335,   TH 56 (Concord St.)South of Co. Rd. 77(Dickman trail)North of CSAH 26(70th St. E)NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of Co. Rd. 77(Dickman trail)North of CSAH 26(70th St. E)NB
-SPARS 17-8336,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 17-8337,   TH 56 (Concord St.)South of CSAH 26(70th St. E)NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 56 (Concord St.)South of CSAH 26(70th St. E)NB
-SPARS 17-8338,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPARS 17-8321.0," , TH 56 (Concord St.)South of Linden St. (District Limits)North of 59th St. E.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of Linden St. (District Limits)North of 59th St. E.NB"
+SPARS 17-8322.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 17-8323.0," , TH 56 (Concord St.)South of Prop. Airport Rd.North of 60th St. E.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of Prop. Airport Rd.North of 60th St. E.NB"
+SPARS 17-8324.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 17-8325.0," , TH 56 (Concord St.)South of Upper 61st St. E.North of 63rd St. ENB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of Upper 61st St. E.North of 63rd St. ENB"
+SPARS 17-8326.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 17-8327.0," , TH 56 (Concord St.)South of 63rd St. E.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of 63rd St. E.NB"
+SPARS 17-8328.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 17-8329.0," , TH 56 (Concord St.)South of 64th St. E.North of Bushnell St.",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of 64th St. E.North of Bushnell St."
+SPARS 17-8330.0," ,",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," ,"
+SPARS 17-8331.0," , TH 56 (Concord St.)South of Bushnell St.North of 65th St. E.NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of Bushnell St.North of 65th St. E.NB"
+SPARS 17-8332.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 17-8333.0," , TH 56 (Concord St.)South of Gladstone St.North of Co. Rd. 77(Dickman Trail)NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of Gladstone St.North of Co. Rd. 77(Dickman Trail)NB"
+SPARS 17-8334.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 17-8335.0," , TH 56 (Concord St.)South of Co. Rd. 77(Dickman trail)North of CSAH 26(70th St. E)NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of Co. Rd. 77(Dickman trail)North of CSAH 26(70th St. E)NB"
+SPARS 17-8336.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 17-8337.0," , TH 56 (Concord St.)South of CSAH 26(70th St. E)NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 56 (Concord St.)South of CSAH 26(70th St. E)NB"
+SPARS 17-8338.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"

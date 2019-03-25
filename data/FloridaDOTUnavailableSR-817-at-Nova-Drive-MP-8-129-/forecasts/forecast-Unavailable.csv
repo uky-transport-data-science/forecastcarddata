@@ -1,2 +1,2 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,Unavailable-86220000.0,Opening Year,00:00:00,23:59:59,volume,53600
+Opening-Year-Unavailable-86220000.0,Opening-Year-Model-Run,Unavailable-86220000.0,Opening-Year-Forecast-poi-Unavailable-86220000.0,00:00:00,23:59:59,volume,53600

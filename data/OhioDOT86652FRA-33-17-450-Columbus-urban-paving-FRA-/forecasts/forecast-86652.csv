@@ -1,7 +1,7 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,86652-4039,Opening Year,00:00:00,23:59:59,volume,14000
-f3,1,86652-4039,Design Year,00:00:00,23:59:59,volume,14000
-f1,1,86652-4054,Opening Year,00:00:00,23:59:59,volume,16000
-f3,1,86652-4054,Design Year,00:00:00,23:59:59,volume,16000
-f1,1,86652-4055,Opening Year,00:00:00,23:59:59,volume,13000
-f3,1,86652-4055,Design Year,00:00:00,23:59:59,volume,14000
+Opening-Year-86652-4039.0,Opening-Year-Model-Run,86652-4039.0,Opening-Year-Forecast-poi-86652-4039.0,00:00:00,23:59:59,volume,14000
+Design-Year-86652-4039.0,Design-Year-Model-Run,86652-4039.0,Design-Year-Forecast-poi-86652-4039.0,00:00:00,23:59:59,volume,14000
+Opening-Year-86652-4054.0,Opening-Year-Model-Run,86652-4054.0,Opening-Year-Forecast-poi-86652-4054.0,00:00:00,23:59:59,volume,16000
+Design-Year-86652-4054.0,Design-Year-Model-Run,86652-4054.0,Design-Year-Forecast-poi-86652-4054.0,00:00:00,23:59:59,volume,16000
+Opening-Year-86652-4055.0,Opening-Year-Model-Run,86652-4055.0,Opening-Year-Forecast-poi-86652-4055.0,00:00:00,23:59:59,volume,13000
+Design-Year-86652-4055.0,Design-Year-Model-Run,86652-4055.0,Design-Year-Forecast-poi-86652-4055.0,00:00:00,23:59:59,volume,14000

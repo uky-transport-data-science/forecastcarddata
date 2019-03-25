@@ -1,0 +1,17 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAS 3065A-14-7786.0-1,TAS 3065A-14-7786.0,Design-Year-Forecast-poi-TAS 3065A-14-7786.0,unknown,unknown,1985,00:00:00,23:59:59,volume,28700
+TAS 3065A-14-7787.0-1,TAS 3065A-14-7787.0,Design-Year-Forecast-poi-TAS 3065A-14-7787.0,unknown,unknown,1985,00:00:00,23:59:59,volume,28700
+TAS 3065A-14-7788.0-1,TAS 3065A-14-7788.0,Design-Year-Forecast-poi-TAS 3065A-14-7788.0,unknown,unknown,1985,00:00:00,23:59:59,volume,28700
+TAS 3065A-14-7789.0-1,TAS 3065A-14-7789.0,Design-Year-Forecast-poi-TAS 3065A-14-7789.0,unknown,unknown,1985,00:00:00,23:59:59,volume,28700
+TAS 3065A-14-7790.0-1,TAS 3065A-14-7790.0,Design-Year-Forecast-poi-TAS 3065A-14-7790.0,unknown,unknown,1985,00:00:00,23:59:59,volume,29750
+TAS 3065A-14-7791.0-1,TAS 3065A-14-7791.0,Design-Year-Forecast-poi-TAS 3065A-14-7791.0,unknown,unknown,1985,00:00:00,23:59:59,volume,29750
+TAS 3065A-14-7792.0-1,TAS 3065A-14-7792.0,Design-Year-Forecast-poi-TAS 3065A-14-7792.0,unknown,unknown,1985,00:00:00,23:59:59,volume,29750
+TAS 3065A-14-7793.0-1,TAS 3065A-14-7793.0,Design-Year-Forecast-poi-TAS 3065A-14-7793.0,unknown,unknown,1985,00:00:00,23:59:59,volume,29750
+TAS 3065A-14-7794.0-1,TAS 3065A-14-7794.0,Design-Year-Forecast-poi-TAS 3065A-14-7794.0,unknown,unknown,1985,00:00:00,23:59:59,volume,29675
+TAS 3065A-14-7795.0-1,TAS 3065A-14-7795.0,Design-Year-Forecast-poi-TAS 3065A-14-7795.0,unknown,unknown,1985,00:00:00,23:59:59,volume,29675
+TAS 3065A-14-7796.0-1,TAS 3065A-14-7796.0,Design-Year-Forecast-poi-TAS 3065A-14-7796.0,unknown,unknown,1985,00:00:00,23:59:59,volume,27925
+TAS 3065A-14-7797.0-1,TAS 3065A-14-7797.0,Design-Year-Forecast-poi-TAS 3065A-14-7797.0,unknown,unknown,1985,00:00:00,23:59:59,volume,27925
+TAS 3065A-14-7798.0-1,TAS 3065A-14-7798.0,Design-Year-Forecast-poi-TAS 3065A-14-7798.0,unknown,unknown,1985,00:00:00,23:59:59,volume,26325
+TAS 3065A-14-7799.0-1,TAS 3065A-14-7799.0,Design-Year-Forecast-poi-TAS 3065A-14-7799.0,unknown,unknown,1985,00:00:00,23:59:59,volume,26325
+TAS 3065A-14-7800.0-1,TAS 3065A-14-7800.0,Design-Year-Forecast-poi-TAS 3065A-14-7800.0,unknown,unknown,1985,00:00:00,23:59:59,volume,21750
+TAS 3065A-14-7801.0-1,TAS 3065A-14-7801.0,Design-Year-Forecast-poi-TAS 3065A-14-7801.0,unknown,unknown,1985,00:00:00,23:59:59,volume,21750

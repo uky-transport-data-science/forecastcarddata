@@ -1,0 +1,3 @@
+run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
+Opening-Year-Model-Run,OhioDOT-83406ASD-0511-00.00||Resurfacing--ASD-511-00.00-(SR-39)--to--06.94-(US-30)-/-06.92-(U,s1,2012-01-01,design scenario,Unavailable,unknown,2012-01-01,state DOT
+Design-Year-Model-Run,OhioDOT-83406ASD-0511-00.00||Resurfacing--ASD-511-00.00-(SR-39)--to--06.94-(US-30)-/-06.92-(U,s1,2012-01-01,design scenario,Unavailable,unknown,2012-01-01,state DOT

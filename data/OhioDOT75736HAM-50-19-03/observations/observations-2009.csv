@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+75736-1565.0-1,75736-1565.0,Opening-Year-Forecast-poi-75736-1565.0,unknown,unknown,2009,00:00:00,23:59:59,volume,36860
+75736-1566.0-1,75736-1566.0,Opening-Year-Forecast-poi-75736-1566.0,unknown,unknown,2009,00:00:00,23:59:59,volume,34540
+75736-1567.0-1,75736-1567.0,Opening-Year-Forecast-poi-75736-1567.0,unknown,unknown,2009,00:00:00,23:59:59,volume,28520

@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+97724-2994.0-1,97724-2994.0,Opening-Year-Forecast-poi-97724-2994.0,unknown,unknown,2013,00:00:00,23:59:59,volume,32890
+97724-2995.0-1,97724-2995.0,Opening-Year-Forecast-poi-97724-2995.0,unknown,unknown,2013,00:00:00,23:59:59,volume,32890
+97724-2996.0-1,97724-2996.0,Opening-Year-Forecast-poi-97724-2996.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32072
+97724-2997.0-1,97724-2997.0,Opening-Year-Forecast-poi-97724-2997.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32072
+97724-2998.0-1,97724-2998.0,Opening-Year-Forecast-poi-97724-2998.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32072
+97724-2999.0-1,97724-2999.0,Opening-Year-Forecast-poi-97724-2999.0,unknown,unknown,2013,00:00:00,23:59:59,volume,32960
+97724-3000.0-1,97724-3000.0,Opening-Year-Forecast-poi-97724-3000.0,unknown,unknown,2013,00:00:00,23:59:59,volume,36250
+97724-3001.0-1,97724-3001.0,Opening-Year-Forecast-poi-97724-3001.0,unknown,unknown,2013,00:00:00,23:59:59,volume,32890
+97724-3002.0-1,97724-3002.0,Opening-Year-Forecast-poi-97724-3002.0,unknown,unknown,2013,00:00:00,23:59:59,volume,32890
+97724-3003.0-1,97724-3003.0,Opening-Year-Forecast-poi-97724-3003.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32072
+97724-3004.0-1,97724-3004.0,Opening-Year-Forecast-poi-97724-3004.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32072
+97724-3005.0-1,97724-3005.0,Opening-Year-Forecast-poi-97724-3005.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32072
+97724-3006.0-1,97724-3006.0,Opening-Year-Forecast-poi-97724-3006.0,unknown,unknown,2013,00:00:00,23:59:59,volume,32960
+97724-3007.0-1,97724-3007.0,Opening-Year-Forecast-poi-97724-3007.0,unknown,unknown,2013,00:00:00,23:59:59,volume,36250

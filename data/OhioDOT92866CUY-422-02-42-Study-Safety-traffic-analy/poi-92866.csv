@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-92866-4018,  CUY004222.370,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY004222.370
-92866-4019,  CUY000872.470,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY000872.470
-92866-4020,  CUY000872.710,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY000872.710
-92866-4132,  CUY872.49,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY872.49
-92866-4133,  CUY872.58,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY872.58
-92866-4134,  CUY872.74,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY872.74
-92866-4135,  CUY4222.4,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  CUY4222.4
-92866-4181,  CUY4222.84,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CUY4222.84
+92866-4018.0, CUY004222.370,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CUY004222.370
+92866-4019.0, CUY000872.470,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CUY000872.470
+92866-4020.0, CUY000872.710,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CUY000872.710
+92866-4132.0, CUY872.49,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CUY872.49
+92866-4133.0, CUY872.58,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CUY872.58
+92866-4134.0, CUY872.74,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CUY872.74
+92866-4135.0, CUY4222.4,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, CUY4222.4
+92866-4181.0, CUY4222.84,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, CUY4222.84

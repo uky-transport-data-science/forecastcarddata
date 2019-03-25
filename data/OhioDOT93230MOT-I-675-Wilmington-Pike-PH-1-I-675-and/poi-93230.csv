@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-93230-3294,  GRE006751.720,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  GRE006751.720
-93230-3295,  MOT006756.820,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MOT006756.820
-93230-3296,  MOT006753.600,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MOT006753.600
-93230-3325,  GRE006754.510,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  GRE006754.510
+93230-3294.0, GRE006751.720,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, GRE006751.720
+93230-3295.0, MOT006756.820,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MOT006756.820
+93230-3296.0, MOT006753.600,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MOT006753.600
+93230-3325.0, GRE006754.510,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, GRE006754.510

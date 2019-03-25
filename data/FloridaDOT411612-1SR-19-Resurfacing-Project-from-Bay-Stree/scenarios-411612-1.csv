@@ -1,2 +1,4 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-411612-1SR 19 Resurfacing Project from Bay Street (MP 10.000) to CR 452 (MOP 1.563),s1,2006-01-01,Opening Year,Unavailable,travel-model,2006-01-01,consultant
+Opening-Year-Model-Run,FloridaDOT-411612-1SR 19 Resurfacing Project from Bay Street (MP 10.000) to CR 452 (MOP 1.563),s1,2006-01-01,design scenario,Unavailable,travel-model,2006-01-01,consultant
+Interim-Year-Model-Run,FloridaDOT-411612-1SR 19 Resurfacing Project from Bay Street (MP 10.000) to CR 452 (MOP 1.563),s1,2006-01-01,design scenario,Unavailable,travel-model,2006-01-01,consultant
+Design-Year-Model-Run,FloridaDOT-411612-1SR 19 Resurfacing Project from Bay Street (MP 10.000) to CR 452 (MOP 1.563),s1,2006-01-01,design scenario,Unavailable,travel-model,2006-01-01,consultant

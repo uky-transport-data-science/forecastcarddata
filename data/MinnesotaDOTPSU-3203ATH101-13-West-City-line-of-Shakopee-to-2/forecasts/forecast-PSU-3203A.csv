@@ -1,11 +1,11 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,PSU 3203A-8101,Design Year,00:00:00,23:59:59,volume,4545
-f3,1,PSU 3203A-8102,Design Year,00:00:00,23:59:59,volume,4545
-f3,1,PSU 3203A-8103,Design Year,00:00:00,23:59:59,volume,4635
-f3,1,PSU 3203A-8104,Design Year,00:00:00,23:59:59,volume,4635
-f3,1,PSU 3203A-8105,Design Year,00:00:00,23:59:59,volume,4735
-f3,1,PSU 3203A-8106,Design Year,00:00:00,23:59:59,volume,4735
-f3,1,PSU 3203A-8107,Design Year,00:00:00,23:59:59,volume,7295
-f3,1,PSU 3203A-8108,Design Year,00:00:00,23:59:59,volume,7295
-f3,1,PSU 3203A-8109,Design Year,00:00:00,23:59:59,volume,2840
-f3,1,PSU 3203A-8110,Design Year,00:00:00,23:59:59,volume,2840
+Design-Year-PSU 3203A-8101.0,Design-Year-Model-Run,PSU 3203A-8101.0,Design-Year-Forecast-poi-PSU 3203A-8101.0,00:00:00,23:59:59,volume,4545
+Design-Year-PSU 3203A-8102.0,Design-Year-Model-Run,PSU 3203A-8102.0,Design-Year-Forecast-poi-PSU 3203A-8102.0,00:00:00,23:59:59,volume,4545
+Design-Year-PSU 3203A-8103.0,Design-Year-Model-Run,PSU 3203A-8103.0,Design-Year-Forecast-poi-PSU 3203A-8103.0,00:00:00,23:59:59,volume,4635
+Design-Year-PSU 3203A-8104.0,Design-Year-Model-Run,PSU 3203A-8104.0,Design-Year-Forecast-poi-PSU 3203A-8104.0,00:00:00,23:59:59,volume,4635
+Design-Year-PSU 3203A-8105.0,Design-Year-Model-Run,PSU 3203A-8105.0,Design-Year-Forecast-poi-PSU 3203A-8105.0,00:00:00,23:59:59,volume,4735
+Design-Year-PSU 3203A-8106.0,Design-Year-Model-Run,PSU 3203A-8106.0,Design-Year-Forecast-poi-PSU 3203A-8106.0,00:00:00,23:59:59,volume,4735
+Design-Year-PSU 3203A-8107.0,Design-Year-Model-Run,PSU 3203A-8107.0,Design-Year-Forecast-poi-PSU 3203A-8107.0,00:00:00,23:59:59,volume,7295
+Design-Year-PSU 3203A-8108.0,Design-Year-Model-Run,PSU 3203A-8108.0,Design-Year-Forecast-poi-PSU 3203A-8108.0,00:00:00,23:59:59,volume,7295
+Design-Year-PSU 3203A-8109.0,Design-Year-Model-Run,PSU 3203A-8109.0,Design-Year-Forecast-poi-PSU 3203A-8109.0,00:00:00,23:59:59,volume,2840
+Design-Year-PSU 3203A-8110.0,Design-Year-Model-Run,PSU 3203A-8110.0,Design-Year-Forecast-poi-PSU 3203A-8110.0,00:00:00,23:59:59,volume,2840

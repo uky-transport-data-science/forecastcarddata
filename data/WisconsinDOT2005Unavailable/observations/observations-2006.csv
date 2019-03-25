@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+2005-6549.0-1,2005-6549.0,Opening-Year-Forecast-poi-2005-6549.0,unknown,unknown,2006,00:00:00,23:59:59,volume,6300
+2005-6550.0-1,2005-6550.0,Opening-Year-Forecast-poi-2005-6550.0,unknown,unknown,2006,00:00:00,23:59:59,volume,8000
+2005-6551.0-1,2005-6551.0,Opening-Year-Forecast-poi-2005-6551.0,unknown,unknown,2006,00:00:00,23:59:59,volume,5900

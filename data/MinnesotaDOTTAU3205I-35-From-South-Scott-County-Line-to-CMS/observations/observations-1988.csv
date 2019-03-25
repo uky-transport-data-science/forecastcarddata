@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAU3205-8195.0-1,TAU3205-8195.0,Design-Year-Forecast-poi-TAU3205-8195.0,unknown,unknown,1988,00:00:00,23:59:59,volume,2250
+TAU3205-8196.0-1,TAU3205-8196.0,Design-Year-Forecast-poi-TAU3205-8196.0,unknown,unknown,1988,00:00:00,23:59:59,volume,2250
+TAU3205-8197.0-1,TAU3205-8197.0,Design-Year-Forecast-poi-TAU3205-8197.0,unknown,unknown,1988,00:00:00,23:59:59,volume,2250
+TAU3205-8198.0-1,TAU3205-8198.0,Design-Year-Forecast-poi-TAU3205-8198.0,unknown,unknown,1988,00:00:00,23:59:59,volume,2250

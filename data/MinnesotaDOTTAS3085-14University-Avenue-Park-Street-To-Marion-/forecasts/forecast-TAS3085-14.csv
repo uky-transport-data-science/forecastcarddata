@@ -1,15 +1,15 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TAS3085-14-8155,Design Year,00:00:00,23:59:59,volume,8100
-f3,1,TAS3085-14-8156,Design Year,00:00:00,23:59:59,volume,8100
-f3,1,TAS3085-14-8157,Design Year,00:00:00,23:59:59,volume,6200
-f3,1,TAS3085-14-8158,Design Year,00:00:00,23:59:59,volume,6200
-f3,1,TAS3085-14-8159,Design Year,00:00:00,23:59:59,volume,6500
-f3,1,TAS3085-14-8160,Design Year,00:00:00,23:59:59,volume,6500
-f3,1,TAS3085-14-8161,Design Year,00:00:00,23:59:59,volume,5400
-f3,1,TAS3085-14-8162,Design Year,00:00:00,23:59:59,volume,5400
-f3,1,TAS3085-14-8163,Design Year,00:00:00,23:59:59,volume,7900
-f3,1,TAS3085-14-8164,Design Year,00:00:00,23:59:59,volume,4800
-f3,1,TAS3085-14-8165,Design Year,00:00:00,23:59:59,volume,6000
-f3,1,TAS3085-14-8166,Design Year,00:00:00,23:59:59,volume,4500
-f3,1,TAS3085-14-8167,Design Year,00:00:00,23:59:59,volume,6300
-f3,1,TAS3085-14-8168,Design Year,00:00:00,23:59:59,volume,6300
+Design-Year-TAS3085-14-8155.0,Design-Year-Model-Run,TAS3085-14-8155.0,Design-Year-Forecast-poi-TAS3085-14-8155.0,00:00:00,23:59:59,volume,8100
+Design-Year-TAS3085-14-8156.0,Design-Year-Model-Run,TAS3085-14-8156.0,Design-Year-Forecast-poi-TAS3085-14-8156.0,00:00:00,23:59:59,volume,8100
+Design-Year-TAS3085-14-8157.0,Design-Year-Model-Run,TAS3085-14-8157.0,Design-Year-Forecast-poi-TAS3085-14-8157.0,00:00:00,23:59:59,volume,6200
+Design-Year-TAS3085-14-8158.0,Design-Year-Model-Run,TAS3085-14-8158.0,Design-Year-Forecast-poi-TAS3085-14-8158.0,00:00:00,23:59:59,volume,6200
+Design-Year-TAS3085-14-8159.0,Design-Year-Model-Run,TAS3085-14-8159.0,Design-Year-Forecast-poi-TAS3085-14-8159.0,00:00:00,23:59:59,volume,6500
+Design-Year-TAS3085-14-8160.0,Design-Year-Model-Run,TAS3085-14-8160.0,Design-Year-Forecast-poi-TAS3085-14-8160.0,00:00:00,23:59:59,volume,6500
+Design-Year-TAS3085-14-8161.0,Design-Year-Model-Run,TAS3085-14-8161.0,Design-Year-Forecast-poi-TAS3085-14-8161.0,00:00:00,23:59:59,volume,5400
+Design-Year-TAS3085-14-8162.0,Design-Year-Model-Run,TAS3085-14-8162.0,Design-Year-Forecast-poi-TAS3085-14-8162.0,00:00:00,23:59:59,volume,5400
+Design-Year-TAS3085-14-8163.0,Design-Year-Model-Run,TAS3085-14-8163.0,Design-Year-Forecast-poi-TAS3085-14-8163.0,00:00:00,23:59:59,volume,7900
+Design-Year-TAS3085-14-8164.0,Design-Year-Model-Run,TAS3085-14-8164.0,Design-Year-Forecast-poi-TAS3085-14-8164.0,00:00:00,23:59:59,volume,4800
+Design-Year-TAS3085-14-8165.0,Design-Year-Model-Run,TAS3085-14-8165.0,Design-Year-Forecast-poi-TAS3085-14-8165.0,00:00:00,23:59:59,volume,6000
+Design-Year-TAS3085-14-8166.0,Design-Year-Model-Run,TAS3085-14-8166.0,Design-Year-Forecast-poi-TAS3085-14-8166.0,00:00:00,23:59:59,volume,4500
+Design-Year-TAS3085-14-8167.0,Design-Year-Model-Run,TAS3085-14-8167.0,Design-Year-Forecast-poi-TAS3085-14-8167.0,00:00:00,23:59:59,volume,6300
+Design-Year-TAS3085-14-8168.0,Design-Year-Model-Run,TAS3085-14-8168.0,Design-Year-Forecast-poi-TAS3085-14-8168.0,00:00:00,23:59:59,volume,6300

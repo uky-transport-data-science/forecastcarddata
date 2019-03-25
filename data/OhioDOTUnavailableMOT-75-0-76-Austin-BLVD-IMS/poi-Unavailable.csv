@@ -1,13 +1,13 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-5389,  MOT750.4,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  MOT750.4
-Unavailable-5390,  MOT750.76,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  MOT750.76
-Unavailable-5391,  MOT751.56,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  MOT751.56
-Unavailable-5392,  WAR759.59,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  WAR759.59
-Unavailable-5408,  MOT480.49,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT480.49
-Unavailable-5409,  MOT480.82,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT480.82
-Unavailable-5410,  MOT7410.09,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT7410.09
-Unavailable-5411,  MOT7410.3,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT7410.3
-Unavailable-5412,  MOT7410.59,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT7410.59
-Unavailable-5413,  MOT7410.95,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT7410.95
-Unavailable-5414,  MOT7411.14,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT7411.14
-Unavailable-5415,  MOT7411.37,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT7411.37
+Unavailable-5389.0, MOT750.4,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, MOT750.4
+Unavailable-5390.0, MOT750.76,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, MOT750.76
+Unavailable-5391.0, MOT751.56,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, MOT751.56
+Unavailable-5392.0, WAR759.59,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, WAR759.59
+Unavailable-5408.0, MOT480.49,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT480.49
+Unavailable-5409.0, MOT480.82,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT480.82
+Unavailable-5410.0, MOT7410.09,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT7410.09
+Unavailable-5411.0, MOT7410.3,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT7410.3
+Unavailable-5412.0, MOT7410.59,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT7410.59
+Unavailable-5413.0, MOT7410.95,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT7410.95
+Unavailable-5414.0, MOT7411.14,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT7411.14
+Unavailable-5415.0, MOT7411.37,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT7411.37

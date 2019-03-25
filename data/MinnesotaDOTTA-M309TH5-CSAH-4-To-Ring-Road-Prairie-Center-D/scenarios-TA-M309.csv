@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-TA-M309TH5 - CSAH 4 To Ring Road (Prairie Center Drive),s1,2000-01-01,Design Year,Unavailable,trendline,2000-01-01,state DOT
+Design-Year-Model-Run,MinnesotaDOT-TA-M309TH5 - CSAH 4 To Ring Road (Prairie Center Drive),s1,2000-01-01,design scenario,Unavailable,trendline,2000-01-01,state DOT

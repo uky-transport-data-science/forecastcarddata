@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-87067-4497,  CLI7293.15,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI7293.15
-87067-4498,  CLI7296.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLI7296.96
+87067-4497.0, CLI7293.15,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLI7293.15
+87067-4498.0, CLI7296.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLI7296.96

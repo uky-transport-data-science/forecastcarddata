@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAU 3061A-7866,   I-694West Of TH 61EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694West Of TH 61EB
-TAU 3061A-7867,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3061A-7868,   I-694East of TH 61West of White Bear AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East of TH 61West of White Bear AveEB
-TAU 3061A-7869,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3061A-7870,   I-694East Of White Bear AvenueWest Of McKnight RoadEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of White Bear AvenueWest Of McKnight RoadEB
-TAU 3061A-7871,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3061A-7872,   I-694East Of McKnight RoadWest of TH 100EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of McKnight RoadWest of TH 100EB
-TAU 3061A-7873,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3061A-7874,   I-694East Of TH 100EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-694East Of TH 100EB
-TAU 3061A-7875,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAU 3061A-7866.0," , I-694West Of TH 61EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-694West Of TH 61EB"
+TAU 3061A-7867.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3061A-7868.0," , I-694East of TH 61West of White Bear AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-694East of TH 61West of White Bear AveEB"
+TAU 3061A-7869.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3061A-7870.0," , I-694East Of White Bear AvenueWest Of McKnight RoadEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-694East Of White Bear AvenueWest Of McKnight RoadEB"
+TAU 3061A-7871.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3061A-7872.0," , I-694East Of McKnight RoadWest of TH 100EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-694East Of McKnight RoadWest of TH 100EB"
+TAU 3061A-7873.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3061A-7874.0," , I-694East Of TH 100EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-694East Of TH 100EB"
+TAU 3061A-7875.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

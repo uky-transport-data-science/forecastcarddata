@@ -1,10 +1,10 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-75890-1840,  HAM1280,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HAM1280
-75890-1841,  HAM1282.18,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HAM1282.18
-75890-1857,  HAM2647.99,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  HAM2647.99
-75890-1862,  HAM2640,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HAM2640
-75890-1863,  HAM2644.96,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HAM2644.96
-75890-1864,  HAM2646.9,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HAM2646.9
-75890-1865,  HAM7470,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HAM7470
-75890-1866,  HAM7470.58,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  HAM7470.58
-75890-1992,  HAM1284.95,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HAM1284.95
+75890-1840.0, HAM1280,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, HAM1280
+75890-1841.0, HAM1282.18,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, HAM1282.18
+75890-1857.0, HAM2647.99,3-Principal Arterial,,,rural,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, HAM2647.99
+75890-1862.0, HAM2640,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HAM2640
+75890-1863.0, HAM2644.96,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HAM2644.96
+75890-1864.0, HAM2646.9,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HAM2646.9
+75890-1865.0, HAM7470,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HAM7470
+75890-1866.0, HAM7470.58,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, HAM7470.58
+75890-1992.0, HAM1284.95,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, HAM1284.95

@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-23581-339,  LOR3016.46,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOR3016.46
-23581-344,  MED3010,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MED3010
-23581-375,  LOR30112.26,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOR30112.26
-23581-376,  LOR30112.52,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOR30112.52
+23581-339.0, LOR3016.46,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, LOR3016.46
+23581-344.0, MED3010,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, MED3010
+23581-375.0, LOR30112.26,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, LOR30112.26
+23581-376.0, LOR30112.52,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, LOR30112.52

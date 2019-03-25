@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3082-6498.0-1,3082-6498.0,Opening-Year-Forecast-poi-3082-6498.0,unknown,unknown,2011,00:00:00,23:59:59,volume,12500
+3082-6499.0-1,3082-6499.0,Opening-Year-Forecast-poi-3082-6499.0,unknown,unknown,2011,00:00:00,23:59:59,volume,2000

@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25594-2484.0-1,25594-2484.0,Opening-Year-Forecast-poi-25594-2484.0,unknown,unknown,2013,00:00:00,23:59:59,volume,58755
+25594-2485.0-1,25594-2485.0,Opening-Year-Forecast-poi-25594-2485.0,unknown,unknown,2013,00:00:00,23:59:59,volume,93689
+25594-2486.0-1,25594-2486.0,Opening-Year-Forecast-poi-25594-2486.0,unknown,unknown,2013,00:00:00,23:59:59,volume,123032

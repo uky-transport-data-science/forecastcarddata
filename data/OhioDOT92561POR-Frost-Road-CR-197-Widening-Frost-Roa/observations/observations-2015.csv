@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+92561-4655.0-1,92561-4655.0,Opening-Year-Forecast-poi-92561-4655.0,unknown,unknown,2015,00:00:00,23:59:59,volume,44313
+92561-4660.0-1,92561-4660.0,Opening-Year-Forecast-poi-92561-4660.0,unknown,unknown,2015,00:00:00,23:59:59,volume,26696
+92561-4661.0-1,92561-4661.0,Opening-Year-Forecast-poi-92561-4661.0,unknown,unknown,2015,00:00:00,23:59:59,volume,41699
+92561-4678.0-1,92561-4678.0,Opening-Year-Forecast-poi-92561-4678.0,unknown,unknown,2015,00:00:00,23:59:59,volume,12216
+92561-4702.0-1,92561-4702.0,Opening-Year-Forecast-poi-92561-4702.0,unknown,unknown,2015,00:00:00,23:59:59,volume,43792

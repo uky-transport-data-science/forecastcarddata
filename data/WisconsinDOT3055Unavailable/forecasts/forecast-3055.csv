@@ -1,14 +1,14 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,3055-6649,Opening Year,00:00:00,23:59:59,volume,30900
-f1,1,3055-6650,Opening Year,00:00:00,23:59:59,volume,29000
-f1,1,3055-6651,Opening Year,00:00:00,23:59:59,volume,1500
-f1,1,3055-6652,Opening Year,00:00:00,23:59:59,volume,33200
-f1,1,3055-6653,Opening Year,00:00:00,23:59:59,volume,2100
-f1,1,3055-6654,Opening Year,00:00:00,23:59:59,volume,1500
-f1,1,3055-6655,Opening Year,00:00:00,23:59:59,volume,26350
-f1,1,3055-6656,Opening Year,00:00:00,23:59:59,volume,1850
-f1,1,3055-6657,Opening Year,00:00:00,23:59:59,volume,650
-f1,1,3055-6658,Opening Year,00:00:00,23:59:59,volume,650
-f1,1,3055-6659,Opening Year,00:00:00,23:59:59,volume,750
-f1,1,3055-6660,Opening Year,00:00:00,23:59:59,volume,28300
-f1,1,3055-6661,Opening Year,00:00:00,23:59:59,volume,800
+Opening-Year-3055-6649.0,Opening-Year-Model-Run,3055-6649.0,Opening-Year-Forecast-poi-3055-6649.0,00:00:00,23:59:59,volume,30900
+Opening-Year-3055-6650.0,Opening-Year-Model-Run,3055-6650.0,Opening-Year-Forecast-poi-3055-6650.0,00:00:00,23:59:59,volume,29000
+Opening-Year-3055-6651.0,Opening-Year-Model-Run,3055-6651.0,Opening-Year-Forecast-poi-3055-6651.0,00:00:00,23:59:59,volume,1500
+Opening-Year-3055-6652.0,Opening-Year-Model-Run,3055-6652.0,Opening-Year-Forecast-poi-3055-6652.0,00:00:00,23:59:59,volume,33200
+Opening-Year-3055-6653.0,Opening-Year-Model-Run,3055-6653.0,Opening-Year-Forecast-poi-3055-6653.0,00:00:00,23:59:59,volume,2100
+Opening-Year-3055-6654.0,Opening-Year-Model-Run,3055-6654.0,Opening-Year-Forecast-poi-3055-6654.0,00:00:00,23:59:59,volume,1500
+Opening-Year-3055-6655.0,Opening-Year-Model-Run,3055-6655.0,Opening-Year-Forecast-poi-3055-6655.0,00:00:00,23:59:59,volume,26350
+Opening-Year-3055-6656.0,Opening-Year-Model-Run,3055-6656.0,Opening-Year-Forecast-poi-3055-6656.0,00:00:00,23:59:59,volume,1850
+Opening-Year-3055-6657.0,Opening-Year-Model-Run,3055-6657.0,Opening-Year-Forecast-poi-3055-6657.0,00:00:00,23:59:59,volume,650
+Opening-Year-3055-6658.0,Opening-Year-Model-Run,3055-6658.0,Opening-Year-Forecast-poi-3055-6658.0,00:00:00,23:59:59,volume,650
+Opening-Year-3055-6659.0,Opening-Year-Model-Run,3055-6659.0,Opening-Year-Forecast-poi-3055-6659.0,00:00:00,23:59:59,volume,750
+Opening-Year-3055-6660.0,Opening-Year-Model-Run,3055-6660.0,Opening-Year-Forecast-poi-3055-6660.0,00:00:00,23:59:59,volume,28300
+Opening-Year-3055-6661.0,Opening-Year-Model-Run,3055-6661.0,Opening-Year-Forecast-poi-3055-6661.0,00:00:00,23:59:59,volume,800

@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-91661-1803,  TUS390.62,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  TUS390.62
-91661-1804,  TUS390.83,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  TUS390.83
-91661-1805,  TUS931.74,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  TUS931.74
-91661-1806,  TUS932.49,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  TUS932.49
+91661-1803.0, TUS390.62,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, TUS390.62
+91661-1804.0, TUS390.83,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, TUS390.83
+91661-1805.0, TUS931.74,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, TUS931.74
+91661-1806.0, TUS932.49,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, TUS932.49

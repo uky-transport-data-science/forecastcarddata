@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAU 3451A-8199,   I-94West Of I-494/694EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94West Of I-494/694EB
-TAU 3451A-8200,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3451A-8201,   I-94East Of I-494/694West Of CR 80EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94East Of I-494/694West Of CR 80EB
-TAU 3451A-8202,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3451A-8203,   I-94Between CSAH 19EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94Between CSAH 19EB
-TAU 3451A-8204,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3451A-8205,   I-94East Of CSAH 19EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94East Of CSAH 19EB
-TAU 3451A-8206,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAU 3451A-8199.0," , I-94West Of I-494/694EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94West Of I-494/694EB"
+TAU 3451A-8200.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3451A-8201.0," , I-94East Of I-494/694West Of CR 80EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94East Of I-494/694West Of CR 80EB"
+TAU 3451A-8202.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3451A-8203.0," , I-94Between CSAH 19EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94Between CSAH 19EB"
+TAU 3451A-8204.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3451A-8205.0," , I-94East Of CSAH 19EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94East Of CSAH 19EB"
+TAU 3451A-8206.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-Unavailable-5241,  LOG3475.64,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOG3475.64
-Unavailable-5254,  UNI3472.12,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  UNI3472.12
-Unavailable-5255,  UNI7391.59,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  UNI7391.59
-Unavailable-5256,  UNI7394.27,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  UNI7394.27
-Unavailable-5265,  LOG3474.37,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  LOG3474.37
+Unavailable-5241.0, LOG3475.64,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, LOG3475.64
+Unavailable-5254.0, UNI3472.12,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, UNI3472.12
+Unavailable-5255.0, UNI7391.59,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, UNI7391.59
+Unavailable-5256.0, UNI7394.27,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, UNI7394.27
+Unavailable-5265.0, LOG3474.37,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, LOG3474.37

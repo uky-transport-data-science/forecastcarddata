@@ -1,7 +1,7 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,SPARS 32-8377,Design Year,00:00:00,23:59:59,volume,5600
-f3,1,SPARS 32-8378,Design Year,00:00:00,23:59:59,volume,5600
-f3,1,SPARS 32-8379,Design Year,00:00:00,23:59:59,volume,14300
-f3,1,SPARS 32-8380,Design Year,00:00:00,23:59:59,volume,14300
-f3,1,SPARS 32-8381,Design Year,00:00:00,23:59:59,volume,17800
-f3,1,SPARS 32-8382,Design Year,00:00:00,23:59:59,volume,17800
+Design-Year-SPARS 32-8377.0,Design-Year-Model-Run,SPARS 32-8377.0,Design-Year-Forecast-poi-SPARS 32-8377.0,00:00:00,23:59:59,volume,5600
+Design-Year-SPARS 32-8378.0,Design-Year-Model-Run,SPARS 32-8378.0,Design-Year-Forecast-poi-SPARS 32-8378.0,00:00:00,23:59:59,volume,5600
+Design-Year-SPARS 32-8379.0,Design-Year-Model-Run,SPARS 32-8379.0,Design-Year-Forecast-poi-SPARS 32-8379.0,00:00:00,23:59:59,volume,14300
+Design-Year-SPARS 32-8380.0,Design-Year-Model-Run,SPARS 32-8380.0,Design-Year-Forecast-poi-SPARS 32-8380.0,00:00:00,23:59:59,volume,14300
+Design-Year-SPARS 32-8381.0,Design-Year-Model-Run,SPARS 32-8381.0,Design-Year-Forecast-poi-SPARS 32-8381.0,00:00:00,23:59:59,volume,17800
+Design-Year-SPARS 32-8382.0,Design-Year-Model-Run,SPARS 32-8382.0,Design-Year-Forecast-poi-SPARS 32-8382.0,00:00:00,23:59:59,volume,17800

@@ -1,0 +1,25 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+FEIS New U.S. Hwy 10-8600.0-1,FEIS New U.S. Hwy 10-8600.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8600.0,unknown,unknown,2000,00:00:00,23:59:59,volume,40500
+FEIS New U.S. Hwy 10-8601.0-1,FEIS New U.S. Hwy 10-8601.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8601.0,unknown,unknown,2000,00:00:00,23:59:59,volume,40500
+FEIS New U.S. Hwy 10-8602.0-1,FEIS New U.S. Hwy 10-8602.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8602.0,unknown,unknown,2000,00:00:00,23:59:59,volume,22500
+FEIS New U.S. Hwy 10-8603.0-1,FEIS New U.S. Hwy 10-8603.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8603.0,unknown,unknown,2000,00:00:00,23:59:59,volume,22500
+FEIS New U.S. Hwy 10-8604.0-1,FEIS New U.S. Hwy 10-8604.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8604.0,unknown,unknown,2000,00:00:00,23:59:59,volume,30000
+FEIS New U.S. Hwy 10-8605.0-1,FEIS New U.S. Hwy 10-8605.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8605.0,unknown,unknown,2000,00:00:00,23:59:59,volume,30000
+FEIS New U.S. Hwy 10-8606.0-1,FEIS New U.S. Hwy 10-8606.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8606.0,unknown,unknown,2000,00:00:00,23:59:59,volume,30500
+FEIS New U.S. Hwy 10-8607.0-1,FEIS New U.S. Hwy 10-8607.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8607.0,unknown,unknown,2000,00:00:00,23:59:59,volume,30500
+FEIS New U.S. Hwy 10-8608.0-1,FEIS New U.S. Hwy 10-8608.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8608.0,unknown,unknown,2000,00:00:00,23:59:59,volume,31000
+FEIS New U.S. Hwy 10-8609.0-1,FEIS New U.S. Hwy 10-8609.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8609.0,unknown,unknown,2000,00:00:00,23:59:59,volume,31000
+FEIS New U.S. Hwy 10-8610.0-1,FEIS New U.S. Hwy 10-8610.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8610.0,unknown,unknown,2000,00:00:00,23:59:59,volume,35500
+FEIS New U.S. Hwy 10-8611.0-1,FEIS New U.S. Hwy 10-8611.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8611.0,unknown,unknown,2000,00:00:00,23:59:59,volume,35500
+FEIS New U.S. Hwy 10-8612.0-1,FEIS New U.S. Hwy 10-8612.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8612.0,unknown,unknown,2000,00:00:00,23:59:59,volume,59000
+FEIS New U.S. Hwy 10-8613.0-1,FEIS New U.S. Hwy 10-8613.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8613.0,unknown,unknown,2000,00:00:00,23:59:59,volume,59000
+FEIS New U.S. Hwy 10-8614.0-1,FEIS New U.S. Hwy 10-8614.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8614.0,unknown,unknown,2000,00:00:00,23:59:59,volume,52000
+FEIS New U.S. Hwy 10-8615.0-1,FEIS New U.S. Hwy 10-8615.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8615.0,unknown,unknown,2000,00:00:00,23:59:59,volume,52000
+FEIS New U.S. Hwy 10-8616.0-1,FEIS New U.S. Hwy 10-8616.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8616.0,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+FEIS New U.S. Hwy 10-8617.0-1,FEIS New U.S. Hwy 10-8617.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8617.0,unknown,unknown,2000,00:00:00,23:59:59,volume,21500
+FEIS New U.S. Hwy 10-8618.0-1,FEIS New U.S. Hwy 10-8618.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8618.0,unknown,unknown,2000,00:00:00,23:59:59,volume,30000
+FEIS New U.S. Hwy 10-8619.0-1,FEIS New U.S. Hwy 10-8619.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8619.0,unknown,unknown,2000,00:00:00,23:59:59,volume,30000
+FEIS New U.S. Hwy 10-8620.0-1,FEIS New U.S. Hwy 10-8620.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8620.0,unknown,unknown,2000,00:00:00,23:59:59,volume,13250
+FEIS New U.S. Hwy 10-8621.0-1,FEIS New U.S. Hwy 10-8621.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8621.0,unknown,unknown,2000,00:00:00,23:59:59,volume,13250
+FEIS New U.S. Hwy 10-8622.0-1,FEIS New U.S. Hwy 10-8622.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8622.0,unknown,unknown,2000,00:00:00,23:59:59,volume,13250
+FEIS New U.S. Hwy 10-8623.0-1,FEIS New U.S. Hwy 10-8623.0,Design-Year-Forecast-poi-FEIS New U.S. Hwy 10-8623.0,unknown,unknown,2000,00:00:00,23:59:59,volume,13250

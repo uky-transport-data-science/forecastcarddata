@@ -1,19 +1,19 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAU 3073A-8035,   TH 96East Of I-35EWest Of Industrial Development RdEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of I-35EWest Of Industrial Development RdEB
-TAU 3073A-8036,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3073A-8037,   TH 96East Of Industrial Development RdWest Of Birch lake RoadEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of Industrial Development RdWest Of Birch lake RoadEB
-TAU 3073A-8038,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3073A-8039,   TH 96East Of Birch Lake RoadWest Of Otter Lake RoadEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of Birch Lake RoadWest Of Otter Lake RoadEB
-TAU 3073A-8040,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3073A-8041,   TH 96East Of Otter Lake RdWest Of 4th AvenueEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of Otter Lake RdWest Of 4th AvenueEB
-TAU 3073A-8042,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3073A-8043,   TH 96East Of 4th AvenueWest Of 3rd AvenueEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of 4th AvenueWest Of 3rd AvenueEB
-TAU 3073A-8044,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3073A-8045,   TH 96East Of 3rd AvenueWest Of 2nd AvenueEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of 3rd AvenueWest Of 2nd AvenueEB
-TAU 3073A-8046,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3073A-8047,   TH 96East Of 2nd AvenueWest Of 1st AvenueEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of 2nd AvenueWest Of 1st AvenueEB
-TAU 3073A-8048,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3073A-8049,   TH 96East Of 1st AvenueWest Of Lincoln AvenueEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of 1st AvenueWest Of Lincoln AvenueEB
-TAU 3073A-8050,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3073A-8051,   TH 96East Of Lincoln AvenueWest Of TH 61EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 96East Of Lincoln AvenueWest Of TH 61EB
-TAU 3073A-8052,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAU 3073A-8035.0," , TH 96East Of I-35EWest Of Industrial Development RdEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of I-35EWest Of Industrial Development RdEB"
+TAU 3073A-8036.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3073A-8037.0," , TH 96East Of Industrial Development RdWest Of Birch lake RoadEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of Industrial Development RdWest Of Birch lake RoadEB"
+TAU 3073A-8038.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3073A-8039.0," , TH 96East Of Birch Lake RoadWest Of Otter Lake RoadEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of Birch Lake RoadWest Of Otter Lake RoadEB"
+TAU 3073A-8040.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3073A-8041.0," , TH 96East Of Otter Lake RdWest Of 4th AvenueEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of Otter Lake RdWest Of 4th AvenueEB"
+TAU 3073A-8042.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3073A-8043.0," , TH 96East Of 4th AvenueWest Of 3rd AvenueEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of 4th AvenueWest Of 3rd AvenueEB"
+TAU 3073A-8044.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3073A-8045.0," , TH 96East Of 3rd AvenueWest Of 2nd AvenueEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of 3rd AvenueWest Of 2nd AvenueEB"
+TAU 3073A-8046.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3073A-8047.0," , TH 96East Of 2nd AvenueWest Of 1st AvenueEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of 2nd AvenueWest Of 1st AvenueEB"
+TAU 3073A-8048.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3073A-8049.0," , TH 96East Of 1st AvenueWest Of Lincoln AvenueEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of 1st AvenueWest Of Lincoln AvenueEB"
+TAU 3073A-8050.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3073A-8051.0," , TH 96East Of Lincoln AvenueWest Of TH 61EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 96East Of Lincoln AvenueWest Of TH 61EB"
+TAU 3073A-8052.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

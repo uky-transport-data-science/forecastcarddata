@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-422030-2The SR 40 resurfacing project from South Washington Street (M.P. 0.108) to East of Beach Street
-(M.P. 0.430).",s1,2010-01-01,Opening Year,Unavailable,travel-model,2010-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-422030-2The SR 40 resurfacing project from South Washington Street (M.P. 0.108) to East of Beach Street
+(M.P. 0.430).",s1,2010-01-01,design scenario,Unavailable,travel-model,2010-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-422030-2The SR 40 resurfacing project from South Washington Street (M.P. 0.108) to East of Beach Street
+(M.P. 0.430).",s1,2010-01-01,design scenario,Unavailable,travel-model,2010-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-422030-2The SR 40 resurfacing project from South Washington Street (M.P. 0.108) to East of Beach Street
+(M.P. 0.430).",s1,2010-01-01,design scenario,Unavailable,travel-model,2010-01-01,consultant

@@ -1,13 +1,13 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,102103-6028,Opening Year,00:00:00,23:59:59,volume,14780
-f3,1,102103-6028,Design Year,00:00:00,23:59:59,volume,14780
-f1,1,102103-6079,Opening Year,00:00:00,23:59:59,volume,23030
-f3,1,102103-6079,Design Year,00:00:00,23:59:59,volume,23320
-f1,1,102103-6080,Opening Year,00:00:00,23:59:59,volume,18690
-f3,1,102103-6080,Design Year,00:00:00,23:59:59,volume,18960
-f1,1,102103-6081,Opening Year,00:00:00,23:59:59,volume,18620
-f3,1,102103-6081,Design Year,00:00:00,23:59:59,volume,18840
-f1,1,102103-6082,Opening Year,00:00:00,23:59:59,volume,16130
-f3,1,102103-6082,Design Year,00:00:00,23:59:59,volume,16460
-f1,1,102103-6083,Opening Year,00:00:00,23:59:59,volume,15760
-f3,1,102103-6083,Design Year,00:00:00,23:59:59,volume,15760
+Opening-Year-102103-6028.0,Opening-Year-Model-Run,102103-6028.0,Opening-Year-Forecast-poi-102103-6028.0,00:00:00,23:59:59,volume,14780
+Design-Year-102103-6028.0,Design-Year-Model-Run,102103-6028.0,Design-Year-Forecast-poi-102103-6028.0,00:00:00,23:59:59,volume,14780
+Opening-Year-102103-6079.0,Opening-Year-Model-Run,102103-6079.0,Opening-Year-Forecast-poi-102103-6079.0,00:00:00,23:59:59,volume,23030
+Design-Year-102103-6079.0,Design-Year-Model-Run,102103-6079.0,Design-Year-Forecast-poi-102103-6079.0,00:00:00,23:59:59,volume,23320
+Opening-Year-102103-6080.0,Opening-Year-Model-Run,102103-6080.0,Opening-Year-Forecast-poi-102103-6080.0,00:00:00,23:59:59,volume,18690
+Design-Year-102103-6080.0,Design-Year-Model-Run,102103-6080.0,Design-Year-Forecast-poi-102103-6080.0,00:00:00,23:59:59,volume,18960
+Opening-Year-102103-6081.0,Opening-Year-Model-Run,102103-6081.0,Opening-Year-Forecast-poi-102103-6081.0,00:00:00,23:59:59,volume,18620
+Design-Year-102103-6081.0,Design-Year-Model-Run,102103-6081.0,Design-Year-Forecast-poi-102103-6081.0,00:00:00,23:59:59,volume,18840
+Opening-Year-102103-6082.0,Opening-Year-Model-Run,102103-6082.0,Opening-Year-Forecast-poi-102103-6082.0,00:00:00,23:59:59,volume,16130
+Design-Year-102103-6082.0,Design-Year-Model-Run,102103-6082.0,Design-Year-Forecast-poi-102103-6082.0,00:00:00,23:59:59,volume,16460
+Opening-Year-102103-6083.0,Opening-Year-Model-Run,102103-6083.0,Opening-Year-Forecast-poi-102103-6083.0,00:00:00,23:59:59,volume,15760
+Design-Year-102103-6083.0,Design-Year-Model-Run,102103-6083.0,Design-Year-Forecast-poi-102103-6083.0,00:00:00,23:59:59,volume,15760

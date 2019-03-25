@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+81725-4625.0-1,81725-4625.0,Opening-Year-Forecast-poi-81725-4625.0,unknown,unknown,2015,00:00:00,23:59:59,volume,23296
+81725-4626.0-1,81725-4626.0,Opening-Year-Forecast-poi-81725-4626.0,unknown,unknown,2015,00:00:00,23:59:59,volume,43301

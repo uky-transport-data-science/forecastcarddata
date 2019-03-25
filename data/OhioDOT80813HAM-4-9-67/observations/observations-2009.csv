@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80813-1035.0-1,80813-1035.0,Opening-Year-Forecast-poi-80813-1035.0,unknown,unknown,2009,00:00:00,23:59:59,volume,24160
+80813-1036.0-1,80813-1036.0,Opening-Year-Forecast-poi-80813-1036.0,unknown,unknown,2009,00:00:00,23:59:59,volume,51320

@@ -1,7 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-1848-1,Unavailable-1848,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,78330
-Unavailable-1849-1,Unavailable-1849,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,73510
-Unavailable-1858-1,Unavailable-1858,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,9768
-Unavailable-1859-1,Unavailable-1859,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,16400
-Unavailable-1860-1,Unavailable-1860,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,5911
-Unavailable-1861-1,Unavailable-1861,Opening Year,unknown,unknown,2011,00:00:00,23:59:59,volume,9950

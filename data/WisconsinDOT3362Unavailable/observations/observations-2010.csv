@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+3362-6569.0-1,3362-6569.0,Opening-Year-Forecast-poi-3362-6569.0,unknown,unknown,2010,00:00:00,23:59:59,volume,19200
+3362-6570.0-1,3362-6570.0,Opening-Year-Forecast-poi-3362-6570.0,unknown,unknown,2010,00:00:00,23:59:59,volume,22000
+3362-6574.0-1,3362-6574.0,Opening-Year-Forecast-poi-3362-6574.0,unknown,unknown,2010,00:00:00,23:59:59,volume,10000

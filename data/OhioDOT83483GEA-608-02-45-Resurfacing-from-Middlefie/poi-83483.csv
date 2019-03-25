@@ -1,3 +1,3 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-83483-1446,  GEA6082.45,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA6082.45
-83483-1447,  GEA6084.02,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA6084.02
+83483-1446.0, GEA6082.45,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, GEA6082.45
+83483-1447.0, GEA6084.02,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, GEA6084.02

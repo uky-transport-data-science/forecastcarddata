@@ -1,25 +1,25 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TA-M304-6866,   TH 694West of TH 35WEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694West of TH 35WEB
-TA-M304-6867,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6868,   TH 694TH 35WTH 10EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694TH 35WTH 10EB
-TA-M304-6869,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6870,   TH 694TH 10Hamline AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694TH 10Hamline AveEB
-TA-M304-6871,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6872,   TH 694Hamline AveLexington AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694Hamline AveLexington AveEB
-TA-M304-6873,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6874,   TH 694Between Lexington Ave RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694Between Lexington Ave RampsEB
-TA-M304-6875,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6876,   TH 694LexingtonVictoriaEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694LexingtonVictoriaEB
-TA-M304-6877,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6878,   TH 694Between Victoria Ave RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694Between Victoria Ave RampsEB
-TA-M304-6879,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6880,   TH 694VictoriaTH 49EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694VictoriaTH 49EB
-TA-M304-6881,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6882,   TH 694Between TH 49 RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694Between TH 49 RampsEB
-TA-M304-6883,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6884,   TH 694TH 49TH 35EEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694TH 49TH 35EEB
-TA-M304-6885,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6886,   TH 694Between TH 35E RampsEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694Between TH 35E RampsEB
-TA-M304-6887,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TA-M304-6888,   TH 694East of TH 35EEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 694East of TH 35EEB
-TA-M304-6889,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TA-M304-6866.0," , TH 694West of TH 35WEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694West of TH 35WEB"
+TA-M304-6867.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6868.0," , TH 694TH 35WTH 10EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694TH 35WTH 10EB"
+TA-M304-6869.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6870.0," , TH 694TH 10Hamline AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694TH 10Hamline AveEB"
+TA-M304-6871.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6872.0," , TH 694Hamline AveLexington AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694Hamline AveLexington AveEB"
+TA-M304-6873.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6874.0," , TH 694Between Lexington Ave RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694Between Lexington Ave RampsEB"
+TA-M304-6875.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6876.0," , TH 694LexingtonVictoriaEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694LexingtonVictoriaEB"
+TA-M304-6877.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6878.0," , TH 694Between Victoria Ave RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694Between Victoria Ave RampsEB"
+TA-M304-6879.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6880.0," , TH 694VictoriaTH 49EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694VictoriaTH 49EB"
+TA-M304-6881.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6882.0," , TH 694Between TH 49 RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694Between TH 49 RampsEB"
+TA-M304-6883.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6884.0," , TH 694TH 49TH 35EEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694TH 49TH 35EEB"
+TA-M304-6885.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6886.0," , TH 694Between TH 35E RampsEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694Between TH 35E RampsEB"
+TA-M304-6887.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TA-M304-6888.0," , TH 694East of TH 35EEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 694East of TH 35EEB"
+TA-M304-6889.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

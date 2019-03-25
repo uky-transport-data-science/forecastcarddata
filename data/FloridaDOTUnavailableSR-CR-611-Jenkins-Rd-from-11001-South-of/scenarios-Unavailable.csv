@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,FloridaDOT-UnavailableSR CR 611/Jenkins Rd. from 11001 South of SR 70 to 15001 North of SR 70,s1,2013-01-01,Opening Year,Unavailable,professional-judgment,2013-01-01,state DOT
+Opening-Year-Model-Run,FloridaDOT-UnavailableSR CR 611/Jenkins Rd. from 11001 South of SR 70 to 15001 North of SR 71,s1,2013-01-01,design scenario,Unavailable,professional-judgment,2013-01-01,state DOT

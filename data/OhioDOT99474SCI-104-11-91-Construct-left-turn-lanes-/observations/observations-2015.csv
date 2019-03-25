@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+99474-4906.0-1,99474-4906.0,Opening-Year-Forecast-poi-99474-4906.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4721
+99474-4907.0-1,99474-4907.0,Opening-Year-Forecast-poi-99474-4907.0,unknown,unknown,2015,00:00:00,23:59:59,volume,8739
+99474-4946.0-1,99474-4946.0,Opening-Year-Forecast-poi-99474-4946.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4042
+99474-4947.0-1,99474-4947.0,Opening-Year-Forecast-poi-99474-4947.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4355

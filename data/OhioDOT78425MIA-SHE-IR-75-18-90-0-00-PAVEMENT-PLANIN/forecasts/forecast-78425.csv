@@ -1,17 +1,17 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,78425-2667,Opening Year,00:00:00,23:59:59,volume,54930
-f3,1,78425-2667,Design Year,00:00:00,23:59:59,volume,74100
-f1,1,78425-2669,Opening Year,00:00:00,23:59:59,volume,59510
-f3,1,78425-2669,Design Year,00:00:00,23:59:59,volume,82420
-f1,1,78425-2670,Opening Year,00:00:00,23:59:59,volume,59510
-f3,1,78425-2670,Design Year,00:00:00,23:59:59,volume,82420
-f1,1,78425-2675,Opening Year,00:00:00,23:59:59,volume,54930
-f3,1,78425-2675,Design Year,00:00:00,23:59:59,volume,74100
-f1,1,78425-2676,Opening Year,00:00:00,23:59:59,volume,52480
-f3,1,78425-2676,Design Year,00:00:00,23:59:59,volume,71430
-f1,1,78425-2677,Opening Year,00:00:00,23:59:59,volume,53550
-f3,1,78425-2677,Design Year,00:00:00,23:59:59,volume,43100
-f1,1,78425-2685,Opening Year,00:00:00,23:59:59,volume,56530
-f3,1,78425-2685,Design Year,00:00:00,23:59:59,volume,78570
-f1,1,78425-2686,Opening Year,00:00:00,23:59:59,volume,57690
-f3,1,78425-2686,Design Year,00:00:00,23:59:59,volume,80270
+Opening-Year-78425-2667.0,Opening-Year-Model-Run,78425-2667.0,Opening-Year-Forecast-poi-78425-2667.0,00:00:00,23:59:59,volume,54930
+Design-Year-78425-2667.0,Design-Year-Model-Run,78425-2667.0,Design-Year-Forecast-poi-78425-2667.0,00:00:00,23:59:59,volume,74100
+Opening-Year-78425-2669.0,Opening-Year-Model-Run,78425-2669.0,Opening-Year-Forecast-poi-78425-2669.0,00:00:00,23:59:59,volume,59510
+Design-Year-78425-2669.0,Design-Year-Model-Run,78425-2669.0,Design-Year-Forecast-poi-78425-2669.0,00:00:00,23:59:59,volume,82420
+Opening-Year-78425-2670.0,Opening-Year-Model-Run,78425-2670.0,Opening-Year-Forecast-poi-78425-2670.0,00:00:00,23:59:59,volume,59510
+Design-Year-78425-2670.0,Design-Year-Model-Run,78425-2670.0,Design-Year-Forecast-poi-78425-2670.0,00:00:00,23:59:59,volume,82420
+Opening-Year-78425-2675.0,Opening-Year-Model-Run,78425-2675.0,Opening-Year-Forecast-poi-78425-2675.0,00:00:00,23:59:59,volume,54930
+Design-Year-78425-2675.0,Design-Year-Model-Run,78425-2675.0,Design-Year-Forecast-poi-78425-2675.0,00:00:00,23:59:59,volume,74100
+Opening-Year-78425-2676.0,Opening-Year-Model-Run,78425-2676.0,Opening-Year-Forecast-poi-78425-2676.0,00:00:00,23:59:59,volume,52480
+Design-Year-78425-2676.0,Design-Year-Model-Run,78425-2676.0,Design-Year-Forecast-poi-78425-2676.0,00:00:00,23:59:59,volume,71430
+Opening-Year-78425-2677.0,Opening-Year-Model-Run,78425-2677.0,Opening-Year-Forecast-poi-78425-2677.0,00:00:00,23:59:59,volume,53550
+Design-Year-78425-2677.0,Design-Year-Model-Run,78425-2677.0,Design-Year-Forecast-poi-78425-2677.0,00:00:00,23:59:59,volume,43100
+Opening-Year-78425-2685.0,Opening-Year-Model-Run,78425-2685.0,Opening-Year-Forecast-poi-78425-2685.0,00:00:00,23:59:59,volume,56530
+Design-Year-78425-2685.0,Design-Year-Model-Run,78425-2685.0,Design-Year-Forecast-poi-78425-2685.0,00:00:00,23:59:59,volume,78570
+Opening-Year-78425-2686.0,Opening-Year-Model-Run,78425-2686.0,Opening-Year-Forecast-poi-78425-2686.0,00:00:00,23:59:59,volume,57690
+Design-Year-78425-2686.0,Design-Year-Model-Run,78425-2686.0,Design-Year-Forecast-poi-78425-2686.0,00:00:00,23:59:59,volume,80270

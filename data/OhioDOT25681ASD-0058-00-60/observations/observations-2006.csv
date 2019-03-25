@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+25681-545.0-1,25681-545.0,Opening-Year-Forecast-poi-25681-545.0,unknown,unknown,2006,00:00:00,23:59:59,volume,4840
+25681-546.0-1,25681-546.0,Opening-Year-Forecast-poi-25681-546.0,unknown,unknown,2006,00:00:00,23:59:59,volume,1860
+25681-547.0-1,25681-547.0,Opening-Year-Forecast-poi-25681-547.0,unknown,unknown,2006,00:00:00,23:59:59,volume,1360
+25681-548.0-1,25681-548.0,Opening-Year-Forecast-poi-25681-548.0,unknown,unknown,2006,00:00:00,23:59:59,volume,3290
+25681-549.0-1,25681-549.0,Opening-Year-Forecast-poi-25681-549.0,unknown,unknown,2006,00:00:00,23:59:59,volume,3710

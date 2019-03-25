@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-101310-5098,  FAY3512.8,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FAY3512.8
-101310-5100,  FAY3520.62,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  FAY3520.62
-101310-5101,  FAY3516.28,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FAY3516.28
-101310-5102,  FAY3514.56,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  FAY3514.56
-101310-5215,  PIC7520.91,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC7520.91
-101310-5216,  PIC7522.07,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC7522.07
-101310-5260,  FAY2072.89,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  FAY2072.89
-101310-5271,  PIC7523.73,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  PIC7523.73
+101310-5098.0, FAY3512.8,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, FAY3512.8
+101310-5100.0, FAY3520.62,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, FAY3520.62
+101310-5101.0, FAY3516.28,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, FAY3516.28
+101310-5102.0, FAY3514.56,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, FAY3514.56
+101310-5215.0, PIC7520.91,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, PIC7520.91
+101310-5216.0, PIC7522.07,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, PIC7522.07
+101310-5260.0, FAY2072.89,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, FAY2072.89
+101310-5271.0, PIC7523.73,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, PIC7523.73

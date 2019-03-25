@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-24441-191,  MOT755.07,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MOT755.07
-24441-192,  MOT756.39,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MOT756.39
-24441-193,  MOT759.31,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MOT759.31
-24441-194,  MOT759.96,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  MOT759.96
+24441-191.0, MOT755.07,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MOT755.07
+24441-192.0, MOT756.39,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MOT756.39
+24441-193.0, MOT759.31,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MOT759.31
+24441-194.0, MOT759.96,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, MOT759.96

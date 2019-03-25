@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-419562-1The SR 15 - Resurfacing Project from Tremont Street (M.P. 12.234) to 0.12 Mi South of Country
-Boulevard (M.P. 13.700)",s1,2006-01-01,Opening Year,Unavailable,trendline,2006-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-419562-1The SR 15 - Resurfacing Project from Tremont Street (M.P. 12.234) to 0.12 Mi South of Country
+Boulevard (M.P. 13.700)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-419562-1The SR 15 - Resurfacing Project from Tremont Street (M.P. 12.234) to 0.12 Mi South of Country
+Boulevard (M.P. 13.700)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-419562-1The SR 15 - Resurfacing Project from Tremont Street (M.P. 12.234) to 0.12 Mi South of Country
+Boulevard (M.P. 13.700)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant

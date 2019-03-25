@@ -1,2 +1,2 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,83771-6229,Design Year,00:00:00,23:59:59,volume,20050
+Design-Year-83771-6229.0,Design-Year-Model-Run,83771-6229.0,Design-Year-Forecast-poi-83771-6229.0,00:00:00,23:59:59,volume,20050

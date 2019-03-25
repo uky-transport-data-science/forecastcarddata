@@ -1,0 +1,6 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+102238-5033.0-1,102238-5033.0,Opening-Year-Forecast-poi-102238-5033.0,unknown,unknown,2015,00:00:00,23:59:59,volume,62453
+102238-5034.0-1,102238-5034.0,Opening-Year-Forecast-poi-102238-5034.0,unknown,unknown,2015,00:00:00,23:59:59,volume,94067
+102238-5124.0-1,102238-5124.0,Opening-Year-Forecast-poi-102238-5124.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32659
+102238-5125.0-1,102238-5125.0,Opening-Year-Forecast-poi-102238-5125.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32652
+102238-5126.0-1,102238-5126.0,Opening-Year-Forecast-poi-102238-5126.0,unknown,unknown,2015,00:00:00,23:59:59,volume,27219

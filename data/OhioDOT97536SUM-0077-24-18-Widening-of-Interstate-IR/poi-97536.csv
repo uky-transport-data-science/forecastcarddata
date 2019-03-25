@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-97536-5959,  SUM7729.5,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7729.5
-97536-5960,  SUM7729.89,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7729.89
-97536-5961,  SUM7730.56,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  SUM7730.56
-97536-5974,  SUM1760.13,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  SUM1760.13
-97536-5975,  SUM1760.52,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  SUM1760.52
+97536-5959.0, SUM7729.5,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, SUM7729.5
+97536-5960.0, SUM7729.89,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, SUM7729.89
+97536-5961.0, SUM7730.56,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, SUM7730.56
+97536-5974.0, SUM1760.13,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, SUM1760.13
+97536-5975.0, SUM1760.52,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, SUM1760.52

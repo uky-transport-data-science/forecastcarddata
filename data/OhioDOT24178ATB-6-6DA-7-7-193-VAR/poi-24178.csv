@@ -1,10 +1,10 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-24178-46,  ATB622.44,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ATB622.44
-24178-47,  ATB622.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ATB622.5
-24178-48,  ATB622.56,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ATB622.56
-24178-49,  ATB76.98,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ATB76.98
-24178-50,  ATB714.95,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  ATB714.95
-24178-52,  ATB6DA0,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB6DA0
-24178-53,  ATB622.37,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB622.37
-24178-54,  ATB19314.57,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB19314.57
-24178-55,  ATB19317.98,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ATB19317.98
+24178-46.0, ATB622.44,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, ATB622.44
+24178-47.0, ATB622.5,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, ATB622.5
+24178-48.0, ATB622.56,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, ATB622.56
+24178-49.0, ATB76.98,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, ATB76.98
+24178-50.0, ATB714.95,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, ATB714.95
+24178-52.0, ATB6DA0,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ATB6DA0
+24178-53.0, ATB622.37,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ATB622.37
+24178-54.0, ATB19314.57,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ATB19314.57
+24178-55.0, ATB19317.98,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ATB19317.98

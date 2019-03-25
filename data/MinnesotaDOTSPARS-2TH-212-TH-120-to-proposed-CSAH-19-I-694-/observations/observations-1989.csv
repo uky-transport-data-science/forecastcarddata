@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+SPARS 2-8221.0-1,SPARS 2-8221.0,Design-Year-Forecast-poi-SPARS 2-8221.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21100
+SPARS 2-8222.0-1,SPARS 2-8222.0,Design-Year-Forecast-poi-SPARS 2-8222.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21100
+SPARS 2-8223.0-1,SPARS 2-8223.0,Design-Year-Forecast-poi-SPARS 2-8223.0,unknown,unknown,1985,00:00:00,23:59:59,volume,3600
+SPARS 2-8224.0-1,SPARS 2-8224.0,Design-Year-Forecast-poi-SPARS 2-8224.0,unknown,unknown,1985,00:00:00,23:59:59,volume,3600
+SPARS 2-8225.0-1,SPARS 2-8225.0,Design-Year-Forecast-poi-SPARS 2-8225.0,unknown,unknown,1985,00:00:00,23:59:59,volume,4025
+SPARS 2-8226.0-1,SPARS 2-8226.0,Design-Year-Forecast-poi-SPARS 2-8226.0,unknown,unknown,1985,00:00:00,23:59:59,volume,4025
+SPARS 2-8227.0-1,SPARS 2-8227.0,Design-Year-Forecast-poi-SPARS 2-8227.0,unknown,unknown,1985,00:00:00,23:59:59,volume,12625
+SPARS 2-8228.0-1,SPARS 2-8228.0,Design-Year-Forecast-poi-SPARS 2-8228.0,unknown,unknown,1985,00:00:00,23:59:59,volume,12625
+SPARS 2-8229.0-1,SPARS 2-8229.0,Design-Year-Forecast-poi-SPARS 2-8229.0,unknown,unknown,1985,00:00:00,23:59:59,volume,12625
+SPARS 2-8230.0-1,SPARS 2-8230.0,Design-Year-Forecast-poi-SPARS 2-8230.0,unknown,unknown,1985,00:00:00,23:59:59,volume,12625
+SPARS 2-8231.0-1,SPARS 2-8231.0,Design-Year-Forecast-poi-SPARS 2-8231.0,unknown,unknown,1985,00:00:00,23:59:59,volume,15200
+SPARS 2-8232.0-1,SPARS 2-8232.0,Design-Year-Forecast-poi-SPARS 2-8232.0,unknown,unknown,1985,00:00:00,23:59:59,volume,15200
+SPARS 2-8233.0-1,SPARS 2-8233.0,Design-Year-Forecast-poi-SPARS 2-8233.0,unknown,unknown,1985,00:00:00,23:59:59,volume,15200
+SPARS 2-8234.0-1,SPARS 2-8234.0,Design-Year-Forecast-poi-SPARS 2-8234.0,unknown,unknown,1985,00:00:00,23:59:59,volume,15200

@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAS 3081A-14-7852.0-1,TAS 3081A-14-7852.0,Design-Year-Forecast-poi-TAS 3081A-14-7852.0,unknown,unknown,1990,00:00:00,23:59:59,volume,19000
+TAS 3081A-14-7853.0-1,TAS 3081A-14-7853.0,Design-Year-Forecast-poi-TAS 3081A-14-7853.0,unknown,unknown,1990,00:00:00,23:59:59,volume,19000
+TAS 3081A-14-7854.0-1,TAS 3081A-14-7854.0,Design-Year-Forecast-poi-TAS 3081A-14-7854.0,unknown,unknown,1990,00:00:00,23:59:59,volume,19500
+TAS 3081A-14-7855.0-1,TAS 3081A-14-7855.0,Design-Year-Forecast-poi-TAS 3081A-14-7855.0,unknown,unknown,1990,00:00:00,23:59:59,volume,19500
+TAS 3081A-14-7856.0-1,TAS 3081A-14-7856.0,Design-Year-Forecast-poi-TAS 3081A-14-7856.0,unknown,unknown,1990,00:00:00,23:59:59,volume,18000
+TAS 3081A-14-7857.0-1,TAS 3081A-14-7857.0,Design-Year-Forecast-poi-TAS 3081A-14-7857.0,unknown,unknown,1990,00:00:00,23:59:59,volume,18000
+TAS 3081A-14-7858.0-1,TAS 3081A-14-7858.0,Design-Year-Forecast-poi-TAS 3081A-14-7858.0,unknown,unknown,1990,00:00:00,23:59:59,volume,16000
+TAS 3081A-14-7859.0-1,TAS 3081A-14-7859.0,Design-Year-Forecast-poi-TAS 3081A-14-7859.0,unknown,unknown,1990,00:00:00,23:59:59,volume,16000
+TAS 3081A-14-7860.0-1,TAS 3081A-14-7860.0,Design-Year-Forecast-poi-TAS 3081A-14-7860.0,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS 3081A-14-7861.0-1,TAS 3081A-14-7861.0,Design-Year-Forecast-poi-TAS 3081A-14-7861.0,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS 3081A-14-7862.0-1,TAS 3081A-14-7862.0,Design-Year-Forecast-poi-TAS 3081A-14-7862.0,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS 3081A-14-7863.0-1,TAS 3081A-14-7863.0,Design-Year-Forecast-poi-TAS 3081A-14-7863.0,unknown,unknown,1990,00:00:00,23:59:59,volume,14750
+TAS 3081A-14-7864.0-1,TAS 3081A-14-7864.0,Design-Year-Forecast-poi-TAS 3081A-14-7864.0,unknown,unknown,1990,00:00:00,23:59:59,volume,15250
+TAS 3081A-14-7865.0-1,TAS 3081A-14-7865.0,Design-Year-Forecast-poi-TAS 3081A-14-7865.0,unknown,unknown,1990,00:00:00,23:59:59,volume,15250

@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-99215-4293,  MOT702.92,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  MOT702.92
-99215-4294,  MOT708.81,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT,  MOT708.81
-99215-4340,  MOT4911.2,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT4911.2
-99215-4341,  MOT4911.64,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT4911.64
-99215-4342,  MOT4911.92,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT4911.92
-99215-4343,  MOT4912.13,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MOT4912.13
-99215-4396,  MOT405.74,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MOT405.74
-99215-4467,  MOT405.53,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MOT405.53
+99215-4293.0, MOT702.92,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, MOT702.92
+99215-4294.0, MOT708.81,1-Interstate or Limited-access facility,,,unknown,Freeway,Freeway,,Ohio,OhioDOT, MOT708.81
+99215-4340.0, MOT4911.2,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT4911.2
+99215-4341.0, MOT4911.64,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT4911.64
+99215-4342.0, MOT4911.92,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT4911.92
+99215-4343.0, MOT4912.13,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MOT4912.13
+99215-4396.0, MOT405.74,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MOT405.74
+99215-4467.0, MOT405.53,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, MOT405.53

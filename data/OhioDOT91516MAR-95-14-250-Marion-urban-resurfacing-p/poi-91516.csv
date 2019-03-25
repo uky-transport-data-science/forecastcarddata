@@ -1,12 +1,12 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-91516-5573,  MAR950.05,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAR950.05
-91516-5574,  MAR950.17,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAR950.17
-91516-5575,  MAR950.32,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAR950.32
-91516-5576,  MAR9515.61,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAR9515.61
-91516-5577,  MAR9516.03,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAR9516.03
-91516-5578,  MAR9516.47,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAR9516.47
-91516-5579,  MAR9516.77,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAR9516.77
-91516-5580,  MAR9517.45,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT,  MAR9517.45
-91516-5610,  MAR950.75,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAR950.75
-91516-5611,  MAR9514.43,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAR9514.43
-91516-5612,  MAR9514.69,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  MAR9514.69
+91516-5573.0, MAR950.05,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MAR950.05
+91516-5574.0, MAR950.17,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MAR950.17
+91516-5575.0, MAR950.32,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MAR950.32
+91516-5576.0, MAR9515.61,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MAR9515.61
+91516-5577.0, MAR9516.03,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MAR9516.03
+91516-5578.0, MAR9516.47,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MAR9516.47
+91516-5579.0, MAR9516.77,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MAR9516.77
+91516-5580.0, MAR9517.45,3-Principal Arterial,,,unknown,Principal Arterial,Principal Arterial,,Ohio,OhioDOT, MAR9517.45
+91516-5610.0, MAR950.75,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MAR950.75
+91516-5611.0, MAR9514.43,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MAR9514.43
+91516-5612.0, MAR9514.69,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, MAR9514.69

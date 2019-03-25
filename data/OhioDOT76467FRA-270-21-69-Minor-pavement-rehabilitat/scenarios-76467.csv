@@ -1,2 +1,3 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-76467FRA-270-21.69||Minor-pavement-rehabilitation-(AC-overlay-with-repairs)-on-FRA-IR,s1,2017-01-01,Opening Year,Unavailable,unknown,2017-01-01,state DOT
+Opening-Year-Model-Run,OhioDOT-76467FRA-270-21.69||Minor-pavement-rehabilitation-(AC-overlay-with-repairs)-on-FRA-IR,s1,2017-01-01,design scenario,Unavailable,unknown,2017-01-01,state DOT
+Design-Year-Model-Run,OhioDOT-76467FRA-270-21.69||Minor-pavement-rehabilitation-(AC-overlay-with-repairs)-on-FRA-IR,s1,2017-01-01,design scenario,Unavailable,unknown,2017-01-01,state DOT

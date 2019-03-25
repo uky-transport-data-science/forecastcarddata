@@ -1,6 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-16488-2307-1,16488-2307,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,28190
-16488-2308-1,16488-2308,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,27805
-16488-2309-1,16488-2309,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,31650
-16488-2310-1,16488-2310,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,8700
-16488-2319-1,16488-2319,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,5450

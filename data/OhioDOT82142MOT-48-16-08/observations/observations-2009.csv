@@ -1,0 +1,10 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82142-6218.0-1,82142-6218.0,Design-Year-Forecast-poi-82142-6218.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6219.0-1,82142-6219.0,Design-Year-Forecast-poi-82142-6219.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6220.0-1,82142-6220.0,Design-Year-Forecast-poi-82142-6220.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6221.0-1,82142-6221.0,Design-Year-Forecast-poi-82142-6221.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6222.0-1,82142-6222.0,Design-Year-Forecast-poi-82142-6222.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6223.0-1,82142-6223.0,Design-Year-Forecast-poi-82142-6223.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6224.0-1,82142-6224.0,Design-Year-Forecast-poi-82142-6224.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6225.0-1,82142-6225.0,Design-Year-Forecast-poi-82142-6225.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060
+82142-6226.0-1,82142-6226.0,Design-Year-Forecast-poi-82142-6226.0,unknown,unknown,2009,00:00:00,23:59:59,volume,16060

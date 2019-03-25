@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-238395-5SR 500  Add Lanes & Reconstruct Project from Lake Ella Rd. (M.P. 9.041) to Avenida Central South (M.P.
-11.557)",s1,2005-01-01,Opening Year,Unavailable,professional-judgment,2005-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-238395-5SR 500  Add Lanes & Reconstruct Project from Lake Ella Rd. (M.P. 9.041) to Avenida Central South (M.P.
+11.557)",s1,2005-01-01,design scenario,Unavailable,professional-judgment,2005-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-238395-5SR 500  Add Lanes & Reconstruct Project from Lake Ella Rd. (M.P. 9.041) to Avenida Central South (M.P.
+11.557)",s1,2005-01-01,design scenario,Unavailable,professional-judgment,2005-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-238395-5SR 500  Add Lanes & Reconstruct Project from Lake Ella Rd. (M.P. 9.041) to Avenida Central South (M.P.
+11.557)",s1,2005-01-01,design scenario,Unavailable,professional-judgment,2005-01-01,consultant

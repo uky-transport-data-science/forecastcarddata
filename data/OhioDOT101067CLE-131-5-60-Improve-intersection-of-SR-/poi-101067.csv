@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-101067-5779,  CLE1314.99,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE1314.99
-101067-5793,  CLE1317.355,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE1317.355
-101067-5796,  CLE13218.58,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE13218.58
-101067-5797,  CLE13222.075,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE13222.075
+101067-5779.0, CLE1314.99,4-Minor Arterial,,,unknown,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, CLE1314.99
+101067-5793.0, CLE1317.355,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, CLE1317.355
+101067-5796.0, CLE13218.58,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLE13218.58
+101067-5797.0, CLE13222.075,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLE13222.075

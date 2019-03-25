@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-77616-1147,  CUY4800,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4800
-77616-1148,  CUY4801.5,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4801.5
-77616-1149,  CUY4803.98,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4803.98
-77616-1150,  CUY4805.4,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4805.4
-77616-1151,  CUY4808.54,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4808.54
-77616-1152,  CUY4809.43,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY4809.43
-77616-1153,  CUY48010,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY48010
-77616-1154,  CUY48010.54,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  CUY48010.54
+77616-1147.0, CUY4800,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY4800
+77616-1148.0, CUY4801.5,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY4801.5
+77616-1149.0, CUY4803.98,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY4803.98
+77616-1150.0, CUY4805.4,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY4805.4
+77616-1151.0, CUY4808.54,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY4808.54
+77616-1152.0, CUY4809.43,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY4809.43
+77616-1153.0, CUY48010,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY48010
+77616-1154.0, CUY48010.54,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, CUY48010.54

@@ -1,4 +1,4 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TA-M253 Distributor Addendum-7533,Design Year,00:00:00,23:59:59,volume,4177
-f3,1,TA-M253 Distributor Addendum-7534,Design Year,00:00:00,23:59:59,volume,8385
-f3,1,TA-M253 Distributor Addendum-7535,Design Year,00:00:00,23:59:59,volume,2150
+Design-Year-TA-M253 Distributor Addendum-7533.0,Design-Year-Model-Run,TA-M253 Distributor Addendum-7533.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7533.0,00:00:00,23:59:59,volume,4177
+Design-Year-TA-M253 Distributor Addendum-7534.0,Design-Year-Model-Run,TA-M253 Distributor Addendum-7534.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7534.0,00:00:00,23:59:59,volume,8385
+Design-Year-TA-M253 Distributor Addendum-7535.0,Design-Year-Model-Run,TA-M253 Distributor Addendum-7535.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7535.0,00:00:00,23:59:59,volume,2150

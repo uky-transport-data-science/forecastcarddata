@@ -1,11 +1,11 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPARS 15-8295,   TH 169South of I-494NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 169South of I-494NB
-SPARS 15-8296,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 15-8297,   TH 169North of Co Rd 39South of CSAH 61NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 169North of Co Rd 39South of CSAH 61NB
-SPARS 15-8298,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 15-8299,   TH 169North of CSAH 61NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 169North of CSAH 61NB
-SPARS 15-8300,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPARS 15-8301,   I-494East of Co Rd 39West of TH 169EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-494East of Co Rd 39West of TH 169EB
-SPARS 15-8302,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-SPARS 15-8303,   I -494East of TH 169EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I -494East of TH 169EB
-SPARS 15-8304,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+SPARS 15-8295.0," , TH 169South of I-494NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 169South of I-494NB"
+SPARS 15-8296.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 15-8297.0," , TH 169North of Co Rd 39South of CSAH 61NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 169North of Co Rd 39South of CSAH 61NB"
+SPARS 15-8298.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 15-8299.0," , TH 169North of CSAH 61NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 169North of CSAH 61NB"
+SPARS 15-8300.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPARS 15-8301.0," , I-494East of Co Rd 39West of TH 169EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-494East of Co Rd 39West of TH 169EB"
+SPARS 15-8302.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+SPARS 15-8303.0," , I -494East of TH 169EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I -494East of TH 169EB"
+SPARS 15-8304.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

@@ -1,7 +1,7 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f3,1,TAU 3074A-8063,Design Year,00:00:00,23:59:59,volume,12850
-f3,1,TAU 3074A-8064,Design Year,00:00:00,23:59:59,volume,12850
-f3,1,TAU 3074A-8065,Design Year,00:00:00,23:59:59,volume,9175
-f3,1,TAU 3074A-8066,Design Year,00:00:00,23:59:59,volume,9175
-f3,1,TAU 3074A-8067,Design Year,00:00:00,23:59:59,volume,10200
-f3,1,TAU 3074A-8068,Design Year,00:00:00,23:59:59,volume,10200
+Design-Year-TAU 3074A-8063.0,Design-Year-Model-Run,TAU 3074A-8063.0,Design-Year-Forecast-poi-TAU 3074A-8063.0,00:00:00,23:59:59,volume,12850
+Design-Year-TAU 3074A-8064.0,Design-Year-Model-Run,TAU 3074A-8064.0,Design-Year-Forecast-poi-TAU 3074A-8064.0,00:00:00,23:59:59,volume,12850
+Design-Year-TAU 3074A-8065.0,Design-Year-Model-Run,TAU 3074A-8065.0,Design-Year-Forecast-poi-TAU 3074A-8065.0,00:00:00,23:59:59,volume,9175
+Design-Year-TAU 3074A-8066.0,Design-Year-Model-Run,TAU 3074A-8066.0,Design-Year-Forecast-poi-TAU 3074A-8066.0,00:00:00,23:59:59,volume,9175
+Design-Year-TAU 3074A-8067.0,Design-Year-Model-Run,TAU 3074A-8067.0,Design-Year-Forecast-poi-TAU 3074A-8067.0,00:00:00,23:59:59,volume,10200
+Design-Year-TAU 3074A-8068.0,Design-Year-Model-Run,TAU 3074A-8068.0,Design-Year-Forecast-poi-TAU 3074A-8068.0,00:00:00,23:59:59,volume,10200

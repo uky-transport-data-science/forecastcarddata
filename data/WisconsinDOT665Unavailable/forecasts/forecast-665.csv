@@ -1,4 +1,4 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,665-6419,Opening Year,00:00:00,23:59:59,volume,8500
-f1,1,665-6421,Opening Year,00:00:00,23:59:59,volume,11300
-f1,1,665-6423,Opening Year,00:00:00,23:59:59,volume,12800
+Opening-Year-665-6419.0,Opening-Year-Model-Run,665-6419.0,Opening-Year-Forecast-poi-665-6419.0,00:00:00,23:59:59,volume,8500
+Opening-Year-665-6421.0,Opening-Year-Model-Run,665-6421.0,Opening-Year-Forecast-poi-665-6421.0,00:00:00,23:59:59,volume,11300
+Opening-Year-665-6423.0,Opening-Year-Model-Run,665-6423.0,Opening-Year-Forecast-poi-665-6423.0,00:00:00,23:59:59,volume,12800

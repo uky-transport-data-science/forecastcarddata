@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+80096-1204.0-1,80096-1204.0,Opening-Year-Forecast-poi-80096-1204.0,unknown,unknown,2009,00:00:00,23:59:59,volume,7170
+80096-1205.0-1,80096-1205.0,Opening-Year-Forecast-poi-80096-1205.0,unknown,unknown,2009,00:00:00,23:59:59,volume,6510
+80096-1224.0-1,80096-1224.0,Opening-Year-Forecast-poi-80096-1224.0,unknown,unknown,2009,00:00:00,23:59:59,volume,9440
+80096-1225.0-1,80096-1225.0,Opening-Year-Forecast-poi-80096-1225.0,unknown,unknown,2009,00:00:00,23:59:59,volume,6400

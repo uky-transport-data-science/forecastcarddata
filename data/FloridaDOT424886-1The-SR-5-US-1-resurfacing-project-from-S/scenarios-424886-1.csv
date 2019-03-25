@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-424886-1The SR 5 (US 1) resurfacing project from SR 500/US 192 (M.P. 0.000) to CR 511/Aurora
-Rd. (M.P. 4.511)",s1,2009-01-01,Opening Year,Unavailable,professional-judgment,2009-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-424886-1The SR 5 (US 1) resurfacing project from SR 500/US 192 (M.P. 0.000) to CR 511/Aurora
+Rd. (M.P. 4.511)",s1,2009-01-01,design scenario,Unavailable,professional-judgment,2009-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-424886-1The SR 5 (US 1) resurfacing project from SR 500/US 192 (M.P. 0.000) to CR 511/Aurora
+Rd. (M.P. 4.511)",s1,2009-01-01,design scenario,Unavailable,professional-judgment,2009-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-424886-1The SR 5 (US 1) resurfacing project from SR 500/US 192 (M.P. 0.000) to CR 511/Aurora
+Rd. (M.P. 4.511)",s1,2009-01-01,design scenario,Unavailable,professional-judgment,2009-01-01,consultant

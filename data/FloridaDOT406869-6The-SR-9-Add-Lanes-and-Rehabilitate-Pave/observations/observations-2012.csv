@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+406869-6-1.0-1,406869-6-1.0,Opening-Year-Forecast-poi-406869-6-1.0,unknown,unknown,2012,00:00:00,23:59:59,volume,31000
+406869-6-2.0-1,406869-6-2.0,Opening-Year-Forecast-poi-406869-6-2.0,unknown,unknown,2012,00:00:00,23:59:59,volume,36921
+406869-6-3.0-1,406869-6-3.0,Opening-Year-Forecast-poi-406869-6-3.0,unknown,unknown,2012,00:00:00,23:59:59,volume,42500

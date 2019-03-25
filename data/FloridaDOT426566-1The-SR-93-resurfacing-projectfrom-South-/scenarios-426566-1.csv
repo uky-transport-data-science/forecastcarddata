@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-426566-1The SR 93 resurfacing projectfrom South of Panasofkee Creek Bridge (M.P. 15.329) to SR 91
-(Floridas Turnpike) (M.P. 21.780)",s1,2007-01-01,Opening Year,Unavailable,professional-judgment,2007-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-426566-1The SR 93 resurfacing projectfrom South of Panasofkee Creek Bridge (M.P. 15.329) to SR 91
+(Floridas Turnpike) (M.P. 21.780)",s1,2007-01-01,design scenario,Unavailable,professional-judgment,2007-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-426566-1The SR 93 resurfacing projectfrom South of Panasofkee Creek Bridge (M.P. 15.329) to SR 91
+(Floridas Turnpike) (M.P. 21.780)",s1,2007-01-01,design scenario,Unavailable,professional-judgment,2007-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-426566-1The SR 93 resurfacing projectfrom South of Panasofkee Creek Bridge (M.P. 15.329) to SR 91
+(Floridas Turnpike) (M.P. 21.780)",s1,2007-01-01,design scenario,Unavailable,professional-judgment,2007-01-01,consultant

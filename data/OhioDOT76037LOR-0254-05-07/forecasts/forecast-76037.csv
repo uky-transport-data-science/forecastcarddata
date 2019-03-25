@@ -1,13 +1,13 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,76037-467,Opening Year,00:00:00,23:59:59,volume,14890
-f3,1,76037-467,Design Year,00:00:00,23:59:59,volume,20620
-f1,1,76037-468,Opening Year,00:00:00,23:59:59,volume,17740
-f3,1,76037-468,Design Year,00:00:00,23:59:59,volume,24730
-f1,1,76037-469,Opening Year,00:00:00,23:59:59,volume,20890
-f3,1,76037-469,Design Year,00:00:00,23:59:59,volume,28770
-f1,1,76037-470,Opening Year,00:00:00,23:59:59,volume,10630
-f3,1,76037-470,Design Year,00:00:00,23:59:59,volume,14710
-f1,1,76037-471,Opening Year,00:00:00,23:59:59,volume,12950
-f3,1,76037-471,Design Year,00:00:00,23:59:59,volume,17470
-f1,1,76037-472,Opening Year,00:00:00,23:59:59,volume,21770
-f3,1,76037-472,Design Year,00:00:00,23:59:59,volume,27830
+Opening-Year-76037-467.0,Opening-Year-Model-Run,76037-467.0,Opening-Year-Forecast-poi-76037-467.0,00:00:00,23:59:59,volume,14890
+Design-Year-76037-467.0,Design-Year-Model-Run,76037-467.0,Design-Year-Forecast-poi-76037-467.0,00:00:00,23:59:59,volume,20620
+Opening-Year-76037-468.0,Opening-Year-Model-Run,76037-468.0,Opening-Year-Forecast-poi-76037-468.0,00:00:00,23:59:59,volume,17740
+Design-Year-76037-468.0,Design-Year-Model-Run,76037-468.0,Design-Year-Forecast-poi-76037-468.0,00:00:00,23:59:59,volume,24730
+Opening-Year-76037-469.0,Opening-Year-Model-Run,76037-469.0,Opening-Year-Forecast-poi-76037-469.0,00:00:00,23:59:59,volume,20890
+Design-Year-76037-469.0,Design-Year-Model-Run,76037-469.0,Design-Year-Forecast-poi-76037-469.0,00:00:00,23:59:59,volume,28770
+Opening-Year-76037-470.0,Opening-Year-Model-Run,76037-470.0,Opening-Year-Forecast-poi-76037-470.0,00:00:00,23:59:59,volume,10630
+Design-Year-76037-470.0,Design-Year-Model-Run,76037-470.0,Design-Year-Forecast-poi-76037-470.0,00:00:00,23:59:59,volume,14710
+Opening-Year-76037-471.0,Opening-Year-Model-Run,76037-471.0,Opening-Year-Forecast-poi-76037-471.0,00:00:00,23:59:59,volume,12950
+Design-Year-76037-471.0,Design-Year-Model-Run,76037-471.0,Design-Year-Forecast-poi-76037-471.0,00:00:00,23:59:59,volume,17470
+Opening-Year-76037-472.0,Opening-Year-Model-Run,76037-472.0,Opening-Year-Forecast-poi-76037-472.0,00:00:00,23:59:59,volume,21770
+Design-Year-76037-472.0,Design-Year-Model-Run,76037-472.0,Design-Year-Forecast-poi-76037-472.0,00:00:00,23:59:59,volume,27830

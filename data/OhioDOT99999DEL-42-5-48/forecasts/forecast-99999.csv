@@ -1,13 +1,13 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,99999-5035,Opening Year,00:00:00,23:59:59,volume,64000
-f3,1,99999-5035,Design Year,00:00:00,23:59:59,volume,81000
-f1,1,99999-5038,Opening Year,00:00:00,23:59:59,volume,133000
-f3,1,99999-5038,Design Year,00:00:00,23:59:59,volume,133000
-f1,1,99999-5039,Opening Year,00:00:00,23:59:59,volume,140000
-f3,1,99999-5039,Design Year,00:00:00,23:59:59,volume,171000
-f1,1,99999-5040,Opening Year,00:00:00,23:59:59,volume,147000
-f3,1,99999-5040,Design Year,00:00:00,23:59:59,volume,172000
-f1,1,99999-5041,Opening Year,00:00:00,23:59:59,volume,148000
-f3,1,99999-5041,Design Year,00:00:00,23:59:59,volume,167000
-f1,1,99999-5128,Opening Year,00:00:00,23:59:59,volume,12000
-f3,1,99999-5128,Design Year,00:00:00,23:59:59,volume,17000
+Opening-Year-99999-5035.0,Opening-Year-Model-Run,99999-5035.0,Opening-Year-Forecast-poi-99999-5035.0,00:00:00,23:59:59,volume,64000
+Design-Year-99999-5035.0,Design-Year-Model-Run,99999-5035.0,Design-Year-Forecast-poi-99999-5035.0,00:00:00,23:59:59,volume,81000
+Opening-Year-99999-5038.0,Opening-Year-Model-Run,99999-5038.0,Opening-Year-Forecast-poi-99999-5038.0,00:00:00,23:59:59,volume,133000
+Design-Year-99999-5038.0,Design-Year-Model-Run,99999-5038.0,Design-Year-Forecast-poi-99999-5038.0,00:00:00,23:59:59,volume,133000
+Opening-Year-99999-5039.0,Opening-Year-Model-Run,99999-5039.0,Opening-Year-Forecast-poi-99999-5039.0,00:00:00,23:59:59,volume,140000
+Design-Year-99999-5039.0,Design-Year-Model-Run,99999-5039.0,Design-Year-Forecast-poi-99999-5039.0,00:00:00,23:59:59,volume,171000
+Opening-Year-99999-5040.0,Opening-Year-Model-Run,99999-5040.0,Opening-Year-Forecast-poi-99999-5040.0,00:00:00,23:59:59,volume,147000
+Design-Year-99999-5040.0,Design-Year-Model-Run,99999-5040.0,Design-Year-Forecast-poi-99999-5040.0,00:00:00,23:59:59,volume,172000
+Opening-Year-99999-5041.0,Opening-Year-Model-Run,99999-5041.0,Opening-Year-Forecast-poi-99999-5041.0,00:00:00,23:59:59,volume,148000
+Design-Year-99999-5041.0,Design-Year-Model-Run,99999-5041.0,Design-Year-Forecast-poi-99999-5041.0,00:00:00,23:59:59,volume,167000
+Opening-Year-99999-5128.0,Opening-Year-Model-Run,99999-5128.0,Opening-Year-Forecast-poi-99999-5128.0,00:00:00,23:59:59,volume,12000
+Design-Year-99999-5128.0,Design-Year-Model-Run,99999-5128.0,Design-Year-Forecast-poi-99999-5128.0,00:00:00,23:59:59,volume,17000

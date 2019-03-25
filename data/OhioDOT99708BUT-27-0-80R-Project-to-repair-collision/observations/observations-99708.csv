@@ -1,4 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-99708-4334-1,99708-4334,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,26122
-99708-4360-1,99708-4360,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,15601
-99708-4491-1,99708-4491,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,10615

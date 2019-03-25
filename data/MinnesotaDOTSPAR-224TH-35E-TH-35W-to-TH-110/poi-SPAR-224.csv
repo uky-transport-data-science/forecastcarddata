@@ -1,19 +1,19 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-SPAR-224-7119,   TH 35ETH 35WCSAH 42NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ETH 35WCSAH 42NB
-SPAR-224-7120,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-224-7121,   TH 35ECSAH 42CR 11NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ECSAH 42CR 11NB
-SPAR-224-7122,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-224-7123,   TH 35ECR 11TH 36NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ECR 11TH 36NB
-SPAR-224-7124,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-224-7125,   TH 35ETH 36CR 32NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ETH 36CR 32NB
-SPAR-224-7126,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-224-7127,   TH 35ECR 32CSAH 30NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ECR 32CSAH 30NB
-SPAR-224-7128,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-224-7129,   TH 35ECSAH 30CSAH 31/CSAH 28NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ECSAH 30CSAH 31/CSAH 28NB
-SPAR-224-7130,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-224-7131,   TH 35ECSAH 31/CSAH 28CSAH 26NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ECSAH 31/CSAH 28CSAH 26NB
-SPAR-224-7132,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-224-7133,   TH 35ECSAH 26TH 494NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ECSAH 26TH 494NB
-SPAR-224-7134,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
-SPAR-224-7135,   TH 35ENorth of TH 494NB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   TH 35ENorth of TH 494NB
-SPAR-224-7136,   SB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   SB
+SPAR-224-7119.0," , TH 35ETH 35WCSAH 42NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ETH 35WCSAH 42NB"
+SPAR-224-7120.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-224-7121.0," , TH 35ECSAH 42CR 11NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ECSAH 42CR 11NB"
+SPAR-224-7122.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-224-7123.0," , TH 35ECR 11TH 36NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ECR 11TH 36NB"
+SPAR-224-7124.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-224-7125.0," , TH 35ETH 36CR 32NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ETH 36CR 32NB"
+SPAR-224-7126.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-224-7127.0," , TH 35ECR 32CSAH 30NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ECR 32CSAH 30NB"
+SPAR-224-7128.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-224-7129.0," , TH 35ECSAH 30CSAH 31/CSAH 28NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ECSAH 30CSAH 31/CSAH 28NB"
+SPAR-224-7130.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-224-7131.0," , TH 35ECSAH 31/CSAH 28CSAH 26NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ECSAH 31/CSAH 28CSAH 26NB"
+SPAR-224-7132.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-224-7133.0," , TH 35ECSAH 26TH 494NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ECSAH 26TH 494NB"
+SPAR-224-7134.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"
+SPAR-224-7135.0," , TH 35ENorth of TH 494NB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , TH 35ENorth of TH 494NB"
+SPAR-224-7136.0," , SB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , SB"

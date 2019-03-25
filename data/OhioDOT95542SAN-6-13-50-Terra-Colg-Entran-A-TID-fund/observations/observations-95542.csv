@@ -1,4 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-95542-3551-1,95542-3551,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,11164
-95542-3552-1,95542-3552,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,11164
-95542-3553-1,95542-3553,Opening Year,unknown,unknown,2015,00:00:00,23:59:59,volume,11164

@@ -1,9 +1,9 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-TAU 3069-8019,   I-94East Of Snelling(TH 51)EB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94East Of Snelling(TH 51)EB
-TAU 3069-8020,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3069-8021,   I-94West Of Snelling (TH 51)East Of Prior AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94West Of Snelling (TH 51)East Of Prior AveEB
-TAU 3069-8022,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3069-8023,   I-94West Of Prior AveEast Of Cretin AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94West Of Prior AveEast Of Cretin AveEB
-TAU 3069-8024,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
-TAU 3069-8025,   I-94West Of Cretin AveEB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   I-94West Of Cretin AveEB
-TAU 3069-8026,   WB,,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT,   WB
+TAU 3069-8019.0," , I-94East Of Snelling(TH 51)EB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94East Of Snelling(TH 51)EB"
+TAU 3069-8020.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3069-8021.0," , I-94West Of Snelling (TH 51)East Of Prior AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94West Of Snelling (TH 51)East Of Prior AveEB"
+TAU 3069-8022.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3069-8023.0," , I-94West Of Prior AveEast Of Cretin AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94West Of Prior AveEast Of Cretin AveEB"
+TAU 3069-8024.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"
+TAU 3069-8025.0," , I-94West Of Cretin AveEB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , I-94West Of Cretin AveEB"
+TAU 3069-8026.0," , WB",,,,unknown,unknown,unknown,,Minnesota,MinnesotaDOT," , WB"

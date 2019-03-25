@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-92571-2458,  GEA8716.32,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA8716.32
-92571-2459,  GEA8717.16,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA8717.16
-92571-2460,  GEA8719.45,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  GEA8719.45
+92571-2458.0, GEA8716.32,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, GEA8716.32
+92571-2459.0, GEA8717.16,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, GEA8717.16
+92571-2460.0, GEA8719.45,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, GEA8719.45

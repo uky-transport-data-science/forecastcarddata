@@ -1,2 +1,2 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-18629-760,  MED4212.18,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MED4212.18
+18629-760.0, MED4212.18,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, MED4212.18

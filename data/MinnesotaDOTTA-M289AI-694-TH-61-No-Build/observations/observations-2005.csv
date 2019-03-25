@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TA-M289A-7574.0-1,TA-M289A-7574.0,Design-Year-Forecast-poi-TA-M289A-7574.0,unknown,unknown,2005,00:00:00,23:59:59,volume,44500
+TA-M289A-7575.0-1,TA-M289A-7575.0,Design-Year-Forecast-poi-TA-M289A-7575.0,unknown,unknown,2005,00:00:00,23:59:59,volume,44500
+TA-M289A-7576.0-1,TA-M289A-7576.0,Design-Year-Forecast-poi-TA-M289A-7576.0,unknown,unknown,2005,00:00:00,23:59:59,volume,44500
+TA-M289A-7577.0-1,TA-M289A-7577.0,Design-Year-Forecast-poi-TA-M289A-7577.0,unknown,unknown,2005,00:00:00,23:59:59,volume,44500
+TA-M289A-7578.0-1,TA-M289A-7578.0,Design-Year-Forecast-poi-TA-M289A-7578.0,unknown,unknown,2005,00:00:00,23:59:59,volume,39500
+TA-M289A-7579.0-1,TA-M289A-7579.0,Design-Year-Forecast-poi-TA-M289A-7579.0,unknown,unknown,2005,00:00:00,23:59:59,volume,39500
+TA-M289A-7580.0-1,TA-M289A-7580.0,Design-Year-Forecast-poi-TA-M289A-7580.0,unknown,unknown,2005,00:00:00,23:59:59,volume,15000
+TA-M289A-7581.0-1,TA-M289A-7581.0,Design-Year-Forecast-poi-TA-M289A-7581.0,unknown,unknown,2005,00:00:00,23:59:59,volume,15000
+TA-M289A-7582.0-1,TA-M289A-7582.0,Design-Year-Forecast-poi-TA-M289A-7582.0,unknown,unknown,2005,00:00:00,23:59:59,volume,15000
+TA-M289A-7583.0-1,TA-M289A-7583.0,Design-Year-Forecast-poi-TA-M289A-7583.0,unknown,unknown,2005,00:00:00,23:59:59,volume,15000
+TA-M289A-7584.0-1,TA-M289A-7584.0,Design-Year-Forecast-poi-TA-M289A-7584.0,unknown,unknown,2005,00:00:00,23:59:59,volume,15250
+TA-M289A-7585.0-1,TA-M289A-7585.0,Design-Year-Forecast-poi-TA-M289A-7585.0,unknown,unknown,2005,00:00:00,23:59:59,volume,15250

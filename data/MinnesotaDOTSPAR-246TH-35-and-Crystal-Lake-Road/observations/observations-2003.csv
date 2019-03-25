@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+SPAR-246-7168.0-1,SPAR-246-7168.0,Design-Year-Forecast-poi-SPAR-246-7168.0,unknown,unknown,2003,00:00:00,23:59:59,volume,44500
+SPAR-246-7169.0-1,SPAR-246-7169.0,Design-Year-Forecast-poi-SPAR-246-7169.0,unknown,unknown,2003,00:00:00,23:59:59,volume,44500
+SPAR-246-7170.0-1,SPAR-246-7170.0,Design-Year-Forecast-poi-SPAR-246-7170.0,unknown,unknown,2003,00:00:00,23:59:59,volume,47000
+SPAR-246-7171.0-1,SPAR-246-7171.0,Design-Year-Forecast-poi-SPAR-246-7171.0,unknown,unknown,2003,00:00:00,23:59:59,volume,47000

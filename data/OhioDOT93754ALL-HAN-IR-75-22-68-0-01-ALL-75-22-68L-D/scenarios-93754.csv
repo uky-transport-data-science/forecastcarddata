@@ -1,2 +1,3 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,OhioDOT-93754ALL/HAN-IR-75-22.68/0.01||ALL-75-22.68L:-Deck-overlay-with-edges-replaced-and-pa,s1,2015-01-01,Opening Year,Unavailable,unknown,2015-01-01,state DOT
+Opening-Year-Model-Run,OhioDOT-93754ALL/HAN-IR-75-22.68/0.01||ALL-75-22.68L:-Deck-overlay-with-edges-replaced-and-pa,s1,2015-01-01,design scenario,Unavailable,unknown,2015-01-01,state DOT
+Design-Year-Model-Run,OhioDOT-93754ALL/HAN-IR-75-22.68/0.01||ALL-75-22.68L:-Deck-overlay-with-edges-replaced-and-pa,s1,2015-01-01,design scenario,Unavailable,unknown,2015-01-01,state DOT

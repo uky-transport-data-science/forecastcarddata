@@ -1,9 +1,9 @@
 forecast_id,run_id,poi_id,forecast_match_id,start_time,end_time,forecast_variable,forecast_value
-f1,1,Unavailable-3677,Opening Year,00:00:00,23:59:59,volume,84220
-f3,1,Unavailable-3677,Design Year,00:00:00,23:59:59,volume,127070
-f1,1,Unavailable-3733,Opening Year,00:00:00,23:59:59,volume,26630
-f3,1,Unavailable-3733,Design Year,00:00:00,23:59:59,volume,34550
-f1,1,Unavailable-3734,Opening Year,00:00:00,23:59:59,volume,23230
-f3,1,Unavailable-3734,Design Year,00:00:00,23:59:59,volume,33090
-f1,1,Unavailable-3735,Opening Year,00:00:00,23:59:59,volume,42710
-f3,1,Unavailable-3735,Design Year,00:00:00,23:59:59,volume,56360
+Opening-Year-Unavailable-3677.0,Opening-Year-Model-Run,Unavailable-3677.0,Opening-Year-Forecast-poi-Unavailable-3677.0,00:00:00,23:59:59,volume,84220
+Design-Year-Unavailable-3677.0,Design-Year-Model-Run,Unavailable-3677.0,Design-Year-Forecast-poi-Unavailable-3677.0,00:00:00,23:59:59,volume,127070
+Opening-Year-Unavailable-3733.0,Opening-Year-Model-Run,Unavailable-3733.0,Opening-Year-Forecast-poi-Unavailable-3733.0,00:00:00,23:59:59,volume,26630
+Design-Year-Unavailable-3733.0,Design-Year-Model-Run,Unavailable-3733.0,Design-Year-Forecast-poi-Unavailable-3733.0,00:00:00,23:59:59,volume,34550
+Opening-Year-Unavailable-3734.0,Opening-Year-Model-Run,Unavailable-3734.0,Opening-Year-Forecast-poi-Unavailable-3734.0,00:00:00,23:59:59,volume,23230
+Design-Year-Unavailable-3734.0,Design-Year-Model-Run,Unavailable-3734.0,Design-Year-Forecast-poi-Unavailable-3734.0,00:00:00,23:59:59,volume,33090
+Opening-Year-Unavailable-3735.0,Opening-Year-Model-Run,Unavailable-3735.0,Opening-Year-Forecast-poi-Unavailable-3735.0,00:00:00,23:59:59,volume,42710
+Design-Year-Unavailable-3735.0,Design-Year-Model-Run,Unavailable-3735.0,Design-Year-Forecast-poi-Unavailable-3735.0,00:00:00,23:59:59,volume,56360

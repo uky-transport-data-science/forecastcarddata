@@ -1,0 +1,13 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+SPAR-220-7107.0-1,SPAR-220-7107.0,Design-Year-Forecast-poi-SPAR-220-7107.0,unknown,unknown,2002,00:00:00,23:59:59,volume,19250
+SPAR-220-7108.0-1,SPAR-220-7108.0,Design-Year-Forecast-poi-SPAR-220-7108.0,unknown,unknown,2002,00:00:00,23:59:59,volume,19250
+SPAR-220-7109.0-1,SPAR-220-7109.0,Design-Year-Forecast-poi-SPAR-220-7109.0,unknown,unknown,2002,00:00:00,23:59:59,volume,19250
+SPAR-220-7110.0-1,SPAR-220-7110.0,Design-Year-Forecast-poi-SPAR-220-7110.0,unknown,unknown,2002,00:00:00,23:59:59,volume,19250
+SPAR-220-7111.0-1,SPAR-220-7111.0,Design-Year-Forecast-poi-SPAR-220-7111.0,unknown,unknown,2002,00:00:00,23:59:59,volume,22500
+SPAR-220-7112.0-1,SPAR-220-7112.0,Design-Year-Forecast-poi-SPAR-220-7112.0,unknown,unknown,2002,00:00:00,23:59:59,volume,22500
+SPAR-220-7113.0-1,SPAR-220-7113.0,Design-Year-Forecast-poi-SPAR-220-7113.0,unknown,unknown,2002,00:00:00,23:59:59,volume,5750
+SPAR-220-7114.0-1,SPAR-220-7114.0,Design-Year-Forecast-poi-SPAR-220-7114.0,unknown,unknown,2002,00:00:00,23:59:59,volume,5750
+SPAR-220-7115.0-1,SPAR-220-7115.0,Design-Year-Forecast-poi-SPAR-220-7115.0,unknown,unknown,2002,00:00:00,23:59:59,volume,5750
+SPAR-220-7116.0-1,SPAR-220-7116.0,Design-Year-Forecast-poi-SPAR-220-7116.0,unknown,unknown,2002,00:00:00,23:59:59,volume,5750
+SPAR-220-7117.0-1,SPAR-220-7117.0,Design-Year-Forecast-poi-SPAR-220-7117.0,unknown,unknown,2002,00:00:00,23:59:59,volume,4200
+SPAR-220-7118.0-1,SPAR-220-7118.0,Design-Year-Forecast-poi-SPAR-220-7118.0,unknown,unknown,2002,00:00:00,23:59:59,volume,4200

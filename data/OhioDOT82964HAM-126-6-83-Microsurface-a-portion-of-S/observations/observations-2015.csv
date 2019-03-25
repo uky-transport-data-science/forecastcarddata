@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+82964-4310.0-1,82964-4310.0,Opening-Year-Forecast-poi-82964-4310.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32683
+82964-4311.0-1,82964-4311.0,Opening-Year-Forecast-poi-82964-4311.0,unknown,unknown,2015,00:00:00,23:59:59,volume,32683
+82964-4312.0-1,82964-4312.0,Opening-Year-Forecast-poi-82964-4312.0,unknown,unknown,2015,00:00:00,23:59:59,volume,46840
+82964-4313.0-1,82964-4313.0,Opening-Year-Forecast-poi-82964-4313.0,unknown,unknown,2015,00:00:00,23:59:59,volume,39071

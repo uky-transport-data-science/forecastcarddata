@@ -1,6 +1,6 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-99865-5860,  SHE7052.99,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  SHE7052.99
-99865-5868,  MER1190.4,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MER1190.4
-99865-5869,  MER1191.15,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MER1191.15
-99865-5870,  MER1195.29,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  MER1195.29
-99865-5878,  AUG3641.85,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  AUG3641.85
+99865-5860.0, SHE7052.99,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, SHE7052.99
+99865-5868.0, MER1190.4,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, MER1190.4
+99865-5869.0, MER1191.15,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, MER1191.15
+99865-5870.0, MER1195.29,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, MER1195.29
+99865-5878.0, AUG3641.85,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT, AUG3641.85

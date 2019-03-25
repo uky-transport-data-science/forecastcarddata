@@ -1,4 +1,4 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-83418-2099,  HUR6120.98,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HUR6120.98
-83418-2100,  HUR6121.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  HUR6121.96
-83418-2106,  ERI610,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ERI610
+83418-2099.0, HUR6120.98,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, HUR6120.98
+83418-2100.0, HUR6121.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, HUR6121.96
+83418-2106.0, ERI610,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ERI610

@@ -1,0 +1,15 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+TAU 3065-8005.0-1,TAU 3065-8005.0,Design-Year-Forecast-poi-TAU 3065-8005.0,unknown,unknown,1983,00:00:00,23:59:59,volume,26000
+TAU 3065-8006.0-1,TAU 3065-8006.0,Design-Year-Forecast-poi-TAU 3065-8006.0,unknown,unknown,1983,00:00:00,23:59:59,volume,26000
+TAU 3065-8007.0-1,TAU 3065-8007.0,Design-Year-Forecast-poi-TAU 3065-8007.0,unknown,unknown,1983,00:00:00,23:59:59,volume,27125
+TAU 3065-8008.0-1,TAU 3065-8008.0,Design-Year-Forecast-poi-TAU 3065-8008.0,unknown,unknown,1983,00:00:00,23:59:59,volume,27125
+TAU 3065-8009.0-1,TAU 3065-8009.0,Design-Year-Forecast-poi-TAU 3065-8009.0,unknown,unknown,1983,00:00:00,23:59:59,volume,5600
+TAU 3065-8010.0-1,TAU 3065-8010.0,Design-Year-Forecast-poi-TAU 3065-8010.0,unknown,unknown,1983,00:00:00,23:59:59,volume,5600
+TAU 3065-8011.0-1,TAU 3065-8011.0,Design-Year-Forecast-poi-TAU 3065-8011.0,unknown,unknown,1983,00:00:00,23:59:59,volume,5600
+TAU 3065-8012.0-1,TAU 3065-8012.0,Design-Year-Forecast-poi-TAU 3065-8012.0,unknown,unknown,1983,00:00:00,23:59:59,volume,5600
+TAU 3065-8013.0-1,TAU 3065-8013.0,Design-Year-Forecast-poi-TAU 3065-8013.0,unknown,unknown,1983,00:00:00,23:59:59,volume,5600
+TAU 3065-8014.0-1,TAU 3065-8014.0,Design-Year-Forecast-poi-TAU 3065-8014.0,unknown,unknown,1983,00:00:00,23:59:59,volume,5600
+TAU 3065-8015.0-1,TAU 3065-8015.0,Design-Year-Forecast-poi-TAU 3065-8015.0,unknown,unknown,1983,00:00:00,23:59:59,volume,6500
+TAU 3065-8016.0-1,TAU 3065-8016.0,Design-Year-Forecast-poi-TAU 3065-8016.0,unknown,unknown,1983,00:00:00,23:59:59,volume,6500
+TAU 3065-8017.0-1,TAU 3065-8017.0,Design-Year-Forecast-poi-TAU 3065-8017.0,unknown,unknown,1983,00:00:00,23:59:59,volume,6500
+TAU 3065-8018.0-1,TAU 3065-8018.0,Design-Year-Forecast-poi-TAU 3065-8018.0,unknown,unknown,1983,00:00:00,23:59:59,volume,6500

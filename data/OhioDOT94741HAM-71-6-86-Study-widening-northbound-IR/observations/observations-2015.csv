@@ -1,0 +1,4 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+94741-3991.0-1,94741-3991.0,Opening-Year-Forecast-poi-94741-3991.0,unknown,unknown,2015,00:00:00,23:59:59,volume,140397
+94741-4012.0-1,94741-4012.0,Opening-Year-Forecast-poi-94741-4012.0,unknown,unknown,2015,00:00:00,23:59:59,volume,132212
+94741-4043.0-1,94741-4043.0,Opening-Year-Forecast-poi-94741-4043.0,unknown,unknown,2015,00:00:00,23:59:59,volume,98076

@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23817-2129.0-1,23817-2129.0,Opening-Year-Forecast-poi-23817-2129.0,unknown,unknown,2011,00:00:00,23:59:59,volume,18030
+23817-2130.0-1,23817-2130.0,Opening-Year-Forecast-poi-23817-2130.0,unknown,unknown,2013,00:00:00,23:59:59,volume,21124

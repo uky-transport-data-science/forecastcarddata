@@ -1,2 +1,2 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,MinnesotaDOT-SPARS 49TH 10 - From Egret Boulevard to University Ave. in Coon Rapids,s1,1971-01-01,Design Year,Unavailable,trendline,1971-01-01,state DOT
+Design-Year-Model-Run,MinnesotaDOT-SPARS 49TH 10 - From Egret Boulevard to University Ave. in Coon Rapids,s1,1971-01-01,design scenario,Unavailable,trendline,1971-01-01,state DOT

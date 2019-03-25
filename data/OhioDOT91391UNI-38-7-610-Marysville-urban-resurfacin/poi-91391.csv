@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-91391-5639,  UNI386.89,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  UNI386.89
-91391-5640,  UNI387.99,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  UNI387.99
-91391-5641,  UNI388.85,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  UNI388.85
-91391-5642,  UNI389.68,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT,  UNI389.68
+91391-5639.0, UNI386.89,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, UNI386.89
+91391-5640.0, UNI387.99,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, UNI387.99
+91391-5641.0, UNI388.85,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, UNI388.85
+91391-5642.0, UNI389.68,5-Major Collector,,,unknown,Major Collector,Major Collector,,Ohio,OhioDOT, UNI389.68

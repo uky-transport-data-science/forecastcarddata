@@ -1,4 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-85240-2124-1,85240-2124,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,74950
-85240-2138-1,85240-2138,Opening Year,unknown,unknown,2013,00:00:00,23:59:59,volume,44000
-85240-2139-1,85240-2139,Opening Year,unknown,unknown,2012,00:00:00,23:59:59,volume,40354

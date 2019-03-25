@@ -1,2 +1,3 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"OhioDOT-101435D06-PPM-FY17D||AC-Overlay-on-FRA-SR-605,-US-62,-US-62G-&-DEL-US-36,-SR-37.",s1,2016-01-01,Opening Year,Unavailable,unknown,2016-01-01,state DOT
+Opening-Year-Model-Run,"OhioDOT-101435D06-PPM-FY17D||AC-Overlay-on-FRA-SR-605,-US-62,-US-62G-&-DEL-US-36,-SR-37.",s1,2016-01-01,design scenario,Unavailable,unknown,2016-01-01,state DOT
+Design-Year-Model-Run,"OhioDOT-101435D06-PPM-FY17D||AC-Overlay-on-FRA-SR-605,-US-62,-US-62G-&-DEL-US-36,-SR-37.",s1,2016-01-01,design scenario,Unavailable,unknown,2016-01-01,state DOT

@@ -1,9 +1,0 @@
-obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TAS 3080-7832-1,TAS 3080-7832,Design Year,unknown,unknown,1986,00:00:00,23:59:59,volume,9400
-TAS 3080-7833-1,TAS 3080-7833,Design Year,unknown,unknown,1986,00:00:00,23:59:59,volume,9400
-TAS 3080-7834-1,TAS 3080-7834,Design Year,unknown,unknown,1986,00:00:00,23:59:59,volume,10800
-TAS 3080-7835-1,TAS 3080-7835,Design Year,unknown,unknown,1986,00:00:00,23:59:59,volume,10800
-TAS 3080-7836-1,TAS 3080-7836,Design Year,unknown,unknown,1986,00:00:00,23:59:59,volume,19500
-TAS 3080-7837-1,TAS 3080-7837,Design Year,unknown,unknown,1986,00:00:00,23:59:59,volume,19500
-TAS 3080-7838-1,TAS 3080-7838,Design Year,unknown,unknown,1986,00:00:00,23:59:59,volume,18250
-TAS 3080-7839-1,TAS 3080-7839,Design Year,unknown,unknown,1986,00:00:00,23:59:59,volume,18250

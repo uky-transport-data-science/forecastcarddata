@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-22491-296,  PER/LIC130,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PER/LIC130
-22491-297,  PER/LIC1333.49,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PER/LIC1333.49
-22491-298,  PER/LIC1338.14,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PER/LIC1338.14
-22491-299,  PER/LIC1339.34,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  PER/LIC1339.34
-22491-303,  PER/LIC2042.43,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  PER/LIC2042.43
-22491-304,  PER/LIC2043.15,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT,  PER/LIC2043.15
+22491-296.0, PER/LIC130,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, PER/LIC130
+22491-297.0, PER/LIC1333.49,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, PER/LIC1333.49
+22491-298.0, PER/LIC1338.14,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, PER/LIC1338.14
+22491-299.0, PER/LIC1339.34,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, PER/LIC1339.34
+22491-303.0, PER/LIC2042.43,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT, PER/LIC2042.43
+22491-304.0, PER/LIC2043.15,6-Minor Collector,,,rural,Minor Collector,Minor Collector,,Ohio,OhioDOT, PER/LIC2043.15

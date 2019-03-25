@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-25673-735,  ASD8912.15,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD8912.15
-25673-736,  ASD8915.71,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD8915.71
-25673-737,  ASD3020,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD3020
-25673-738,  ASD3024.12,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  ASD3024.12
+25673-735.0, ASD8912.15,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ASD8912.15
+25673-736.0, ASD8915.71,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ASD8915.71
+25673-737.0, ASD3020,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ASD3020
+25673-738.0, ASD3024.12,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, ASD3024.12

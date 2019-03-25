@@ -1,5 +1,5 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-80185-934,  WAY5390,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY5390
-80185-935,  WAY5398.24,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY5398.24
-80185-936,  WAY5398.6,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY5398.6
-80185-937,  WAY53912.78,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  WAY53912.78
+80185-934.0, WAY5390,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WAY5390
+80185-935.0, WAY5398.24,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WAY5398.24
+80185-936.0, WAY5398.6,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WAY5398.6
+80185-937.0, WAY53912.78,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, WAY53912.78

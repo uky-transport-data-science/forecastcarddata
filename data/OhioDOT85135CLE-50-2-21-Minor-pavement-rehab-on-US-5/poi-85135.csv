@@ -1,10 +1,10 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-85135-2778,  CLE507.54,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE507.54
-85135-2779,  CLE5010.75,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE5010.75
-85135-2780,  CLE5014.8,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE5014.8
-85135-2783,  CLE5013.03,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE5013.03
-85135-2845,  CLE502.21,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE502.21
-85135-2849,  CLE503.18,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE503.18
-85135-2850,  CLE503.41,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  CLE503.41
-85135-2857,  CLE5011.11,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE5011.11
-85135-2858,  CLE5011.49,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  CLE5011.49
+85135-2778.0, CLE507.54,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLE507.54
+85135-2779.0, CLE5010.75,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLE5010.75
+85135-2780.0, CLE5014.8,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLE5014.8
+85135-2783.0, CLE5013.03,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLE5013.03
+85135-2845.0, CLE502.21,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, CLE502.21
+85135-2849.0, CLE503.18,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, CLE503.18
+85135-2850.0, CLE503.41,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, CLE503.41
+85135-2857.0, CLE5011.11,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLE5011.11
+85135-2858.0, CLE5011.49,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, CLE5011.49

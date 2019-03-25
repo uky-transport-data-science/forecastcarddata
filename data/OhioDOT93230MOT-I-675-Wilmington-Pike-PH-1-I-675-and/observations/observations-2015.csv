@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+93230-3294.0-1,93230-3294.0,Opening-Year-Forecast-poi-93230-3294.0,unknown,unknown,2015,00:00:00,23:59:59,volume,59968
+93230-3295.0-1,93230-3295.0,Opening-Year-Forecast-poi-93230-3295.0,unknown,unknown,2015,00:00:00,23:59:59,volume,74065
+93230-3296.0-1,93230-3296.0,Opening-Year-Forecast-poi-93230-3296.0,unknown,unknown,2015,00:00:00,23:59:59,volume,76592
+93230-3325.0-1,93230-3325.0,Opening-Year-Forecast-poi-93230-3325.0,unknown,unknown,2015,00:00:00,23:59:59,volume,66376

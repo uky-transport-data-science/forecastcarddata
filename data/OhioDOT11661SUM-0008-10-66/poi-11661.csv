@@ -1,7 +1,7 @@
 poi_id,poi_short_name,facility_name,start,end,area_type,facility_type,functional_class,features,state,jurisdiction,poi_description
-11661-6202,  SUM3038.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT,  SUM3038.96
-11661-6203,  SUM87.68,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM87.68
-11661-6204,  SUM89.11,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM89.11
-11661-6205,  SUM810.55,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM810.55
-11661-6206,  SUM812.72,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT,  SUM812.72
-11661-6215,  SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT,  SUM30310.48
+11661-6202.0, SUM3038.96,5-Major Collector,,,rural,Major Collector,Major Collector,,Ohio,OhioDOT, SUM3038.96
+11661-6203.0, SUM87.68,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, SUM87.68
+11661-6204.0, SUM89.11,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, SUM89.11
+11661-6205.0, SUM810.55,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, SUM810.55
+11661-6206.0, SUM812.72,1-Interstate or Limited-access facility,,,rural,Freeway,Freeway,,Ohio,OhioDOT, SUM812.72
+11661-6215.0, SUM30310.48,4-Minor Arterial,,,rural,Minor Arterial,Minor Arterial,,Ohio,OhioDOT, SUM30310.48

@@ -1,3 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-1,"FloridaDOT-411664-1SR 528 resurfacing project from Orange County Line (MP 0.000) to 0.433
-miles east of SR 524 Bridge (MP 9.956).",s1,2002-01-01,Opening Year,Unavailable,professional-judgment,2002-01-01,consultant
+Opening-Year-Model-Run,"FloridaDOT-411664-1SR 528 resurfacing project from Orange County Line (MP 0.000) to 0.433
+miles east of SR 524 Bridge (MP 9.956).",s1,2002-01-01,design scenario,Unavailable,professional-judgment,2002-01-01,consultant
+Interim-Year-Model-Run,"FloridaDOT-411664-1SR 528 resurfacing project from Orange County Line (MP 0.000) to 0.433
+miles east of SR 524 Bridge (MP 9.956).",s1,2002-01-01,design scenario,Unavailable,professional-judgment,2002-01-01,consultant
+Design-Year-Model-Run,"FloridaDOT-411664-1SR 528 resurfacing project from Orange County Line (MP 0.000) to 0.433
+miles east of SR 524 Bridge (MP 9.956).",s1,2002-01-01,design scenario,Unavailable,professional-judgment,2002-01-01,consultant

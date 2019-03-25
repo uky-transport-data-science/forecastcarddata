@@ -1,0 +1,3 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+23800-1075.0-1,23800-1075.0,Opening-Year-Forecast-poi-23800-1075.0,unknown,unknown,2010,00:00:00,23:59:59,volume,22200
+23800-1093.0-1,23800-1093.0,Opening-Year-Forecast-poi-23800-1093.0,unknown,unknown,2010,00:00:00,23:59:59,volume,28490

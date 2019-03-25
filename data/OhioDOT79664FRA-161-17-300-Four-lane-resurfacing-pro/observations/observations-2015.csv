@@ -1,0 +1,5 @@
+obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
+79664-3716.0-1,79664-3716.0,Opening-Year-Forecast-poi-79664-3716.0,unknown,unknown,2015,00:00:00,23:59:59,volume,59775
+79664-3717.0-1,79664-3717.0,Opening-Year-Forecast-poi-79664-3717.0,unknown,unknown,2015,00:00:00,23:59:59,volume,53471
+79664-3718.0-1,79664-3718.0,Opening-Year-Forecast-poi-79664-3718.0,unknown,unknown,2015,00:00:00,23:59:59,volume,41631
+79664-3719.0-1,79664-3719.0,Opening-Year-Forecast-poi-79664-3719.0,unknown,unknown,2015,00:00:00,23:59:59,volume,37888
