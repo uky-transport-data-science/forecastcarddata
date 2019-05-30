@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-102841-5606.0-1,102841-5606.0,Opening-Year-Forecast-poi-102841-5606.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-102841-5621.0-1,102841-5621.0,Opening-Year-Forecast-poi-102841-5621.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-102841-5622.0-1,102841-5622.0,Opening-Year-Forecast-poi-102841-5622.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-102841-5623.0-1,102841-5623.0,Opening-Year-Forecast-poi-102841-5623.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-102841-5624.0-1,102841-5624.0,Opening-Year-Forecast-poi-102841-5624.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-102841-5625.0-1,102841-5625.0,Opening-Year-Forecast-poi-102841-5625.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-102841-5626.0-1,102841-5626.0,Opening-Year-Forecast-poi-102841-5626.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-102841-5627.0-1,102841-5627.0,Opening-Year-Forecast-poi-102841-5627.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+102841-5606.0-1,102841-5606.0,Opening-Year-Forecast-poi-102841-5606.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+102841-5621.0-1,102841-5621.0,Opening-Year-Forecast-poi-102841-5621.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+102841-5622.0-1,102841-5622.0,Opening-Year-Forecast-poi-102841-5622.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+102841-5623.0-1,102841-5623.0,Opening-Year-Forecast-poi-102841-5623.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+102841-5624.0-1,102841-5624.0,Opening-Year-Forecast-poi-102841-5624.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+102841-5625.0-1,102841-5625.0,Opening-Year-Forecast-poi-102841-5625.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+102841-5626.0-1,102841-5626.0,Opening-Year-Forecast-poi-102841-5626.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+102841-5627.0-1,102841-5627.0,Opening-Year-Forecast-poi-102841-5627.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620

@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-101310-5098.0-1,101310-5098.0,Opening-Year-Forecast-poi-101310-5098.0,unknown,unknown,2015,00:00:00,23:59:59,volume,12008
-101310-5100.0-1,101310-5100.0,Opening-Year-Forecast-poi-101310-5100.0,unknown,unknown,2015,00:00:00,23:59:59,volume,9777
-101310-5101.0-1,101310-5101.0,Opening-Year-Forecast-poi-101310-5101.0,unknown,unknown,2015,00:00:00,23:59:59,volume,12722
-101310-5102.0-1,101310-5102.0,Opening-Year-Forecast-poi-101310-5102.0,unknown,unknown,2015,00:00:00,23:59:59,volume,13999
-101310-5215.0-1,101310-5215.0,Opening-Year-Forecast-poi-101310-5215.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4643
-101310-5216.0-1,101310-5216.0,Opening-Year-Forecast-poi-101310-5216.0,unknown,unknown,2015,00:00:00,23:59:59,volume,3009
-101310-5260.0-1,101310-5260.0,Opening-Year-Forecast-poi-101310-5260.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2301
-101310-5271.0-1,101310-5271.0,Opening-Year-Forecast-poi-101310-5271.0,unknown,unknown,2015,00:00:00,23:59:59,volume,1484
+101310-5098.0-1,101310-5098.0,Opening-Year-Forecast-poi-101310-5098.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,12008
+101310-5100.0-1,101310-5100.0,Opening-Year-Forecast-poi-101310-5100.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,9777
+101310-5101.0-1,101310-5101.0,Opening-Year-Forecast-poi-101310-5101.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,12722
+101310-5102.0-1,101310-5102.0,Opening-Year-Forecast-poi-101310-5102.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,13999
+101310-5215.0-1,101310-5215.0,Opening-Year-Forecast-poi-101310-5215.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,4643
+101310-5216.0-1,101310-5216.0,Opening-Year-Forecast-poi-101310-5216.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,3009
+101310-5260.0-1,101310-5260.0,Opening-Year-Forecast-poi-101310-5260.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2301
+101310-5271.0-1,101310-5271.0,Opening-Year-Forecast-poi-101310-5271.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,1484

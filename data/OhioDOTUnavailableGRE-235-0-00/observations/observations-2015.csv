@@ -1,7 +1,7 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-4594.0-1,Unavailable-4594.0,Opening-Year-Forecast-poi-Unavailable-4594.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4642
-Unavailable-5807.0-1,Unavailable-5807.0,Opening-Year-Forecast-poi-Unavailable-5807.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5832.0-1,Unavailable-5832.0,Opening-Year-Forecast-poi-Unavailable-5832.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5855.0-1,Unavailable-5855.0,Opening-Year-Forecast-poi-Unavailable-5855.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5867.0-1,Unavailable-5867.0,Opening-Year-Forecast-poi-Unavailable-5867.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5877.0-1,Unavailable-5877.0,Opening-Year-Forecast-poi-Unavailable-5877.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+Unavailable-4594.0-1,Unavailable-4594.0,Opening-Year-Forecast-poi-Unavailable-4594.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,4642
+Unavailable-5807.0-1,Unavailable-5807.0,Opening-Year-Forecast-poi-Unavailable-5807.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5832.0-1,Unavailable-5832.0,Opening-Year-Forecast-poi-Unavailable-5832.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5855.0-1,Unavailable-5855.0,Opening-Year-Forecast-poi-Unavailable-5855.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5867.0-1,Unavailable-5867.0,Opening-Year-Forecast-poi-Unavailable-5867.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5877.0-1,Unavailable-5877.0,Opening-Year-Forecast-poi-Unavailable-5877.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620

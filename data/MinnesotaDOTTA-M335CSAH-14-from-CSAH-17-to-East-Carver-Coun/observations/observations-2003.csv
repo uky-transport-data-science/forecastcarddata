@@ -1,4 +1,4 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TA-M335-6787.0-1,TA-M335-6787.0,Design-Year-Forecast-poi-TA-M335-6787.0,unknown,unknown,2003,00:00:00,23:59:59,volume,11000
-TA-M335-6788.0-1,TA-M335-6788.0,Design-Year-Forecast-poi-TA-M335-6788.0,unknown,unknown,2003,00:00:00,23:59:59,volume,7800
-TA-M335-6789.0-1,TA-M335-6789.0,Design-Year-Forecast-poi-TA-M335-6789.0,unknown,unknown,2003,00:00:00,23:59:59,volume,7900
+TA-M335-6787.0-1,TA-M335-6787.0,Design-Year-Forecast-poi-TA-M335-6787.0,unknown,unknown,2003-01-01,00:00:00,23:59:59,volume,11000
+TA-M335-6788.0-1,TA-M335-6788.0,Design-Year-Forecast-poi-TA-M335-6788.0,unknown,unknown,2003-01-01,00:00:00,23:59:59,volume,7800
+TA-M335-6789.0-1,TA-M335-6789.0,Design-Year-Forecast-poi-TA-M335-6789.0,unknown,unknown,2003-01-01,00:00:00,23:59:59,volume,7900

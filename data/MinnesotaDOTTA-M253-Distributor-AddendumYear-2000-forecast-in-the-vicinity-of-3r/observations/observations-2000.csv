@@ -1,4 +1,4 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TA-M253 Distributor Addendum-7533.0-1,TA-M253 Distributor Addendum-7533.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7533.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6100
-TA-M253 Distributor Addendum-7534.0-1,TA-M253 Distributor Addendum-7534.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7534.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6100
-TA-M253 Distributor Addendum-7535.0-1,TA-M253 Distributor Addendum-7535.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7535.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6100
+TA-M253 Distributor Addendum-7533.0-1,TA-M253 Distributor Addendum-7533.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7533.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6100
+TA-M253 Distributor Addendum-7534.0-1,TA-M253 Distributor Addendum-7534.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7534.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6100
+TA-M253 Distributor Addendum-7535.0-1,TA-M253 Distributor Addendum-7535.0,Design-Year-Forecast-poi-TA-M253 Distributor Addendum-7535.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6100

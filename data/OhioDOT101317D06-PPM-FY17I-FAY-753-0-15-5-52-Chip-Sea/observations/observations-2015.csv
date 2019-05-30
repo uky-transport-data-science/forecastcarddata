@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-101317-5275.0-1,101317-5275.0,Opening-Year-Forecast-poi-101317-5275.0,unknown,unknown,2015,00:00:00,23:59:59,volume,1900
-101317-5276.0-1,101317-5276.0,Opening-Year-Forecast-poi-101317-5276.0,unknown,unknown,2015,00:00:00,23:59:59,volume,587
-101317-5290.0-1,101317-5290.0,Opening-Year-Forecast-poi-101317-5290.0,unknown,unknown,2015,00:00:00,23:59:59,volume,1105
-101317-5291.0-1,101317-5291.0,Opening-Year-Forecast-poi-101317-5291.0,unknown,unknown,2015,00:00:00,23:59:59,volume,961
-101317-5292.0-1,101317-5292.0,Opening-Year-Forecast-poi-101317-5292.0,unknown,unknown,2015,00:00:00,23:59:59,volume,961
-101317-5293.0-1,101317-5293.0,Opening-Year-Forecast-poi-101317-5293.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2136
-101317-5297.0-1,101317-5297.0,Opening-Year-Forecast-poi-101317-5297.0,unknown,unknown,2015,00:00:00,23:59:59,volume,1330
-101317-5298.0-1,101317-5298.0,Opening-Year-Forecast-poi-101317-5298.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2577
+101317-5275.0-1,101317-5275.0,Opening-Year-Forecast-poi-101317-5275.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,1900
+101317-5276.0-1,101317-5276.0,Opening-Year-Forecast-poi-101317-5276.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,587
+101317-5290.0-1,101317-5290.0,Opening-Year-Forecast-poi-101317-5290.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,1105
+101317-5291.0-1,101317-5291.0,Opening-Year-Forecast-poi-101317-5291.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,961
+101317-5292.0-1,101317-5292.0,Opening-Year-Forecast-poi-101317-5292.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,961
+101317-5293.0-1,101317-5293.0,Opening-Year-Forecast-poi-101317-5293.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2136
+101317-5297.0-1,101317-5297.0,Opening-Year-Forecast-poi-101317-5297.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,1330
+101317-5298.0-1,101317-5298.0,Opening-Year-Forecast-poi-101317-5298.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2577

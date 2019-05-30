@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-79352-1701.0-1,79352-1701.0,Opening-Year-Forecast-poi-79352-1701.0,unknown,unknown,2008,00:00:00,23:59:59,volume,15630
-79352-1702.0-1,79352-1702.0,Opening-Year-Forecast-poi-79352-1702.0,unknown,unknown,2008,00:00:00,23:59:59,volume,15040
-79352-1703.0-1,79352-1703.0,Opening-Year-Forecast-poi-79352-1703.0,unknown,unknown,2008,00:00:00,23:59:59,volume,18700
-79352-1706.0-1,79352-1706.0,Opening-Year-Forecast-poi-79352-1706.0,unknown,unknown,2009,00:00:00,23:59:59,volume,15040
-79352-1767.0-1,79352-1767.0,Opening-Year-Forecast-poi-79352-1767.0,unknown,unknown,2008,00:00:00,23:59:59,volume,30720
-79352-1768.0-1,79352-1768.0,Opening-Year-Forecast-poi-79352-1768.0,unknown,unknown,2008,00:00:00,23:59:59,volume,21360
-79352-1769.0-1,79352-1769.0,Opening-Year-Forecast-poi-79352-1769.0,unknown,unknown,2008,00:00:00,23:59:59,volume,19760
-79352-1770.0-1,79352-1770.0,Opening-Year-Forecast-poi-79352-1770.0,unknown,unknown,2008,00:00:00,23:59:59,volume,18210
+79352-1701.0-1,79352-1701.0,Opening-Year-Forecast-poi-79352-1701.0,unknown,unknown,2008-01-01,00:00:00,23:59:59,volume,15630
+79352-1702.0-1,79352-1702.0,Opening-Year-Forecast-poi-79352-1702.0,unknown,unknown,2008-01-01,00:00:00,23:59:59,volume,15040
+79352-1703.0-1,79352-1703.0,Opening-Year-Forecast-poi-79352-1703.0,unknown,unknown,2008-01-01,00:00:00,23:59:59,volume,18700
+79352-1706.0-1,79352-1706.0,Opening-Year-Forecast-poi-79352-1706.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,15040
+79352-1767.0-1,79352-1767.0,Opening-Year-Forecast-poi-79352-1767.0,unknown,unknown,2008-01-01,00:00:00,23:59:59,volume,30720
+79352-1768.0-1,79352-1768.0,Opening-Year-Forecast-poi-79352-1768.0,unknown,unknown,2008-01-01,00:00:00,23:59:59,volume,21360
+79352-1769.0-1,79352-1769.0,Opening-Year-Forecast-poi-79352-1769.0,unknown,unknown,2008-01-01,00:00:00,23:59:59,volume,19760
+79352-1770.0-1,79352-1770.0,Opening-Year-Forecast-poi-79352-1770.0,unknown,unknown,2008-01-01,00:00:00,23:59:59,volume,18210

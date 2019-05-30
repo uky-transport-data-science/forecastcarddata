@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-5416.0-1,Unavailable-5416.0,Opening-Year-Forecast-poi-Unavailable-5416.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5417.0-1,Unavailable-5417.0,Opening-Year-Forecast-poi-Unavailable-5417.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5418.0-1,Unavailable-5418.0,Opening-Year-Forecast-poi-Unavailable-5418.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5419.0-1,Unavailable-5419.0,Opening-Year-Forecast-poi-Unavailable-5419.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5420.0-1,Unavailable-5420.0,Opening-Year-Forecast-poi-Unavailable-5420.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5421.0-1,Unavailable-5421.0,Opening-Year-Forecast-poi-Unavailable-5421.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5422.0-1,Unavailable-5422.0,Opening-Year-Forecast-poi-Unavailable-5422.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
-Unavailable-5423.0-1,Unavailable-5423.0,Opening-Year-Forecast-poi-Unavailable-5423.0,unknown,unknown,2009,00:00:00,23:59:59,volume,620
+Unavailable-5416.0-1,Unavailable-5416.0,Opening-Year-Forecast-poi-Unavailable-5416.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5417.0-1,Unavailable-5417.0,Opening-Year-Forecast-poi-Unavailable-5417.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5418.0-1,Unavailable-5418.0,Opening-Year-Forecast-poi-Unavailable-5418.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5419.0-1,Unavailable-5419.0,Opening-Year-Forecast-poi-Unavailable-5419.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5420.0-1,Unavailable-5420.0,Opening-Year-Forecast-poi-Unavailable-5420.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5421.0-1,Unavailable-5421.0,Opening-Year-Forecast-poi-Unavailable-5421.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5422.0-1,Unavailable-5422.0,Opening-Year-Forecast-poi-Unavailable-5422.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620
+Unavailable-5423.0-1,Unavailable-5423.0,Opening-Year-Forecast-poi-Unavailable-5423.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,620

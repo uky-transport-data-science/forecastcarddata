@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-416408-1The SR 520 Traffic Ops Improvement Project on SR 520 from East of SR 5 (M.P. 8.750) to East of Forrest
+Opening-Year-Model-Run,"FloridaDOT-416408-1The SR 520 Traffic Ops Improvement Project on SR 520 from East of SR 5 (M.P. 8.750) to East of Forrest
 Ave (M.P. 9.035).",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-416408-1The SR 520 Traffic Ops Improvement Project on SR 520 from East of SR 5 (M.P. 8.750) to East of Forrest
+Interim-Year-Model-Run,"FloridaDOT-416408-1The SR 520 Traffic Ops Improvement Project on SR 520 from East of SR 5 (M.P. 8.750) to East of Forrest
 Ave (M.P. 9.035).",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-416408-1The SR 520 Traffic Ops Improvement Project on SR 520 from East of SR 5 (M.P. 8.750) to East of Forrest
+Design-Year-Model-Run,"FloridaDOT-416408-1The SR 520 Traffic Ops Improvement Project on SR 520 from East of SR 5 (M.P. 8.750) to East of Forrest
 Ave (M.P. 9.035).",s1,2005-01-01,design scenario,Unavailable,trendline,2005-01-01,consultant

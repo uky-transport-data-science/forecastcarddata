@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TAU 3451A-8199.0-1,TAU 3451A-8199.0,Design-Year-Forecast-poi-TAU 3451A-8199.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21725
-TAU 3451A-8200.0-1,TAU 3451A-8200.0,Design-Year-Forecast-poi-TAU 3451A-8200.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21725
-TAU 3451A-8201.0-1,TAU 3451A-8201.0,Design-Year-Forecast-poi-TAU 3451A-8201.0,unknown,unknown,1989,00:00:00,23:59:59,volume,23250
-TAU 3451A-8202.0-1,TAU 3451A-8202.0,Design-Year-Forecast-poi-TAU 3451A-8202.0,unknown,unknown,1989,00:00:00,23:59:59,volume,23250
-TAU 3451A-8203.0-1,TAU 3451A-8203.0,Design-Year-Forecast-poi-TAU 3451A-8203.0,unknown,unknown,1989,00:00:00,23:59:59,volume,23250
-TAU 3451A-8204.0-1,TAU 3451A-8204.0,Design-Year-Forecast-poi-TAU 3451A-8204.0,unknown,unknown,1989,00:00:00,23:59:59,volume,23250
-TAU 3451A-8205.0-1,TAU 3451A-8205.0,Design-Year-Forecast-poi-TAU 3451A-8205.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21900
-TAU 3451A-8206.0-1,TAU 3451A-8206.0,Design-Year-Forecast-poi-TAU 3451A-8206.0,unknown,unknown,1989,00:00:00,23:59:59,volume,21900
+TAU 3451A-8199.0-1,TAU 3451A-8199.0,Design-Year-Forecast-poi-TAU 3451A-8199.0,unknown,unknown,1989-01-01,00:00:00,23:59:59,volume,21725
+TAU 3451A-8200.0-1,TAU 3451A-8200.0,Design-Year-Forecast-poi-TAU 3451A-8200.0,unknown,unknown,1989-01-01,00:00:00,23:59:59,volume,21725
+TAU 3451A-8201.0-1,TAU 3451A-8201.0,Design-Year-Forecast-poi-TAU 3451A-8201.0,unknown,unknown,1989-01-01,00:00:00,23:59:59,volume,23250
+TAU 3451A-8202.0-1,TAU 3451A-8202.0,Design-Year-Forecast-poi-TAU 3451A-8202.0,unknown,unknown,1989-01-01,00:00:00,23:59:59,volume,23250
+TAU 3451A-8203.0-1,TAU 3451A-8203.0,Design-Year-Forecast-poi-TAU 3451A-8203.0,unknown,unknown,1989-01-01,00:00:00,23:59:59,volume,23250
+TAU 3451A-8204.0-1,TAU 3451A-8204.0,Design-Year-Forecast-poi-TAU 3451A-8204.0,unknown,unknown,1989-01-01,00:00:00,23:59:59,volume,23250
+TAU 3451A-8205.0-1,TAU 3451A-8205.0,Design-Year-Forecast-poi-TAU 3451A-8205.0,unknown,unknown,1989-01-01,00:00:00,23:59:59,volume,21900
+TAU 3451A-8206.0-1,TAU 3451A-8206.0,Design-Year-Forecast-poi-TAU 3451A-8206.0,unknown,unknown,1989-01-01,00:00:00,23:59:59,volume,21900

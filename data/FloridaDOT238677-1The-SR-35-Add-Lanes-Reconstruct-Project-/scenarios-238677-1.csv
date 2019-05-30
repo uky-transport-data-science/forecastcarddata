@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-238677-1The SR 35 Add Lanes & Reconstruct Project from 1700 South of SR 464 (M.P. 5.123) to SR 40
+Opening-Year-Model-Run,"FloridaDOT-238677-1The SR 35 Add Lanes & Reconstruct Project from 1700 South of SR 464 (M.P. 5.123) to SR 40
 (M.P. 10.825)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-238677-1The SR 35 Add Lanes & Reconstruct Project from 1700 South of SR 464 (M.P. 5.123) to SR 40
+Interim-Year-Model-Run,"FloridaDOT-238677-1The SR 35 Add Lanes & Reconstruct Project from 1700 South of SR 464 (M.P. 5.123) to SR 40
 (M.P. 10.825)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-238677-1The SR 35 Add Lanes & Reconstruct Project from 1700 South of SR 464 (M.P. 5.123) to SR 40
+Design-Year-Model-Run,"FloridaDOT-238677-1The SR 35 Add Lanes & Reconstruct Project from 1700 South of SR 464 (M.P. 5.123) to SR 40
 (M.P. 10.825)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant

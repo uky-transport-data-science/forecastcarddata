@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-80173-1011.0-1,80173-1011.0,Opening-Year-Forecast-poi-80173-1011.0,unknown,unknown,2009,00:00:00,23:59:59,volume,2990
-80173-1012.0-1,80173-1012.0,Opening-Year-Forecast-poi-80173-1012.0,unknown,unknown,2009,00:00:00,23:59:59,volume,2990
-80173-1013.0-1,80173-1013.0,Opening-Year-Forecast-poi-80173-1013.0,unknown,unknown,2009,00:00:00,23:59:59,volume,2380
-80173-1014.0-1,80173-1014.0,Opening-Year-Forecast-poi-80173-1014.0,unknown,unknown,2009,00:00:00,23:59:59,volume,3330
-80173-1015.0-1,80173-1015.0,Opening-Year-Forecast-poi-80173-1015.0,unknown,unknown,2009,00:00:00,23:59:59,volume,5220
-80173-1016.0-1,80173-1016.0,Opening-Year-Forecast-poi-80173-1016.0,unknown,unknown,2009,00:00:00,23:59:59,volume,5720
-80173-1017.0-1,80173-1017.0,Opening-Year-Forecast-poi-80173-1017.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4570
-80173-1018.0-1,80173-1018.0,Opening-Year-Forecast-poi-80173-1018.0,unknown,unknown,2009,00:00:00,23:59:59,volume,3730
+80173-1011.0-1,80173-1011.0,Opening-Year-Forecast-poi-80173-1011.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,2990
+80173-1012.0-1,80173-1012.0,Opening-Year-Forecast-poi-80173-1012.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,2990
+80173-1013.0-1,80173-1013.0,Opening-Year-Forecast-poi-80173-1013.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,2380
+80173-1014.0-1,80173-1014.0,Opening-Year-Forecast-poi-80173-1014.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,3330
+80173-1015.0-1,80173-1015.0,Opening-Year-Forecast-poi-80173-1015.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,5220
+80173-1016.0-1,80173-1016.0,Opening-Year-Forecast-poi-80173-1016.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,5720
+80173-1017.0-1,80173-1017.0,Opening-Year-Forecast-poi-80173-1017.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,4570
+80173-1018.0-1,80173-1018.0,Opening-Year-Forecast-poi-80173-1018.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,3730

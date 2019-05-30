@@ -1,5 +1,5 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-91342-5162.0-1,91342-5162.0,Opening-Year-Forecast-poi-91342-5162.0,unknown,unknown,2015,00:00:00,23:59:59,volume,11718
-91342-5163.0-1,91342-5163.0,Opening-Year-Forecast-poi-91342-5163.0,unknown,unknown,2015,00:00:00,23:59:59,volume,11718
-91342-5227.0-1,91342-5227.0,Opening-Year-Forecast-poi-91342-5227.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4069
-91342-5228.0-1,91342-5228.0,Opening-Year-Forecast-poi-91342-5228.0,unknown,unknown,2015,00:00:00,23:59:59,volume,1900
+91342-5162.0-1,91342-5162.0,Opening-Year-Forecast-poi-91342-5162.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,11718
+91342-5163.0-1,91342-5163.0,Opening-Year-Forecast-poi-91342-5163.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,11718
+91342-5227.0-1,91342-5227.0,Opening-Year-Forecast-poi-91342-5227.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,4069
+91342-5228.0-1,91342-5228.0,Opening-Year-Forecast-poi-91342-5228.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,1900

@@ -1,7 +1,7 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-2577-6260.0-1,2577-6260.0,Opening-Year-Forecast-poi-2577-6260.0,unknown,unknown,2009,00:00:00,23:59:59,volume,23500
-2577-6271.0-1,2577-6271.0,Opening-Year-Forecast-poi-2577-6271.0,unknown,unknown,2009,00:00:00,23:59:59,volume,10200
-2577-6272.0-1,2577-6272.0,Opening-Year-Forecast-poi-2577-6272.0,unknown,unknown,2009,00:00:00,23:59:59,volume,18300
-2577-6273.0-1,2577-6273.0,Opening-Year-Forecast-poi-2577-6273.0,unknown,unknown,2009,00:00:00,23:59:59,volume,20700
-2577-6275.0-1,2577-6275.0,Opening-Year-Forecast-poi-2577-6275.0,unknown,unknown,2009,00:00:00,23:59:59,volume,25900
-2577-6281.0-1,2577-6281.0,Opening-Year-Forecast-poi-2577-6281.0,unknown,unknown,2009,00:00:00,23:59:59,volume,5500
+2577-6260.0-1,2577-6260.0,Opening-Year-Forecast-poi-2577-6260.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,23500
+2577-6271.0-1,2577-6271.0,Opening-Year-Forecast-poi-2577-6271.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,10200
+2577-6272.0-1,2577-6272.0,Opening-Year-Forecast-poi-2577-6272.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,18300
+2577-6273.0-1,2577-6273.0,Opening-Year-Forecast-poi-2577-6273.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,20700
+2577-6275.0-1,2577-6275.0,Opening-Year-Forecast-poi-2577-6275.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,25900
+2577-6281.0-1,2577-6281.0,Opening-Year-Forecast-poi-2577-6281.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,5500

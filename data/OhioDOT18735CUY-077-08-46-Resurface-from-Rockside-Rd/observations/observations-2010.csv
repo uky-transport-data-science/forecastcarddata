@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-18735-1741.0-1,18735-1741.0,Opening-Year-Forecast-poi-18735-1741.0,unknown,unknown,2010,00:00:00,23:59:59,volume,46910
-18735-1742.0-1,18735-1742.0,Opening-Year-Forecast-poi-18735-1742.0,unknown,unknown,2010,00:00:00,23:59:59,volume,81910
-18735-1743.0-1,18735-1743.0,Opening-Year-Forecast-poi-18735-1743.0,unknown,unknown,2010,00:00:00,23:59:59,volume,96570
-18735-1744.0-1,18735-1744.0,Opening-Year-Forecast-poi-18735-1744.0,unknown,unknown,2010,00:00:00,23:59:59,volume,91410
-18735-1745.0-1,18735-1745.0,Opening-Year-Forecast-poi-18735-1745.0,unknown,unknown,2010,00:00:00,23:59:59,volume,89600
-18735-1746.0-1,18735-1746.0,Opening-Year-Forecast-poi-18735-1746.0,unknown,unknown,2010,00:00:00,23:59:59,volume,98170
-18735-1747.0-1,18735-1747.0,Opening-Year-Forecast-poi-18735-1747.0,unknown,unknown,2010,00:00:00,23:59:59,volume,96390
-18735-1748.0-1,18735-1748.0,Opening-Year-Forecast-poi-18735-1748.0,unknown,unknown,2010,00:00:00,23:59:59,volume,93110
+18735-1741.0-1,18735-1741.0,Opening-Year-Forecast-poi-18735-1741.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,46910
+18735-1742.0-1,18735-1742.0,Opening-Year-Forecast-poi-18735-1742.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,81910
+18735-1743.0-1,18735-1743.0,Opening-Year-Forecast-poi-18735-1743.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,96570
+18735-1744.0-1,18735-1744.0,Opening-Year-Forecast-poi-18735-1744.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,91410
+18735-1745.0-1,18735-1745.0,Opening-Year-Forecast-poi-18735-1745.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,89600
+18735-1746.0-1,18735-1746.0,Opening-Year-Forecast-poi-18735-1746.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,98170
+18735-1747.0-1,18735-1747.0,Opening-Year-Forecast-poi-18735-1747.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,96390
+18735-1748.0-1,18735-1748.0,Opening-Year-Forecast-poi-18735-1748.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,93110

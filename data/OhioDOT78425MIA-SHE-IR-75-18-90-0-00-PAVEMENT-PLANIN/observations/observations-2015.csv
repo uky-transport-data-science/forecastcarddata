@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-78425-2667.0-1,78425-2667.0,Opening-Year-Forecast-poi-78425-2667.0,unknown,unknown,2015,00:00:00,23:59:59,volume,47291
-78425-2669.0-1,78425-2669.0,Opening-Year-Forecast-poi-78425-2669.0,unknown,unknown,2015,00:00:00,23:59:59,volume,47291
-78425-2670.0-1,78425-2670.0,Opening-Year-Forecast-poi-78425-2670.0,unknown,unknown,2015,00:00:00,23:59:59,volume,47291
-78425-2675.0-1,78425-2675.0,Opening-Year-Forecast-poi-78425-2675.0,unknown,unknown,2015,00:00:00,23:59:59,volume,47291
-78425-2676.0-1,78425-2676.0,Opening-Year-Forecast-poi-78425-2676.0,unknown,unknown,2013,00:00:00,23:59:59,volume,42780
-78425-2677.0-1,78425-2677.0,Opening-Year-Forecast-poi-78425-2677.0,unknown,unknown,2013,00:00:00,23:59:59,volume,43750
-78425-2685.0-1,78425-2685.0,Opening-Year-Forecast-poi-78425-2685.0,unknown,unknown,2013,00:00:00,23:59:59,volume,42780
-78425-2686.0-1,78425-2686.0,Opening-Year-Forecast-poi-78425-2686.0,unknown,unknown,2013,00:00:00,23:59:59,volume,43750
+78425-2667.0-1,78425-2667.0,Opening-Year-Forecast-poi-78425-2667.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,47291
+78425-2669.0-1,78425-2669.0,Opening-Year-Forecast-poi-78425-2669.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,47291
+78425-2670.0-1,78425-2670.0,Opening-Year-Forecast-poi-78425-2670.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,47291
+78425-2675.0-1,78425-2675.0,Opening-Year-Forecast-poi-78425-2675.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,47291
+78425-2676.0-1,78425-2676.0,Opening-Year-Forecast-poi-78425-2676.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,42780
+78425-2677.0-1,78425-2677.0,Opening-Year-Forecast-poi-78425-2677.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,43750
+78425-2685.0-1,78425-2685.0,Opening-Year-Forecast-poi-78425-2685.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,42780
+78425-2686.0-1,78425-2686.0,Opening-Year-Forecast-poi-78425-2686.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,43750

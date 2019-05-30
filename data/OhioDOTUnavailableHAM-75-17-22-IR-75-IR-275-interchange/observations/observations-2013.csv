@@ -1,5 +1,5 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-Unavailable-2964.0-1,Unavailable-2964.0,Opening-Year-Forecast-poi-Unavailable-2964.0,unknown,unknown,2013,00:00:00,23:59:59,volume,130210
-Unavailable-2965.0-1,Unavailable-2965.0,Opening-Year-Forecast-poi-Unavailable-2965.0,unknown,unknown,2013,00:00:00,23:59:59,volume,123660
-Unavailable-2966.0-1,Unavailable-2966.0,Opening-Year-Forecast-poi-Unavailable-2966.0,unknown,unknown,2013,00:00:00,23:59:59,volume,125850
-Unavailable-2967.0-1,Unavailable-2967.0,Opening-Year-Forecast-poi-Unavailable-2967.0,unknown,unknown,2013,00:00:00,23:59:59,volume,111410
+Unavailable-2964.0-1,Unavailable-2964.0,Opening-Year-Forecast-poi-Unavailable-2964.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,130210
+Unavailable-2965.0-1,Unavailable-2965.0,Opening-Year-Forecast-poi-Unavailable-2965.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,123660
+Unavailable-2966.0-1,Unavailable-2966.0,Opening-Year-Forecast-poi-Unavailable-2966.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,125850
+Unavailable-2967.0-1,Unavailable-2967.0,Opening-Year-Forecast-poi-Unavailable-2967.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,111410

@@ -1,2 +1,2 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-93318-3252.0-1,93318-3252.0,Opening-Year-Forecast-poi-93318-3252.0,unknown,unknown,2015,00:00:00,23:59:59,volume,91467
+93318-3252.0-1,93318-3252.0,Opening-Year-Forecast-poi-93318-3252.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,91467

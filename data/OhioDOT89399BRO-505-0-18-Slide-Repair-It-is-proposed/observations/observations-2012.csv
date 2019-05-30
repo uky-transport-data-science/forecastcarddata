@@ -1,2 +1,2 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-89399-2602.0-1,89399-2602.0,Opening-Year-Forecast-poi-89399-2602.0,unknown,unknown,2012,00:00:00,23:59:59,volume,410
+89399-2602.0-1,89399-2602.0,Opening-Year-Forecast-poi-89399-2602.0,unknown,unknown,2012-01-01,00:00:00,23:59:59,volume,410

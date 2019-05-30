@@ -1,6 +1,6 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-97481-4157.0-1,97481-4157.0,Opening-Year-Forecast-poi-97481-4157.0,unknown,unknown,2015,00:00:00,23:59:59,volume,7880
-97481-4199.0-1,97481-4199.0,Opening-Year-Forecast-poi-97481-4199.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2103
-97481-4239.0-1,97481-4239.0,Opening-Year-Forecast-poi-97481-4239.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2825
-97481-4240.0-1,97481-4240.0,Opening-Year-Forecast-poi-97481-4240.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2620
-97481-4241.0-1,97481-4241.0,Opening-Year-Forecast-poi-97481-4241.0,unknown,unknown,2015,00:00:00,23:59:59,volume,1866
+97481-4157.0-1,97481-4157.0,Opening-Year-Forecast-poi-97481-4157.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,7880
+97481-4199.0-1,97481-4199.0,Opening-Year-Forecast-poi-97481-4199.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2103
+97481-4239.0-1,97481-4239.0,Opening-Year-Forecast-poi-97481-4239.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2825
+97481-4240.0-1,97481-4240.0,Opening-Year-Forecast-poi-97481-4240.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2620
+97481-4241.0-1,97481-4241.0,Opening-Year-Forecast-poi-97481-4241.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,1866

@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-101198-4410.0-1,101198-4410.0,Opening-Year-Forecast-poi-101198-4410.0,unknown,unknown,2015,00:00:00,23:59:59,volume,3576
-101198-4411.0-1,101198-4411.0,Opening-Year-Forecast-poi-101198-4411.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2861
-101198-4412.0-1,101198-4412.0,Opening-Year-Forecast-poi-101198-4412.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4014
-101198-4453.0-1,101198-4453.0,Opening-Year-Forecast-poi-101198-4453.0,unknown,unknown,2015,00:00:00,23:59:59,volume,7895
-101198-4454.0-1,101198-4454.0,Opening-Year-Forecast-poi-101198-4454.0,unknown,unknown,2015,00:00:00,23:59:59,volume,5789
-101198-4481.0-1,101198-4481.0,Opening-Year-Forecast-poi-101198-4481.0,unknown,unknown,2015,00:00:00,23:59:59,volume,1800
-101198-4482.0-1,101198-4482.0,Opening-Year-Forecast-poi-101198-4482.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2446
-101198-4483.0-1,101198-4483.0,Opening-Year-Forecast-poi-101198-4483.0,unknown,unknown,2015,00:00:00,23:59:59,volume,2653
+101198-4410.0-1,101198-4410.0,Opening-Year-Forecast-poi-101198-4410.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,3576
+101198-4411.0-1,101198-4411.0,Opening-Year-Forecast-poi-101198-4411.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2861
+101198-4412.0-1,101198-4412.0,Opening-Year-Forecast-poi-101198-4412.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,4014
+101198-4453.0-1,101198-4453.0,Opening-Year-Forecast-poi-101198-4453.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,7895
+101198-4454.0-1,101198-4454.0,Opening-Year-Forecast-poi-101198-4454.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,5789
+101198-4481.0-1,101198-4481.0,Opening-Year-Forecast-poi-101198-4481.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,1800
+101198-4482.0-1,101198-4482.0,Opening-Year-Forecast-poi-101198-4482.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2446
+101198-4483.0-1,101198-4483.0,Opening-Year-Forecast-poi-101198-4483.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,2653

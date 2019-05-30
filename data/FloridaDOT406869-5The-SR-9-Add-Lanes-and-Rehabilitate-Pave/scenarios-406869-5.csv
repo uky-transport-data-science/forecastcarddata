@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-406869-5The SR 9  Add Lanes and Rehabilitate Pavement Project from SR 50 (M.P. 13.900) to
+Opening-Year-Model-Run,"FloridaDOT-406869-5The SR 9  Add Lanes and Rehabilitate Pavement Project from SR 50 (M.P. 13.900) to
 Volusia County Line (M.P. 31.190)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-406869-5The SR 9  Add Lanes and Rehabilitate Pavement Project from SR 50 (M.P. 13.900) to
+Interim-Year-Model-Run,"FloridaDOT-406869-5The SR 9  Add Lanes and Rehabilitate Pavement Project from SR 50 (M.P. 13.900) to
 Volusia County Line (M.P. 31.190)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-406869-5The SR 9  Add Lanes and Rehabilitate Pavement Project from SR 50 (M.P. 13.900) to
+Design-Year-Model-Run,"FloridaDOT-406869-5The SR 9  Add Lanes and Rehabilitate Pavement Project from SR 50 (M.P. 13.900) to
 Volusia County Line (M.P. 31.190)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant

@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TAU 3069-8019.0-1,TAU 3069-8019.0,Design-Year-Forecast-poi-TAU 3069-8019.0,unknown,unknown,1984,00:00:00,23:59:59,volume,54700
-TAU 3069-8020.0-1,TAU 3069-8020.0,Design-Year-Forecast-poi-TAU 3069-8020.0,unknown,unknown,1984,00:00:00,23:59:59,volume,54700
-TAU 3069-8021.0-1,TAU 3069-8021.0,Design-Year-Forecast-poi-TAU 3069-8021.0,unknown,unknown,1984,00:00:00,23:59:59,volume,57300
-TAU 3069-8022.0-1,TAU 3069-8022.0,Design-Year-Forecast-poi-TAU 3069-8022.0,unknown,unknown,1984,00:00:00,23:59:59,volume,57300
-TAU 3069-8023.0-1,TAU 3069-8023.0,Design-Year-Forecast-poi-TAU 3069-8023.0,unknown,unknown,1984,00:00:00,23:59:59,volume,57300
-TAU 3069-8024.0-1,TAU 3069-8024.0,Design-Year-Forecast-poi-TAU 3069-8024.0,unknown,unknown,1984,00:00:00,23:59:59,volume,57300
-TAU 3069-8025.0-1,TAU 3069-8025.0,Design-Year-Forecast-poi-TAU 3069-8025.0,unknown,unknown,1984,00:00:00,23:59:59,volume,57750
-TAU 3069-8026.0-1,TAU 3069-8026.0,Design-Year-Forecast-poi-TAU 3069-8026.0,unknown,unknown,1984,00:00:00,23:59:59,volume,57750
+TAU 3069-8019.0-1,TAU 3069-8019.0,Design-Year-Forecast-poi-TAU 3069-8019.0,unknown,unknown,1984-01-01,00:00:00,23:59:59,volume,54700
+TAU 3069-8020.0-1,TAU 3069-8020.0,Design-Year-Forecast-poi-TAU 3069-8020.0,unknown,unknown,1984-01-01,00:00:00,23:59:59,volume,54700
+TAU 3069-8021.0-1,TAU 3069-8021.0,Design-Year-Forecast-poi-TAU 3069-8021.0,unknown,unknown,1984-01-01,00:00:00,23:59:59,volume,57300
+TAU 3069-8022.0-1,TAU 3069-8022.0,Design-Year-Forecast-poi-TAU 3069-8022.0,unknown,unknown,1984-01-01,00:00:00,23:59:59,volume,57300
+TAU 3069-8023.0-1,TAU 3069-8023.0,Design-Year-Forecast-poi-TAU 3069-8023.0,unknown,unknown,1984-01-01,00:00:00,23:59:59,volume,57300
+TAU 3069-8024.0-1,TAU 3069-8024.0,Design-Year-Forecast-poi-TAU 3069-8024.0,unknown,unknown,1984-01-01,00:00:00,23:59:59,volume,57300
+TAU 3069-8025.0-1,TAU 3069-8025.0,Design-Year-Forecast-poi-TAU 3069-8025.0,unknown,unknown,1984-01-01,00:00:00,23:59:59,volume,57750
+TAU 3069-8026.0-1,TAU 3069-8026.0,Design-Year-Forecast-poi-TAU 3069-8026.0,unknown,unknown,1984-01-01,00:00:00,23:59:59,volume,57750

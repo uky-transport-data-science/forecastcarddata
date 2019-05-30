@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-416753-1The SR 326  Construct East & Westbound Left Turn Lanes & Install a Traffic Signal Project from
+Opening-Year-Model-Run,"FloridaDOT-416753-1The SR 326  Construct East & Westbound Left Turn Lanes & Install a Traffic Signal Project from
 West Anthony Road (M.P. 1.186) to Left Turn Lane Signal (M.P. 1.190)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-416753-1The SR 326  Construct East & Westbound Left Turn Lanes & Install a Traffic Signal Project from
+Interim-Year-Model-Run,"FloridaDOT-416753-1The SR 326  Construct East & Westbound Left Turn Lanes & Install a Traffic Signal Project from
 West Anthony Road (M.P. 1.186) to Left Turn Lane Signal (M.P. 1.190)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-416753-1The SR 326  Construct East & Westbound Left Turn Lanes & Install a Traffic Signal Project from
+Design-Year-Model-Run,"FloridaDOT-416753-1The SR 326  Construct East & Westbound Left Turn Lanes & Install a Traffic Signal Project from
 West Anthony Road (M.P. 1.186) to Left Turn Lane Signal (M.P. 1.190)",s1,2006-01-01,design scenario,Unavailable,trendline,2006-01-01,consultant

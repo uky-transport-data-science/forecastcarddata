@@ -1,8 +1,8 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-92895-3897.0-1,92895-3897.0,Opening-Year-Forecast-poi-92895-3897.0,unknown,unknown,2015,00:00:00,23:59:59,volume,48503
-92895-3898.0-1,92895-3898.0,Opening-Year-Forecast-poi-92895-3898.0,unknown,unknown,2015,00:00:00,23:59:59,volume,48503
-92895-3914.0-1,92895-3914.0,Opening-Year-Forecast-poi-92895-3914.0,unknown,unknown,2015,00:00:00,23:59:59,volume,4473
-92895-3915.0-1,92895-3915.0,Opening-Year-Forecast-poi-92895-3915.0,unknown,unknown,2015,00:00:00,23:59:59,volume,10240
-92895-3916.0-1,92895-3916.0,Opening-Year-Forecast-poi-92895-3916.0,unknown,unknown,2015,00:00:00,23:59:59,volume,3777
-92895-3955.0-1,92895-3955.0,Opening-Year-Forecast-poi-92895-3955.0,unknown,unknown,2015,00:00:00,23:59:59,volume,47995
-92895-3956.0-1,92895-3956.0,Opening-Year-Forecast-poi-92895-3956.0,unknown,unknown,2015,00:00:00,23:59:59,volume,47661
+92895-3897.0-1,92895-3897.0,Opening-Year-Forecast-poi-92895-3897.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,48503
+92895-3898.0-1,92895-3898.0,Opening-Year-Forecast-poi-92895-3898.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,48503
+92895-3914.0-1,92895-3914.0,Opening-Year-Forecast-poi-92895-3914.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,4473
+92895-3915.0-1,92895-3915.0,Opening-Year-Forecast-poi-92895-3915.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,10240
+92895-3916.0-1,92895-3916.0,Opening-Year-Forecast-poi-92895-3916.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,3777
+92895-3955.0-1,92895-3955.0,Opening-Year-Forecast-poi-92895-3955.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,47995
+92895-3956.0-1,92895-3956.0,Opening-Year-Forecast-poi-92895-3956.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,47661

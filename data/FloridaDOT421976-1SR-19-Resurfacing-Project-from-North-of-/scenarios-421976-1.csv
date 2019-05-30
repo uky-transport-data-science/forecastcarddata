@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-421976-1SR 19 Resurfacing Project from North of Little Lake Harris Bridge (M.P. 1.518) to North of CR
+Opening-Year-Model-Run,"FloridaDOT-421976-1SR 19 Resurfacing Project from North of Little Lake Harris Bridge (M.P. 1.518) to North of CR
 561 (M.P. 4.822)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-421976-1SR 19 Resurfacing Project from North of Little Lake Harris Bridge (M.P. 1.518) to North of CR
+Interim-Year-Model-Run,"FloridaDOT-421976-1SR 19 Resurfacing Project from North of Little Lake Harris Bridge (M.P. 1.518) to North of CR
 561 (M.P. 4.822)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-421976-1SR 19 Resurfacing Project from North of Little Lake Harris Bridge (M.P. 1.518) to North of CR
+Design-Year-Model-Run,"FloridaDOT-421976-1SR 19 Resurfacing Project from North of Little Lake Harris Bridge (M.P. 1.518) to North of CR
 561 (M.P. 4.822)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant

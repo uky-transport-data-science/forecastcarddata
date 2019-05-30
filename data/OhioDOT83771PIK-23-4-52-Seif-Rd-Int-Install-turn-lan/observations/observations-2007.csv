@@ -1,2 +1,2 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-83771-6229.0-1,83771-6229.0,Design-Year-Forecast-poi-83771-6229.0,unknown,unknown,2007,00:00:00,23:59:59,volume,14490
+83771-6229.0-1,83771-6229.0,Design-Year-Forecast-poi-83771-6229.0,unknown,unknown,2007-01-01,00:00:00,23:59:59,volume,14490

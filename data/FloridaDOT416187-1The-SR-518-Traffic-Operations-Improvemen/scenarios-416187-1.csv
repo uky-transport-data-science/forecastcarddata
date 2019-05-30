@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-416187-1The SR 518  Traffic Operations Improvement Project on SR 518 from I-95 (M.P. 0.093) to John
+Opening-Year-Model-Run,"FloridaDOT-416187-1The SR 518  Traffic Operations Improvement Project on SR 518 from I-95 (M.P. 0.093) to John
 Rhodes Boulevard (M.P. 0.506)",s1,2005-01-01,design scenario,Unavailable,professional-judgment,2005-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-416187-1The SR 518  Traffic Operations Improvement Project on SR 518 from I-95 (M.P. 0.093) to John
+Interim-Year-Model-Run,"FloridaDOT-416187-1The SR 518  Traffic Operations Improvement Project on SR 518 from I-95 (M.P. 0.093) to John
 Rhodes Boulevard (M.P. 0.506)",s1,2005-01-01,design scenario,Unavailable,professional-judgment,2005-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-416187-1The SR 518  Traffic Operations Improvement Project on SR 518 from I-95 (M.P. 0.093) to John
+Design-Year-Model-Run,"FloridaDOT-416187-1The SR 518  Traffic Operations Improvement Project on SR 518 from I-95 (M.P. 0.093) to John
 Rhodes Boulevard (M.P. 0.506)",s1,2005-01-01,design scenario,Unavailable,professional-judgment,2005-01-01,consultant

@@ -1,6 +1,6 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-20428-6197.0-1,20428-6197.0,Design-Year-Forecast-poi-20428-6197.0,unknown,unknown,2010,00:00:00,23:59:59,volume,9930
-20428-6198.0-1,20428-6198.0,Design-Year-Forecast-poi-20428-6198.0,unknown,unknown,2010,00:00:00,23:59:59,volume,6510
-20428-6199.0-1,20428-6199.0,Design-Year-Forecast-poi-20428-6199.0,unknown,unknown,2010,00:00:00,23:59:59,volume,16780
-20428-6200.0-1,20428-6200.0,Design-Year-Forecast-poi-20428-6200.0,unknown,unknown,2010,00:00:00,23:59:59,volume,5410
-20428-6201.0-1,20428-6201.0,Design-Year-Forecast-poi-20428-6201.0,unknown,unknown,2010,00:00:00,23:59:59,volume,5410
+20428-6197.0-1,20428-6197.0,Design-Year-Forecast-poi-20428-6197.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,9930
+20428-6198.0-1,20428-6198.0,Design-Year-Forecast-poi-20428-6198.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,6510
+20428-6199.0-1,20428-6199.0,Design-Year-Forecast-poi-20428-6199.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,16780
+20428-6200.0-1,20428-6200.0,Design-Year-Forecast-poi-20428-6200.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,5410
+20428-6201.0-1,20428-6201.0,Design-Year-Forecast-poi-20428-6201.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,5410

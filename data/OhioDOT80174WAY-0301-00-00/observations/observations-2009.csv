@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-80174-1343.0-1,80174-1343.0,Opening-Year-Forecast-poi-80174-1343.0,unknown,unknown,2009,00:00:00,23:59:59,volume,2150
-80174-1344.0-1,80174-1344.0,Opening-Year-Forecast-poi-80174-1344.0,unknown,unknown,2009,00:00:00,23:59:59,volume,2260
-80174-1345.0-1,80174-1345.0,Opening-Year-Forecast-poi-80174-1345.0,unknown,unknown,2009,00:00:00,23:59:59,volume,1740
-80174-1346.0-1,80174-1346.0,Opening-Year-Forecast-poi-80174-1346.0,unknown,unknown,2009,00:00:00,23:59:59,volume,2940
-80174-1347.0-1,80174-1347.0,Opening-Year-Forecast-poi-80174-1347.0,unknown,unknown,2009,00:00:00,23:59:59,volume,3480
-80174-1348.0-1,80174-1348.0,Opening-Year-Forecast-poi-80174-1348.0,unknown,unknown,2009,00:00:00,23:59:59,volume,3950
-80174-1349.0-1,80174-1349.0,Opening-Year-Forecast-poi-80174-1349.0,unknown,unknown,2009,00:00:00,23:59:59,volume,2200
-80174-1350.0-1,80174-1350.0,Opening-Year-Forecast-poi-80174-1350.0,unknown,unknown,2009,00:00:00,23:59:59,volume,1840
+80174-1343.0-1,80174-1343.0,Opening-Year-Forecast-poi-80174-1343.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,2150
+80174-1344.0-1,80174-1344.0,Opening-Year-Forecast-poi-80174-1344.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,2260
+80174-1345.0-1,80174-1345.0,Opening-Year-Forecast-poi-80174-1345.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,1740
+80174-1346.0-1,80174-1346.0,Opening-Year-Forecast-poi-80174-1346.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,2940
+80174-1347.0-1,80174-1347.0,Opening-Year-Forecast-poi-80174-1347.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,3480
+80174-1348.0-1,80174-1348.0,Opening-Year-Forecast-poi-80174-1348.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,3950
+80174-1349.0-1,80174-1349.0,Opening-Year-Forecast-poi-80174-1349.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,2200
+80174-1350.0-1,80174-1350.0,Opening-Year-Forecast-poi-80174-1350.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,1840

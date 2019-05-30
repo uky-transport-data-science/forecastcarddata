@@ -1,5 +1,5 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-97327-3302.0-1,97327-3302.0,Opening-Year-Forecast-poi-97327-3302.0,unknown,unknown,2015,00:00:00,23:59:59,volume,7843
-97327-3370.0-1,97327-3370.0,Opening-Year-Forecast-poi-97327-3370.0,unknown,unknown,2015,00:00:00,23:59:59,volume,8049
-97327-3371.0-1,97327-3371.0,Opening-Year-Forecast-poi-97327-3371.0,unknown,unknown,2015,00:00:00,23:59:59,volume,8049
-97327-3372.0-1,97327-3372.0,Opening-Year-Forecast-poi-97327-3372.0,unknown,unknown,2015,00:00:00,23:59:59,volume,6405
+97327-3302.0-1,97327-3302.0,Opening-Year-Forecast-poi-97327-3302.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,7843
+97327-3370.0-1,97327-3370.0,Opening-Year-Forecast-poi-97327-3370.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,8049
+97327-3371.0-1,97327-3371.0,Opening-Year-Forecast-poi-97327-3371.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,8049
+97327-3372.0-1,97327-3372.0,Opening-Year-Forecast-poi-97327-3372.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,6405

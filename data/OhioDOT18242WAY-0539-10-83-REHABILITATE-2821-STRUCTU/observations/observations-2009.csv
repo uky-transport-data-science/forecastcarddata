@@ -1,3 +1,3 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-18242-1416.0-1,18242-1416.0,Opening-Year-Forecast-poi-18242-1416.0,unknown,unknown,2009,00:00:00,23:59:59,volume,41170
-18242-1445.0-1,18242-1445.0,Opening-Year-Forecast-poi-18242-1445.0,unknown,unknown,2009,00:00:00,23:59:59,volume,1700
+18242-1416.0-1,18242-1416.0,Opening-Year-Forecast-poi-18242-1416.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,41170
+18242-1445.0-1,18242-1445.0,Opening-Year-Forecast-poi-18242-1445.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,1700

@@ -1,2 +1,2 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-77730-674.0-1,77730-674.0,Opening-Year-Forecast-poi-77730-674.0,unknown,unknown,2008,00:00:00,23:59:59,volume,12180
+77730-674.0-1,77730-674.0,Opening-Year-Forecast-poi-77730-674.0,unknown,unknown,2008-01-01,00:00:00,23:59:59,volume,12180

@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-412357-1The SR 35/US 301 Resurfacing and Add Left-turn Lane at CR 675, begin south of CR 675 (M.P. 0.888)
+Opening-Year-Model-Run,"FloridaDOT-412357-1The SR 35/US 301 Resurfacing and Add Left-turn Lane at CR 675, begin south of CR 675 (M.P. 0.888)
 and end north of CR 675 (M.P. 1.230).",s1,2003-01-01,design scenario,Unavailable,trendline,2003-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-412357-1The SR 35/US 301 Resurfacing and Add Left-turn Lane at CR 675, begin south of CR 675 (M.P. 0.888)
+Interim-Year-Model-Run,"FloridaDOT-412357-1The SR 35/US 301 Resurfacing and Add Left-turn Lane at CR 675, begin south of CR 675 (M.P. 0.888)
 and end north of CR 675 (M.P. 1.230).",s1,2003-01-01,design scenario,Unavailable,trendline,2003-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-412357-1The SR 35/US 301 Resurfacing and Add Left-turn Lane at CR 675, begin south of CR 675 (M.P. 0.888)
+Design-Year-Model-Run,"FloridaDOT-412357-1The SR 35/US 301 Resurfacing and Add Left-turn Lane at CR 675, begin south of CR 675 (M.P. 0.888)
 and end north of CR 675 (M.P. 1.230).",s1,2003-01-01,design scenario,Unavailable,trendline,2003-01-01,consultant

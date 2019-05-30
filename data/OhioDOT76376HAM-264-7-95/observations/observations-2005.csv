@@ -1,3 +1,3 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-76376-440.0-1,76376-440.0,Opening-Year-Forecast-poi-76376-440.0,unknown,unknown,2005,00:00:00,23:59:59,volume,26690
-76376-447.0-1,76376-447.0,Opening-Year-Forecast-poi-76376-447.0,unknown,unknown,2005,00:00:00,23:59:59,volume,14350
+76376-440.0-1,76376-440.0,Opening-Year-Forecast-poi-76376-440.0,unknown,unknown,2005-01-01,00:00:00,23:59:59,volume,26690
+76376-447.0-1,76376-447.0,Opening-Year-Forecast-poi-76376-447.0,unknown,unknown,2005-01-01,00:00:00,23:59:59,volume,14350

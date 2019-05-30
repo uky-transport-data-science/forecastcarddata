@@ -1,2 +1,2 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-411603-1-1.0-1,411603-1-1.0,Opening-Year-Forecast-poi-411603-1-1.0,unknown,unknown,2006,00:00:00,23:59:59,volume,25000
+411603-1-1.0-1,411603-1-1.0,Opening-Year-Forecast-poi-411603-1-1.0,unknown,unknown,2006-01-01,00:00:00,23:59:59,volume,25000

@@ -1,8 +1,8 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-95831-5928.0-1,95831-5928.0,Opening-Year-Forecast-poi-95831-5928.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
-95831-5929.0-1,95831-5929.0,Opening-Year-Forecast-poi-95831-5929.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
-95831-5930.0-1,95831-5930.0,Opening-Year-Forecast-poi-95831-5930.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
-95831-5931.0-1,95831-5931.0,Opening-Year-Forecast-poi-95831-5931.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
-95831-5941.0-1,95831-5941.0,Opening-Year-Forecast-poi-95831-5941.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
-95831-5942.0-1,95831-5942.0,Opening-Year-Forecast-poi-95831-5942.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
-95831-5950.0-1,95831-5950.0,Opening-Year-Forecast-poi-95831-5950.0,unknown,unknown,2009,00:00:00,23:59:59,volume,4180
+95831-5928.0-1,95831-5928.0,Opening-Year-Forecast-poi-95831-5928.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,4180
+95831-5929.0-1,95831-5929.0,Opening-Year-Forecast-poi-95831-5929.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,4180
+95831-5930.0-1,95831-5930.0,Opening-Year-Forecast-poi-95831-5930.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,4180
+95831-5931.0-1,95831-5931.0,Opening-Year-Forecast-poi-95831-5931.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,4180
+95831-5941.0-1,95831-5941.0,Opening-Year-Forecast-poi-95831-5941.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,4180
+95831-5942.0-1,95831-5942.0,Opening-Year-Forecast-poi-95831-5942.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,4180
+95831-5950.0-1,95831-5950.0,Opening-Year-Forecast-poi-95831-5950.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,4180

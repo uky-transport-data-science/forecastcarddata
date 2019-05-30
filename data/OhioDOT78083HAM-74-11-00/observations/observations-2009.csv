@@ -1,6 +1,6 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-78083-947.0-1,78083-947.0,Opening-Year-Forecast-poi-78083-947.0,unknown,unknown,2009,00:00:00,23:59:59,volume,72930
-78083-948.0-1,78083-948.0,Opening-Year-Forecast-poi-78083-948.0,unknown,unknown,2009,00:00:00,23:59:59,volume,54850
-78083-949.0-1,78083-949.0,Opening-Year-Forecast-poi-78083-949.0,unknown,unknown,2009,00:00:00,23:59:59,volume,48540
-78083-950.0-1,78083-950.0,Opening-Year-Forecast-poi-78083-950.0,unknown,unknown,2009,00:00:00,23:59:59,volume,52770
-78083-951.0-1,78083-951.0,Opening-Year-Forecast-poi-78083-951.0,unknown,unknown,2009,00:00:00,23:59:59,volume,73640
+78083-947.0-1,78083-947.0,Opening-Year-Forecast-poi-78083-947.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,72930
+78083-948.0-1,78083-948.0,Opening-Year-Forecast-poi-78083-948.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,54850
+78083-949.0-1,78083-949.0,Opening-Year-Forecast-poi-78083-949.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,48540
+78083-950.0-1,78083-950.0,Opening-Year-Forecast-poi-78083-950.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,52770
+78083-951.0-1,78083-951.0,Opening-Year-Forecast-poi-78083-951.0,unknown,unknown,2009-01-01,00:00:00,23:59:59,volume,73640

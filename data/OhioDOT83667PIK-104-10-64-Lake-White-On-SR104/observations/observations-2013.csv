@@ -1,6 +1,6 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-83667-1932.0-1,83667-1932.0,Opening-Year-Forecast-poi-83667-1932.0,unknown,unknown,2013,00:00:00,23:59:59,volume,4074
-83667-1983.0-1,83667-1983.0,Opening-Year-Forecast-poi-83667-1983.0,unknown,unknown,2013,00:00:00,23:59:59,volume,4477
-83667-1984.0-1,83667-1984.0,Opening-Year-Forecast-poi-83667-1984.0,unknown,unknown,2011,00:00:00,23:59:59,volume,6550
-83667-1990.0-1,83667-1990.0,Opening-Year-Forecast-poi-83667-1990.0,unknown,unknown,2013,00:00:00,23:59:59,volume,2132
-83667-1991.0-1,83667-1991.0,Opening-Year-Forecast-poi-83667-1991.0,unknown,unknown,2011,00:00:00,23:59:59,volume,1160
+83667-1932.0-1,83667-1932.0,Opening-Year-Forecast-poi-83667-1932.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,4074
+83667-1983.0-1,83667-1983.0,Opening-Year-Forecast-poi-83667-1983.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,4477
+83667-1984.0-1,83667-1984.0,Opening-Year-Forecast-poi-83667-1984.0,unknown,unknown,2011-01-01,00:00:00,23:59:59,volume,6550
+83667-1990.0-1,83667-1990.0,Opening-Year-Forecast-poi-83667-1990.0,unknown,unknown,2013-01-01,00:00:00,23:59:59,volume,2132
+83667-1991.0-1,83667-1991.0,Opening-Year-Forecast-poi-83667-1991.0,unknown,unknown,2011-01-01,00:00:00,23:59:59,volume,1160

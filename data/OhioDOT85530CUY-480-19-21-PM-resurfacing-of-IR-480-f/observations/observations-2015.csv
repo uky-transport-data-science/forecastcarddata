@@ -1,6 +1,6 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-85530-4087.0-1,85530-4087.0,Opening-Year-Forecast-poi-85530-4087.0,unknown,unknown,2015,00:00:00,23:59:59,volume,152974
-85530-4088.0-1,85530-4088.0,Opening-Year-Forecast-poi-85530-4088.0,unknown,unknown,2015,00:00:00,23:59:59,volume,161068
-85530-4089.0-1,85530-4089.0,Opening-Year-Forecast-poi-85530-4089.0,unknown,unknown,2015,00:00:00,23:59:59,volume,140781
-85530-4090.0-1,85530-4090.0,Opening-Year-Forecast-poi-85530-4090.0,unknown,unknown,2015,00:00:00,23:59:59,volume,142337
-85530-4091.0-1,85530-4091.0,Opening-Year-Forecast-poi-85530-4091.0,unknown,unknown,2015,00:00:00,23:59:59,volume,158150
+85530-4087.0-1,85530-4087.0,Opening-Year-Forecast-poi-85530-4087.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,152974
+85530-4088.0-1,85530-4088.0,Opening-Year-Forecast-poi-85530-4088.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,161068
+85530-4089.0-1,85530-4089.0,Opening-Year-Forecast-poi-85530-4089.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,140781
+85530-4090.0-1,85530-4090.0,Opening-Year-Forecast-poi-85530-4090.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,142337
+85530-4091.0-1,85530-4091.0,Opening-Year-Forecast-poi-85530-4091.0,unknown,unknown,2015-01-01,00:00:00,23:59:59,volume,158150

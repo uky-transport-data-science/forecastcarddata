@@ -1,3 +1,3 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-24436-282.0-1,24436-282.0,Opening-Year-Forecast-poi-24436-282.0,unknown,unknown,2006,00:00:00,23:59:59,volume,22300
-24436-283.0-1,24436-283.0,Opening-Year-Forecast-poi-24436-283.0,unknown,unknown,2006,00:00:00,23:59:59,volume,17590
+24436-282.0-1,24436-282.0,Opening-Year-Forecast-poi-24436-282.0,unknown,unknown,2006-01-01,00:00:00,23:59:59,volume,22300
+24436-283.0-1,24436-283.0,Opening-Year-Forecast-poi-24436-283.0,unknown,unknown,2006-01-01,00:00:00,23:59:59,volume,17590

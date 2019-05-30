@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-423352-1The SR 3/Courtenay Parkway Resurfacing Project from North of Richland Avenue
+Opening-Year-Model-Run,"FloridaDOT-423352-1The SR 3/Courtenay Parkway Resurfacing Project from North of Richland Avenue
 (M.P. 0.903) to SR 528 (M.P. 3.386)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-423352-1The SR 3/Courtenay Parkway Resurfacing Project from North of Richland Avenue
+Interim-Year-Model-Run,"FloridaDOT-423352-1The SR 3/Courtenay Parkway Resurfacing Project from North of Richland Avenue
 (M.P. 0.903) to SR 528 (M.P. 3.386)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-423352-1The SR 3/Courtenay Parkway Resurfacing Project from North of Richland Avenue
+Design-Year-Model-Run,"FloridaDOT-423352-1The SR 3/Courtenay Parkway Resurfacing Project from North of Richland Avenue
 (M.P. 0.903) to SR 528 (M.P. 3.386)",s1,2008-01-01,design scenario,Unavailable,trendline,2008-01-01,consultant

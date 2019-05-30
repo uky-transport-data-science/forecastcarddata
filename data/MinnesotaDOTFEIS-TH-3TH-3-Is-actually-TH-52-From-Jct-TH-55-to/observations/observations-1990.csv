@@ -1,6 +1,6 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-FEIS TH 3-8624.0-1,FEIS TH 3-8624.0,Design-Year-Forecast-poi-FEIS TH 3-8624.0,unknown,unknown,1990,00:00:00,23:59:59,volume,4800
-FEIS TH 3-8625.0-1,FEIS TH 3-8625.0,Design-Year-Forecast-poi-FEIS TH 3-8625.0,unknown,unknown,1990,00:00:00,23:59:59,volume,4800
-FEIS TH 3-8626.0-1,FEIS TH 3-8626.0,Design-Year-Forecast-poi-FEIS TH 3-8626.0,unknown,unknown,1990,00:00:00,23:59:59,volume,8000
-FEIS TH 3-8627.0-1,FEIS TH 3-8627.0,Design-Year-Forecast-poi-FEIS TH 3-8627.0,unknown,unknown,1990,00:00:00,23:59:59,volume,8000
-FEIS TH 3-8628.0-1,FEIS TH 3-8628.0,Design-Year-Forecast-poi-FEIS TH 3-8628.0,unknown,unknown,2000,00:00:00,23:59:59,volume,12000
+FEIS TH 3-8624.0-1,FEIS TH 3-8624.0,Design-Year-Forecast-poi-FEIS TH 3-8624.0,unknown,unknown,1990-01-01,00:00:00,23:59:59,volume,4800
+FEIS TH 3-8625.0-1,FEIS TH 3-8625.0,Design-Year-Forecast-poi-FEIS TH 3-8625.0,unknown,unknown,1990-01-01,00:00:00,23:59:59,volume,4800
+FEIS TH 3-8626.0-1,FEIS TH 3-8626.0,Design-Year-Forecast-poi-FEIS TH 3-8626.0,unknown,unknown,1990-01-01,00:00:00,23:59:59,volume,8000
+FEIS TH 3-8627.0-1,FEIS TH 3-8627.0,Design-Year-Forecast-poi-FEIS TH 3-8627.0,unknown,unknown,1990-01-01,00:00:00,23:59:59,volume,8000
+FEIS TH 3-8628.0-1,FEIS TH 3-8628.0,Design-Year-Forecast-poi-FEIS TH 3-8628.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,12000

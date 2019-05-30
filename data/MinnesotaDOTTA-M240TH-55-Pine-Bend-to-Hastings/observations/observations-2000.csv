@@ -1,9 +1,9 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-TA-M240-6925.0-1,TA-M240-6925.0,Design-Year-Forecast-poi-TA-M240-6925.0,unknown,unknown,2000,00:00:00,23:59:59,volume,5000
-TA-M240-6926.0-1,TA-M240-6926.0,Design-Year-Forecast-poi-TA-M240-6926.0,unknown,unknown,2000,00:00:00,23:59:59,volume,5000
-TA-M240-6927.0-1,TA-M240-6927.0,Design-Year-Forecast-poi-TA-M240-6927.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6750
-TA-M240-6928.0-1,TA-M240-6928.0,Design-Year-Forecast-poi-TA-M240-6928.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6750
-TA-M240-6929.0-1,TA-M240-6929.0,Design-Year-Forecast-poi-TA-M240-6929.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6750
-TA-M240-6930.0-1,TA-M240-6930.0,Design-Year-Forecast-poi-TA-M240-6930.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6750
-TA-M240-6931.0-1,TA-M240-6931.0,Design-Year-Forecast-poi-TA-M240-6931.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6350
-TA-M240-6932.0-1,TA-M240-6932.0,Design-Year-Forecast-poi-TA-M240-6932.0,unknown,unknown,2000,00:00:00,23:59:59,volume,6350
+TA-M240-6925.0-1,TA-M240-6925.0,Design-Year-Forecast-poi-TA-M240-6925.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,5000
+TA-M240-6926.0-1,TA-M240-6926.0,Design-Year-Forecast-poi-TA-M240-6926.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,5000
+TA-M240-6927.0-1,TA-M240-6927.0,Design-Year-Forecast-poi-TA-M240-6927.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6750
+TA-M240-6928.0-1,TA-M240-6928.0,Design-Year-Forecast-poi-TA-M240-6928.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6750
+TA-M240-6929.0-1,TA-M240-6929.0,Design-Year-Forecast-poi-TA-M240-6929.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6750
+TA-M240-6930.0-1,TA-M240-6930.0,Design-Year-Forecast-poi-TA-M240-6930.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6750
+TA-M240-6931.0-1,TA-M240-6931.0,Design-Year-Forecast-poi-TA-M240-6931.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6350
+TA-M240-6932.0-1,TA-M240-6932.0,Design-Year-Forecast-poi-TA-M240-6932.0,unknown,unknown,2000-01-01,00:00:00,23:59:59,volume,6350

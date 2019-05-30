@@ -1,2 +1,2 @@
 obs_id,poi_id,forecast_match_id,equip_id,equip_type,obs_date,time_start,time_end,obs_variable,obs_value
-422567-1-1.0-1,422567-1-1.0,Opening-Year-Forecast-poi-422567-1-1.0,unknown,unknown,2010,00:00:00,23:59:59,volume,19900
+422567-1-1.0-1,422567-1-1.0,Opening-Year-Forecast-poi-422567-1-1.0,unknown,unknown,2010-01-01,00:00:00,23:59:59,volume,19900

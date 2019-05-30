@@ -1,7 +1,7 @@
 run_id,project_id,scenario_id,scenario_date,scenario_name,forecast_system,forecast_system_type,forecast_creation_date,forecaster_type
-Opening-Year-Model-Run,"FloridaDOT-237650-3The SR 507  Add Lanes and Reconstruct Project from SR 514 (M.P. 0.000) to Intersection
+Opening-Year-Model-Run,"FloridaDOT-237650-3The SR 507  Add Lanes and Reconstruct Project from SR 514 (M.P. 0.000) to Intersection
 Reconstruction (M.P. 0.170)",s1,2006-01-01,design scenario,Unavailable,travel-model,2006-01-01,consultant
-Interim-Year-Model-Run,"FloridaDOT-237650-3The SR 507  Add Lanes and Reconstruct Project from SR 514 (M.P. 0.000) to Intersection
+Interim-Year-Model-Run,"FloridaDOT-237650-3The SR 507  Add Lanes and Reconstruct Project from SR 514 (M.P. 0.000) to Intersection
 Reconstruction (M.P. 0.170)",s1,2006-01-01,design scenario,Unavailable,travel-model,2006-01-01,consultant
-Design-Year-Model-Run,"FloridaDOT-237650-3The SR 507  Add Lanes and Reconstruct Project from SR 514 (M.P. 0.000) to Intersection
+Design-Year-Model-Run,"FloridaDOT-237650-3The SR 507  Add Lanes and Reconstruct Project from SR 514 (M.P. 0.000) to Intersection
 Reconstruction (M.P. 0.170)",s1,2006-01-01,design scenario,Unavailable,travel-model,2006-01-01,consultant
